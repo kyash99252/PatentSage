@@ -1,0 +1,3590 @@
+{
+  "search_metadata": {
+    "id": "685256ae3d870118c68d6aaa",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/befc24606c5b2ff6/685256ae3d870118c68d6aaa.json",
+    "created_at": "2025-06-18 06:03:26 UTC",
+    "processed_at": "2025-06-18 06:03:26 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US6080507A/en",
+    "raw_html_file": "https://serpapi.com/searches/befc24606c5b2ff6/685256ae3d870118c68d6aaa.html",
+    "total_time_taken": 1.75
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US6080507A/en"
+  },
+  "title": "Trilayer battery separator",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/ed/4f/99/7443d2187035a3/US6080507.pdf",
+  "publication_number": "US6080507A",
+  "country": "United States",
+  "prior_art_keywords": [
+    "battery separator",
+    "microporous",
+    "shutdown",
+    "trilayer",
+    "making"
+  ],
+  "prior_art_date": "1998-04-13",
+  "application_number": "US09/059,126",
+  "inventors": [
+    {
+      "name": "Ta-Hua Yu",
+      "link": "https://patents.google.com/?inventor=Ta-Hua+Yu",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Ta-Hua+Yu"
+    }
+  ],
+  "assignees": [
+    "Celgard LLC"
+  ],
+  "priority_date": "1998-04-13",
+  "filing_date": "1998-04-13",
+  "publication_date": "2000-06-27",
+  "worldwide_applications": {
+    "1998": [
+      {
+        "filing_date": "1998-04-13",
+        "country_code": "US",
+        "application_number": "US09/059,126",
+        "document_id": "patent/US6080507A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      }
+    ],
+    "1999": [
+      {
+        "filing_date": "1999-03-18",
+        "country_code": "CA",
+        "application_number": "CA 2266152",
+        "document_id": "patent/CA2266152A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      },
+      {
+        "filing_date": "1999-03-18",
+        "country_code": "TW",
+        "application_number": "TW88104233A",
+        "document_id": "patent/TW480766B/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "IP Right Cessation"
+      },
+      {
+        "filing_date": "1999-04-01",
+        "country_code": "DE",
+        "application_number": "DE69900190T",
+        "document_id": "patent/DE69900190T2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      },
+      {
+        "filing_date": "1999-04-01",
+        "country_code": "EP",
+        "application_number": "EP19990106727",
+        "document_id": "patent/EP0951080B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      },
+      {
+        "filing_date": "1999-04-09",
+        "country_code": "JP",
+        "application_number": "JP10217799A",
+        "document_id": "patent/JPH11329390A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "1999-04-10",
+        "country_code": "KR",
+        "application_number": "KR1019990012650A",
+        "document_id": "patent/KR100676557B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ],
+    "2003": [
+      {
+        "filing_date": "2003-09-01",
+        "country_code": "JP",
+        "application_number": "JP2003308656A",
+        "document_id": "patent/JP4238096B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1998-04-13",
+      "title": "Application filed by Celgard LLC",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Celgard LLC"
+    },
+    {
+      "date": "1998-04-13",
+      "title": "Assigned to CELGARD LLC",
+      "type": "reassignment",
+      "assignee_search": "CELGARD LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: YU, TA-HUA"
+      ]
+    },
+    {
+      "date": "1998-04-13",
+      "title": "Priority to US09/059,126",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US6080507A/en"
+    },
+    {
+      "date": "1999-03-18",
+      "title": "Priority to CA 2266152",
+      "type": "priority",
+      "document_id": "patent/CA2266152A1/en"
+    },
+    {
+      "date": "1999-03-18",
+      "title": "Priority to TW88104233A",
+      "type": "priority",
+      "document_id": "patent/TW480766B/en"
+    },
+    {
+      "date": "1999-04-01",
+      "title": "Priority to DE69900190T",
+      "type": "priority",
+      "document_id": "patent/DE69900190T2/en"
+    },
+    {
+      "date": "1999-04-01",
+      "title": "Priority to EP19990106727",
+      "type": "priority",
+      "document_id": "patent/EP0951080B1/en"
+    },
+    {
+      "date": "1999-04-09",
+      "title": "Priority to JP10217799A",
+      "type": "priority",
+      "document_id": "patent/JPH11329390A/en"
+    },
+    {
+      "date": "1999-04-10",
+      "title": "Priority to KR1019990012650A",
+      "type": "priority",
+      "document_id": "patent/KR100676557B1/en"
+    },
+    {
+      "date": "1999-12-30",
+      "title": "Assigned to CELGARD, INC., A CORP. OF DELAWARE",
+      "type": "reassignment",
+      "assignee_search": "CELGARD, INC., A CORP. OF DELAWARE",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: CELGARD LLC"
+      ]
+    },
+    {
+      "date": "2000-06-27",
+      "title": "Publication of US6080507A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US6080507A/en"
+    },
+    {
+      "date": "2000-06-27",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2002-11-29",
+      "title": "Assigned to CHASE MANHATTAN BANK, AS ADMINISTRATIVE AGENT, THE",
+      "type": "reassignment",
+      "assignee_search": "CHASE MANHATTAN BANK, AS ADMINISTRATIVE AGENT, THE",
+      "description": [
+        "SECURITY AGREEMENT",
+        "Assignors: CELGARD, INC."
+      ]
+    },
+    {
+      "date": "2003-09-01",
+      "title": "Priority to JP2003308656A",
+      "type": "priority",
+      "document_id": "patent/JP4238096B2/en"
+    },
+    {
+      "date": "2004-07-07",
+      "title": "Assigned to CELGARD, LLC",
+      "type": "reassignment",
+      "assignee_search": "CELGARD, LLC",
+      "description": [
+        "CHANGE OF NAME (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: CELGARD, INC."
+      ]
+    },
+    {
+      "date": "2004-11-10",
+      "title": "Assigned to JPMORGAN CHASE BANK, AS ADMINISTRATIVE AGENT",
+      "type": "reassignment",
+      "assignee_search": "JPMORGAN CHASE BANK, AS ADMINISTRATIVE AGENT",
+      "description": [
+        "SECURITY AGREEMENT",
+        "Assignors: CELGARD, LLC"
+      ]
+    },
+    {
+      "date": "2014-04-08",
+      "title": "Assigned to BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT",
+      "type": "reassignment",
+      "assignee_search": "BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT",
+      "description": [
+        "PATENT SECURITY AGREEMENT",
+        "Assignors: CELGARD, LLC (F/K/A CELGARD, INC.)"
+      ]
+    },
+    {
+      "date": "2014-07-22",
+      "title": "Assigned to CELGARD, LLC",
+      "type": "reassignment",
+      "assignee_search": "CELGARD, LLC",
+      "description": [
+        "RELEASE OF SECURITY AGREEMENTS IN PATENT RIGHTS",
+        "Assignors: JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT"
+      ]
+    },
+    {
+      "date": "2015-08-27",
+      "title": "Assigned to CELGARD, LLC (F/K/A/ CELGARD, INC.)",
+      "type": "reassignment",
+      "assignee_search": "CELGARD, LLC (F/K/A/ CELGARD, INC.)",
+      "description": [
+        "TERMINATION AND RELEASE OF SECURITY INTEREST IN UNITED STATES PATENTS",
+        "Assignors: BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT"
+      ]
+    },
+    {
+      "date": "2018-04-13",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=6080507.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/09059126"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=6080507"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=6080507A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/09059126/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US6080507"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/56/19/0f/124a85e4f7a69e/US6080507-drawings-page-2.png"
+  ],
+  "classifications": [
+    {
+      "code": "B32B27/08",
+      "description": "Layered products comprising a layer of synthetic resin as the main or only constituent of a layer, which is next to another layer of the same or of a different material of synthetic resin",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B29C55/065",
+      "description": "Shaping by stretching, e.g. drawing through a die; Apparatus therefor of plates or sheets uniaxial, e.g. oblique parallel with the direction of feed in several stretching steps",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B32B27/20",
+      "description": "Layered products comprising a layer of synthetic resin characterised by the use of special additives using fillers, pigments, thixotroping agents",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B32B27/32",
+      "description": "Layered products comprising a layer of synthetic resin comprising polyolefins",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/403",
+      "description": "Manufacturing processes of separators, membranes or diaphragms",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/417",
+      "description": "Polyolefins",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/434",
+      "description": "Ceramics",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/443",
+      "description": "Particulate material",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/446",
+      "description": "Composite material consisting of a mixture of organic and inorganic materials",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/451",
+      "description": "Separators, membranes or diaphragms characterised by the material having a layered structure comprising layers of only organic material and layers containing inorganic material",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/457",
+      "description": "Separators, membranes or diaphragms characterised by the material having a layered structure comprising three or more layers",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/489",
+      "description": "Separators, membranes, diaphragms or spacing elements inside the cells, characterised by their physical properties, e.g. swelling degree, hydrophilicity or shut down properties",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/491",
+      "description": "Porosity",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B32B2038/0028",
+      "description": "Stretching, elongating",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B32B2323/04",
+      "description": "Polyethylene",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B32B2323/046",
+      "description": "LDPE, i.e. low density polyethylene",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B32B2323/10",
+      "description": "Polypropylene",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B32B2457/10",
+      "description": "Batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2200/10",
+      "description": "Temperature sensitive devices",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T428/24998",
+      "description": "Composite has more than two layers",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A trilayer shutdown battery separator is provided having two strength layers sandwiching a shutdown layer that is made by a particle stretch method. The preferred method of making such a trilayer separator comprises: making microporous strength layers; forming a microporous shutdown layer by a particle stretch method; and bonding two microporous strength layers and one microporous shutdown layer into the trilayer battery separator wherein the first and third layers are strength layers, and the second membrane is a microporous shutdown layer made by a particle stretch method.",
+  "description_link": "https://serpapi.com/searches/685256ae3d870118c68d6aaa/google_patents_details/description.html",
+  "claims": [
+    "1. A battery separator comprising a first and third microporous strength layer sandwiching a second shutdown layer, said shutdown layer being a microporous membrane made by a particle stretch process.",
+    "2. A battery separator of claim 1, wherein said battery separator has a shutdown temperature of about 115\u00b0 C.",
+    "3. A battery separator of claim 1, wherein said shutdown layer comprises calcium carbonate particles as fillers.",
+    "4. A battery separator of claim 1, wherein said shutdown layer comprises a filler having a particle size of from about 0.1 micron to about 1 micron.",
+    "5. A battery separator of claim 1, wherein said strength layers are made of polypropylene and said shutdown layer is made of polyethylene.",
+    "6. A battery separator of claim 5, wherein said polyethylene is linear low density polyethylene.",
+    "7. A battery separator of claim 1, wherein said strength layer is made by a stretch method.",
+    "8. A battery separator comprising:first and third microporous polypropylene layers having a thickness of no greater than about 0.5 mil, said first and third polypropylene layers being made by a method comprising the steps of: extruding a parison; collapsing the parison onto itself to form a flat sheet comprising two plies; annealing the flat sheet; stretching the flat sheet, wherein the stretching comprising stretching in at least two steps and each at a different temperature; and winding up the flat sheet, an adhesion force between the two plies being less than 8 grams per inch; a second microporous shutdown layer being made by a particle stretch process and comprising linear low density polyethylene and a calcium carbonate particle filler having a particle size of from about 0.1 micron to about 1 micron, said shutdown layer being sandwiched between said first and third microporous polypropylene layers.",
+    "9. A method of making a trilayer battery separator comprising:forming a microporous shutdown layer membrane by a particle stretch method; forming microporous strength layer membranes; bonding said membranes into the trilayer battery separator wherein the first and third membranes are strength layers, and the second membrane is said shutdown layer formed by a particle stretch method.",
+    "10. A method of making a trilayer battery separator of claim 9, wherein said battery separator has a shutdown temperature of about 115\u00b0 C.",
+    "11. A method of making a trilayer battery separator of claim 9, wherein said shutdown layer comprises calcium carbonate particles as filler.",
+    "12. A method of making a trilayer battery separator of claim 9, wherein said shutdown layer comprises a filler having a particle size of from about 0.1 micron to about 1 micron.",
+    "13. A method of making a trilayer battery separator of claim 9, wherein said strength layers are made of polypropylene and said shutdown layer is made of polyethylene.",
+    "14. A method of making a trilayer battery separator of claim 13, wherein said polyethylene is linear low density polyethylene.",
+    "15. A method of making a trilayer battery separator according to claim 9, wherein said microporous strength layers are made by a stretch method.",
+    "16. A method of making a trilayer battery separator comprising:making a first and third microporous polypropylene layer having a thickness of no greater than about 0.5 mil comprising the steps of: extruding a parison; collapsing the parison onto itself to form a flat sheet comprising two plies; annealing the flat sheet; stretching the flat sheet, wherein the stretching comprising stretching in at least two steps and each at a different temperature; and winding up the flat sheet, an adhesion force between the two plies being less than 8 grams per inch; making a second microporous shutdown layer by a particle stretch process which comprises the steps of: providing a blend comprising of a linear low density polyethylene and calcium carbonate particle fillers having a particle size of from about 0.1 micron to about 1 micron; extruding a precursor membrane from the blend; and stretching said precursor membrane to impart micropores; and bonding said polypropylene layers and said shutdown layer into the trilayer battery separator wherein the first and third membranes are the polypropylene layers, and the second membrane is said shutdown layer."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US09/059,126",
+      "representative_publication": "US6080507A",
+      "primary_language": "en",
+      "priority_date": "1998-04-13",
+      "filing_date": "1998-04-13",
+      "title": "Trilayer battery separator"
+    },
+    {
+      "application_number": "CA 2266152",
+      "representative_publication": "CA2266152A1",
+      "primary_language": "en",
+      "priority_date": "1998-04-13",
+      "filing_date": "1999-03-18",
+      "title": "Trilayer battery separator"
+    },
+    {
+      "application_number": "TW88104233A",
+      "representative_publication": "TW480766B",
+      "primary_language": "en",
+      "priority_date": "1998-04-13",
+      "filing_date": "1999-03-18",
+      "title": "Trilayer battery separator"
+    },
+    {
+      "application_number": "DE69900190T",
+      "representative_publication": "DE69900190T2",
+      "primary_language": "en",
+      "priority_date": "1998-04-13",
+      "filing_date": "1999-04-01",
+      "title": "Three-layer, microporous battery separator and manufacturing process"
+    },
+    {
+      "application_number": "EP19990106727",
+      "representative_publication": "EP0951080B1",
+      "primary_language": "en",
+      "priority_date": "1998-04-13",
+      "filing_date": "1999-04-01",
+      "title": "Trilayer shutdown battery separator and process of manufacture"
+    },
+    {
+      "application_number": "JP10217799A",
+      "representative_publication": "JPH11329390A",
+      "primary_language": "en",
+      "priority_date": "1998-04-13",
+      "filing_date": "1999-04-09",
+      "title": "Battery separator and its manufacture"
+    },
+    {
+      "application_number": "KR1019990012650A",
+      "representative_publication": "KR100676557B1",
+      "primary_language": "en",
+      "priority_date": "1998-04-13",
+      "filing_date": "1999-04-10",
+      "title": "Triple layer battery separator"
+    },
+    {
+      "application_number": "JP2003308656A",
+      "representative_publication": "JP4238096B2",
+      "primary_language": "en",
+      "priority_date": "1998-04-13",
+      "filing_date": "2003-09-01",
+      "title": "Battery separator and method for producing the same"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US09/059,126",
+      "representative_publication": "US6080507A",
+      "primary_language": "en",
+      "priority_date": "1998-04-13",
+      "filing_date": "1998-04-13",
+      "title": "Trilayer battery separator"
+    }
+  ],
+  "family_id": "22021023",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US3870593A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1972-06-06",
+        "publication_date": "1975-03-11",
+        "assignee_original": "Minnesota Mining & Mfg",
+        "title": "Stretch-oriented porous films and preparation and use thereof",
+        "patent_id": "patent/US3870593A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3870593A%2Fen"
+      },
+      {
+        "publication_number": "US4350655A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1977-05-05",
+        "publication_date": "1982-09-21",
+        "assignee_original": "Biax Fiberfilm",
+        "title": "Process for producing highly porous thermoplastic films",
+        "patent_id": "patent/US4350655A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4350655A%2Fen"
+      },
+      {
+        "publication_number": "US4539256A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1982-09-09",
+        "publication_date": "1985-09-03",
+        "assignee_original": "Minnesota Mining And Manufacturing Co.",
+        "title": "Microporous sheet material, method of making and articles made therewith",
+        "patent_id": "patent/US4539256A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4539256A%2Fen"
+      },
+      {
+        "publication_number": "US4650730A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-05-16",
+        "publication_date": "1987-03-17",
+        "assignee_original": "W. R. Grace & Co.",
+        "title": "Battery separator",
+        "patent_id": "patent/US4650730A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4650730A%2Fen"
+      },
+      {
+        "publication_number": "US4698372A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-09-09",
+        "publication_date": "1987-10-06",
+        "assignee_original": "E. I. Du Pont De Nemours And Company",
+        "title": "Microporous polymeric films and process for their manufacture",
+        "patent_id": "patent/US4698372A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4698372A%2Fen"
+      },
+      {
+        "publication_number": "US4726989A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-12-11",
+        "publication_date": "1988-02-23",
+        "assignee_original": "Minnesota Mining And Manufacturing",
+        "title": "Microporous materials incorporating a nucleating agent and methods for making same",
+        "patent_id": "patent/US4726989A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4726989A%2Fen"
+      },
+      {
+        "publication_number": "US4777073A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-03-11",
+        "publication_date": "1988-10-11",
+        "assignee_original": "Exxon Chemical Patents Inc.",
+        "title": "Breathable films prepared from melt embossed polyolefin/filler precursor films",
+        "patent_id": "patent/US4777073A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4777073A%2Fen"
+      },
+      {
+        "publication_number": "JPS63276868A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-05-08",
+        "publication_date": "1988-11-15",
+        "assignee_original": "Tokuyama Soda Co Ltd",
+        "title": "Separator for cell",
+        "patent_id": "patent/JPS63276868A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS63276868A%2Fen"
+      },
+      {
+        "publication_number": "US5281491A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-12-20",
+        "publication_date": "1994-01-25",
+        "assignee_original": "W. R. Grace & Co.",
+        "title": "Battery separator",
+        "patent_id": "patent/US5281491A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5281491A%2Fen"
+      },
+      {
+        "publication_number": "JPH07307146A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-05-12",
+        "publication_date": "1995-11-21",
+        "assignee_original": "Ube Ind Ltd",
+        "title": "Battery separator and method for producing the same",
+        "patent_id": "patent/JPH07307146A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH07307146A%2Fen"
+      },
+      {
+        "publication_number": "GB2298817A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-03-15",
+        "publication_date": "1996-09-18",
+        "assignee_original": "Nitto Electric Ind Co",
+        "title": "Porous film",
+        "patent_id": "patent/GB2298817A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2298817A%2Fen"
+      },
+      {
+        "publication_number": "JPH08250097A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-03-15",
+        "publication_date": "1996-09-27",
+        "assignee_original": "Kureha Chem Ind Co Ltd",
+        "title": "Interpole separator for electrochemical device",
+        "patent_id": "patent/JPH08250097A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH08250097A%2Fen"
+      },
+      {
+        "publication_number": "US5565281A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-12-02",
+        "publication_date": "1996-10-15",
+        "assignee_original": "Hoechst Celanese Corporation",
+        "title": "Shutdown, bilayer battery separator",
+        "patent_id": "patent/US5565281A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5565281A%2Fen"
+      },
+      {
+        "publication_number": "US5667911A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-11-17",
+        "publication_date": "1997-09-16",
+        "assignee_original": "Hoechst Celanese Corporation",
+        "title": "Methods of making cross-ply microporous membrane battery separator, and the battery separators made thereby",
+        "patent_id": "patent/US5667911A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5667911A%2Fen"
+      },
+      {
+        "publication_number": "US5691047A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-05-12",
+        "publication_date": "1997-11-25",
+        "assignee_original": "Ube Industries, Ltd.",
+        "title": "Porous multi-layer film",
+        "patent_id": "patent/US5691047A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5691047A%2Fen"
+      },
+      {
+        "publication_number": "US5691077A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-12-20",
+        "publication_date": "1997-11-25",
+        "assignee_original": "Hoechst Celanese Corporation",
+        "title": "Shutdown, trilayer battery separator",
+        "patent_id": "patent/US5691077A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5691077A%2Fen"
+      },
+      {
+        "publication_number": "US5824430A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-02-09",
+        "publication_date": "1998-10-20",
+        "assignee_original": "Nitto Denko Corporation",
+        "title": "Separator for battery",
+        "patent_id": "patent/US5824430A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5824430A%2Fen"
+      },
+      {
+        "publication_number": "EP0872900A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-04-15",
+        "publication_date": "1998-10-21",
+        "assignee_original": "Celgard Llc",
+        "title": "Method of making a trilayer battery separator",
+        "patent_id": "patent/EP0872900A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0872900A2%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "Patent Abstracts of Japan vol. 013, No. 106 (E 726), Mar. 14, 1989 & JP 63 276868 A (Tokuyama Soda Co., Ltd), Nov. 14, 1988.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Patent Abstracts of Japan vol. 013, No. 106 (E-726), Mar. 14, 1989 & JP 63 276868 A (Tokuyama Soda Co., Ltd), Nov. 14, 1988."
+    },
+    {
+      "title": "Patent Abstracts of Japan vol. 097, No. 001, Jan. 31, 1997 & JP 08 250097 A (Kureha Chem Inc Co Ltd), Sep. 27, 1996.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "U.S. Application Serial No. 08/896,513, filed Jun. 22, 1997 entitled Ultra thin, Single ply Battery Separator; Inventor: Wei Ching Yu; application consisting of 12 pages and 0 sheets of drawings.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "U.S. Application Serial No. 08/896,513, filed Jun. 22, 1997 entitled Ultra-thin, Single-ply Battery Separator; Inventor: Wei-Ching Yu; application consisting of 12 pages and 0 sheets of drawings."
+    },
+    {
+      "title": "U.S. Continuation Application Serial No. 08/650,210; filed May 20, 1996 entitled Shutdown, Trilayer Battery Separator; Inventor: Wei Ching Yu; application consisting of 27 pgs. and 2 sheets of drawings.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "U.S. Continuation Application Serial No. 08/650,210; filed May 20, 1996 entitled Shutdown, Trilayer Battery Separator; Inventor: Wei-Ching Yu; application consisting of 27 pgs. and 2 sheets of drawings."
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20020034689A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-14",
+        "publication_date": "2002-03-21",
+        "assignee_original": "Sumitomo Chemical Company, Limited",
+        "title": "Porous film and separator for battery using the same",
+        "patent_id": "patent/US20020034689A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020034689A1%2Fen"
+      },
+      {
+        "publication_number": "US6562511B2",
+        "primary_language": "en",
+        "priority_date": "1999-12-09",
+        "publication_date": "2003-05-13",
+        "assignee_original": "Ntk Powerdex, Inc.",
+        "title": "Battery separator for Li-Ion and/or Li-Ion polymer battery",
+        "patent_id": "patent/US6562511B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6562511B2%2Fen"
+      },
+      {
+        "publication_number": "US20030136500A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-01-08",
+        "publication_date": "2003-07-24",
+        "assignee_original": "Wei-Ching Yu",
+        "title": "Continuous methods of making microporous battery separators",
+        "patent_id": "patent/US20030136500A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030136500A1%2Fen"
+      },
+      {
+        "publication_number": "US6627346B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-11-10",
+        "publication_date": "2003-09-30",
+        "assignee_original": "Ube Industries, Ltd.",
+        "title": "Battery separator and lithium secondary battery",
+        "patent_id": "patent/US6627346B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6627346B1%2Fen"
+      },
+      {
+        "publication_number": "US20040229115A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-31",
+        "publication_date": "2004-11-18",
+        "assignee_original": "Ga-Lane Chen",
+        "title": "Separation membrane for battery",
+        "patent_id": "patent/US20040229115A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040229115A1%2Fen"
+      },
+      {
+        "publication_number": "US20050112462A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-21",
+        "publication_date": "2005-05-26",
+        "assignee_original": "Marple Jack W.",
+        "title": "High discharge capacity lithium battery",
+        "patent_id": "patent/US20050112462A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050112462A1%2Fen"
+      },
+      {
+        "publication_number": "US20050186479A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-24",
+        "publication_date": "2005-08-25",
+        "assignee_original": "Hiroki Totsuka",
+        "title": "Separator for electronic component and method for producing the same",
+        "patent_id": "patent/US20050186479A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050186479A1%2Fen"
+      },
+      {
+        "publication_number": "US20050208383A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-03-19",
+        "publication_date": "2005-09-22",
+        "assignee_original": "Hiroki Totsuka",
+        "title": "Electronic component separator and method for producing the same",
+        "patent_id": "patent/US20050208383A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050208383A1%2Fen"
+      },
+      {
+        "publication_number": "US20050233214A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-21",
+        "publication_date": "2005-10-20",
+        "assignee_original": "Marple Jack W",
+        "title": "High discharge capacity lithium battery",
+        "patent_id": "patent/US20050233214A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050233214A1%2Fen"
+      },
+      {
+        "publication_number": "US20050277023A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-21",
+        "publication_date": "2005-12-15",
+        "assignee_original": "Eveready Battery Company, Inc.",
+        "title": "High discharge capacity lithium battery",
+        "patent_id": "patent/US20050277023A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050277023A1%2Fen"
+      },
+      {
+        "publication_number": "US20060127753A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-06",
+        "publication_date": "2006-06-15",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Nonaqueous electrolyte solution secondary battery separator and nonaqueous electrolyte solution secondary battery using the same",
+        "patent_id": "patent/US20060127753A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060127753A1%2Fen"
+      },
+      {
+        "publication_number": "US7063917B2",
+        "primary_language": "en",
+        "priority_date": "2001-02-21",
+        "publication_date": "2006-06-20",
+        "assignee_original": "Ahlstrom Mount Holly Springs, Llc",
+        "title": "Laminated battery separator material",
+        "patent_id": "patent/US7063917B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7063917B2%2Fen"
+      },
+      {
+        "publication_number": "US20060141352A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-03-30",
+        "publication_date": "2006-06-29",
+        "assignee_original": "Kiyomi Kato",
+        "title": "Lithium ion secondary battery and charging method therefor, and charge or charge/discharge control system for lithium ion secondary battery",
+        "patent_id": "patent/US20060141352A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060141352A1%2Fen"
+      },
+      {
+        "publication_number": "US20070009803A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-07-06",
+        "publication_date": "2007-01-11",
+        "assignee_original": "Jin-Hee Kim",
+        "title": "Lithium rechargeable battery",
+        "patent_id": "patent/US20070009803A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070009803A1%2Fen"
+      },
+      {
+        "publication_number": "US20070042270A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-18",
+        "publication_date": "2007-02-22",
+        "assignee_original": "Tsumoru Ohata",
+        "title": "Secondary battery",
+        "patent_id": "patent/US20070042270A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070042270A1%2Fen"
+      },
+      {
+        "publication_number": "US20070196638A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-02-21",
+        "publication_date": "2007-08-23",
+        "assignee_original": "Xiangyun Wei",
+        "title": "Biaxially oriented microporous membrane",
+        "patent_id": "patent/US20070196638A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070196638A1%2Fen"
+      },
+      {
+        "publication_number": "US20080118827A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-11-17",
+        "publication_date": "2008-05-22",
+        "assignee_original": "Call Ronald W",
+        "title": "Co-extruded, multi-layered battery separator",
+        "patent_id": "patent/US20080118827A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080118827A1%2Fen"
+      },
+      {
+        "publication_number": "US20080187825A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-06",
+        "publication_date": "2008-08-07",
+        "assignee_original": "Ube Industries Ltd.",
+        "title": "Battery Separator and Lithium Secondary Battery",
+        "patent_id": "patent/US20080187825A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080187825A1%2Fen"
+      },
+      {
+        "publication_number": "US20080193833A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-10-01",
+        "publication_date": "2008-08-14",
+        "assignee_original": "Asahi Kasei Kabushiki Kaisha",
+        "title": "Polyolefin Microporous Membrane",
+        "patent_id": "patent/US20080193833A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080193833A1%2Fen"
+      },
+      {
+        "publication_number": "US20090117453A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-06-24",
+        "publication_date": "2009-05-07",
+        "assignee_original": "Tonen Chemical Corporation",
+        "title": "Multi-layer, microporous polyethylene membrane, and battery separator and battery using same",
+        "patent_id": "patent/US20090117453A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090117453A1%2Fen"
+      },
+      {
+        "publication_number": "US20090155677A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-11",
+        "publication_date": "2009-06-18",
+        "assignee_original": "Hideaki Maeda",
+        "title": "Separator for non-aqueous rechargeable lithium battery",
+        "patent_id": "patent/US20090155677A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090155677A1%2Fen"
+      },
+      {
+        "publication_number": "US20090263707A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-16",
+        "publication_date": "2009-10-22",
+        "assignee_original": "Buckley James P",
+        "title": "High Energy Lithium Ion Secondary Batteries",
+        "patent_id": "patent/US20090263707A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090263707A1%2Fen"
+      },
+      {
+        "publication_number": "US20100151303A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-12-11",
+        "publication_date": "2010-06-17",
+        "assignee_original": "Eveready Battery Company, Inc.",
+        "title": "High Discharge Capacity Lithium Battery",
+        "patent_id": "patent/US20100151303A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100151303A1%2Fen"
+      },
+      {
+        "publication_number": "US20100203396A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-06-06",
+        "publication_date": "2010-08-12",
+        "assignee_original": "Hiroshi Murata",
+        "title": "Multilayer porous film",
+        "patent_id": "patent/US20100203396A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100203396A1%2Fen"
+      },
+      {
+        "publication_number": "US20100255376A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-03-19",
+        "publication_date": "2010-10-07",
+        "assignee_original": "Carbon Micro Battery Corporation",
+        "title": "Gas phase deposition of battery separators",
+        "patent_id": "patent/US20100255376A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100255376A1%2Fen"
+      },
+      {
+        "publication_number": "US20110017528A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-07-24",
+        "publication_date": "2011-01-27",
+        "assignee_original": "Sujeet Kumar",
+        "title": "Lithium ion batteries with long cycling performance",
+        "patent_id": "patent/US20110017528A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110017528A1%2Fen"
+      },
+      {
+        "publication_number": "US20110064929A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-05-16",
+        "publication_date": "2011-03-17",
+        "assignee_original": "Sk Energy Co., Ltd.",
+        "title": "Microporous polyolefin film with thermally stable porous layer at high temperature",
+        "patent_id": "patent/US20110064929A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110064929A1%2Fen"
+      },
+      {
+        "publication_number": "US20110136019A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-04",
+        "publication_date": "2011-06-09",
+        "assignee_original": "Shabab Amiruddin",
+        "title": "Lithium ion battery with high voltage electrolytes and additives",
+        "patent_id": "patent/US20110136019A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110136019A1%2Fen"
+      },
+      {
+        "publication_number": "US20110143181A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-15",
+        "publication_date": "2011-06-16",
+        "assignee_original": "Samsung Sdi Co., Ltd.",
+        "title": "Separator, method of manufacturing separator, and lithium secondary battery including separator",
+        "patent_id": "patent/US20110143181A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110143181A1%2Fen"
+      },
+      {
+        "publication_number": "US20110176661A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-01-19",
+        "publication_date": "2011-07-21",
+        "assignee_original": "Xuefa Li",
+        "title": "X-ray sensitive battery separators and related methods",
+        "patent_id": "patent/US20110176661A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110176661A1%2Fen"
+      },
+      {
+        "publication_number": "WO2011112885A1",
+        "primary_language": "en",
+        "priority_date": "2010-03-12",
+        "publication_date": "2011-09-15",
+        "assignee_original": "Celgard, Llc",
+        "title": "Biaxially oriented porous membranes, composites, and methods of manufacture and use",
+        "patent_id": "patent/WO2011112885A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011112885A1%2Fen"
+      },
+      {
+        "publication_number": "US20110236751A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-26",
+        "publication_date": "2011-09-29",
+        "assignee_original": "Shabab Amiruddin",
+        "title": "High voltage battery formation protocols and control of charging and discharging for desirable long term cycling performance",
+        "patent_id": "patent/US20110236751A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110236751A1%2Fen"
+      },
+      {
+        "publication_number": "US20110266707A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-26",
+        "publication_date": "2011-11-03",
+        "assignee_original": "Sk Energy Co., Ltd.",
+        "title": "Microporous polyolefin multi layer film and preparing method thereof",
+        "patent_id": "patent/US20110266707A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110266707A1%2Fen"
+      },
+      {
+        "publication_number": "US20120015230A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-03-13",
+        "publication_date": "2012-01-19",
+        "assignee_original": "Sumitomo Chemical Company, Limited",
+        "title": "Mixed metal oxide, electrode, and sodium secondary battery",
+        "patent_id": "patent/US20120015230A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120015230A1%2Fen"
+      },
+      {
+        "publication_number": "US8283071B2",
+        "primary_language": "en",
+        "priority_date": "2003-11-21",
+        "publication_date": "2012-10-09",
+        "assignee_original": "Eveready Battery Company, Inc.",
+        "title": "High discharge capacity lithium battery",
+        "patent_id": "patent/US8283071B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8283071B2%2Fen"
+      },
+      {
+        "publication_number": "US20120329894A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-02",
+        "publication_date": "2012-12-27",
+        "assignee_original": "Mitsubishi Plastics, Inc.",
+        "title": "Polypropylene series resin porous film, battery separator and battery",
+        "patent_id": "patent/US20120329894A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120329894A1%2Fen"
+      },
+      {
+        "publication_number": "US20130022876A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-18",
+        "publication_date": "2013-01-24",
+        "assignee_original": "Stokes Kristoffer K",
+        "title": "Surface modified polymeric materials, modified functionalized polymers, functional polymers, and methods",
+        "patent_id": "patent/US20130022876A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130022876A1%2Fen"
+      },
+      {
+        "publication_number": "US8486556B2",
+        "primary_language": "en",
+        "priority_date": "2006-04-07",
+        "publication_date": "2013-07-16",
+        "assignee_original": "Celgard Llc",
+        "title": "Multilayer separator exhibiting improved strength and stability",
+        "patent_id": "patent/US8486556B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8486556B2%2Fen"
+      },
+      {
+        "publication_number": "CN104347836A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-08-07",
+        "publication_date": "2015-02-11",
+        "assignee_original": "\u6df1\u5733\u5e02\u6c83\u7279\u739b\u7535\u6c60\u6709\u9650\u516c\u53f8",
+        "title": "Double-layer composite ceramic diaphragm for lithium ion battery",
+        "patent_id": "patent/CN104347836A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104347836A%2Fen"
+      },
+      {
+        "publication_number": "US9077025B2",
+        "primary_language": "en",
+        "priority_date": "2007-05-24",
+        "publication_date": "2015-07-07",
+        "assignee_original": "Nitto Denko Corporation",
+        "title": "Method for production of porous film, porous film, separator for non-aqueous electrolyte battery, and non-aqueous electrolyte battery using the separator",
+        "patent_id": "patent/US9077025B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9077025B2%2Fen"
+      },
+      {
+        "publication_number": "US9083062B2",
+        "primary_language": "en",
+        "priority_date": "2010-08-02",
+        "publication_date": "2015-07-14",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Battery packs for vehicles and high capacity pouch secondary batteries for incorporation into compact battery packs",
+        "patent_id": "patent/US9083062B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9083062B2%2Fen"
+      },
+      {
+        "publication_number": "US20150207122A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-07-30",
+        "publication_date": "2015-07-23",
+        "assignee_original": "Teijin Limited",
+        "title": "Separator for nonaqueous electrolyte battery, and nonaqueous electrolyte battery",
+        "patent_id": "patent/US20150207122A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150207122A1%2Fen"
+      },
+      {
+        "publication_number": "US9159990B2",
+        "primary_language": "en",
+        "priority_date": "2011-08-19",
+        "publication_date": "2015-10-13",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "High capacity lithium ion battery formation protocol and corresponding batteries",
+        "patent_id": "patent/US9159990B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9159990B2%2Fen"
+      },
+      {
+        "publication_number": "US9166222B2",
+        "primary_language": "en",
+        "priority_date": "2010-11-02",
+        "publication_date": "2015-10-20",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Lithium ion batteries with supplemental lithium",
+        "patent_id": "patent/US9166222B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9166222B2%2Fen"
+      },
+      {
+        "publication_number": "US9257725B2",
+        "primary_language": "en",
+        "priority_date": "2011-12-20",
+        "publication_date": "2016-02-09",
+        "assignee_original": "Industrial Technology Research Institute",
+        "title": "Separator for lithium cells having porous and cured layers on a non-woven support",
+        "patent_id": "patent/US9257725B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9257725B2%2Fen"
+      },
+      {
+        "publication_number": "US20160043374A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-08-11",
+        "publication_date": "2016-02-11",
+        "assignee_original": "Samsung Sdi Co., Ltd.",
+        "title": "Secondary battery",
+        "patent_id": "patent/US20160043374A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160043374A1%2Fen"
+      },
+      {
+        "publication_number": "WO2017023720A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-07-31",
+        "publication_date": "2017-02-09",
+        "assignee_original": "Celgard, Llc",
+        "title": "Improved laminated multilayer membranes, separators, batteries, and methods",
+        "patent_id": "patent/WO2017023720A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017023720A1%2Fen"
+      },
+      {
+        "publication_number": "CN106964265A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-05-12",
+        "publication_date": "2017-07-21",
+        "assignee_original": "\u8d75\u5bb8",
+        "title": "The processing method of Teflon filtration film and special cutting film-forming system",
+        "patent_id": "patent/CN106964265A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106964265A%2Fen"
+      },
+      {
+        "publication_number": "WO2017132439A1",
+        "primary_language": "en",
+        "priority_date": "2016-01-29",
+        "publication_date": "2017-08-03",
+        "assignee_original": "Celgard, Llc",
+        "title": "Improved separators, battereies systems, vehicles, and related methods",
+        "patent_id": "patent/WO2017132439A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017132439A1%2Fen"
+      },
+      {
+        "publication_number": "US9780358B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-04",
+        "publication_date": "2017-10-03",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Battery designs with high capacity anode materials and cathode materials",
+        "patent_id": "patent/US9780358B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9780358B2%2Fen"
+      },
+      {
+        "publication_number": "CN108039443A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-11-21",
+        "publication_date": "2018-05-15",
+        "assignee_original": "\u65b0\u7eb6\u590d\u5408\u6750\u6599\u79d1\u6280\uff08\u5e38\u5dde\uff09\u6709\u9650\u516c\u53f8",
+        "title": "A kind of lithium battery composite diaphragm and preparation method thereof",
+        "patent_id": "patent/CN108039443A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108039443A%2Fen"
+      },
+      {
+        "publication_number": "US10030157B2",
+        "primary_language": "en",
+        "priority_date": "2014-04-15",
+        "publication_date": "2018-07-24",
+        "assignee_original": "Celgard, Llc",
+        "title": "Electrically conductive, transparent, translucent, and/or reflective materials",
+        "patent_id": "patent/US10030157B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10030157B2%2Fen"
+      },
+      {
+        "publication_number": "US10196495B2",
+        "primary_language": "en",
+        "priority_date": "2014-05-13",
+        "publication_date": "2019-02-05",
+        "assignee_original": "Celgard, Llc",
+        "title": "Functionalized porous membranes and methods of manufacture and use",
+        "patent_id": "patent/US10196495B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10196495B2%2Fen"
+      },
+      {
+        "publication_number": "US10290871B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-04",
+        "publication_date": "2019-05-14",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Battery cell engineering and design to reach high energy",
+        "patent_id": "patent/US10290871B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10290871B2%2Fen"
+      },
+      {
+        "publication_number": "USRE47520E1",
+        "primary_language": "en",
+        "priority_date": "2000-04-10",
+        "publication_date": "2019-07-16",
+        "assignee_original": "Celgard, Llc",
+        "title": "Separator for a high energy rechargeable lithium battery",
+        "patent_id": "patent/USRE47520E1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSRE47520E1%2Fen"
+      },
+      {
+        "publication_number": "US10569230B2",
+        "primary_language": "en",
+        "priority_date": "2015-05-30",
+        "publication_date": "2020-02-25",
+        "assignee_original": "Core Energy Recovery Solutions Inc.",
+        "title": "Supported water vapor transport membrane comprising polyethylene oxide copolymer",
+        "patent_id": "patent/US10569230B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10569230B2%2Fen"
+      },
+      {
+        "publication_number": "US10804516B2",
+        "primary_language": "en",
+        "priority_date": "2014-03-19",
+        "publication_date": "2020-10-13",
+        "assignee_original": "Celgard, Llc",
+        "title": "Embossed microporous membrane battery separator materials and methods of manufacture and use thereof",
+        "patent_id": "patent/US10804516B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10804516B2%2Fen"
+      },
+      {
+        "publication_number": "US10953591B2",
+        "primary_language": "en",
+        "priority_date": "2014-03-19",
+        "publication_date": "2021-03-23",
+        "assignee_original": "Celgard, Llc",
+        "title": "Embossed microporous membrane wipes and methods of manufacture and use thereof",
+        "patent_id": "patent/US10953591B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10953591B2%2Fen"
+      },
+      {
+        "publication_number": "US11094925B2",
+        "primary_language": "en",
+        "priority_date": "2017-12-22",
+        "publication_date": "2021-08-17",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Electrodes with silicon oxide active materials for lithium ion cells achieving high capacity, high energy density and long cycle life performance",
+        "patent_id": "patent/US11094925B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11094925B2%2Fen"
+      },
+      {
+        "publication_number": "US20220059904A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-09-17",
+        "publication_date": "2022-02-24",
+        "assignee_original": "Ceigard, LLC",
+        "title": "Multilayer membranes, separators, batteries, and methods",
+        "patent_id": "patent/US20220059904A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220059904A1%2Fen"
+      },
+      {
+        "publication_number": "US20220209363A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-29",
+        "publication_date": "2022-06-30",
+        "assignee_original": "Renata Ag",
+        "title": "Multilayer separator for a battery",
+        "patent_id": "patent/US20220209363A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220209363A1%2Fen"
+      },
+      {
+        "publication_number": "US11387522B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-07-31",
+        "publication_date": "2022-07-12",
+        "assignee_original": "Ningde Amperex Technology Limited",
+        "title": "Multilayer separator and device using the same",
+        "patent_id": "patent/US11387522B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11387522B2%2Fen"
+      },
+      {
+        "publication_number": "US11476494B2",
+        "primary_language": "en",
+        "priority_date": "2013-08-16",
+        "publication_date": "2022-10-18",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Lithium ion batteries with high capacity anode active material and good cycling for consumer electronics",
+        "patent_id": "patent/US11476494B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11476494B2%2Fen"
+      },
+      {
+        "publication_number": "US11607856B2",
+        "primary_language": "en",
+        "priority_date": "2013-10-18",
+        "publication_date": "2023-03-21",
+        "assignee_original": "Celgard, Llc",
+        "title": "Porous membrane wipes and methods of manufacture and use",
+        "patent_id": "patent/US11607856B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11607856B2%2Fen"
+      },
+      {
+        "publication_number": "US12002986B2",
+        "primary_language": "en",
+        "priority_date": "2018-06-22",
+        "publication_date": "2024-06-04",
+        "assignee_original": "Lg Energy Solution, Ltd.",
+        "title": "Thin polyethylene separator with reduced compressibility and electrochemical device including the same",
+        "patent_id": "patent/US12002986B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12002986B2%2Fen"
+      },
+      {
+        "publication_number": "US11998871B2",
+        "primary_language": "en",
+        "priority_date": "2018-11-26",
+        "publication_date": "2024-06-04",
+        "assignee_original": "Mojave Energy Systems, Inc.",
+        "title": "Electrodialytic liquid desiccant dehumidifying system",
+        "patent_id": "patent/US11998871B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11998871B2%2Fen"
+      },
+      {
+        "publication_number": "US12050022B2",
+        "primary_language": "en",
+        "priority_date": "2022-12-12",
+        "publication_date": "2024-07-30",
+        "assignee_original": "Mojave Energy Systems, Inc.",
+        "title": "Liquid desiccant air conditioning system and control methods",
+        "patent_id": "patent/US12050022B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12050022B2%2Fen"
+      },
+      {
+        "publication_number": "US12085293B2",
+        "primary_language": "en",
+        "priority_date": "2021-03-17",
+        "publication_date": "2024-09-10",
+        "assignee_original": "Mojave Energy Systems, Inc.",
+        "title": "Staged regenerated liquid desiccant dehumidification systems",
+        "patent_id": "patent/US12085293B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12085293B2%2Fen"
+      },
+      {
+        "publication_number": "EP4251422A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-15",
+        "publication_date": "2024-10-30",
+        "assignee_original": "Celgard, LLC",
+        "title": "POLYETHYLENE MEMBRANES FOR DRY PROCESSES, COATED MEMBRANES, SEPARATORS AND RELATED PROCESSES",
+        "patent_id": "patent/EP4251422A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4251422A4%2Fen"
+      },
+      {
+        "publication_number": "US12276436B2",
+        "primary_language": "en",
+        "priority_date": "2023-04-07",
+        "publication_date": "2025-04-15",
+        "assignee_original": "Mojave Energy Systems, Inc.",
+        "title": "Ultra low flow desiccant air conditioning systems devices and methods",
+        "patent_id": "patent/US12276436B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12276436B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US6749961B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-04-10",
+        "publication_date": "2004-06-15",
+        "assignee_original": "Celgard Inc.",
+        "title": "Shutdown battery separator made with a blend of polymer and oligomer",
+        "patent_id": "patent/US6749961B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6749961B1%2Fen"
+      },
+      {
+        "publication_number": "KR100406690B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-05",
+        "publication_date": "2003-11-21",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc5d8\uc9c0\ud654\ud559",
+        "title": "Electrochemical device using multicomponent composite membrane film",
+        "patent_id": "patent/KR100406690B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100406690B1%2Fen"
+      },
+      {
+        "publication_number": "US6692867B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-10-12",
+        "publication_date": "2004-02-17",
+        "assignee_original": "Celgard Inc.",
+        "title": "Battery separator-pin removal",
+        "patent_id": "patent/US6692867B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6692867B2%2Fen"
+      },
+      {
+        "publication_number": "DE10219423A1",
+        "primary_language": "en",
+        "priority_date": "2002-05-02",
+        "publication_date": "2003-11-20",
+        "assignee_original": "Varta Microbattery Gmbh",
+        "title": "Process for the production of a galvanic element",
+        "patent_id": "patent/DE10219423A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10219423A1%2Fen"
+      },
+      {
+        "publication_number": "DE10238945B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-24",
+        "publication_date": "2013-01-03",
+        "assignee_original": "Evonik Degussa Gmbh",
+        "title": "Electric separator with shut-off mechanism, process for its preparation, use of the separator in lithium batteries and battery with the separator",
+        "patent_id": "patent/DE10238945B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10238945B4%2Fen"
+      },
+      {
+        "publication_number": "JP4984372B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-06",
+        "publication_date": "2012-07-25",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Nonaqueous electrolyte secondary battery separator and nonaqueous electrolyte secondary battery using the same",
+        "patent_id": "patent/JP4984372B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4984372B2%2Fen"
+      },
+      {
+        "publication_number": "JP5017764B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-06",
+        "publication_date": "2012-09-05",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Nonaqueous electrolyte secondary battery separator and nonaqueous electrolyte secondary battery using the same",
+        "patent_id": "patent/JP5017764B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5017764B2%2Fen"
+      },
+      {
+        "publication_number": "KR101183912B1",
+        "primary_language": "en",
+        "priority_date": "2005-08-25",
+        "publication_date": "2012-09-21",
+        "assignee_original": "\ud1a0\ub808\uc774 \ubc27\ub370\ub9ac \uc138\ud37c\ub808\uc774\ud130 \ud544\ub984 \uace0\ub3c4 \uac00\uc774\uc0e4",
+        "title": "Polyethylene multilayer microporous membrane, battery separator using same, and battery",
+        "patent_id": "patent/KR101183912B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101183912B1%2Fen"
+      },
+      {
+        "publication_number": "JP5283383B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-28",
+        "publication_date": "2013-09-04",
+        "assignee_original": "\u6771\u30ec\u30d0\u30c3\u30c6\u30ea\u30fc\u30bb\u30d1\u30ec\u30fc\u30bf\u30d5\u30a3\u30eb\u30e0\u682a\u5f0f\u4f1a\u793e",
+        "title": "Method for producing polyethylene microporous membrane and battery separator",
+        "patent_id": "patent/JP5283383B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5283383B2%2Fen"
+      },
+      {
+        "publication_number": "JP2008311220A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-05-11",
+        "publication_date": "2008-12-25",
+        "assignee_original": "Mitsubishi Plastics Inc",
+        "title": "Laminated porous film, battery separator and battery",
+        "patent_id": "patent/JP2008311220A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2008311220A%2Fen"
+      },
+      {
+        "publication_number": "EP3376564B1",
+        "primary_language": "en",
+        "priority_date": "2009-03-09",
+        "publication_date": "2019-12-11",
+        "assignee_original": "Asahi Kasei Kabushiki Kaisha",
+        "title": "Use of a laminated  polyolefin microporous membrane as a separator for electricity storage devices",
+        "patent_id": "patent/EP3376564B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3376564B1%2Fen"
+      },
+      {
+        "publication_number": "ES2590205T3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-09-02",
+        "publication_date": "2016-11-18",
+        "assignee_original": "Rkw Se",
+        "title": "Procedure for stretching a sheet continues",
+        "patent_id": "patent/ES2590205T3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2590205T3%2Fen"
+      },
+      {
+        "publication_number": "DE102012200980B4",
+        "primary_language": "en",
+        "priority_date": "2012-01-24",
+        "publication_date": "2023-04-20",
+        "assignee_original": "Robert Bosch Gmbh",
+        "title": "Battery safety system",
+        "patent_id": "patent/DE102012200980B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102012200980B4%2Fen"
+      },
+      {
+        "publication_number": "KR20230112733A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-09-20",
+        "publication_date": "2023-07-27",
+        "assignee_original": "\uc140\uac00\ub4dc \uc5d8\uc5d8\uc528",
+        "title": "Thin battery separators and methods",
+        "patent_id": "patent/KR20230112733A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20230112733A%2Fen"
+      },
+      {
+        "publication_number": "HUE041261T2",
+        "primary_language": "en",
+        "priority_date": "2012-10-08",
+        "publication_date": "2019-05-28",
+        "assignee_original": "Treofan Germany Gmbh & Co Kg",
+        "title": "Microporous separator film having homogeneous porosity and greater resistance to puncturing",
+        "patent_id": "patent/HUE041261T2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FHUE041261T2%2Fen"
+      },
+      {
+        "publication_number": "JP6250495B2",
+        "primary_language": "en",
+        "priority_date": "2014-07-29",
+        "publication_date": "2017-12-20",
+        "assignee_original": "\u30d2\u30e9\u30ce\u6280\u7814\u5de5\u696d\u682a\u5f0f\u4f1a\u793e",
+        "title": "Polypropylene microporous membrane and method for producing the same",
+        "patent_id": "patent/JP6250495B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6250495B2%2Fen"
+      },
+      {
+        "publication_number": "EP3327822A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-29",
+        "publication_date": "2018-05-30",
+        "assignee_original": "Lithium Energy and Power GmbH & Co. KG",
+        "title": "Battery cell",
+        "patent_id": "patent/EP3327822A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3327822A1%2Fen"
+      },
+      {
+        "publication_number": "KR20200130347A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-03-02",
+        "publication_date": "2020-11-18",
+        "assignee_original": "\uc140\uac00\ub4dc \uc5d8\uc5d8\uc528",
+        "title": "Microporous membrane, battery separator, and method for making and using the same",
+        "patent_id": "patent/KR20200130347A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20200130347A%2Fen"
+      },
+      {
+        "publication_number": "KR102779843B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-11-15",
+        "publication_date": "2025-03-10",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc5d8\uc9c0\uc5d0\ub108\uc9c0\uc194\ub8e8\uc158",
+        "title": "A electrolyte membrane for all solid-state battery and an all solid-state battery comprising the same",
+        "patent_id": "patent/KR102779843B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102779843B1%2Fen"
+      },
+      {
+        "publication_number": "CN116491020A",
+        "primary_language": "en",
+        "priority_date": "2021-05-07",
+        "publication_date": "2023-07-25",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793eLg\u65b0\u80fd\u6e90",
+        "title": "Porous substrate for separator and separator for electrochemical device comprising same",
+        "patent_id": "patent/CN116491020A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116491020A%2Fen"
+      },
+      {
+        "publication_number": "JP7674045B2",
+        "primary_language": "en",
+        "priority_date": "2022-02-23",
+        "publication_date": "2025-05-09",
+        "assignee_original": "\u30a8\u30eb\u30b8\u30fc \u30a8\u30ca\u30b8\u30fc \u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3 \u30ea\u30df\u30c6\u30c3\u30c9",
+        "title": "Separator substrate for electrochemical device, separator including said substrate, and method for forming separator for battery cell",
+        "patent_id": "patent/JP7674045B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7674045B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US6080507A",
+      "primary_language": "en",
+      "publication_date": "2000-06-27",
+      "title": "Trilayer battery separator",
+      "patent_id": "patent/US6080507A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6080507A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0942480B1",
+      "primary_language": "en",
+      "publication_date": "2003-05-07",
+      "title": "Trilayer microporous shutdown battery separator",
+      "patent_id": "patent/EP0942480B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0942480B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11731407B2",
+      "primary_language": "en",
+      "publication_date": "2023-08-22",
+      "title": "Low electrical resistance microporous battery separator membranes, separators, cells, batteries, and related methods",
+      "patent_id": "patent/US11731407B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11731407B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5240655A",
+      "primary_language": "en",
+      "publication_date": "1993-08-31",
+      "title": "Process of making a battery separator",
+      "patent_id": "patent/US5240655A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5240655A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100554637B1",
+      "primary_language": "en",
+      "publication_date": "2006-02-24",
+      "title": "Multilayer battery separator",
+      "patent_id": "patent/KR100554637B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100554637B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2572880B1",
+      "primary_language": "en",
+      "publication_date": "2015-02-25",
+      "title": "Laminated porous film, separator for lithium cell and cell",
+      "patent_id": "patent/EP2572880B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2572880B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8785032B2",
+      "primary_language": "en",
+      "publication_date": "2014-07-22",
+      "title": "Multilayer porous film, separator for batteries, and battery",
+      "patent_id": "patent/US8785032B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8785032B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102642365B",
+      "primary_language": "en",
+      "publication_date": "2014-11-26",
+      "title": "Multilayer porous membrane and method for producing same",
+      "patent_id": "patent/CN102642365B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102642365B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20160099452A1",
+      "primary_language": "en",
+      "publication_date": "2016-04-07",
+      "title": "Laminated porous film, separator for battery, and battery",
+      "patent_id": "patent/US20160099452A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160099452A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9343719B2",
+      "primary_language": "en",
+      "publication_date": "2016-05-17",
+      "title": "Method for producing laminated porous film, and laminated porous film",
+      "patent_id": "patent/US9343719B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9343719B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20130034769A1",
+      "primary_language": "en",
+      "publication_date": "2013-02-07",
+      "title": "Laminated porous film, separator for non-aqueous electrolyte battery, and non-aqueous electrolyte secondary battery",
+      "patent_id": "patent/US20130034769A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130034769A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9252412B2",
+      "primary_language": "en",
+      "publication_date": "2016-02-02",
+      "title": "Multilayer porous film, separator for nonaqueous electrolyte secondary batteries, and nonaqueous electrolyte secondary battery",
+      "patent_id": "patent/US9252412B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9252412B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20130143095A1",
+      "primary_language": "en",
+      "publication_date": "2013-06-06",
+      "title": "Laminated porous film, separator for non-aqueous electrolyte secondary battery, and non-aqueous electrolyte secondary battery",
+      "patent_id": "patent/US20130143095A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130143095A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20200085746A",
+      "primary_language": "en",
+      "publication_date": "2020-07-15",
+      "title": "Polyolefin composite porous membrane and manufacturing method thereof, and battery separator and battery",
+      "patent_id": "patent/KR20200085746A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20200085746A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20090119592A",
+      "primary_language": "en",
+      "publication_date": "2009-11-19",
+      "title": "Microporous Membrane for Secondary Battery",
+      "patent_id": "patent/KR20090119592A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20090119592A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10347889B2",
+      "primary_language": "en",
+      "publication_date": "2019-07-09",
+      "title": "Microporous separator film having homogeneous porosity and greater resistance to puncturing",
+      "patent_id": "patent/US10347889B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10347889B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11955662B2",
+      "primary_language": "en",
+      "publication_date": "2024-04-09",
+      "title": "Separator for electric storage device",
+      "patent_id": "patent/US11955662B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11955662B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20150012840A",
+      "primary_language": "en",
+      "publication_date": "2015-02-04",
+      "title": "Polyolefin film with improved physical properties and electrochemical device comprising the same as separator substrate",
+      "patent_id": "patent/KR20150012840A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20150012840A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "1998-04-13",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "CELGARD LLC, NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:YU, TA-HUA;REEL/FRAME:009116/0879"
+        },
+        {
+          "label": "Effective date",
+          "value": "19980403"
+        }
+      ]
+    },
+    {
+      "date": "1999-12-30",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "CELGARD, INC., A CORP. OF DELAWARE, MASSACHUSETTS"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:CELGARD LLC;REEL/FRAME:010506/0869"
+        },
+        {
+          "label": "Effective date",
+          "value": "19991214"
+        }
+      ]
+    },
+    {
+      "date": "2000-06-09",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2002-11-29",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "CHASE MANHATTAN BANK, AS ADMINISTRATIVE AGENT, THE"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY AGREEMENT;ASSIGNOR:CELGARD, INC.;REEL/FRAME:013964/0538"
+        },
+        {
+          "label": "Effective date",
+          "value": "19991215"
+        }
+      ]
+    },
+    {
+      "date": "2003-09-26",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2004-07-07",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "CELGARD, LLC, SOUTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "CHANGE OF NAME;ASSIGNOR:CELGARD, INC.;REEL/FRAME:014822/0710"
+        },
+        {
+          "label": "Effective date",
+          "value": "20040630"
+        }
+      ]
+    },
+    {
+      "date": "2004-11-10",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "JPMORGAN CHASE BANK, AS ADMINISTRATIVE AGENT, TEXA"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY AGREEMENT;ASSIGNOR:CELGARD, LLC;REEL/FRAME:015348/0137"
+        },
+        {
+          "label": "Effective date",
+          "value": "20041109"
+        }
+      ]
+    },
+    {
+      "date": "2007-09-14",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2011-09-23",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "date": "2014-04-08",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT, NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "PATENT SECURITY AGREEMENT;ASSIGNOR:CELGARD, LLC (F/K/A CELGARD, INC.);REEL/FRAME:032631/0655"
+        },
+        {
+          "label": "Effective date",
+          "value": "20140408"
+        },
+        {
+          "label": "Owner name",
+          "value": "BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT, NO"
+        },
+        {
+          "label": "Free format text",
+          "value": "PATENT SECURITY AGREEMENT;ASSIGNOR:CELGARD, LLC (F/K/A CELGARD, INC.);REEL/FRAME:032631/0655"
+        },
+        {
+          "label": "Effective date",
+          "value": "20140408"
+        }
+      ]
+    },
+    {
+      "date": "2014-07-22",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "CELGARD, LLC, NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE OF SECURITY AGREEMENTS IN PATENT RIGHTS;ASSIGNOR:JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT;REEL/FRAME:033380/0608"
+        },
+        {
+          "label": "Effective date",
+          "value": "20140408"
+        }
+      ]
+    },
+    {
+      "date": "2015-08-27",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "CELGARD, LLC (F/K/A/ CELGARD, INC.), NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "TERMINATION AND RELEASE OF SECURITY INTEREST IN UNITED STATES PATENTS;ASSIGNOR:BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT;REEL/FRAME:036485/0267"
+        },
+        {
+          "label": "Effective date",
+          "value": "20150826"
+        },
+        {
+          "label": "Owner name",
+          "value": "CELGARD, LLC (F/K/A/ CELGARD, INC.), NORTH CAROLIN"
+        },
+        {
+          "label": "Free format text",
+          "value": "TERMINATION AND RELEASE OF SECURITY INTEREST IN UNITED STATES PATENTS;ASSIGNOR:BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT;REEL/FRAME:036485/0267"
+        },
+        {
+          "label": "Effective date",
+          "value": "20150826"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 41
+      },
+      {
+        "id": "239000002245",
+        "name": "particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 30
+      },
+      {
+        "id": "239000012528",
+        "name": "membrane",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 21
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "-1",
+        "name": "polypropylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 38
+      },
+      {
+        "id": "239000000945",
+        "name": "filler",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 30
+      },
+      {
+        "id": "239000002243",
+        "name": "precursor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 29
+      },
+      {
+        "id": "239000004743",
+        "name": "Polypropylene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "229920001155",
+        "name": "polypropylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "VTYYLEPIZMXCLO-UHFFFAOYSA-L",
+        "name": "Calcium carbonate",
+        "domain": "Chemical compound",
+        "smiles": "[Ca+2].[O-]C([O-])=O",
+        "inchi_key": "VTYYLEPIZMXCLO-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 24
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "229910000019",
+        "name": "calcium carbonate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "239000004698",
+        "name": "Polyethylene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "229920000573",
+        "name": "polyethylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "229920000092",
+        "name": "linear low density polyethylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000004707",
+        "name": "linear low-density polyethylene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "238000000137",
+        "name": "annealing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000012982",
+        "name": "microporous membrane",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000004804",
+        "name": "winding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920000642",
+        "name": "polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 31
+      },
+      {
+        "id": "238000002844",
+        "name": "melting",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "230000008018",
+        "name": "melting",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "name": "Lithium",
+        "domain": "Chemical compound",
+        "smiles": "[Li]",
+        "inchi_key": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "229910052744",
+        "name": "lithium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+        "name": "Silicium dioxide",
+        "domain": "Chemical compound",
+        "smiles": "O=[Si]=O",
+        "inchi_key": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "229920001577",
+        "name": "copolymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000002156",
+        "name": "mixing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000011148",
+        "name": "porous material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000003466",
+        "name": "welding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000000853",
+        "name": "adhesive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000001070",
+        "name": "adhesive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229920000098",
+        "name": "polyolefin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000001125",
+        "name": "extrusion",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920001684",
+        "name": "low density polyethylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000004702",
+        "name": "low-density polyethylene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000843",
+        "name": "powder",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000126",
+        "name": "substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000004711",
+        "name": "\u03b1-olefin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920010126",
+        "name": "Linear Low Density Polyethylene (LLDPE)",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "CSNNHWWHGAXBCP-UHFFFAOYSA-L",
+        "name": "Magnesium sulfate",
+        "domain": "Chemical compound",
+        "smiles": "[Mg+2].[O-][S+2]([O-])([O-])[O-]",
+        "inchi_key": "CSNNHWWHGAXBCP-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "XLOMVQKBTHCTTD-UHFFFAOYSA-N",
+        "name": "Zinc monoxide",
+        "domain": "Chemical compound",
+        "smiles": "[Zn]=O",
+        "inchi_key": "XLOMVQKBTHCTTD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002411",
+        "name": "adverse",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "TZCXTZWJZNENPQ-UHFFFAOYSA-L",
+        "name": "barium sulfate",
+        "domain": "Chemical compound",
+        "smiles": "[Ba+2].[O-]S([O-])(=O)=O",
+        "inchi_key": "TZCXTZWJZNENPQ-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "CJZGTCYPCWQAJB-UHFFFAOYSA-L",
+        "name": "calcium stearate",
+        "domain": "Chemical compound",
+        "smiles": "[Ca+2].CCCCCCCCCCCCCCCCCC([O-])=O.CCCCCCCCCCCCCCCCCC([O-])=O",
+        "inchi_key": "CJZGTCYPCWQAJB-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000013539",
+        "name": "calcium stearate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000008116",
+        "name": "calcium stearate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "OSGAYBCDTDRGGQ-UHFFFAOYSA-L",
+        "name": "calcium sulfate",
+        "domain": "Chemical compound",
+        "smiles": "[Ca+2].[O-]S([O-])(=O)=O",
+        "inchi_key": "OSGAYBCDTDRGGQ-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000003490",
+        "name": "calendering",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004927",
+        "name": "clay",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052570",
+        "name": "clay",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013329",
+        "name": "compounding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000007796",
+        "name": "conventional method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000003792",
+        "name": "electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011159",
+        "name": "matrix material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000377",
+        "name": "silicon dioxide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005507",
+        "name": "spraying",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000005995",
+        "name": "Aluminium silicate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+        "name": "Ethene",
+        "domain": "Chemical compound",
+        "smiles": "C=C",
+        "inchi_key": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005977",
+        "name": "Ethylene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005909",
+        "name": "Kieselgur",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "name": "Lithium ion",
+        "domain": "Chemical compound",
+        "smiles": "[Li+]",
+        "inchi_key": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002302",
+        "name": "Nylon 6,6",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004952",
+        "name": "Polyamide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004793",
+        "name": "Polystyrene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "GWEVSGVZZGPLCZ-UHFFFAOYSA-N",
+        "name": "Titan oxide",
+        "domain": "Chemical compound",
+        "smiles": "O=[Ti]=O",
+        "inchi_key": "GWEVSGVZZGPLCZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000654",
+        "name": "additive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+        "name": "aluminium oxide",
+        "domain": "Inorganic materials",
+        "smiles": "[O-2].[O-2].[O-2].[Al+3].[Al+3]",
+        "inchi_key": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000012211",
+        "name": "aluminium silicate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004458",
+        "name": "analytical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003963",
+        "name": "antioxidant agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "AYJRCSIUFZENHW-DEQYMQKBSA-L",
+        "name": "barium(2+);oxomethanediolate",
+        "domain": "Chemical compound",
+        "smiles": "[Ba+2].[O-][14C]([O-])=O",
+        "inchi_key": "AYJRCSIUFZENHW-DEQYMQKBSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011324",
+        "name": "bead",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000015572",
+        "name": "biosynthetic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WXCZUWHSJWOTRV-UHFFFAOYSA-N",
+        "name": "but-1-ene;ethene",
+        "domain": "Chemical compound",
+        "smiles": "C=C.CCC=C",
+        "inchi_key": "WXCZUWHSJWOTRV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BRPQOXSCLDDYGP-UHFFFAOYSA-N",
+        "name": "calcium oxide",
+        "domain": "Chemical compound",
+        "smiles": "[O-2].[Ca+2]",
+        "inchi_key": "BRPQOXSCLDDYGP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000292",
+        "name": "calcium oxide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ODINCKMPIJJUCX-UHFFFAOYSA-N",
+        "name": "calcium oxide",
+        "domain": "Inorganic materials",
+        "smiles": "[Ca]=O",
+        "inchi_key": "ODINCKMPIJJUCX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011248",
+        "name": "coating agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000576",
+        "name": "coating method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000001875",
+        "name": "compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009826",
+        "name": "distribution",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ALSOCDGAZNNNME-UHFFFAOYSA-N",
+        "name": "ethene;hex-1-ene",
+        "domain": "Chemical compound",
+        "smiles": "C=C.CCCCC=C",
+        "inchi_key": "ALSOCDGAZNNNME-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002474",
+        "name": "experimental method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004880",
+        "name": "explosion",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000605",
+        "name": "extraction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011521",
+        "name": "glass",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007646",
+        "name": "gravure printing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011256",
+        "name": "inorganic filler",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910003475",
+        "name": "inorganic filler",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011147",
+        "name": "inorganic material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003993",
+        "name": "interaction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "NLYAJNPCOHFWQQ-UHFFFAOYSA-N",
+        "name": "kaolin",
+        "domain": "Chemical compound",
+        "smiles": "O.O.O=[Al]O[Si](=O)O[Si](=O)O[Al]=O",
+        "inchi_key": "NLYAJNPCOHFWQQ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010030",
+        "name": "laminating",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001416",
+        "name": "lithium ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ZLNQQNXFFQJAID-UHFFFAOYSA-L",
+        "name": "magnesium carbonate",
+        "domain": "Chemical compound",
+        "smiles": "[Mg+2].[O-]C([O-])=O",
+        "inchi_key": "ZLNQQNXFFQJAID-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001095",
+        "name": "magnesium carbonate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000021",
+        "name": "magnesium carbonate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000014380",
+        "name": "magnesium carbonate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000395",
+        "name": "magnesium oxide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "CPLXHLVBOLITMK-UHFFFAOYSA-N",
+        "name": "magnesium oxide",
+        "domain": "Inorganic materials",
+        "smiles": "[Mg]=O",
+        "inchi_key": "CPLXHLVBOLITMK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000012245",
+        "name": "magnesium oxide",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052943",
+        "name": "magnesium sulfate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000019341",
+        "name": "magnesium sulphate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "AXZKOIWUVFPNLO-UHFFFAOYSA-N",
+        "name": "magnesium;oxygen(2-)",
+        "domain": "Chemical compound",
+        "smiles": "[O-2].[Mg+2]",
+        "inchi_key": "AXZKOIWUVFPNLO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000155",
+        "name": "melt",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010445",
+        "name": "mica",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052618",
+        "name": "mica group",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012766",
+        "name": "organic filler",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011368",
+        "name": "organic material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013021",
+        "name": "overheating",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000035699",
+        "name": "permeability",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002492",
+        "name": "poly(sulfone)",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002647",
+        "name": "polyamide",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004417",
+        "name": "polycarbonate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000515",
+        "name": "polycarbonate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000139",
+        "name": "polyethylene terephthalate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005020",
+        "name": "polyethylene terephthalate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002223",
+        "name": "polystyrene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002620",
+        "name": "polyvinyl fluoride",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920005604",
+        "name": "random copolymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011347",
+        "name": "resin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920005989",
+        "name": "resin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007650",
+        "name": "screen-printing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002904",
+        "name": "solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000638",
+        "name": "solvent extraction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003381",
+        "name": "stabilizer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000454",
+        "name": "talc",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052623",
+        "name": "talc",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "OGIDPMRJRNCKJF-UHFFFAOYSA-N",
+        "name": "titanium oxide",
+        "domain": "Inorganic materials",
+        "smiles": "[Ti]=O",
+        "inchi_key": "OGIDPMRJRNCKJF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002554",
+        "name": "vinyl polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011787",
+        "name": "zinc oxide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

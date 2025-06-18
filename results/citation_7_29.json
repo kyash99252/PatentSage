@@ -1,0 +1,2044 @@
+{
+  "search_metadata": {
+    "id": "685256e8634a6359d4422bc2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b1af3f2b0150975d/685256e8634a6359d4422bc2.json",
+    "created_at": "2025-06-18 06:04:24 UTC",
+    "processed_at": "2025-06-18 06:04:24 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20040161669A1/en",
+    "raw_html_file": "https://serpapi.com/searches/b1af3f2b0150975d/685256e8634a6359d4422bc2.html",
+    "total_time_taken": 1.37
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20040161669A1/en"
+  },
+  "title": "Battery electrode assembly and fabrication method therefor",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/d1/5f/85/0e011fb7e88da1/US20040161669A1.pdf",
+  "publication_number": "US20040161669A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "tab",
+    "positive",
+    "negative",
+    "battery",
+    "tabs"
+  ],
+  "prior_art_date": "2003-02-14",
+  "application_number": "US10/630,541",
+  "inventors": [
+    {
+      "name": "Vladimir Zolotnik",
+      "link": "https://patents.google.com/?inventor=Vladimir+Zolotnik",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Vladimir+Zolotnik"
+    },
+    {
+      "name": "Alex Pal",
+      "link": "https://patents.google.com/?inventor=Alex+Pal",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Alex+Pal"
+    },
+    {
+      "name": "Jose Ulloa",
+      "link": "https://patents.google.com/?inventor=Jose+Ulloa",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Jose+Ulloa"
+    },
+    {
+      "name": "Vladimir Gusev",
+      "link": "https://patents.google.com/?inventor=Vladimir+Gusev",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Vladimir+Gusev"
+    },
+    {
+      "name": "Joseph Wong",
+      "link": "https://patents.google.com/?inventor=Joseph+Wong",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Joseph+Wong"
+    }
+  ],
+  "assignees": [
+    "Quallion LLC"
+  ],
+  "priority_date": "2003-02-14",
+  "filing_date": "2003-07-29",
+  "publication_date": "2004-08-19",
+  "worldwide_applications": {
+    "2003": [
+      {
+        "filing_date": "2003-07-29",
+        "country_code": "US",
+        "application_number": "US10/630,541",
+        "document_id": "patent/US7179562B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2003-07-29",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2003-07-29",
+      "title": "Priority to US10/630,541",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US7179562B2/en"
+    },
+    {
+      "date": "2003-12-03",
+      "title": "Assigned to QUALLION LLC",
+      "type": "reassignment",
+      "assignee_search": "QUALLION LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: ULLOA, JOSE A., GUSEV, VLADIMIR, PAL, ALEX Z., WONG, JOSEPH, ZOLOTNIK, VLADIMIR"
+      ]
+    },
+    {
+      "date": "2004-08-19",
+      "title": "Publication of US20040161669A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20040161669A1/en"
+    },
+    {
+      "date": "2007-02-20",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2007-02-20",
+      "title": "Publication of US7179562B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US7179562B2/en"
+    },
+    {
+      "date": "2025-03-15",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20040161669.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/10630541"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20040161669"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2004161669A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/10630541/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20040161669"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/5b/40/c2/fbf5111d4eacd0/US20040161669A1-20040819-D00000.png",
+    "https://patentimages.storage.googleapis.com/46/2c/62/29445a06e0f47b/US20040161669A1-20040819-D00001.png",
+    "https://patentimages.storage.googleapis.com/eb/69/d1/268fefeee00752/US20040161669A1-20040819-D00002.png",
+    "https://patentimages.storage.googleapis.com/61/94/77/7bbac1c98b636a/US20040161669A1-20040819-D00003.png",
+    "https://patentimages.storage.googleapis.com/14/38/ba/f81bae7d63c082/US20040161669A1-20040819-D00004.png",
+    "https://patentimages.storage.googleapis.com/72/21/4f/9e57808489a08e/US20040161669A1-20040819-D00005.png",
+    "https://patentimages.storage.googleapis.com/7e/7f/6e/db4850d0353bfc/US20040161669A1-20040819-D00006.png",
+    "https://patentimages.storage.googleapis.com/88/9c/72/d9cc05b1dc3407/US20040161669A1-20040819-D00007.png",
+    "https://patentimages.storage.googleapis.com/a0/24/08/1791f9abc51f85/US20040161669A1-20040819-D00008.png",
+    "https://patentimages.storage.googleapis.com/d0/a4/85/edbc1fa4a799a1/US20040161669A1-20040819-D00009.png",
+    "https://patentimages.storage.googleapis.com/26/85/1f/bd9a38f35d7968/US20040161669A1-20040819-D00010.png",
+    "https://patentimages.storage.googleapis.com/62/1c/15/e6519000ff1eac/US20040161669A1-20040819-D00011.png",
+    "https://patentimages.storage.googleapis.com/f0/7c/4b/d7218fb4dce73e/US20040161669A1-20040819-D00012.png",
+    "https://patentimages.storage.googleapis.com/8e/58/ad/a4d4caaa633ba0/US20040161669A1-20040819-D00013.png",
+    "https://patentimages.storage.googleapis.com/cf/65/bb/f53d8db6a1b92b/US20040161669A1-20040819-D00014.png"
+  ],
+  "classifications": [
+    {
+      "code": "H01M50/54",
+      "description": "Connection of several leads or tabs of plate-like electrode stacks, e.g. electrode pole straps or bridges",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/534",
+      "description": "Electrode connections inside a battery casing characterised by the material of the leads or tabs",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/536",
+      "description": "Electrode connections inside a battery casing characterised by the method of fixing the leads to the electrodes, e.g. by welding",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T29/49108",
+      "description": "Electric battery cell making",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T29/49114",
+      "description": "Electric battery cell making including adhesively bonding",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "An electrode assembly and construction method therefor for use in small high performance batteries suitable for implantable medical device applications. The electrode assembly comprises a stack of precisely aligned planar elements including alternately arranged positive and negative planar electrodes having a planar separator interposed between adjacent electrodes. Each electrode is preferably formed of a thin metal substrate carrying active material on front and rear faces. The peripheral edge of each electrode defines an active area and a tab extending therefrom. The front and rear faces of the active area each carries a layer of active material. The faces of the tab area are preferably bare. The positive electrode tabs are located at a first position along the peripheral edge whereas the negative tabs are located at a second position spaced from said first position. Each tab carries a clip to form a reinforcing strip adjacent each tab face. Alignment holes are formed in the clips and tabs.",
+  "description_link": "https://serpapi.com/searches/685256e8634a6359d4422bc2/google_patents_details/description.html",
+  "claims": [
+    "1. A battery comprising: \na battery case defining an interior volume; and  an electrode assembly mounted in said interior volume, said electrode assembly comprising: \na plurality of planar elements including a plurality of positive electrodes, a plurality of negative electrodes, and a plurality of separators; \neach of said positive electrodes comprising a metal substrate having a peripheral edge defining an active area and a tab extending from said active area, said active area defining front and rear faces each bearing a layer of positive active material; \neach of said positive electrode tabs defining front and rear faces each having a metal reinforcing strip attached thereto; \neach of said negative electrodes comprising a metal substrate having a peripheral edge defining an active area and a tab extending from said active area, said active area defining front and rear faces each bearing a layer of negative active material; \neach of said negative electrode tabs defining front and rear faces having a metal reinforcing strip attached thereto; \neach of said separators having a peripheral edge defining a primary area and a tab extending from said primary area; and wherein \nsaid plurality of planar elements are arranged in a stack comprising a sequence of alternating positive and negative electrodes having a separator interposed between adjacent electrodes and wherein said positive electrode tabs are aligned to form a positive tab column and said negative electrode tabs are aligned to form a negative tab column spaced from said positive tab column.",
+    "2. The battery of claim 1 including a plurality of clips each comprising an integral metal piece having first and second portions bent around a foldline; and wherein \neach of said clips is mounted on an electrode tab with said clip first and second portions respectively engaging said tab front and rear faces to form said metal reinforcing strips.",
+    "3. The battery of claim 2 wherein each clip on said positive electrode tabs is sufficiently thick to abut a clip on an adjacent tab along said positive tab column; and wherein \neach clip on said negative electrode tabs is sufficiently thick to abut a clip on an adjacent tab along said negative tab column.",
+    "4. The battery of claim 2 wherein each of said clips has spaced first and second alignment holes extending through the first and second portions thereof and the electrode tab therebetween.",
+    "5. The battery of claim 2 wherein each of said clips is trimmed to define a reference edge; and wherein \neach of said clips has spaced first and second alignment holes referenced to said reference edge extending through said first and second clip portions and the tab therebetween.",
+    "6. The battery of claim 4 wherein said alignment holes are circular.",
+    "7. The battery of claim 4 wherein said alignment holes are noncircular.",
+    "8. The battery of claim 4 further including registration pins extending through said alignment holes.",
+    "9. The battery of claim 1 including a plurality of clips each comprising an integral metal piece having first and second portions bent to define an interior foldline and an exterior foldline; and wherein \neach of said clips is mounted on an electrode tab with said clip first and second portions respectively engaging said tab front and rear faces to form said metal reinforcing strips and with said clip interior foldline positioned adjacent to a tab outer edge.",
+    "10. The battery of claim 9 wherein each clip on said positive electrode tabs is sufficiently thick to abut a clip on an adjacent tab along said positive tab column; and wherein \neach clip on said negative electrode tabs is sufficiently thick to abut a clip on an adjacent tab along said negative tab column.",
+    "11. The battery of claim 10 wherein all of said clips on said positive electrode tabs are welded together; and wherein \nall of said clips on said negative electrode tabs are welded together.",
+    "12. The battery of claim 10 wherein each of said clips defines an opening extending from said interior foldline to said exterior foldline to expose a portion of a tab therethrough; and wherein \nsaid clips on said positive electrode tabs and the tab portions exposed therethrough are welded together; and \nsaid clips on said negative electrode tabs and the tab portions exposed tab portions exposed therethrough are all welded together.",
+    "13. The battery of claim 1 wherein each separator in said stack has a tab bridging the spacing between the tab on an adjacent positive electrode and the tab on an adjacent negative electrode.",
+    "14. The battery of claim 1 wherein each of said positive electrode tabs and reinforcing strips attached thereto have first and second spaced alignment holes extending therethrough; and wherein \nsaid positive electrode tab alignment holes are precisely aligned in said stack to form said positive tab column; and wherein \neach of said negative electrode tabs and reinforcing strips attached thereto have third and fourth spaced alignment holes extending therethrough; and wherein \nsaid negative electrode tab alignment holes are precisely aligned in said stack to form said negative tab column.",
+    "15. The battery of claim 14 further including registration pins extending through said first, second, third, and fourth alignment holes.",
+    "16. The battery of claim 14 wherein each separator in said stack has a tab having fifth and sixth alignment holes extending therethrough; and wherein \neach separator tab bridges the spacing between tabs on adjacent positive and negative electrodes; and wherein \nsaid tab fifth and sixth alignment holes are respectively aligned with said positive tab second alignment hole and said negative tab third alignment hole.",
+    "17. The battery of claim 16 wherein each separator tab is compressed between adjacent reinforcing strips on tabs in said positive tab column and between adjacent reinforcing strips on tabs in said negative tab column.",
+    "18. The battery of claim 1 wherein each of said metal substrates has a thickness within a range of 5 to 30 microns and each of said active material layers has a thickness within a range of 30 to 120 microns.",
+    "19. The battery of claim 18 wherein each of said separators has a thickness within a range of 20 to 30 microns.",
+    "20. The battery of claim 19 wherein the reinforcing strips on each positive electrode tab are sufficiently thick to abut reinforcing strips on an adjacent positive electrode tab in said stack; and wherein \nthe reinforcing strips on each negative electrode tab are sufficiently thick to abut reinforcing strips on an adjacent negative electrode tab in said stack.",
+    "21. A battery including: \nan electrode assembly comprising a stack of planar elements including a plurality of alternately arranged positive electrodes and negative electrodes and wherein said stack includes means for separating adjacent electrodes;  each of said electrodes including a substrate defining an active area and a tab extending therefrom;  each of said tabs having a first reinforcing strip secured to a front face thereof and a second reinforcing strip secured to a rear face thereof;  said tabs of said positive electrodes in said stack being aligned to form a positive tab column;  said tabs of said negative electrodes in said stack being aligned to form a negative tab column extending parallel to and displaced from said positive tab column; and wherein  said positive electrode tab reinforcing strips are all welded together and said negative electrode tab reinforcing strips are all welded together.",
+    "22. A method of fabricating an electrode assembly comprising: \nforming a plurality of positive electrodes each including a substrate defining a substrate active area and a tab extending from said active area, and wherein said substrate active area has positive active material on front and rear faces thereof;  forming a plurality of negative electrodes each including a substrate defining a substrate active area and a tab extending from said active area, and wherein said substrate active area has negative active material on front and rear faces thereof;  securing first and second reinforcing strips to the front and rear faces of each of said tabs;  forming first and second alignment holes through each of said tabs and said reinforcing strips secured thereto;  alternately stacking said positive and negative electrodes together with separators interposed between adjacent electrodes to align positive electrode tabs along a first column and negative electrode tabs along a second column;  welding together said reinforcing strips secured to said positive electrode tabs; and  welding together said reinforcing strips secured to said negative electrode tabs."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US10/630,541",
+      "representative_publication": "US7179562B2",
+      "primary_language": "en",
+      "priority_date": "2003-02-14",
+      "filing_date": "2003-07-29",
+      "title": "Battery electrode assembly and fabrication method therefor"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US44780203P",
+      "priority_date": "2003-02-14",
+      "filing_date": "2003-02-14"
+    },
+    {
+      "application_number": "US10/630,541",
+      "representative_publication": "US7179562B2",
+      "primary_language": "en",
+      "priority_date": "2003-02-14",
+      "filing_date": "2003-07-29",
+      "title": "Battery electrode assembly and fabrication method therefor"
+    }
+  ],
+  "family_id": "32853537",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US3094438A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1960-02-25",
+        "publication_date": "1963-06-18",
+        "assignee_original": "Union Carbide Corp",
+        "title": "Multi-plate galvanic cell",
+        "patent_id": "patent/US3094438A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3094438A%2Fen"
+      },
+      {
+        "publication_number": "US3791868A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1972-05-12",
+        "publication_date": "1974-02-12",
+        "assignee_original": "Dow Chemical Co",
+        "title": "Method of making a battery cell having a coiled metallic foil cathode member",
+        "patent_id": "patent/US3791868A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3791868A%2Fen"
+      },
+      {
+        "publication_number": "US4172319A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1977-06-30",
+        "publication_date": "1979-10-30",
+        "assignee_original": "Polaroid Corporation",
+        "title": "Electrical cells and batteries and methods of making the same",
+        "patent_id": "patent/US4172319A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4172319A%2Fen"
+      },
+      {
+        "publication_number": "US4215187A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1977-09-23",
+        "publication_date": "1980-07-29",
+        "assignee_original": "Varta Batterie Aktiengesellschaft",
+        "title": "Gas-tight galvanic cell",
+        "patent_id": "patent/US4215187A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4215187A%2Fen"
+      },
+      {
+        "publication_number": "US4603093A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1983-02-03",
+        "publication_date": "1986-07-29",
+        "assignee_original": "California Institute Of Technology",
+        "title": "Lead-acid battery",
+        "patent_id": "patent/US4603093A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4603093A%2Fen"
+      },
+      {
+        "publication_number": "US4623598A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1983-06-23",
+        "publication_date": "1986-11-18",
+        "assignee_original": "Matsushita Electric Industrial Co., Ltd.",
+        "title": "Flat battery",
+        "patent_id": "patent/US4623598A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4623598A%2Fen"
+      },
+      {
+        "publication_number": "US4646430A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-04-20",
+        "publication_date": "1987-03-03",
+        "assignee_original": "Lucas Industries",
+        "title": "Method of assembling an electric storage cell",
+        "patent_id": "patent/US4646430A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4646430A%2Fen"
+      },
+      {
+        "publication_number": "US4983475A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-02-13",
+        "publication_date": "1991-01-08",
+        "assignee_original": "Delans Darwin D",
+        "title": "Bar for connecting together two plate straps of the same polarity on an electrochemical battery",
+        "patent_id": "patent/US4983475A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4983475A%2Fen"
+      },
+      {
+        "publication_number": "US4997732A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-03-30",
+        "publication_date": "1991-03-05",
+        "assignee_original": "Mhb Joint Venture",
+        "title": "Battery in a vacuum sealed enveloping material and a process for making the same",
+        "patent_id": "patent/US4997732A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4997732A%2Fen"
+      },
+      {
+        "publication_number": "US5057385A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-12-14",
+        "publication_date": "1991-10-15",
+        "assignee_original": "Hope Henry F",
+        "title": "Battery packaging construction",
+        "patent_id": "patent/US5057385A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5057385A%2Fen"
+      },
+      {
+        "publication_number": "US5154993A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-04-27",
+        "publication_date": "1992-10-13",
+        "assignee_original": "Eveready Battery Company, Inc.",
+        "title": "Electrode strips for coiled assemblies and method of producing them",
+        "patent_id": "patent/US5154993A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5154993A%2Fen"
+      },
+      {
+        "publication_number": "US5187564A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-07-26",
+        "publication_date": "1993-02-16",
+        "assignee_original": "Sgs-Thomson Microelectronics, Inc.",
+        "title": "Application of laminated interconnect media between a laminated power source and semiconductor devices",
+        "patent_id": "patent/US5187564A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5187564A%2Fen"
+      },
+      {
+        "publication_number": "US5227267A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-11-01",
+        "publication_date": "1993-07-13",
+        "assignee_original": "Yardney Technical Products, Inc.",
+        "title": "Disc electrode and busbar for an electrochemical battery",
+        "patent_id": "patent/US5227267A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5227267A%2Fen"
+      },
+      {
+        "publication_number": "US5246797A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-02-16",
+        "publication_date": "1993-09-21",
+        "assignee_original": "Deutsche Automobilgesellschaft Mbh",
+        "title": "Electrode matrix having hollow or fibrous structure and welded-on current-collector lug",
+        "patent_id": "patent/US5246797A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5246797A%2Fen"
+      },
+      {
+        "publication_number": "US5264306A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-11-14",
+        "publication_date": "1993-11-23",
+        "assignee_original": "Mixon, Inc.",
+        "title": "Lead-acid storage cell grid",
+        "patent_id": "patent/US5264306A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5264306A%2Fen"
+      },
+      {
+        "publication_number": "US5326652A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-01-25",
+        "publication_date": "1994-07-05",
+        "assignee_original": "Micron Semiconductor, Inc.",
+        "title": "Battery package and method using flexible polymer films having a deposited layer of an inorganic material",
+        "patent_id": "patent/US5326652A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5326652A%2Fen"
+      },
+      {
+        "publication_number": "US5397659A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-12-01",
+        "publication_date": "1995-03-14",
+        "assignee_original": "Deutsche Automobilgesellschaft Mbh",
+        "title": "Electrochemical storage device",
+        "patent_id": "patent/US5397659A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5397659A%2Fen"
+      },
+      {
+        "publication_number": "US5405715A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-10-29",
+        "publication_date": "1995-04-11",
+        "assignee_original": "Valence Technology, Inc.",
+        "title": "Battery packaging and interconnection scheme",
+        "patent_id": "patent/US5405715A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5405715A%2Fen"
+      },
+      {
+        "publication_number": "US5456813A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-01-26",
+        "publication_date": "1995-10-10",
+        "assignee_original": "Societe Anonyme: Saft",
+        "title": "Method of joining a metal connection tab to an electro-chemical cell electrode having a foam-type support, and an electrode obtained by the method",
+        "patent_id": "patent/US5456813A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5456813A%2Fen"
+      },
+      {
+        "publication_number": "US5478668A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-11-30",
+        "publication_date": "1995-12-26",
+        "assignee_original": "Bell Communications Research Inc.",
+        "title": "Rechargeable lithium battery construction",
+        "patent_id": "patent/US5478668A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5478668A%2Fen"
+      },
+      {
+        "publication_number": "US5522851A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-12-06",
+        "publication_date": "1996-06-04",
+        "assignee_original": "Ventritex, Inc.",
+        "title": "Capacitor for an implantable cardiac defibrillator",
+        "patent_id": "patent/US5522851A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5522851A%2Fen"
+      },
+      {
+        "publication_number": "US5558681A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-05-26",
+        "publication_date": "1996-09-24",
+        "assignee_original": "Saft",
+        "title": "Method of bonding a metal connection to an electrode including a core having a fiber or foam-type structure for an electrochemical cell, and a resulting electrode",
+        "patent_id": "patent/US5558681A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5558681A%2Fen"
+      },
+      {
+        "publication_number": "US5578397A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-12-17",
+        "publication_date": "1996-11-26",
+        "assignee_original": "Saft",
+        "title": "Electrode plate for an electrochemical cell and having a metal foam type support, and a method of manufacturing such an electrode plate",
+        "patent_id": "patent/US5578397A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5578397A%2Fen"
+      },
+      {
+        "publication_number": "US5637418A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-02-08",
+        "publication_date": "1997-06-10",
+        "assignee_original": "Motorola, Inc.",
+        "title": "Package for a flat electrochemical device",
+        "patent_id": "patent/US5637418A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5637418A%2Fen"
+      },
+      {
+        "publication_number": "US5747191A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-06-02",
+        "publication_date": "1998-05-05",
+        "assignee_original": "Micron Communications, Inc.",
+        "title": "Multilayered battery having a cured conductive ink layer",
+        "patent_id": "patent/US5747191A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5747191A%2Fen"
+      },
+      {
+        "publication_number": "USRE36102E",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-09-17",
+        "publication_date": "1999-02-16",
+        "assignee_original": "Globe-Union Inc.",
+        "title": "Dual lug battery plate construction",
+        "patent_id": "patent/USRE36102E/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSRE36102E%2Fen"
+      },
+      {
+        "publication_number": "US6004694A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-02-18",
+        "publication_date": "1999-12-21",
+        "assignee_original": "U.S. Philips Corporation",
+        "title": "Flat accumulator device having an electrochemical cell and electrical contacts",
+        "patent_id": "patent/US6004694A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6004694A%2Fen"
+      },
+      {
+        "publication_number": "US6045946A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-03-02",
+        "publication_date": "2000-04-04",
+        "assignee_original": "Motorola, Inc.",
+        "title": "Battery tab",
+        "patent_id": "patent/US6045946A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6045946A%2Fen"
+      },
+      {
+        "publication_number": "US6106973A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-11-28",
+        "publication_date": "2000-08-22",
+        "assignee_original": "Sanyo Electric Co., Ltd.",
+        "title": "Thin type battery with laminated sheathing",
+        "patent_id": "patent/US6106973A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6106973A%2Fen"
+      },
+      {
+        "publication_number": "US6137673A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-01-22",
+        "publication_date": "2000-10-24",
+        "assignee_original": "Honda Giken Kogyo Kabushiki Kaisha",
+        "title": "Electric double-layar capacitor",
+        "patent_id": "patent/US6137673A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6137673A%2Fen"
+      },
+      {
+        "publication_number": "US6174338B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-06-25",
+        "publication_date": "2001-01-16",
+        "assignee_original": "Medtronic, Inc.",
+        "title": "Method of making a lithium element and anode assembly for an electrochemical cell",
+        "patent_id": "patent/US6174338B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6174338B1%2Fen"
+      },
+      {
+        "publication_number": "US6242128B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-12-06",
+        "publication_date": "2001-06-05",
+        "assignee_original": "Valence Technology, Inc.",
+        "title": "Fastener system of tab bussing for batteries",
+        "patent_id": "patent/US6242128B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6242128B1%2Fen"
+      },
+      {
+        "publication_number": "US6251537B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-03-10",
+        "publication_date": "2001-06-26",
+        "assignee_original": "Samsung Display Devices, Ltd.",
+        "title": "Secondary battery with sealing materials coated onto electrode tabs",
+        "patent_id": "patent/US6251537B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6251537B1%2Fen"
+      },
+      {
+        "publication_number": "US6285492B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-07-02",
+        "publication_date": "2001-09-04",
+        "assignee_original": "Timer Technologies, Llc",
+        "title": "Interactive electrochemical displays",
+        "patent_id": "patent/US6285492B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6285492B1%2Fen"
+      },
+      {
+        "publication_number": "US6284408B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-06-30",
+        "publication_date": "2001-09-04",
+        "assignee_original": "Sanyo Electric Co., Ltd.",
+        "title": "Battery having protective tape on connecting band of electrode",
+        "patent_id": "patent/US6284408B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6284408B1%2Fen"
+      },
+      {
+        "publication_number": "US6294288B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-12-01",
+        "publication_date": "2001-09-25",
+        "assignee_original": "Valence Technology, Inc.",
+        "title": "Battery cell having notched layers",
+        "patent_id": "patent/US6294288B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6294288B1%2Fen"
+      },
+      {
+        "publication_number": "US6296967B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-09-24",
+        "publication_date": "2001-10-02",
+        "assignee_original": "Electrofuel Inc.",
+        "title": "Lithium battery structure incorporating lithium pouch cells",
+        "patent_id": "patent/US6296967B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6296967B1%2Fen"
+      },
+      {
+        "publication_number": "US20010031395A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-04-14",
+        "publication_date": "2001-10-18",
+        "assignee_original": "Matsushita Electric Industrial Co., Ltd.",
+        "title": "Electrode and assembling method thereof",
+        "patent_id": "patent/US20010031395A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20010031395A1%2Fen"
+      },
+      {
+        "publication_number": "US20010038938A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-17",
+        "publication_date": "2001-11-08",
+        "assignee_original": "Tdk Corporation",
+        "title": "Electrochemical device",
+        "patent_id": "patent/US20010038938A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20010038938A1%2Fen"
+      },
+      {
+        "publication_number": "US20010041288A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-04-18",
+        "publication_date": "2001-11-15",
+        "assignee_original": "Matsushita Electric Industrial Co., Ltd.",
+        "title": "Prismatic battery and method of manufacturing same",
+        "patent_id": "patent/US20010041288A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20010041288A1%2Fen"
+      },
+      {
+        "publication_number": "US20010051298A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-05-14",
+        "publication_date": "2001-12-13",
+        "assignee_original": "Mitsubishi Denki Kabushiki Kaisha",
+        "title": "Plate-shaped battery and battery apparatus",
+        "patent_id": "patent/US20010051298A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20010051298A1%2Fen"
+      },
+      {
+        "publication_number": "US6337154B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-09-24",
+        "publication_date": "2002-01-08",
+        "assignee_original": "Electrofuel Inc.",
+        "title": "Battery box with a metal plastic laminate end",
+        "patent_id": "patent/US6337154B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6337154B1%2Fen"
+      },
+      {
+        "publication_number": "US20020010998A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-07-27",
+        "publication_date": "2002-01-31",
+        "assignee_original": "Gs-Melcotec Co., Ltd",
+        "title": "Process for the preparation of battery",
+        "patent_id": "patent/US20020010998A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020010998A1%2Fen"
+      },
+      {
+        "publication_number": "US6348283B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-24",
+        "publication_date": "2002-02-19",
+        "assignee_original": "Alcatel",
+        "title": "Storage cell in which an electrode has an edge reinforced by a metal strip",
+        "patent_id": "patent/US6348283B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6348283B1%2Fen"
+      },
+      {
+        "publication_number": "US6376124B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-12-07",
+        "publication_date": "2002-04-23",
+        "assignee_original": "Central Research Laboratories, Limited",
+        "title": "Electrochemical cell",
+        "patent_id": "patent/US6376124B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6376124B1%2Fen"
+      },
+      {
+        "publication_number": "US6395043B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-11-25",
+        "publication_date": "2002-05-28",
+        "assignee_original": "Timer Technologies, Llc",
+        "title": "Printing electrochemical cells with in-line cured electrolyte",
+        "patent_id": "patent/US6395043B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6395043B1%2Fen"
+      },
+      {
+        "publication_number": "US6413666B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-10-27",
+        "publication_date": "2002-07-02",
+        "assignee_original": "Sony Corporation",
+        "title": "Battery with a sheathing member to prevent leakage of electrolytic solution",
+        "patent_id": "patent/US6413666B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6413666B1%2Fen"
+      },
+      {
+        "publication_number": "US6428934B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-11-30",
+        "publication_date": "2002-08-06",
+        "assignee_original": "Sony Corporation",
+        "title": "Non-aqueous electrolyte battery",
+        "patent_id": "patent/US6428934B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6428934B1%2Fen"
+      },
+      {
+        "publication_number": "US6432577B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-29",
+        "publication_date": "2002-08-13",
+        "assignee_original": "Sandia Corporation",
+        "title": "Apparatus and method for fabricating a microbattery",
+        "patent_id": "patent/US6432577B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6432577B1%2Fen"
+      },
+      {
+        "publication_number": "US6440604B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-09-08",
+        "publication_date": "2002-08-27",
+        "assignee_original": "Japan Storage Battery Co., Ltd.",
+        "title": "Cell",
+        "patent_id": "patent/US6440604B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6440604B1%2Fen"
+      },
+      {
+        "publication_number": "US20020160263A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-02-28",
+        "publication_date": "2002-10-31",
+        "assignee_original": "Corrigan Dennis A.",
+        "title": "Electrochemical cell with zigzag electrodes",
+        "patent_id": "patent/US20020160263A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020160263A1%2Fen"
+      },
+      {
+        "publication_number": "US6617823B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-09-12",
+        "publication_date": "2003-09-09",
+        "assignee_original": "Ngk Spark Plug Co., Ltd.",
+        "title": "Protective shield to prevent shorting in polymer battery",
+        "patent_id": "patent/US6617823B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6617823B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JPS634562A",
+        "primary_language": "en",
+        "priority_date": "1986-06-25",
+        "publication_date": "1988-01-09",
+        "assignee_original": "Toshiba Battery Co Ltd",
+        "title": "Paste type nickel positive electrode",
+        "patent_id": "patent/JPS634562A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS634562A%2Fen"
+      },
+      {
+        "publication_number": "JP3334683B2",
+        "primary_language": "en",
+        "priority_date": "1999-06-28",
+        "publication_date": "2002-10-15",
+        "assignee_original": "\u30a8\u30cc\u30a4\u30fc\u30b7\u30fc\u30c8\u30fc\u30ad\u30f3\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte secondary battery and method of manufacturing the same",
+        "patent_id": "patent/JP3334683B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3334683B2%2Fen"
+      },
+      {
+        "publication_number": "JP3942138B2",
+        "primary_language": "en",
+        "priority_date": "2000-08-11",
+        "publication_date": "2007-07-11",
+        "assignee_original": "\uff2e\uff45\uff43\u30c8\u30fc\u30ad\u30f3\u682a\u5f0f\u4f1a\u793e",
+        "title": "Sealed battery",
+        "patent_id": "patent/JP3942138B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3942138B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20060222935A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-30",
+        "publication_date": "2006-10-05",
+        "assignee_original": "Tdk Corporation",
+        "title": "Electrochemical device",
+        "patent_id": "patent/US20060222935A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060222935A1%2Fen"
+      },
+      {
+        "publication_number": "US20090169991A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-27",
+        "publication_date": "2009-07-02",
+        "assignee_original": "Industrial Technology Research Institute",
+        "title": "Flexible envelope type battery and electrically conductible sealing structure thereof and assembling method thereof",
+        "patent_id": "patent/US20090169991A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090169991A1%2Fen"
+      },
+      {
+        "publication_number": "US20090263707A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-16",
+        "publication_date": "2009-10-22",
+        "assignee_original": "Buckley James P",
+        "title": "High Energy Lithium Ion Secondary Batteries",
+        "patent_id": "patent/US20090263707A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090263707A1%2Fen"
+      },
+      {
+        "publication_number": "US20110017528A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-07-24",
+        "publication_date": "2011-01-27",
+        "assignee_original": "Sujeet Kumar",
+        "title": "Lithium ion batteries with long cycling performance",
+        "patent_id": "patent/US20110017528A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110017528A1%2Fen"
+      },
+      {
+        "publication_number": "US20110104567A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-11-03",
+        "publication_date": "2011-05-05",
+        "assignee_original": "Hyoung-No Lee",
+        "title": "Rechargeable battery and method of manufacturing the same",
+        "patent_id": "patent/US20110104567A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110104567A1%2Fen"
+      },
+      {
+        "publication_number": "US20110136019A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-04",
+        "publication_date": "2011-06-09",
+        "assignee_original": "Shabab Amiruddin",
+        "title": "Lithium ion battery with high voltage electrolytes and additives",
+        "patent_id": "patent/US20110136019A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110136019A1%2Fen"
+      },
+      {
+        "publication_number": "WO2011067695A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-04",
+        "publication_date": "2011-06-09",
+        "assignee_original": "Brusa Elektronik Ag",
+        "title": "Terminal for accumulator cells",
+        "patent_id": "patent/WO2011067695A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011067695A1%2Fen"
+      },
+      {
+        "publication_number": "US20110236751A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-26",
+        "publication_date": "2011-09-29",
+        "assignee_original": "Shabab Amiruddin",
+        "title": "High voltage battery formation protocols and control of charging and discharging for desirable long term cycling performance",
+        "patent_id": "patent/US20110236751A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110236751A1%2Fen"
+      },
+      {
+        "publication_number": "US20110256463A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-04-15",
+        "publication_date": "2011-10-20",
+        "assignee_original": "Apple Inc.",
+        "title": "Parallel fuel cell stack architecture",
+        "patent_id": "patent/US20110256463A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110256463A1%2Fen"
+      },
+      {
+        "publication_number": "EP2065954B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-30",
+        "publication_date": "2012-05-02",
+        "assignee_original": "BYD Company Limited",
+        "title": "Battery electrode structure",
+        "patent_id": "patent/EP2065954B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2065954B1%2Fen"
+      },
+      {
+        "publication_number": "WO2012057854A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-10-27",
+        "publication_date": "2012-05-03",
+        "assignee_original": "Medtronic, Inc.",
+        "title": "Electrochemical cell with electrode elements that include alignment aperatures",
+        "patent_id": "patent/WO2012057854A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012057854A1%2Fen"
+      },
+      {
+        "publication_number": "WO2012057853A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-10-27",
+        "publication_date": "2012-05-03",
+        "assignee_original": "Medtronic, Inc.",
+        "title": "Electrochemical cell with a direct connection between a feedthrough pin and an electrode stack",
+        "patent_id": "patent/WO2012057853A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012057853A1%2Fen"
+      },
+      {
+        "publication_number": "EP1834365A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-24",
+        "publication_date": "2013-06-26",
+        "assignee_original": "Lg Chemical Ltd",
+        "title": "PROCESS FOR THE PREPARATION OF A SECONDARY BATTERY MODULE",
+        "patent_id": "patent/EP1834365A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1834365A4%2Fen"
+      },
+      {
+        "publication_number": "US20130224562A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-02-29",
+        "publication_date": "2013-08-29",
+        "assignee_original": "Semiconductor Energy Laboratory Co., Ltd.",
+        "title": "Power storage device",
+        "patent_id": "patent/US20130224562A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130224562A1%2Fen"
+      },
+      {
+        "publication_number": "US9083062B2",
+        "primary_language": "en",
+        "priority_date": "2010-08-02",
+        "publication_date": "2015-07-14",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Battery packs for vehicles and high capacity pouch secondary batteries for incorporation into compact battery packs",
+        "patent_id": "patent/US9083062B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9083062B2%2Fen"
+      },
+      {
+        "publication_number": "US9159990B2",
+        "primary_language": "en",
+        "priority_date": "2011-08-19",
+        "publication_date": "2015-10-13",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "High capacity lithium ion battery formation protocol and corresponding batteries",
+        "patent_id": "patent/US9159990B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9159990B2%2Fen"
+      },
+      {
+        "publication_number": "US9166222B2",
+        "primary_language": "en",
+        "priority_date": "2010-11-02",
+        "publication_date": "2015-10-20",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Lithium ion batteries with supplemental lithium",
+        "patent_id": "patent/US9166222B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9166222B2%2Fen"
+      },
+      {
+        "publication_number": "US9385355B2",
+        "primary_language": "en",
+        "priority_date": "2013-07-30",
+        "publication_date": "2016-07-05",
+        "assignee_original": "Johnson Controls Technology Company",
+        "title": "System and method for crimping interconnection of battery cells",
+        "patent_id": "patent/US9385355B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9385355B2%2Fen"
+      },
+      {
+        "publication_number": "JP2016143475A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-01-30",
+        "publication_date": "2016-08-08",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u8c4a\u7530\u81ea\u52d5\u7e54\u6a5f",
+        "title": "Manufacturing method for power storage device, and main alignment jig and temporary alignment jig that are used for the manufacturing method",
+        "patent_id": "patent/JP2016143475A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2016143475A%2Fen"
+      },
+      {
+        "publication_number": "US9780358B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-04",
+        "publication_date": "2017-10-03",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Battery designs with high capacity anode materials and cathode materials",
+        "patent_id": "patent/US9780358B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9780358B2%2Fen"
+      },
+      {
+        "publication_number": "JP2018018600A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-25",
+        "publication_date": "2018-02-01",
+        "assignee_original": "\u30c8\u30e8\u30bf\u81ea\u52d5\u8eca\u682a\u5f0f\u4f1a\u793e",
+        "title": "Laminated battery and manufacturing method thereof",
+        "patent_id": "patent/JP2018018600A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2018018600A%2Fen"
+      },
+      {
+        "publication_number": "DE102016214239A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-08-02",
+        "publication_date": "2018-02-08",
+        "assignee_original": "Robert Bosch Gmbh",
+        "title": "Film stack for a battery cell and method of manufacture",
+        "patent_id": "patent/DE102016214239A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102016214239A1%2Fen"
+      },
+      {
+        "publication_number": "US10096806B2",
+        "primary_language": "en",
+        "priority_date": "2013-07-30",
+        "publication_date": "2018-10-09",
+        "assignee_original": "Johnson Controls Technology Company",
+        "title": "System and method for clamping interconnection of battery cells",
+        "patent_id": "patent/US10096806B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10096806B2%2Fen"
+      },
+      {
+        "publication_number": "US10224529B2",
+        "primary_language": "en",
+        "priority_date": "2016-08-19",
+        "publication_date": "2019-03-05",
+        "assignee_original": "Microsoft Technology Licensing, Llc",
+        "title": "Stacked-electrode battery cell",
+        "patent_id": "patent/US10224529B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10224529B2%2Fen"
+      },
+      {
+        "publication_number": "US10290871B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-04",
+        "publication_date": "2019-05-14",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Battery cell engineering and design to reach high energy",
+        "patent_id": "patent/US10290871B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10290871B2%2Fen"
+      },
+      {
+        "publication_number": "US11094925B2",
+        "primary_language": "en",
+        "priority_date": "2017-12-22",
+        "publication_date": "2021-08-17",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Electrodes with silicon oxide active materials for lithium ion cells achieving high capacity, high energy density and long cycle life performance",
+        "patent_id": "patent/US11094925B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11094925B2%2Fen"
+      },
+      {
+        "publication_number": "US11296320B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-05-10",
+        "publication_date": "2022-04-05",
+        "assignee_original": "Contemporary Amperex Technology Co., Limited",
+        "title": "Secondary battery",
+        "patent_id": "patent/US11296320B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11296320B2%2Fen"
+      },
+      {
+        "publication_number": "WO2022082446A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-10-20",
+        "publication_date": "2022-04-28",
+        "assignee_original": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Electrode assembly, battery cell, battery, electric apparatus, and manufacturing method and device",
+        "patent_id": "patent/WO2022082446A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022082446A1%2Fen"
+      },
+      {
+        "publication_number": "CN114709359A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-03-24",
+        "publication_date": "2022-07-05",
+        "assignee_original": "\u6df1\u5733\u5409\u9633\u667a\u80fd\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Battery pole piece and continuous processing method thereof",
+        "patent_id": "patent/CN114709359A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114709359A%2Fen"
+      },
+      {
+        "publication_number": "US11476494B2",
+        "primary_language": "en",
+        "priority_date": "2013-08-16",
+        "publication_date": "2022-10-18",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Lithium ion batteries with high capacity anode active material and good cycling for consumer electronics",
+        "patent_id": "patent/US11476494B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11476494B2%2Fen"
+      },
+      {
+        "publication_number": "DE102021210943A1",
+        "primary_language": "en",
+        "priority_date": "2021-09-30",
+        "publication_date": "2023-03-30",
+        "assignee_original": "Volkswagen Aktiengesellschaft",
+        "title": "Process for manufacturing a battery cell",
+        "patent_id": "patent/DE102021210943A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102021210943A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US7598188B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-30",
+        "publication_date": "2009-10-06",
+        "assignee_original": "3M Innovative Properties Company",
+        "title": "Ceramic materials and methods of making and using the same",
+        "patent_id": "patent/US7598188B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7598188B2%2Fen"
+      },
+      {
+        "publication_number": "PL2191524T3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-08-14",
+        "publication_date": "2019-11-29",
+        "assignee_original": "Battery Patent Trust",
+        "title": "Battery module",
+        "patent_id": "patent/PL2191524T3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FPL2191524T3%2Fen"
+      },
+      {
+        "publication_number": "US7983021B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-10-31",
+        "publication_date": "2011-07-19",
+        "assignee_original": "Corning Incorporated",
+        "title": "Oblong electrochemical double layer capacitor",
+        "patent_id": "patent/US7983021B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7983021B2%2Fen"
+      },
+      {
+        "publication_number": "US20090197180A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-01-31",
+        "publication_date": "2009-08-06",
+        "assignee_original": "Viavattine Joseph J",
+        "title": "Spacers between tabs of electrode plates in an electrochemical cell for an implantable medical device",
+        "patent_id": "patent/US20090197180A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090197180A1%2Fen"
+      },
+      {
+        "publication_number": "US7819700B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-09",
+        "publication_date": "2010-10-26",
+        "assignee_original": "Delphi Technologies, Inc.",
+        "title": "Terminal connection apparatus for battery cells having foil terminals",
+        "patent_id": "patent/US7819700B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7819700B2%2Fen"
+      },
+      {
+        "publication_number": "US9368830B2",
+        "primary_language": "en",
+        "priority_date": "2010-11-04",
+        "publication_date": "2016-06-14",
+        "assignee_original": "Samsung Sdi Co., Ltd.",
+        "title": "Battery",
+        "patent_id": "patent/US9368830B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9368830B2%2Fen"
+      },
+      {
+        "publication_number": "US9142840B2",
+        "primary_language": "en",
+        "priority_date": "2011-10-21",
+        "publication_date": "2015-09-22",
+        "assignee_original": "Blackberry Limited",
+        "title": "Method of reducing tabbing volume required for external connections",
+        "patent_id": "patent/US9142840B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9142840B2%2Fen"
+      },
+      {
+        "publication_number": "US10446828B2",
+        "primary_language": "en",
+        "priority_date": "2011-10-21",
+        "publication_date": "2019-10-15",
+        "assignee_original": "Blackberry Limited",
+        "title": "Recessed tab for higher energy density and thinner batteries",
+        "patent_id": "patent/US10446828B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10446828B2%2Fen"
+      },
+      {
+        "publication_number": "KR101905079B1",
+        "primary_language": "en",
+        "priority_date": "2011-12-21",
+        "publication_date": "2018-10-08",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Secondary Battery",
+        "patent_id": "patent/KR101905079B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101905079B1%2Fen"
+      },
+      {
+        "publication_number": "US9337451B2",
+        "primary_language": "en",
+        "priority_date": "2013-07-30",
+        "publication_date": "2016-05-10",
+        "assignee_original": "Johnson Controls Technology Company",
+        "title": "System and method for roller interconnection of battery cells",
+        "patent_id": "patent/US9337451B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9337451B2%2Fen"
+      },
+      {
+        "publication_number": "CN109524704B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-11-21",
+        "publication_date": "2021-06-08",
+        "assignee_original": "\u65e0\u9521\u5148\u5bfc\u667a\u80fd\u88c5\u5907\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Tab dislocation adjusting method and system, electronic equipment and storage medium",
+        "patent_id": "patent/CN109524704B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109524704B%2Fen"
+      },
+      {
+        "publication_number": "US11413466B2",
+        "primary_language": "en",
+        "priority_date": "2019-04-18",
+        "publication_date": "2022-08-16",
+        "assignee_original": "Medtronic, Inc.",
+        "title": "Battery assembly for medical device",
+        "patent_id": "patent/US11413466B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11413466B2%2Fen"
+      },
+      {
+        "publication_number": "US11065460B2",
+        "primary_language": "en",
+        "priority_date": "2019-05-30",
+        "publication_date": "2021-07-20",
+        "assignee_original": "Medtronic, Inc.",
+        "title": "Battery assembly for medical device",
+        "patent_id": "patent/US11065460B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11065460B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US7179562B2",
+      "primary_language": "en",
+      "publication_date": "2007-02-20",
+      "title": "Battery electrode assembly and fabrication method therefor",
+      "patent_id": "patent/US7179562B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7179562B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101395016B1",
+      "primary_language": "en",
+      "publication_date": "2014-05-16",
+      "title": "A Stepwise Electrode Assembly, and Battery Cell, Battery Pack and Device Comprising the Same",
+      "patent_id": "patent/KR101395016B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101395016B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5779828B2",
+      "primary_language": "en",
+      "publication_date": "2015-09-16",
+      "title": "Electrode assembly having step, battery cell, battery pack and device including the same",
+      "patent_id": "patent/JP5779828B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5779828B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5943243B2",
+      "primary_language": "en",
+      "publication_date": "2016-07-05",
+      "title": "Electrode assembly having step, battery cell, battery pack and device including the same",
+      "patent_id": "patent/JP5943243B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5943243B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4515373B2",
+      "primary_language": "en",
+      "publication_date": "2010-07-28",
+      "title": "Secondary battery",
+      "patent_id": "patent/JP4515373B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4515373B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104221186B",
+      "primary_language": "en",
+      "publication_date": "2016-11-16",
+      "title": "power storage device",
+      "patent_id": "patent/CN104221186B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104221186B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5190489B2",
+      "primary_language": "en",
+      "publication_date": "2013-04-24",
+      "title": "Battery pack and manufacturing method thereof",
+      "patent_id": "patent/JP5190489B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5190489B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6520097B2",
+      "primary_language": "en",
+      "publication_date": "2019-05-29",
+      "title": "Storage element",
+      "patent_id": "patent/JP6520097B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6520097B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9099691B2",
+      "primary_language": "en",
+      "publication_date": "2015-08-04",
+      "title": "Rechargeable battery",
+      "patent_id": "patent/US9099691B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9099691B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100637443B1",
+      "primary_language": "en",
+      "publication_date": "2006-10-20",
+      "title": "Secondary Battery and Terminal Assembly Used Here",
+      "patent_id": "patent/KR100637443B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100637443B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3139435A1",
+      "primary_language": "en",
+      "publication_date": "2017-03-08",
+      "title": "Stepwise electrode assembly having variously-shaped corner and secondary battery, battery pack and device comprising the same",
+      "patent_id": "patent/EP3139435A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3139435A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3531552B2",
+      "primary_language": "en",
+      "publication_date": "2004-05-31",
+      "title": "Electrode structure for stacked batteries / capacitors",
+      "patent_id": "patent/JP3531552B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3531552B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20160040931A",
+      "primary_language": "en",
+      "publication_date": "2016-04-15",
+      "title": "Complex electrode assembly including a plurality of electrode assemblies and electrochemical device comprising the complex electrode assembly",
+      "patent_id": "patent/KR20160040931A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20160040931A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111430654A",
+      "primary_language": "en",
+      "publication_date": "2020-07-17",
+      "title": "Electric storage element",
+      "patent_id": "patent/CN111430654A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111430654A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH11274004A",
+      "primary_language": "en",
+      "publication_date": "1999-10-08",
+      "title": "Electrochemical element",
+      "patent_id": "patent/JPH11274004A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH11274004A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2006019284A",
+      "primary_language": "en",
+      "publication_date": "2006-01-19",
+      "title": "Secondary battery",
+      "patent_id": "patent/JP2006019284A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2006019284A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2018012739A1",
+      "primary_language": "en",
+      "publication_date": "2018-01-18",
+      "title": "Electrode assembly including electrode plates comprising mutually linked-additional taps formed thereon",
+      "patent_id": "patent/WO2018012739A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018012739A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2003173765A",
+      "primary_language": "en",
+      "publication_date": "2003-06-20",
+      "title": "Sealed battery",
+      "patent_id": "patent/JP2003173765A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2003173765A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7951480B1",
+      "primary_language": "en",
+      "publication_date": "2011-05-31",
+      "title": "Separator bag for use in electrochemcial cell",
+      "patent_id": "patent/US7951480B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7951480B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2000100414A",
+      "primary_language": "en",
+      "publication_date": "2000-04-07",
+      "title": "Current collecting structure of electrode",
+      "patent_id": "patent/JP2000100414A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000100414A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100827707B1",
+      "primary_language": "en",
+      "publication_date": "2008-05-07",
+      "title": "Core Structure for Rectangular Lithium Secondary Battery",
+      "patent_id": "patent/KR100827707B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100827707B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH04167375A",
+      "primary_language": "en",
+      "publication_date": "1992-06-15",
+      "title": "Rectangular lithium secondary cell",
+      "patent_id": "patent/JPH04167375A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH04167375A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR200434773Y1",
+      "primary_language": "en",
+      "publication_date": "2006-12-27",
+      "title": "Core Structure for Rectangular Lithium Secondary Battery",
+      "patent_id": "patent/KR200434773Y1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR200434773Y1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP4084194A1",
+      "primary_language": "en",
+      "publication_date": "2022-11-02",
+      "title": "Foldable pouch-type battery cell and manufacturing method therefor",
+      "patent_id": "patent/EP4084194A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4084194A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2025501672A",
+      "primary_language": "en",
+      "publication_date": "2025-01-23",
+      "title": "Battery module including upper and lower end separated bus bar frame and method for assembling same",
+      "patent_id": "patent/JP2025501672A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2025501672A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2003-12-03",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "QUALLION LLC, CALIFORNIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ZOLOTNIK, VLADIMIR;PAL, ALEX Z.;ULLOA, JOSE A.;AND OTHERS;REEL/FRAME:014175/0599;SIGNING DATES FROM 20030724 TO 20030729"
+        }
+      ]
+    },
+    {
+      "date": "2010-08-25",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2010-08-25",
+      "code": "SULP",
+      "title": "Surcharge for late payment"
+    },
+    {
+      "date": "2013-12-07",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAT HOLDER NO LONGER CLAIMS SMALL ENTITY STATUS, ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: STOL); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2014-10-03",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2015-02-20",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees"
+    },
+    {
+      "date": "2015-03-23",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    },
+    {
+      "date": "2015-04-14",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20150220"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000000758",
+        "name": "substrate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 33
+      },
+      {
+        "id": "230000003014",
+        "name": "reinforcing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "230000002093",
+        "name": "peripheral effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "229910052751",
+        "name": "metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "239000011149",
+        "name": "active material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000003466",
+        "name": "welding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000007773",
+        "name": "negative electrode material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000007774",
+        "name": "positive electrode material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "RTAQQCXQSZGOHL-UHFFFAOYSA-N",
+        "name": "Titanium",
+        "domain": "Chemical compound",
+        "smiles": "[Ti]",
+        "inchi_key": "RTAQQCXQSZGOHL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052782",
+        "name": "aluminium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "name": "aluminium",
+        "domain": "Chemical compound",
+        "smiles": "[Al]",
+        "inchi_key": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000712",
+        "name": "assembly",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000000429",
+        "name": "assembly",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000009966",
+        "name": "trimming",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "name": "Lithium ion",
+        "domain": "Chemical compound",
+        "smiles": "[Li+]",
+        "inchi_key": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005452",
+        "name": "bending",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006835",
+        "name": "compression",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007906",
+        "name": "compression",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002788",
+        "name": "crimping",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "108010038764",
+        "name": "cytoplasmic linker protein 170",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003792",
+        "name": "electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011888",
+        "name": "foil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001416",
+        "name": "lithium ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002787",
+        "name": "reinforcement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000926",
+        "name": "separation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010936",
+        "name": "titanium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052719",
+        "name": "titanium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002699",
+        "name": "waste material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

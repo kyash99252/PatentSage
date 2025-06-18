@@ -1,0 +1,850 @@
+{
+  "search_metadata": {
+    "id": "685255a48976f7a07c98bee5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a8d1919e54126cf9/685255a48976f7a07c98bee5.json",
+    "created_at": "2025-06-18 05:59:00 UTC",
+    "processed_at": "2025-06-18 05:59:00 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN103650094A/en",
+    "raw_html_file": "https://serpapi.com/searches/a8d1919e54126cf9/685255a48976f7a07c98bee5.html",
+    "total_time_taken": 1.8
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN103650094A/en"
+  },
+  "title": "Systems and methods to generate a self-confined high density air plasma",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/f9/cb/22/94f2269a296fee/CN103650094A.pdf",
+  "publication_number": "CN103650094A",
+  "country": "China",
+  "prior_art_keywords": [
+    "air plasma",
+    "plasma",
+    "self",
+    "contained",
+    "negative pole"
+  ],
+  "prior_art_date": "2011-06-17",
+  "application_number": "CN201280033003.4A",
+  "inventors": [
+    {
+      "name": "R.D.\u5361\u91cc",
+      "link": "https://patents.google.com/?inventor=R.D.%E5%8D%A1%E9%87%8C",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=R.D.%E5%8D%A1%E9%87%8C"
+    }
+  ],
+  "assignees": [
+    "University of Missouri Columbia"
+  ],
+  "priority_date": "2011-06-17",
+  "filing_date": "2012-06-07",
+  "publication_date": "2014-03-19",
+  "worldwide_applications": {
+    "2012": [
+      {
+        "filing_date": "2012-06-07",
+        "country_code": "CN",
+        "application_number": "CN201280033003.4A",
+        "document_id": "patent/CN103650094B/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      },
+      {
+        "filing_date": "2012-06-07",
+        "country_code": "CA",
+        "application_number": "CA2839379A",
+        "document_id": "patent/CA2839379A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      },
+      {
+        "filing_date": "2012-06-07",
+        "country_code": "JP",
+        "application_number": "JP2014515880A",
+        "document_id": "patent/JP6141267B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      },
+      {
+        "filing_date": "2012-06-07",
+        "country_code": "KR",
+        "application_number": "KR1020147001016A",
+        "document_id": "patent/KR20140037221A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2012-06-07",
+        "country_code": "WO",
+        "application_number": "PCT/US2012/041332",
+        "document_id": "patent/WO2012173864A1/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2012-06-07",
+        "country_code": "US",
+        "application_number": "US13/491,307",
+        "document_id": "patent/US9338874B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      },
+      {
+        "filing_date": "2012-06-07",
+        "country_code": "EP",
+        "application_number": "EP12801313.3A",
+        "document_id": "patent/EP2721628B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Not-in-force"
+      }
+    ],
+    "2016": [
+      {
+        "filing_date": "2016-05-05",
+        "country_code": "US",
+        "application_number": "US15/147,713",
+        "document_id": "patent/US9924586B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2012-06-07",
+      "title": "Application filed by University of Missouri Columbia",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "University of Missouri Columbia"
+    },
+    {
+      "date": "2014-03-19",
+      "title": "Publication of CN103650094A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN103650094A/en"
+    },
+    {
+      "date": "2017-05-10",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2017-05-10",
+      "title": "Publication of CN103650094B",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN103650094B/en"
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2032-06-07",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=103650094A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/201280033003/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN103650094A"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/2d/e2/7d/0b50406a1d43fe/HDA0000452068330000011.png",
+    "https://patentimages.storage.googleapis.com/4f/a3/44/8e3326c337a281/HDA0000452068330000031.png",
+    "https://patentimages.storage.googleapis.com/da/c4/d9/a5ceb8e7dd7a4a/HDA0000452068330000041.png",
+    "https://patentimages.storage.googleapis.com/24/fe/cf/b799e6848aa3eb/HDA0000452068330000051.png",
+    "https://patentimages.storage.googleapis.com/f5/dd/f4/bf52ed89135778/HDA0000452068330000052.png",
+    "https://patentimages.storage.googleapis.com/26/dc/ba/34da838914445e/HDA0000452068330000053.png",
+    "https://patentimages.storage.googleapis.com/fb/89/bd/128d4ea430e3b3/HDA0000452068330000061.png"
+  ],
+  "classifications": [
+    {
+      "code": "H05H1/52",
+      "description": "Generating plasma using exploding wires or spark gaps",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H05H1/54",
+      "description": "Plasma accelerators",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H05H2240/10",
+      "description": "Testing at atmospheric pressure",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H05H2240/20",
+      "description": "Non-thermal plasma",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H05H2242/20",
+      "description": "Power circuits",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The present invention relates to methods and apparatus for generating high electron density air plasmas at atmospheric pressure. In particular, the present invention relates to self-contained toroidal air plasmas. Methods and apparatus have been developed for generating atmospheric toroidal air plasmas. The air plasma is self-limiting, can be projected and requires no additional support equipment to form.",
+  "abstract_original": "\u672c\u53d1\u660e\u6d89\u53ca\u7528\u4e8e\u5728\u5927\u6c14\u538b\u4e0b\u4ea7\u751f\u9ad8\u7535\u5b50\u5bc6\u5ea6\u7a7a\u6c14\u7b49\u79bb\u5b50\u4f53\u7684\u65b9\u6cd5\u548c\u88c5\u7f6e\u3002\u5177\u4f53\u5730\u8bf4\uff0c\u672c\u53d1\u660e\u6d89\u53ca\u81ea\u542b\u5f0f\u73af\u5f62\u7a7a\u6c14\u7b49\u79bb\u5b50\u4f53\u3002\u5df2\u5f00\u53d1\u51fa\u7528\u4e8e\u4ea7\u751f\u5927\u6c14\u73af\u5f62\u7a7a\u6c14\u7b49\u79bb\u5b50\u4f53\u7684\u65b9\u6cd5\u548c\u8bbe\u5907\u3002\u6240\u8ff0\u7a7a\u6c14\u7b49\u79bb\u5b50\u4f53\u662f\u81ea\u9650\u7684\uff0c\u53ef\u4ee5\u6295\u5c04\u5e76\u4e14\u5f62\u6210\u65f6\u4e0d\u8981\u6c42\u53e6\u5916\u7684\u652f\u6301\u88c5\u5907\u3002",
+  "description_link": "https://serpapi.com/searches/685255a48976f7a07c98bee5/google_patents_details/description.html",
+  "claims": [
+    "1. under atmospheric pressure producing a method for self-contained air plasma, described method comprises:\n      In the first ignition zone, produce described air plasma;\n      Limit the radial expansion of described air plasma; And\n      High-voltage pulse is applied on the described air plasma in two-stage ignition region, and wherein said high-voltage pulse makes described air plasma volume expansion, accelerates to leave described the second ignition zone, and becomes self-contained.",
+    "2. the method for claim 1, wherein said air plasma is to produce and at least a member of the group that described plasma source is comprised of the following from plasma source: the plasma source of quick-fried silk, explosive, jet plasma, hollow cathode plasma, laser, railgun, ultrahigh speed plasma source and microwave-driven.",
+    "3. the method for claim 1, the radial expansion that wherein limits described air plasma further comprises:\n      Shielding material is arranged on to described air plasma body source around, the expansion of described air plasma is concentrated on in described the first ignition zone direction parallel with the longitudinal axis of described the second ignition zone.",
+    "4. the method for claim 1, is wherein applied to described air plasma by described high-voltage pulse and further comprises:\n      Apply described high-voltage pulse and make it pass negative pole and the electrode being separated by air gap, wherein said air plasma has completed the circuit between described negative pole and described electrode.",
+    "5. method as claimed in claim 4, wherein said air plasma accelerates to leave described negative pole and described electrode and forms self-limited type structure.",
+    "6. method as claimed in claim 5, wherein said self-limited type structure is loop configuration or sphere structure.",
+    "7. the method for claim 1, wherein said self-contained air plasma has at least 10\n          10/ cm\n          3electron density.",
+    "8. under atmospheric pressure producing an equipment for self-contained air plasma, described equipment comprises:\n      One-level ignition zone, described one-level ignition zone comprises and defines first longitudinal cavity to hold the first shielding material of plasma source;\n      Igniter, described igniter is communicated with to produce air plasma from described plasma source with described one-level ignition zone;\n      Two-stage ignition region, described two-stage ignition region is adjacent with described one-level ignition zone, described two-stage ignition district inclusion defines the secondary shielding material of second longitudinal cavity, and wherein said second longitudinal cavity is communicated with to receive described air plasma with described first longitudinal layer Cavity Flow; And\n      High-tension circuit, described high-tension circuit comprises at least one capacitor, described high-tension circuit is communicated with high-voltage pulse to be applied on described air plasma with voltage source, wherein said high-voltage pulse heats described air plasma and makes its acceleration leave described equipment to form described self-contained air plasma under described atmospheric pressure.",
+    "9. equipment as claimed in claim 8, at least a member of the group that wherein said plasma source is comprised of the following: the plasma source of quick-fried silk, laser, explosive, jet plasma, hollow cathode plasma, railgun, ultrahigh speed plasma source and microwave-driven.",
+    "10. equipment as claimed in claim 8, wherein said second longitudinal cavity is that columniform and described self-contained air plasma forms self-limited type structure.",
+    "11. equipment as claimed in claim 10, wherein said self-limited type structure is loop configuration or sphere structure.",
+    "12. equipment as claimed in claim 8, wherein said self-contained air plasma has at least 10\n          10/ cm\n          3or higher electron density.",
+    "13. 1 kinds under atmospheric pressure producing the method for self-contained annular air plasma, and described method comprises:\n      Applying the first high-voltage pulse makes it pass silk thread to produce described air plasma so that described silk thread dodges in quick-fried and the first ignition zone between positive pole and negative pole;\n      Limit the radial expansion of described air plasma, the longitudinal axis that wherein said air plasma is parallel to described silk thread marches to the second ignition zone between described negative pole and accelerator electrode;\n      Apply the second high-voltage pulse and make it pass described negative pole and described accelerator electrode with to described air plasma heating, wherein said air plasma volume expansion of being heated and form loop configuration; And\n      Under described atmospheric pressure, from described the second ignition zone, discharge described self-contained annular air plasma.",
+    "14. methods as claimed in claim 13, further comprise:\n      Rigid electric insulating material is arranged between described positive pole and described negative pole, and described material has defined the described radial expansion that limits described air plasma around the elongate cavity of described silk thread and described elongate cavity.",
+    "15. methods as claimed in claim 14, wherein said elongate cavity has the structure of general cylindrical.",
+    "16. methods as claimed in claim 14, wherein said elongate cavity has spiral structure substantially.",
+    "17. methods as claimed in claim 14, described method further comprises:\n      The second rigid electric insulating material is arranged between described negative pole and described accelerator electrode, and described the second material has defined the second elongate cavity to receive described air plasma.",
+    "18. methods as claimed in claim 17, wherein said the second elongate cavity has than the larger diameter of described the first elongate cavity.",
+    "19. methods as claimed in claim 17, wherein said the second elongate cavity has than the less diameter of described the first elongate cavity.",
+    "20. methods as claimed in claim 17, wherein said the second elongate cavity has the structure of general cylindrical.",
+    "21. methods as claimed in claim 17, wherein said the second elongate cavity has spiral structure substantially.",
+    "22. methods as claimed in claim 13, wherein said silk thread has the wire gauge within the scope of 00 wire gauge and 80 wire gauges.",
+    "23. methods as claimed in claim 13, wherein said the first high-voltage pulse is between 10kV and 50kV and have a duration between 10 \u03bc s and 200ms.",
+    "24. methods as claimed in claim 13, wherein said the second high-voltage pulse is between 100V and 300V and have a duration between 1ms and 200ms.",
+    "25. methods as claimed in claim 13, wherein said self-contained annular air plasma has at least 10\n          10/ cm\n          3electron density.",
+    "26. 1 kinds under atmospheric pressure producing the equipment of self-contained air plasma, and described equipment comprises:\n      One-level ignition zone, described one-level ignition zone is defined by the first shielding material between anodal and semi-permeable negative pole, described the first shielding material has first longitudinal cavity to hold wire, and described wire extends and is communicated with described positive pole and described negative pole between described positive pole and described negative pole;\n      One-level high-tension circuit, described one-level high-tension circuit has at least one voltage source and at least one capacitor, described one-level high-tension circuit and described positive pole and described negative pole are communicated with to apply the first high-voltage pulse makes it pass described positive pole and negative pole so that described silk thread dodges quick-fried and produces air plasma, and wherein said first longitudinal cavity limits the radial expansion of described air plasma;\n      Two-stage ignition region, described two-stage ignition region is defined by the secondary shielding material between described negative pole and semi-permeable electrode, described secondary shielding material has the second longitudinal cavity extending between described negative pole and described electrode, and wherein said second longitudinal cavity is communicated with to receive described air plasma with described first longitudinal layer Cavity Flow; And\n      Secondary high-tension circuit, described secondary high-tension circuit has at least one other capacitor and is communicated with described voltage source, described secondary high-tension circuit is further communicated with to apply the second high-voltage pulse with described negative pole and described electrode makes it pass the gap between described negative pole and described electrode, wherein, when described air plasma crosses described two-stage ignition region and described electrode, described the second high-voltage pulse heats and accelerates described air plasma to form described self-contained air plasma under described atmospheric pressure.",
+    "27. equipment as claimed in claim 26, wherein said second longitudinal cavity be general cylindrical and have than the described first larger diameter of longitudinal cavity so that described self-contained air plasma forms loop configuration when crossing described electrode.",
+    "28. equipment as claimed in claim 26, wherein said self-contained air plasma has at least 10\n          10/ cm\n          3or higher electron density.",
+    "29. 1 kinds under atmospheric pressure producing the method for self-contained air plasma, and described method comprises:\n      In the first ignition zone, produce described air plasma;\n      The speed of expansion of described air plasma is drawn to described first area; And\n      By energy, give the described air plasma in two-stage ignition region, the wherein said energy of giving makes described air plasma volume expansion, accelerates to leave described the second ignition zone, and becomes self-contained.",
+    "30. 1 kinds under atmospheric pressure producing the method for self-contained air plasma, and described method comprises:\n      In the first ignition zone, produce described air plasma;\n      Limit the radial expansion of described air plasma; And\n      By energy, give the described air plasma in two-stage ignition region, the wherein said energy of giving makes described air plasma volume expansion, accelerates to leave described the second ignition zone, and becomes self-contained."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US201161498281P",
+      "priority_date": "2011-06-17",
+      "filing_date": "2011-06-17"
+    },
+    {
+      "application_number": "US61/498281",
+      "filing_date": "2011-06-17"
+    },
+    {
+      "application_number": "PCT/US2012/041332",
+      "representative_publication": "WO2012173864A1",
+      "primary_language": "en",
+      "priority_date": "2011-06-17",
+      "filing_date": "2012-06-07",
+      "title": "Systems and methods to generate a self-confined high density air plasma"
+    }
+  ],
+  "family_id": "47357419",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US2975332A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1959-12-02",
+        "publication_date": "1961-03-14",
+        "assignee_original": "Lockheed Aircraft Corp",
+        "title": "Plasma propulsion device",
+        "patent_id": "patent/US2975332A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2975332A%2Fen"
+      },
+      {
+        "publication_number": "EP0019668A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1978-12-22",
+        "publication_date": "1980-12-10",
+        "assignee_original": "Dijkhuis, Geert C.",
+        "title": "Method and apparatus for creating and maintaining a self-supporting plasma ball",
+        "patent_id": "patent/EP0019668A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0019668A2%2Fen"
+      },
+      {
+        "publication_number": "US4912367A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-04-14",
+        "publication_date": "1990-03-27",
+        "assignee_original": "Hughes Aircraft Company",
+        "title": "Plasma-assisted high-power microwave generator",
+        "patent_id": "patent/US4912367A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4912367A%2Fen"
+      },
+      {
+        "publication_number": "US20100090539A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-03-24",
+        "publication_date": "2010-04-15",
+        "assignee_original": "Richard Carl Auchterlonie",
+        "title": "Method and apparatus for pulsed power generation",
+        "patent_id": "patent/US20100090539A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100090539A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JPS63184298A",
+        "primary_language": "en",
+        "priority_date": "1987-01-26",
+        "publication_date": "1988-07-29",
+        "assignee_original": "\u77f3\u5ddd\u5cf6\u64ad\u78e8\u91cd\u5de5\u696d\u682a\u5f0f\u4f1a\u793e",
+        "title": "Spheromatsuku coaxial plasma gun",
+        "patent_id": "patent/JPS63184298A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS63184298A%2Fen"
+      },
+      {
+        "publication_number": "JPH06511518A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-05-19",
+        "publication_date": "1994-12-22",
+        "assignee_original": "\u30a4\u30fc\u30b2\u30f3\u30f4\u30a7\u30eb\u30c8\u3000\u30b2\u30bc\u30eb\u30b7\u30e3\u30d5\u30c8\u3000\u30df\u30c3\u30c8\u3000\u30d9\u30b7\u30e5\u30ec\u30f3\u30af\u30c6\u30eb\u3000\u30cf\u30d5\u30c4\u30f3\u30b0",
+        "title": "Solid surface treatment method and device",
+        "patent_id": "patent/JPH06511518A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH06511518A%2Fen"
+      },
+      {
+        "publication_number": "JPH07201497A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-12-29",
+        "publication_date": "1995-08-04",
+        "assignee_original": "Kobe Steel Ltd",
+        "title": "Coaxial type electromagnetic accelerating flame spraying device",
+        "patent_id": "patent/JPH07201497A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH07201497A%2Fen"
+      },
+      {
+        "publication_number": "JP3073436B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-01-05",
+        "publication_date": "2000-08-07",
+        "assignee_original": "\u4e09\u83f1\u91cd\u5de5\u696d\u682a\u5f0f\u4f1a\u793e",
+        "title": "Control method of fusion plasma",
+        "patent_id": "patent/JP3073436B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3073436B2%2Fen"
+      },
+      {
+        "publication_number": "US7634042B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-03-24",
+        "publication_date": "2009-12-15",
+        "assignee_original": "Richard Auchterlonie",
+        "title": "Pulsed power system including a plasma opening switch",
+        "patent_id": "patent/US7634042B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7634042B2%2Fen"
+      },
+      {
+        "publication_number": "US8502108B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-05-28",
+        "publication_date": "2013-08-06",
+        "assignee_original": "Old Dominion University Research Foundation",
+        "title": "Method and device for creating a micro plasma jet",
+        "patent_id": "patent/US8502108B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8502108B2%2Fen"
+      },
+      {
+        "publication_number": "CN102301832B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-02-04",
+        "publication_date": "2014-07-23",
+        "assignee_original": "\u5168\u9762\u7194\u5408\u6709\u9650\u516c\u53f8",
+        "title": "Systems and methods for compressing plasma",
+        "patent_id": "patent/CN102301832B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102301832B%2Fen"
+      },
+      {
+        "publication_number": "FR2947416B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-06-29",
+        "publication_date": "2015-01-16",
+        "assignee_original": "Univ Toulouse 3 Paul Sabatier",
+        "title": "DEVICE FOR TRANSMITTING A PLASMA JET FROM ATMOSPHERIC AIR AT TEMPERATURE AND AMBIENT PRESSURE AND USE OF SUCH A DEVICE",
+        "patent_id": "patent/FR2947416B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2947416B1%2Fen"
+      },
+      {
+        "publication_number": "CN103650094B",
+        "primary_language": "en",
+        "priority_date": "2011-06-17",
+        "publication_date": "2017-05-10",
+        "assignee_original": "\u5bc6\u82cf\u91cc\u5927\u5b66\u5b66\u76d1",
+        "title": "Systems and methods to generate a self-confined high density air plasma",
+        "patent_id": "patent/CN103650094B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103650094B%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN104684237A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-02-13",
+        "publication_date": "2015-06-03",
+        "assignee_original": "\u4e2d\u56fd\u79d1\u5b66\u9662\u7b49\u79bb\u5b50\u4f53\u7269\u7406\u7814\u7a76\u6240",
+        "title": "Plasma Photosphere Fabrication Method Confined by Toroidal Magnetic Field and Spiral Current",
+        "patent_id": "patent/CN104684237A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104684237A%2Fen"
+      },
+      {
+        "publication_number": "CN104684236A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-02-13",
+        "publication_date": "2015-06-03",
+        "assignee_original": "\u4e2d\u56fd\u79d1\u5b66\u9662\u7b49\u79bb\u5b50\u4f53\u7269\u7406\u7814\u7a76\u6240",
+        "title": "A kind of artificial manufacturing method of ball lightning",
+        "patent_id": "patent/CN104684236A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104684236A%2Fen"
+      },
+      {
+        "publication_number": "CN106455279A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-08-30",
+        "publication_date": "2017-02-22",
+        "assignee_original": "\u6838\u5de5\u4e1a\u897f\u5357\u7269\u7406\u7814\u7a76\u9662",
+        "title": "A device that produces ball lightning in a laboratory",
+        "patent_id": "patent/CN106455279A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106455279A%2Fen"
+      },
+      {
+        "publication_number": "CN106981317A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-05-22",
+        "publication_date": "2017-07-25",
+        "assignee_original": "\u4e2d\u56fd\u5de5\u7a0b\u7269\u7406\u7814\u7a76\u9662\u6d41\u4f53\u7269\u7406\u7814\u7a76\u6240",
+        "title": "Magnetized plasma fusion igniter and its local quick acceleration heating ignition method",
+        "patent_id": "patent/CN106981317A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106981317A%2Fen"
+      },
+      {
+        "publication_number": "CN108872716A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-05-12",
+        "publication_date": "2018-11-23",
+        "assignee_original": "\u957f\u6625\u7406\u5de5\u5927\u5b66",
+        "title": "Externally-applied magnetic field enhances induced with laser air plasma microwave radiation device and method",
+        "patent_id": "patent/CN108872716A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108872716A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CN103650094B",
+        "primary_language": "en",
+        "priority_date": "2011-06-17",
+        "publication_date": "2017-05-10",
+        "assignee_original": "\u5bc6\u82cf\u91cc\u5927\u5b66\u5b66\u76d1",
+        "title": "Systems and methods to generate a self-confined high density air plasma",
+        "patent_id": "patent/CN103650094B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103650094B%2Fen"
+      },
+      {
+        "publication_number": "US10201070B2",
+        "primary_language": "en",
+        "priority_date": "2012-01-10",
+        "publication_date": "2019-02-05",
+        "assignee_original": "Electron Power Systems, Inc.",
+        "title": "Systems and methods for generating electron spiral toroids",
+        "patent_id": "patent/US10201070B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10201070B2%2Fen"
+      },
+      {
+        "publication_number": "WO2015127267A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-02-20",
+        "publication_date": "2015-08-27",
+        "assignee_original": "Electron Power Systems, Inc.",
+        "title": "Systems and methods for generating electron spiral toroids",
+        "patent_id": "patent/WO2015127267A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015127267A2%2Fen"
+      },
+      {
+        "publication_number": "US10935642B2",
+        "primary_language": "en",
+        "priority_date": "2015-04-10",
+        "publication_date": "2021-03-02",
+        "assignee_original": "Bae Systems Plc",
+        "title": "Detection counter measure method and apparatus",
+        "patent_id": "patent/US10935642B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10935642B2%2Fen"
+      },
+      {
+        "publication_number": "CA2981653A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-04-10",
+        "publication_date": "2016-10-13",
+        "assignee_original": "Bae Systems Plc",
+        "title": "A weapons counter measure method and apparatus",
+        "patent_id": "patent/CA2981653A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2981653A1%2Fen"
+      },
+      {
+        "publication_number": "EP3281035B1",
+        "primary_language": "en",
+        "priority_date": "2015-04-10",
+        "publication_date": "2019-07-24",
+        "assignee_original": "BAE Systems PLC",
+        "title": "Method and apparatus for computational ghost imaging",
+        "patent_id": "patent/EP3281035B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3281035B1%2Fen"
+      },
+      {
+        "publication_number": "EP3351058B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-15",
+        "publication_date": "2023-03-01",
+        "assignee_original": "Enig Associates, Inc.",
+        "title": "Space plasma generator for ionospheric control",
+        "patent_id": "patent/EP3351058B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3351058B1%2Fen"
+      },
+      {
+        "publication_number": "US11246955B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-10-29",
+        "publication_date": "2022-02-15",
+        "assignee_original": "Phoenixaire, Llc",
+        "title": "Method and system for generating non-thermal plasma",
+        "patent_id": "patent/US11246955B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11246955B2%2Fen"
+      },
+      {
+        "publication_number": "WO2021044669A1",
+        "primary_language": "en",
+        "priority_date": "2019-09-05",
+        "publication_date": "2021-03-11",
+        "assignee_original": "\u30b5\u30ab\u30bf\u30a4\u30f3\u30af\u30b9\u682a\u5f0f\u4f1a\u793e",
+        "title": "Drying device and method for storing plasma-containing gas",
+        "patent_id": "patent/WO2021044669A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021044669A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CN103650094B",
+      "primary_language": "en",
+      "publication_date": "2017-05-10",
+      "title": "Systems and methods to generate a self-confined high density air plasma",
+      "patent_id": "patent/CN103650094B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103650094B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6477216B2",
+      "primary_language": "en",
+      "publication_date": "2002-11-05",
+      "title": "Compound plasma configuration, and method and apparatus for generating a compound plasma configuration",
+      "patent_id": "patent/US6477216B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6477216B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO1997012372A9",
+      "primary_language": "en",
+      "publication_date": "1998-03-26",
+      "title": "A compound plasma configuration, and method and apparatus for generating a compound plasma configuration",
+      "patent_id": "patent/WO1997012372A9/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1997012372A9%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH03500042A",
+      "primary_language": "en",
+      "publication_date": "1991-01-10",
+      "title": "Method and apparatus for fuel gas production and enhanced release of thermal energy from the fuel gas",
+      "patent_id": "patent/JPH03500042A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH03500042A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103229601B",
+      "primary_language": "en",
+      "publication_date": "2017-03-01",
+      "title": "Method and apparatus for forming a non-isothermal plasma jet",
+      "patent_id": "patent/CN103229601B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103229601B%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15595779770408755283",
+      "scholar_authors": "Duselis et al.",
+      "publication_date": "2004",
+      "title": "Factors affecting energy deposition and expansion in single wire low current experiments",
+      "patent_id": "scholar/15595779770408755283",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15595779770408755283"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20120281798A1",
+      "primary_language": "en",
+      "publication_date": "2012-11-08",
+      "title": "Solid-state pulsed power plasma jet injector",
+      "patent_id": "patent/US20120281798A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120281798A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3238413A",
+      "primary_language": "en",
+      "publication_date": "1966-03-01",
+      "title": "Magnetically controlled plasma accelerator",
+      "patent_id": "patent/US3238413A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3238413A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11217969B2",
+      "primary_language": "en",
+      "publication_date": "2022-01-04",
+      "title": "Space plasma generator for ionospheric control",
+      "patent_id": "patent/US11217969B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11217969B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2554512C1",
+      "primary_language": "en",
+      "publication_date": "2015-06-27",
+      "title": "Method for thermal and electric energy production and device for its implementation",
+      "patent_id": "patent/RU2554512C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2554512C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3619812A",
+      "primary_language": "en",
+      "publication_date": "1971-11-09",
+      "title": "Metallic vapor laser",
+      "patent_id": "patent/US3619812A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3619812A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2548021C2",
+      "primary_language": "en",
+      "publication_date": "2015-04-10",
+      "title": "Explosion-magnetic system generating powerful energy impulse",
+      "patent_id": "patent/RU2548021C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2548021C2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2114520C1",
+      "primary_language": "en",
+      "publication_date": "1998-06-27",
+      "title": "Pulse-operated plasma plant",
+      "patent_id": "patent/RU2114520C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2114520C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2230906C",
+      "primary_language": "en",
+      "publication_date": "2007-07-17",
+      "title": "A compound plasma configuration, and method and apparatus for generating a compound plasma configuration",
+      "patent_id": "patent/CA2230906C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2230906C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2554018C2",
+      "primary_language": "en",
+      "publication_date": "2015-06-20",
+      "title": "Warhead payload of air bomb, missile, sea mine, land mine",
+      "patent_id": "patent/RU2554018C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2554018C2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "67426451018216413",
+      "scholar_authors": "Baldanov",
+      "publication_date": "2012",
+      "title": "Peculiarities of the spark discharge formation at a limiting ballast resistor",
+      "patent_id": "scholar/67426451018216413",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F67426451018216413"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2554021C2",
+      "primary_language": "en",
+      "publication_date": "2015-06-20",
+      "title": "Warhead payload of missile, air bomb, sea mine, land mine",
+      "patent_id": "patent/RU2554021C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2554021C2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2580513C1",
+      "primary_language": "en",
+      "publication_date": "2016-04-10",
+      "title": "Pulse source of tubular plasma with controlled radius in magnetic field",
+      "patent_id": "patent/RU2580513C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2580513C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2207492C2",
+      "primary_language": "en",
+      "publication_date": "2003-06-27",
+      "title": "Method and device for forming of shock wave",
+      "patent_id": "patent/RU2207492C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2207492C2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10481067330537537352",
+      "scholar_authors": "Diab et al.",
+      "publication_date": "2013",
+      "title": "The electrical discharge characteristics of the 3.5 KJ electrothermal plasma gun experiment",
+      "patent_id": "scholar/10481067330537537352",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10481067330537537352"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN115235301A",
+      "primary_language": "en",
+      "publication_date": "2022-10-25",
+      "title": "A kind of low-power hollow cathode micro-plasma ignition device and ignition method",
+      "patent_id": "patent/CN115235301A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115235301A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6159876722026237551",
+      "scholar_authors": "Gerasimov et al.",
+      "publication_date": "2018",
+      "title": "Increase in the Acceleration Efficiency of Solids in a Hybrid Coaxial Magnetoplasma Accelerator",
+      "patent_id": "scholar/6159876722026237551",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6159876722026237551"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14584115112346854729",
+      "scholar_authors": "Rutberg et al.",
+      "publication_date": "0",
+      "title": "EXPERIMENTAL COMPARISON OF ELECTRIC TO KINETIC ENERGY TRANSFORMATION EFFECTIVENESS IN ELECTRODISCHARGE AND ELECTRODYINAIC SYSTEMS",
+      "patent_id": "scholar/14584115112346854729",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14584115112346854729"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6356136813847090557",
+      "scholar_authors": "Diab et al.",
+      "publication_date": "2013",
+      "title": "Aluminum Surface Analysis after Exposed to Dense Electro thermal Launcher Plasma",
+      "patent_id": "scholar/6356136813847090557",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6356136813847090557"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16620387176898640971",
+      "scholar_authors": "Kvartskhava et al.",
+      "publication_date": "1959",
+      "title": "PLASMA ELECTRODYNAMIC ACCELERATION EXPERIMENTS",
+      "patent_id": "scholar/16620387176898640971",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16620387176898640971"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2014-03-19",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2014-03-19",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2014-06-25",
+      "code": "C10",
+      "title": "Entry into substantive examination"
+    },
+    {
+      "date": "2014-06-25",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2017-05-10",
+      "code": "GR01",
+      "title": "Patent grant"
+    },
+    {
+      "date": "2017-05-10",
+      "code": "GR01",
+      "title": "Patent grant"
+    },
+    {
+      "date": "2021-05-18",
+      "code": "CF01",
+      "title": "Termination of patent right due to non-payment of annual fee"
+    },
+    {
+      "date": "2021-05-18",
+      "code": "CF01",
+      "title": "Termination of patent right due to non-payment of annual fee",
+      "attributes": [
+        {
+          "label": "Granted publication date",
+          "value": "20170510"
+        },
+        {
+          "label": "Termination date",
+          "value": "20200607"
+        }
+      ]
+    }
+  ]
+}

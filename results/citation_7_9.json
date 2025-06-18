@@ -1,0 +1,2166 @@
+{
+  "search_metadata": {
+    "id": "685256bbecf5ed95d9f9b538",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/76a6d19c89ac18c7/685256bbecf5ed95d9f9b538.json",
+    "created_at": "2025-06-18 06:03:39 UTC",
+    "processed_at": "2025-06-18 06:03:39 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US6337156B1/en",
+    "raw_html_file": "https://serpapi.com/searches/76a6d19c89ac18c7/685256bbecf5ed95d9f9b538.html",
+    "total_time_taken": 1.26
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US6337156B1/en"
+  },
+  "title": "Ion battery using high aspect ratio electrodes",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/70/5d/27/e687909df72f5a/US6337156.pdf",
+  "publication_number": "US6337156B1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "battery",
+    "ratio",
+    "aspect ratio",
+    "batteries",
+    "electrodes"
+  ],
+  "prior_art_date": "1997-12-23",
+  "application_number": "US09/089,313",
+  "inventors": [
+    {
+      "name": "Subhash C. Narang",
+      "link": "https://patents.google.com/?inventor=Subhash+C.+Narang",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Subhash+C.+Narang"
+    },
+    {
+      "name": "Susanna Ventura",
+      "link": "https://patents.google.com/?inventor=Susanna+Ventura",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Susanna+Ventura"
+    },
+    {
+      "name": "Philip Cox",
+      "link": "https://patents.google.com/?inventor=Philip+Cox",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Philip+Cox"
+    }
+  ],
+  "assignees": [
+    "SRI International Inc"
+  ],
+  "priority_date": "1997-12-23",
+  "filing_date": "1998-06-02",
+  "publication_date": "2002-01-08",
+  "worldwide_applications": {
+    "1998": [
+      {
+        "filing_date": "1998-06-02",
+        "country_code": "US",
+        "application_number": "US09/089,313",
+        "document_id": "patent/US6337156B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      },
+      {
+        "filing_date": "1998-12-16",
+        "country_code": "EP",
+        "application_number": "EP98963254A",
+        "document_id": "patent/EP1042832A4/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      },
+      {
+        "filing_date": "1998-12-16",
+        "country_code": "JP",
+        "application_number": "JP2000525940A",
+        "document_id": "patent/JP4402832B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      },
+      {
+        "filing_date": "1998-12-16",
+        "country_code": "WO",
+        "application_number": "PCT/US1998/026882",
+        "document_id": "patent/WO1999033129A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Application Discontinuation"
+      },
+      {
+        "filing_date": "1998-12-16",
+        "country_code": "AU",
+        "application_number": "AU18311/99A",
+        "document_id": "patent/AU1831199A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      }
+    ],
+    "2001": [
+      {
+        "filing_date": "2001-07-16",
+        "country_code": "US",
+        "application_number": "US09/907,579",
+        "document_id": "patent/US6682849B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1998-06-02",
+      "title": "Application filed by SRI International Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "SRI International Inc"
+    },
+    {
+      "date": "1998-06-02",
+      "title": "Priority to US09/089,313",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US6337156B1/en"
+    },
+    {
+      "date": "1998-12-16",
+      "title": "Priority to AU18311/99A",
+      "type": "priority",
+      "document_id": "patent/AU1831199A/en"
+    },
+    {
+      "date": "1998-12-16",
+      "title": "Priority to JP2000525940A",
+      "type": "priority",
+      "document_id": "patent/JP4402832B2/en"
+    },
+    {
+      "date": "1998-12-16",
+      "title": "Priority to PCT/US1998/026882",
+      "type": "priority",
+      "document_id": "patent/WO1999033129A1/en"
+    },
+    {
+      "date": "1998-12-16",
+      "title": "Priority to EP98963254A",
+      "type": "priority",
+      "document_id": "patent/EP1042832A4/en"
+    },
+    {
+      "date": "2001-07-16",
+      "title": "Priority to US09/907,579",
+      "type": "priority",
+      "document_id": "patent/US6682849B2/en"
+    },
+    {
+      "date": "2002-01-08",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2002-01-08",
+      "title": "Publication of US6337156B1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US6337156B1/en"
+    },
+    {
+      "date": "2018-06-02",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=6337156.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/09089313"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=6337156"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=6337156B1&KC=B1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/09089313/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US6337156"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/9f/0b/d5/b9c1bf47d4ee52/US6337156-drawings-page-2.png"
+  ],
+  "classifications": [
+    {
+      "code": "H01M4/13",
+      "description": "Electrodes for accumulators with non-aqueous electrolyte, e.g. for lithium-accumulators; Processes of manufacture thereof",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0525",
+      "description": "Rocking-chair batteries, i.e. batteries with lithium insertion or intercalation in both electrodes; Lithium-ion batteries",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/36",
+      "description": "Selection of substances as active materials, active masses, active liquids",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/5815",
+      "description": "Sulfides",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0587",
+      "description": "Construction or manufacture of accumulators having only wound construction elements, i.e. wound positive electrodes, wound negative electrodes and wound separators",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/131",
+      "description": "Electrodes based on mixed oxides or hydroxides, or on mixtures of oxides or hydroxides, e.g. LiCoOx",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/133",
+      "description": "Electrodes based on carbonaceous material, e.g. graphite-intercalation compounds or CFx",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/136",
+      "description": "Electrodes based on inorganic compounds other than oxides or hydroxides, e.g. sulfides, selenides, tellurides, halogenides or LiCoFy",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/1391",
+      "description": "Processes of manufacture of electrodes based on mixed oxides or hydroxides, or on mixtures of oxides or hydroxides, e.g. LiCoOx",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/1393",
+      "description": "Processes of manufacture of electrodes based on carbonaceous material, e.g. graphite-intercalation compounds or CFx",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/1397",
+      "description": "Processes of manufacture of electrodes based on inorganic compounds other than oxides or hydroxides, e.g. sulfides, selenides, tellurides, halogenides or LiCoFy",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/525",
+      "description": "Selection of substances as active materials, active masses, active liquids of inorganic oxides or hydroxides of nickel, cobalt or iron of mixed oxides or hydroxides containing iron, cobalt or nickel for inserting or intercalating light metals, e.g. LiNiO2, LiCoO2 or LiCoOxFy",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02P70/50",
+      "description": "Manufacturing or production processes characterised by the final manufactured product",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T10/70",
+      "description": "Energy storage systems for electromobility, e.g. batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Electrodes for secondary (rechargeable) batteries are fabricated using active material particles such as flakes, fingers, projections, needles, threads, fibers, pods, hairs, ribbons and the like, which have an aspect ratio of at least 1:3:1. The high aspect ratio, in combination with relatively shallow discharge cycles, provides high power of at least 800 W/kg sustainable over at least ten seconds, high energy of at least 7 W-hr/kg, and a high cycle life of at least 250 cycles. Selection of parameters also provides power to energy ratios for high power, high energy batteries of at least 10. Preferred chemistries for the novel batteries include lithium ion, and preferred active materials include carbon, metal oxides and metal. Batteries including the novel technology can advantageously be used in electric vehicles, consumer electronics, electrical appliances, and industrial applications such as battery backup systems and switches.",
+  "description_link": "https://serpapi.com/searches/685256bbecf5ed95d9f9b538/google_patents_details/description.html",
+  "claims": [
+    "1. A rechargeable battery having a deep discharge cycle life of at least 250 comprising:\n      at least two electrodes and an electrolyte, operatively coupled to deliver at least X watt/kg of power sustainable over at least 10 seconds, and a total energy capacity of at least Y Watt-hours/kg, where X is at least 600 and Y is at least 5; and \n      at least one of the electrodes having a conductive substrate coated with flakes that have a longest dimension of about 20 \u03bcm of metal oxide material.",
+    "2. The battery of claim 1 wherein X is at least 700 and Y is at least 15.",
+    "3. The battery of claim 1 wherein X is at least 700 and Y is at least 20.",
+    "4. The battery of claim 1 wherein X is at least 800 and Y is at least 7.",
+    "5. The battery of claim 1 wherein X is at least 1000 and Y is at least 9.",
+    "6. The battery of claim 1 having a P/E ratio of at least 10.",
+    "7. The battery of claim 1 having a P/E ratio of at least 20.",
+    "8. The battery of claim 1 having a P/E ratio of at of at least 30.",
+    "9. The battery of claim 1 having a P/E ratio of at least 35.",
+    "10. The battery of claim 1 having a P/E ratio of at least 10, and wherein at least one of the electrodes comprises an active electrode material fabricated from a plurality of subparts havingy an average aspect ratio on a mass basis of at least 1:A:B, where A is at least 3 and B<=A.",
+    "11. The battery of claim 1 having a P/E ratio of at least 20, and wherein at least one of the electrodes comprises an active electrode material fabricated from a plurality of subparts having an average aspect ratio on a mass basis of at least 1:A:B, where A is at least 3 and B\u2266A.",
+    "12. The rechargeable battery of claim 1 having an electrolyte comprising lithium ions.",
+    "13. A transportation vehicle having a battery according to claim 1 having a P/E ratio of at least 10, and wherein at least one of the electrodes comprises an active electrode material fabricated from a plurality of subparts having an average aspect ratio on a mass basis of at least 1:A:B, where A is at least 3 and B<=A.",
+    "14. A consumer electronic device having a battery according to claim 1 having a P/E ratio of at least 10, and wherein at least one of the electrodes comprises an active electrode material fabricated from a plurality of subparts having an average aspect ratio on a mass basis of at least 1:A:B, where A is at least 3 and B<=A.",
+    "15. An electrical appliance having a battery according to claim 1 having a P/E ratio of at least 10, and wherein at least one of the electrodes comprises an active electrode material fabricated from a plurality of subparts having an average aspect ratio on a mass basis of at least 1:A:B, where A is at least 3 and B<=A.",
+    "16. A battery backup system having a battery according to claim 1 having a P/E ratio of at least 10, and wherein at least one of the electrodes comprises an active electrode material fabricated from a plurality of subparts having an average aspect ratio on a mass basis of at least 1:A:B, where A is at least 3 and B<=A.",
+    "17. A rechargeable battery having an electrode comprising a conductive substrate coated with flakes that have a longest dimension of about 20 \u03bcm of a metal oxide material."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US09/907,579",
+      "relation_type": "Division",
+      "representative_publication": "US6682849B2",
+      "primary_language": "en",
+      "priority_date": "1997-12-23",
+      "filing_date": "2001-07-16",
+      "title": "Ion battery using high aspect ratio electrodes"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US09/089,313",
+      "representative_publication": "US6337156B1",
+      "primary_language": "en",
+      "priority_date": "1997-12-23",
+      "filing_date": "1998-06-02",
+      "title": "Ion battery using high aspect ratio electrodes"
+    },
+    {
+      "application_number": "AU18311/99A",
+      "representative_publication": "AU1831199A",
+      "primary_language": "en",
+      "priority_date": "1997-12-23",
+      "filing_date": "1998-12-16",
+      "title": "Ion battery using high aspect ratio electrodes"
+    },
+    {
+      "application_number": "JP2000525940A",
+      "representative_publication": "JP4402832B2",
+      "primary_language": "en",
+      "priority_date": "1997-12-23",
+      "filing_date": "1998-12-16",
+      "title": "Rechargeable battery"
+    },
+    {
+      "application_number": "PCT/US1998/026882",
+      "representative_publication": "WO1999033129A1",
+      "primary_language": "en",
+      "priority_date": "1997-12-23",
+      "filing_date": "1998-12-16",
+      "title": "Ion battery using high aspect ratio electrodes"
+    },
+    {
+      "application_number": "EP98963254A",
+      "representative_publication": "EP1042832A4",
+      "primary_language": "en",
+      "priority_date": "1997-12-23",
+      "filing_date": "1998-12-16",
+      "title": "ION BATTERIES IN WHICH ELECTRODES ARE HIGH ASPECT RATIO"
+    },
+    {
+      "application_number": "US09/907,579",
+      "representative_publication": "US6682849B2",
+      "primary_language": "en",
+      "priority_date": "1997-12-23",
+      "filing_date": "2001-07-16",
+      "title": "Ion battery using high aspect ratio electrodes"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US6876497P",
+      "priority_date": "1997-12-23",
+      "filing_date": "1997-12-23"
+    },
+    {
+      "application_number": "US09/089,313",
+      "representative_publication": "US6337156B1",
+      "primary_language": "en",
+      "priority_date": "1997-12-23",
+      "filing_date": "1998-06-02",
+      "title": "Ion battery using high aspect ratio electrodes"
+    }
+  ],
+  "family_id": "26749345",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US3765943A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1970-12-09",
+        "publication_date": "1973-10-16",
+        "assignee_original": "Bell Telephone Labor Inc",
+        "title": "Fabrication of lead-acid batteries",
+        "patent_id": "patent/US3765943A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3765943A%2Fen"
+      },
+      {
+        "publication_number": "US3864167A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1973-04-19",
+        "publication_date": "1975-02-04",
+        "assignee_original": "Bell Telephone Labor Inc",
+        "title": "Non-aqueous battery using chalcogenide electrode",
+        "patent_id": "patent/US3864167A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3864167A%2Fen"
+      },
+      {
+        "publication_number": "US5100747A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-09-13",
+        "publication_date": "1992-03-31",
+        "assignee_original": "Kabushiki Kaisha Toshiba",
+        "title": "Dry method for manufacturing hydrogen absorption alloy electrode",
+        "patent_id": "patent/US5100747A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5100747A%2Fen"
+      },
+      {
+        "publication_number": "JPH07101728A",
+        "primary_language": "en",
+        "priority_date": "1993-10-01",
+        "publication_date": "1995-04-18",
+        "assignee_original": "Tosoh Corp",
+        "title": "Lithium manganese oxide, method for producing the same, and use thereof",
+        "patent_id": "patent/JPH07101728A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH07101728A%2Fen"
+      },
+      {
+        "publication_number": "US5518833A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-05-24",
+        "publication_date": "1996-05-21",
+        "assignee_original": "Eagle-Picher Industries, Inc.",
+        "title": "Nonwoven electrode construction",
+        "patent_id": "patent/US5518833A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5518833A%2Fen"
+      },
+      {
+        "publication_number": "US5527641A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-03-17",
+        "publication_date": "1996-06-18",
+        "assignee_original": "Nisshin Steel Co., Ltd.",
+        "title": "Coated metal sheet for dry cell positive electrode can and positive electrode can formed of such metal sheet",
+        "patent_id": "patent/US5527641A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5527641A%2Fen"
+      },
+      {
+        "publication_number": "JPH0922693A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-07-04",
+        "publication_date": "1997-01-21",
+        "assignee_original": "Matsushita Electric Ind Co Ltd",
+        "title": "Nonaqueous electrolyte battery, positive active material thereof, and manufacture of positive plate",
+        "patent_id": "patent/JPH0922693A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0922693A%2Fen"
+      },
+      {
+        "publication_number": "JPH09147862A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-11-22",
+        "publication_date": "1997-06-06",
+        "assignee_original": "Hitachi Maxell Ltd",
+        "title": "Organic electrolyte secondary battery",
+        "patent_id": "patent/JPH09147862A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH09147862A%2Fen"
+      },
+      {
+        "publication_number": "US5654115A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-09-14",
+        "publication_date": "1997-08-05",
+        "assignee_original": "Kabushiki Kaisha Toshiba",
+        "title": "Hydrogen-absorbing alloy for battery, method of manufacturing the same, and secondary nickel-metal hydride battery",
+        "patent_id": "patent/US5654115A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5654115A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JPS5727565A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1980-07-25",
+        "publication_date": "1982-02-13",
+        "assignee_original": "Japan Storage Battery Co Ltd",
+        "title": "Nonaqueous electrolyte battery",
+        "patent_id": "patent/JPS5727565A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS5727565A%2Fen"
+      },
+      {
+        "publication_number": "JPS57157465A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1981-03-20",
+        "publication_date": "1982-09-29",
+        "assignee_original": "Sanyo Electric Co Ltd",
+        "title": "Organic electrolyte battery",
+        "patent_id": "patent/JPS57157465A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS57157465A%2Fen"
+      },
+      {
+        "publication_number": "JPS58163166A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1982-03-20",
+        "publication_date": "1983-09-27",
+        "assignee_original": "Hitachi Maxell Ltd",
+        "title": "Argentic oxide cell",
+        "patent_id": "patent/JPS58163166A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS58163166A%2Fen"
+      },
+      {
+        "publication_number": "US4865931A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1983-12-05",
+        "publication_date": "1989-09-12",
+        "assignee_original": "The Dow Chemical Company",
+        "title": "Secondary electrical energy storage device and electrode therefor",
+        "patent_id": "patent/US4865931A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4865931A%2Fen"
+      },
+      {
+        "publication_number": "JPH06318454A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-05-07",
+        "publication_date": "1994-11-15",
+        "assignee_original": "Matsushita Electric Ind Co Ltd",
+        "title": "Nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/JPH06318454A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH06318454A%2Fen"
+      },
+      {
+        "publication_number": "JP2975516B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-11-19",
+        "publication_date": "1999-11-10",
+        "assignee_original": "\u4e09\u4e95\u91d1\u5c5e\u9271\u696d\u682a\u5f0f\u4f1a\u793e",
+        "title": "Positive electrode active material for dry batteries and alkaline dry batteries",
+        "patent_id": "patent/JP2975516B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2975516B2%2Fen"
+      },
+      {
+        "publication_number": "JP3894615B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-03-18",
+        "publication_date": "2007-03-22",
+        "assignee_original": "\u77f3\u539f\u7523\u696d\u682a\u5f0f\u4f1a\u793e",
+        "title": "Lithium titanate, method for producing the same, and lithium battery using the same",
+        "patent_id": "patent/JP3894615B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3894615B2%2Fen"
+      },
+      {
+        "publication_number": "JP3538500B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-06-12",
+        "publication_date": "2004-06-14",
+        "assignee_original": "\u65e5\u6a5f\u88c5\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/JP3538500B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3538500B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20030082446A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-10-20",
+        "publication_date": "2003-05-01",
+        "assignee_original": "Yet-Ming Chiang",
+        "title": "Reticulated and controlled porosity battery structures",
+        "patent_id": "patent/US20030082446A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030082446A1%2Fen"
+      },
+      {
+        "publication_number": "US20030099884A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-07-27",
+        "publication_date": "2003-05-29",
+        "assignee_original": "A123Systems, Inc.",
+        "title": "Battery structures, self-organizing structures and related methods",
+        "patent_id": "patent/US20030099884A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030099884A1%2Fen"
+      },
+      {
+        "publication_number": "US20040005265A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-12-21",
+        "publication_date": "2004-01-08",
+        "assignee_original": "Massachusetts Institute Of Technology",
+        "title": "Conductive lithium storage electrode",
+        "patent_id": "patent/US20040005265A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040005265A1%2Fen"
+      },
+      {
+        "publication_number": "US20040018430A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-07-26",
+        "publication_date": "2004-01-29",
+        "assignee_original": "A123 Systems, Inc.",
+        "title": "Electrodes and related devices",
+        "patent_id": "patent/US20040018430A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040018430A1%2Fen"
+      },
+      {
+        "publication_number": "US20040043293A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-29",
+        "publication_date": "2004-03-04",
+        "assignee_original": "Quallion Llc,",
+        "title": "Negative electrode for a nonaqueous battery",
+        "patent_id": "patent/US20040043293A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040043293A1%2Fen"
+      },
+      {
+        "publication_number": "US20050026037A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-07-26",
+        "publication_date": "2005-02-03",
+        "assignee_original": "A123 Systems, Inc.",
+        "title": "Bipolar articles and related methods",
+        "patent_id": "patent/US20050026037A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050026037A1%2Fen"
+      },
+      {
+        "publication_number": "US20050034993A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-06-23",
+        "publication_date": "2005-02-17",
+        "assignee_original": "A123 Systems, Inc.",
+        "title": "Polymer composition for encapsulation of electrode particles",
+        "patent_id": "patent/US20050034993A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050034993A1%2Fen"
+      },
+      {
+        "publication_number": "US20050233219A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-06",
+        "publication_date": "2005-10-20",
+        "assignee_original": "Gozdz Antoni S",
+        "title": "Lithium secondary cell with high charge and discharge rate capability",
+        "patent_id": "patent/US20050233219A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050233219A1%2Fen"
+      },
+      {
+        "publication_number": "US6998192B1",
+        "primary_language": "en",
+        "priority_date": "2002-08-29",
+        "publication_date": "2006-02-14",
+        "assignee_original": "Quallion Llc",
+        "title": "Negative electrode for a nonaqueous battery",
+        "patent_id": "patent/US6998192B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6998192B1%2Fen"
+      },
+      {
+        "publication_number": "US20060064130A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-09-23",
+        "publication_date": "2006-03-23",
+        "assignee_original": "Joanna Dodd",
+        "title": "Implantable defibrillator having reduced battery volume",
+        "patent_id": "patent/US20060064130A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060064130A1%2Fen"
+      },
+      {
+        "publication_number": "US20060097691A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-11-05",
+        "publication_date": "2006-05-11",
+        "assignee_original": "Mino Green",
+        "title": "Structured silicon anode",
+        "patent_id": "patent/US20060097691A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060097691A1%2Fen"
+      },
+      {
+        "publication_number": "US20060257738A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-04-07",
+        "publication_date": "2006-11-16",
+        "assignee_original": "Seok Koo Kim",
+        "title": "Constitution of the dispersant in the preparation of the electrode active material slurry and the use of the dispersant",
+        "patent_id": "patent/US20060257738A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060257738A1%2Fen"
+      },
+      {
+        "publication_number": "US20070166617A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-06",
+        "publication_date": "2007-07-19",
+        "assignee_original": "A123 Systems, Inc.",
+        "title": "Lithium secondary cell with high charge and discharge rate capability and low impedance growth",
+        "patent_id": "patent/US20070166617A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070166617A1%2Fen"
+      },
+      {
+        "publication_number": "US7387851B2",
+        "primary_language": "en",
+        "priority_date": "2001-07-27",
+        "publication_date": "2008-06-17",
+        "assignee_original": "A123 Systems, Inc.",
+        "title": "Self-organizing battery structure with electrode particles that exert a repelling force on the opposite electrode",
+        "patent_id": "patent/US7387851B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7387851B2%2Fen"
+      },
+      {
+        "publication_number": "US20090202903A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-05-25",
+        "publication_date": "2009-08-13",
+        "assignee_original": "Massachusetts Institute Of Technology",
+        "title": "Batteries and electrodes for use thereof",
+        "patent_id": "patent/US20090202903A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090202903A1%2Fen"
+      },
+      {
+        "publication_number": "US20090263707A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-16",
+        "publication_date": "2009-10-22",
+        "assignee_original": "Buckley James P",
+        "title": "High Energy Lithium Ion Secondary Batteries",
+        "patent_id": "patent/US20090263707A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090263707A1%2Fen"
+      },
+      {
+        "publication_number": "US20090286159A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-05-13",
+        "publication_date": "2009-11-19",
+        "assignee_original": "Gerhard Nuspl",
+        "title": "Lithium secondary battery and electrodes for use therein",
+        "patent_id": "patent/US20090286159A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090286159A1%2Fen"
+      },
+      {
+        "publication_number": "US7662265B2",
+        "primary_language": "en",
+        "priority_date": "2000-10-20",
+        "publication_date": "2010-02-16",
+        "assignee_original": "Massachusetts Institute Of Technology",
+        "title": "Electrophoretic assembly of electrochemical devices",
+        "patent_id": "patent/US7662265B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7662265B2%2Fen"
+      },
+      {
+        "publication_number": "US20100086853A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-07",
+        "publication_date": "2010-04-08",
+        "assignee_original": "Subramanian Venkatachalam",
+        "title": "Positive electrode materials for lithium ion batteries having a high specific discharge capacity and processes for the synthesis of these materials",
+        "patent_id": "patent/US20100086853A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100086853A1%2Fen"
+      },
+      {
+        "publication_number": "US20100112443A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-11-03",
+        "publication_date": "2010-05-06",
+        "assignee_original": "George Blomgren",
+        "title": "Lithium Secondary Batteries with Positive Electrode Compositions and Their Methods of Manufacturing",
+        "patent_id": "patent/US20100112443A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100112443A1%2Fen"
+      },
+      {
+        "publication_number": "US20100151324A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-01-23",
+        "publication_date": "2010-06-17",
+        "assignee_original": "Mino Green",
+        "title": "Method of fabricating fibres composed of silicon or a silicon-based material and their use in lithium rechargeable batteries",
+        "patent_id": "patent/US20100151324A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100151324A1%2Fen"
+      },
+      {
+        "publication_number": "US20100151332A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-11",
+        "publication_date": "2010-06-17",
+        "assignee_original": "Herman Lopez",
+        "title": "Positive electrode materials for high discharge capacity lithium ion batteries",
+        "patent_id": "patent/US20100151332A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100151332A1%2Fen"
+      },
+      {
+        "publication_number": "US20100178565A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-07-17",
+        "publication_date": "2010-07-15",
+        "assignee_original": "Mino Green",
+        "title": "Method of fabricating structured particles composed of silicon or a silicon-based material and their use in lithium rechargeable batteries",
+        "patent_id": "patent/US20100178565A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100178565A1%2Fen"
+      },
+      {
+        "publication_number": "US20100190057A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-07-17",
+        "publication_date": "2010-07-29",
+        "assignee_original": "Mino Green",
+        "title": "Method",
+        "patent_id": "patent/US20100190057A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100190057A1%2Fen"
+      },
+      {
+        "publication_number": "US20100196760A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-07-17",
+        "publication_date": "2010-08-05",
+        "assignee_original": "Mino Green",
+        "title": "Production",
+        "patent_id": "patent/US20100196760A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100196760A1%2Fen"
+      },
+      {
+        "publication_number": "CN101155756B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-05",
+        "publication_date": "2010-12-08",
+        "assignee_original": "\u5357\u65b9\u5316\u5b66\u80a1\u4efd\u516c\u53f8",
+        "title": "Crystalline ion-conducting nanomaterials and preparation methods thereof",
+        "patent_id": "patent/CN101155756B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101155756B%2Fen"
+      },
+      {
+        "publication_number": "US20110017528A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-07-24",
+        "publication_date": "2011-01-27",
+        "assignee_original": "Sujeet Kumar",
+        "title": "Lithium ion batteries with long cycling performance",
+        "patent_id": "patent/US20110017528A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110017528A1%2Fen"
+      },
+      {
+        "publication_number": "US20110070490A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-01-19",
+        "publication_date": "2011-03-24",
+        "assignee_original": "The Regents Of The University Of California",
+        "title": "Carbon electrodes for electrochemical applications",
+        "patent_id": "patent/US20110070490A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110070490A1%2Fen"
+      },
+      {
+        "publication_number": "US20110111298A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-11-11",
+        "publication_date": "2011-05-12",
+        "assignee_original": "Lopez Herman A",
+        "title": "Coated positive electrode materials for lithium ion batteries",
+        "patent_id": "patent/US20110111298A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110111298A1%2Fen"
+      },
+      {
+        "publication_number": "US20110136019A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-04",
+        "publication_date": "2011-06-09",
+        "assignee_original": "Shabab Amiruddin",
+        "title": "Lithium ion battery with high voltage electrolytes and additives",
+        "patent_id": "patent/US20110136019A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110136019A1%2Fen"
+      },
+      {
+        "publication_number": "US20110236751A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-26",
+        "publication_date": "2011-09-29",
+        "assignee_original": "Shabab Amiruddin",
+        "title": "High voltage battery formation protocols and control of charging and discharging for desirable long term cycling performance",
+        "patent_id": "patent/US20110236751A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110236751A1%2Fen"
+      },
+      {
+        "publication_number": "US8435678B2",
+        "primary_language": "en",
+        "priority_date": "2005-02-03",
+        "publication_date": "2013-05-07",
+        "assignee_original": "A123 Systems, LLC",
+        "title": "Electrode material with enhanced ionic transport properties",
+        "patent_id": "patent/US8435678B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8435678B2%2Fen"
+      },
+      {
+        "publication_number": "US8585918B2",
+        "primary_language": "en",
+        "priority_date": "2006-01-23",
+        "publication_date": "2013-11-19",
+        "assignee_original": "Nexeon Ltd.",
+        "title": "Method of etching a silicon-based material",
+        "patent_id": "patent/US8585918B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8585918B2%2Fen"
+      },
+      {
+        "publication_number": "US8741484B2",
+        "primary_language": "en",
+        "priority_date": "2010-04-02",
+        "publication_date": "2014-06-03",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Doped positive electrode active materials and lithium ion secondary battery constructed therefrom",
+        "patent_id": "patent/US8741484B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8741484B2%2Fen"
+      },
+      {
+        "publication_number": "US8772174B2",
+        "primary_language": "en",
+        "priority_date": "2010-04-09",
+        "publication_date": "2014-07-08",
+        "assignee_original": "Nexeon Ltd.",
+        "title": "Method of fabricating structured particles composed of silicon or silicon-based material and their use in lithium rechargeable batteries",
+        "patent_id": "patent/US8772174B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8772174B2%2Fen"
+      },
+      {
+        "publication_number": "US8932759B2",
+        "primary_language": "en",
+        "priority_date": "2008-10-10",
+        "publication_date": "2015-01-13",
+        "assignee_original": "Nexeon Ltd.",
+        "title": "Method of fabricating structured particles composed of silicon or a silicon-based material",
+        "patent_id": "patent/US8932759B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8932759B2%2Fen"
+      },
+      {
+        "publication_number": "US8945774B2",
+        "primary_language": "en",
+        "priority_date": "2010-06-07",
+        "publication_date": "2015-02-03",
+        "assignee_original": "Nexeon Ltd.",
+        "title": "Additive for lithium ion rechageable battery cells",
+        "patent_id": "patent/US8945774B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8945774B2%2Fen"
+      },
+      {
+        "publication_number": "US8962183B2",
+        "primary_language": "en",
+        "priority_date": "2009-05-07",
+        "publication_date": "2015-02-24",
+        "assignee_original": "Nexeon Limited",
+        "title": "Method of making silicon anode material for rechargeable cells",
+        "patent_id": "patent/US8962183B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8962183B2%2Fen"
+      },
+      {
+        "publication_number": "US9065093B2",
+        "primary_language": "en",
+        "priority_date": "2011-04-07",
+        "publication_date": "2015-06-23",
+        "assignee_original": "Massachusetts Institute Of Technology",
+        "title": "Controlled porosity in electrodes",
+        "patent_id": "patent/US9065093B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9065093B2%2Fen"
+      },
+      {
+        "publication_number": "US9083062B2",
+        "primary_language": "en",
+        "priority_date": "2010-08-02",
+        "publication_date": "2015-07-14",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Battery packs for vehicles and high capacity pouch secondary batteries for incorporation into compact battery packs",
+        "patent_id": "patent/US9083062B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9083062B2%2Fen"
+      },
+      {
+        "publication_number": "US9159990B2",
+        "primary_language": "en",
+        "priority_date": "2011-08-19",
+        "publication_date": "2015-10-13",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "High capacity lithium ion battery formation protocol and corresponding batteries",
+        "patent_id": "patent/US9159990B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9159990B2%2Fen"
+      },
+      {
+        "publication_number": "US9166222B2",
+        "primary_language": "en",
+        "priority_date": "2010-11-02",
+        "publication_date": "2015-10-20",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Lithium ion batteries with supplemental lithium",
+        "patent_id": "patent/US9166222B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9166222B2%2Fen"
+      },
+      {
+        "publication_number": "US9184438B2",
+        "primary_language": "en",
+        "priority_date": "2008-10-10",
+        "publication_date": "2015-11-10",
+        "assignee_original": "Nexeon Ltd.",
+        "title": "Method of fabricating structured particles composed of silicon or a silicon-based material and their use in lithium rechargeable batteries",
+        "patent_id": "patent/US9184438B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9184438B2%2Fen"
+      },
+      {
+        "publication_number": "US9252426B2",
+        "primary_language": "en",
+        "priority_date": "2007-05-11",
+        "publication_date": "2016-02-02",
+        "assignee_original": "Nexeon Limited",
+        "title": "Silicon anode for a rechargeable battery",
+        "patent_id": "patent/US9252426B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9252426B2%2Fen"
+      },
+      {
+        "publication_number": "US9608272B2",
+        "primary_language": "en",
+        "priority_date": "2009-05-11",
+        "publication_date": "2017-03-28",
+        "assignee_original": "Nexeon Limited",
+        "title": "Composition for a secondary battery cell",
+        "patent_id": "patent/US9608272B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9608272B2%2Fen"
+      },
+      {
+        "publication_number": "US9647263B2",
+        "primary_language": "en",
+        "priority_date": "2010-09-03",
+        "publication_date": "2017-05-09",
+        "assignee_original": "Nexeon Limited",
+        "title": "Electroactive material",
+        "patent_id": "patent/US9647263B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9647263B2%2Fen"
+      },
+      {
+        "publication_number": "US9780358B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-04",
+        "publication_date": "2017-10-03",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Battery designs with high capacity anode materials and cathode materials",
+        "patent_id": "patent/US9780358B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9780358B2%2Fen"
+      },
+      {
+        "publication_number": "US9853292B2",
+        "primary_language": "en",
+        "priority_date": "2009-05-11",
+        "publication_date": "2017-12-26",
+        "assignee_original": "Nexeon Limited",
+        "title": "Electrode composition for a secondary battery cell",
+        "patent_id": "patent/US9853292B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9853292B2%2Fen"
+      },
+      {
+        "publication_number": "US9871248B2",
+        "primary_language": "en",
+        "priority_date": "2010-09-03",
+        "publication_date": "2018-01-16",
+        "assignee_original": "Nexeon Limited",
+        "title": "Porous electroactive material",
+        "patent_id": "patent/US9871248B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9871248B2%2Fen"
+      },
+      {
+        "publication_number": "US20180175383A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-12-27",
+        "publication_date": "2018-06-21",
+        "assignee_original": "Palo Alto Research Center Incorporated",
+        "title": "Structures for interdigitated finger co-extrusion",
+        "patent_id": "patent/US20180175383A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180175383A1%2Fen"
+      },
+      {
+        "publication_number": "US20190081314A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-09-09",
+        "publication_date": "2019-03-14",
+        "assignee_original": "Brian G. Morin",
+        "title": "Lithium energy storage device with internal fuse",
+        "patent_id": "patent/US20190081314A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190081314A1%2Fen"
+      },
+      {
+        "publication_number": "US10290871B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-04",
+        "publication_date": "2019-05-14",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Battery cell engineering and design to reach high energy",
+        "patent_id": "patent/US10290871B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10290871B2%2Fen"
+      },
+      {
+        "publication_number": "WO2019195843A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-04-06",
+        "publication_date": "2019-10-10",
+        "assignee_original": "Rowan University",
+        "title": "Bio-ionic liquid hydrogels and use of same",
+        "patent_id": "patent/WO2019195843A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019195843A1%2Fen"
+      },
+      {
+        "publication_number": "US10569480B2",
+        "primary_language": "en",
+        "priority_date": "2014-10-03",
+        "publication_date": "2020-02-25",
+        "assignee_original": "Massachusetts Institute Of Technology",
+        "title": "Pore orientation using magnetic fields",
+        "patent_id": "patent/US10569480B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10569480B2%2Fen"
+      },
+      {
+        "publication_number": "US10675819B2",
+        "primary_language": "en",
+        "priority_date": "2014-10-03",
+        "publication_date": "2020-06-09",
+        "assignee_original": "Massachusetts Institute Of Technology",
+        "title": "Magnetic field alignment of emulsions to produce porous articles",
+        "patent_id": "patent/US10675819B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10675819B2%2Fen"
+      },
+      {
+        "publication_number": "US10707526B2",
+        "primary_language": "en",
+        "priority_date": "2015-03-27",
+        "publication_date": "2020-07-07",
+        "assignee_original": "New Dominion Enterprises Inc.",
+        "title": "All-inorganic solvents for electrolytes",
+        "patent_id": "patent/US10707526B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10707526B2%2Fen"
+      },
+      {
+        "publication_number": "US10707531B1",
+        "primary_language": "en",
+        "priority_date": "2016-09-27",
+        "publication_date": "2020-07-07",
+        "assignee_original": "New Dominion Enterprises Inc.",
+        "title": "All-inorganic solvents for electrolytes",
+        "patent_id": "patent/US10707531B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10707531B1%2Fen"
+      },
+      {
+        "publication_number": "US11094925B2",
+        "primary_language": "en",
+        "priority_date": "2017-12-22",
+        "publication_date": "2021-08-17",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Electrodes with silicon oxide active materials for lithium ion cells achieving high capacity, high energy density and long cycle life performance",
+        "patent_id": "patent/US11094925B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11094925B2%2Fen"
+      },
+      {
+        "publication_number": "US11476494B2",
+        "primary_language": "en",
+        "priority_date": "2013-08-16",
+        "publication_date": "2022-10-18",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Lithium ion batteries with high capacity anode active material and good cycling for consumer electronics",
+        "patent_id": "patent/US11476494B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11476494B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US6221527B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-01",
+        "publication_date": "2001-04-24",
+        "assignee_original": "Eveready Battery Company, Inc.",
+        "title": "Electrode for an electrochemical cell including ribbons",
+        "patent_id": "patent/US6221527B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6221527B1%2Fen"
+      },
+      {
+        "publication_number": "JP2001202948A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-01-19",
+        "publication_date": "2001-07-27",
+        "assignee_original": "Sanyo Electronic Components Co Ltd",
+        "title": "Active material for positive electrode and method of fabrication",
+        "patent_id": "patent/JP2001202948A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2001202948A%2Fen"
+      },
+      {
+        "publication_number": "JP4330290B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-06-20",
+        "publication_date": "2009-09-16",
+        "assignee_original": "\u4e09\u6d0b\u96fb\u6a5f\u682a\u5f0f\u4f1a\u793e",
+        "title": "Method for producing electrode for lithium secondary battery",
+        "patent_id": "patent/JP4330290B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4330290B2%2Fen"
+      },
+      {
+        "publication_number": "JP3812459B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-02-26",
+        "publication_date": "2006-08-23",
+        "assignee_original": "\u30c8\u30e8\u30bf\u81ea\u52d5\u8eca\u682a\u5f0f\u4f1a\u793e",
+        "title": "Vehicle power supply control device",
+        "patent_id": "patent/JP3812459B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3812459B2%2Fen"
+      },
+      {
+        "publication_number": "DE10328316A1",
+        "primary_language": "en",
+        "priority_date": "2003-06-23",
+        "publication_date": "2005-01-20",
+        "assignee_original": "Gr\u00fcnenthal GmbH",
+        "title": "Process for the preparation of dimethyl (3-aryl-butyl) -amine compounds as pharmaceutical active ingredients",
+        "patent_id": "patent/DE10328316A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10328316A1%2Fen"
+      },
+      {
+        "publication_number": "US7785661B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-19",
+        "publication_date": "2010-08-31",
+        "assignee_original": "Conocophillips Company",
+        "title": "Methods of preparing composite carbon-graphite-silicon particles and using same",
+        "patent_id": "patent/US7785661B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7785661B2%2Fen"
+      },
+      {
+        "publication_number": "US7618678B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-19",
+        "publication_date": "2009-11-17",
+        "assignee_original": "Conocophillips Company",
+        "title": "Carbon-coated silicon particle powders as the anode material for lithium ion batteries and the method of making the same",
+        "patent_id": "patent/US7618678B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7618678B2%2Fen"
+      },
+      {
+        "publication_number": "JP4715093B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-01-13",
+        "publication_date": "2011-07-06",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\uff27\uff53\u30e6\u30a2\u30b5",
+        "title": "Electrochemical devices",
+        "patent_id": "patent/JP4715093B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4715093B2%2Fen"
+      },
+      {
+        "publication_number": "JP2006147210A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-11-17",
+        "publication_date": "2006-06-08",
+        "assignee_original": "Hitachi Ltd",
+        "title": "Secondary battery and manufacturing method thereof",
+        "patent_id": "patent/JP2006147210A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2006147210A%2Fen"
+      },
+      {
+        "publication_number": "US20060240290A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-20",
+        "publication_date": "2006-10-26",
+        "assignee_original": "Holman Richard K",
+        "title": "High rate pulsed battery",
+        "patent_id": "patent/US20060240290A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060240290A1%2Fen"
+      },
+      {
+        "publication_number": "EP1715112A3",
+        "primary_language": "en",
+        "priority_date": "2005-04-21",
+        "publication_date": "2006-11-02",
+        "assignee_original": "Aktiebolaget SKF",
+        "title": "Eigenfrequency oscillation dampering unit",
+        "patent_id": "patent/EP1715112A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1715112A3%2Fen"
+      },
+      {
+        "publication_number": "US8781532B2",
+        "primary_language": "en",
+        "priority_date": "2005-09-19",
+        "publication_date": "2014-07-15",
+        "assignee_original": "Google Inc.",
+        "title": "Customized data retrieval applications for mobile devices providing interpretation of markup language data",
+        "patent_id": "patent/US8781532B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8781532B2%2Fen"
+      },
+      {
+        "publication_number": "US8694925B1",
+        "primary_language": "en",
+        "priority_date": "2005-10-05",
+        "publication_date": "2014-04-08",
+        "assignee_original": "Google Inc.",
+        "title": "Generating customized graphical user interfaces for mobile processing devices",
+        "patent_id": "patent/US8694925B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8694925B1%2Fen"
+      },
+      {
+        "publication_number": "US20070092429A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-24",
+        "publication_date": "2007-04-26",
+        "assignee_original": "Conocophillips Company",
+        "title": "Methods of preparing carbon-coated particles and using same",
+        "patent_id": "patent/US20070092429A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070092429A1%2Fen"
+      },
+      {
+        "publication_number": "DE102005052588A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-02",
+        "publication_date": "2007-05-10",
+        "assignee_original": "Gr\u00fcnenthal GmbH",
+        "title": "Process for the preparation of substituted dimethyl- (3-aryl-butyl) -amine compounds by means of homogeneous catalysis",
+        "patent_id": "patent/DE102005052588A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102005052588A1%2Fen"
+      },
+      {
+        "publication_number": "GB0610237D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-05-23",
+        "publication_date": "2006-07-05",
+        "assignee_original": "Univ Brunel",
+        "title": "Lithographically printed voltaic cells",
+        "patent_id": "patent/GB0610237D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB0610237D0%2Fen"
+      },
+      {
+        "publication_number": "TWI496762B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-07-24",
+        "publication_date": "2015-08-21",
+        "title": "Process for the preparation of (1r,2r)-3-(3-dimethylamino-1-ethyl-2-methyl-propyl)-phenol",
+        "patent_id": "patent/TWI496762B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI496762B%2Fen"
+      },
+      {
+        "publication_number": "JP5039956B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-07",
+        "publication_date": "2012-10-03",
+        "assignee_original": "\u30c8\u30e8\u30bf\u81ea\u52d5\u8eca\u682a\u5f0f\u4f1a\u793e",
+        "title": "Negative electrode active material, negative electrode and lithium secondary battery",
+        "patent_id": "patent/JP5039956B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5039956B2%2Fen"
+      },
+      {
+        "publication_number": "US9166230B1",
+        "primary_language": "en",
+        "priority_date": "2007-01-12",
+        "publication_date": "2015-10-20",
+        "assignee_original": "Enovix Corporation",
+        "title": "Three-dimensional battery having current-reducing devices corresponding to electrodes",
+        "patent_id": "patent/US9166230B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9166230B1%2Fen"
+      },
+      {
+        "publication_number": "KR101041932B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-15",
+        "publication_date": "2011-06-16",
+        "assignee_original": "\ud55c\uad6d\uacfc\ud559\uae30\uc220\uc5f0\uad6c\uc6d0",
+        "title": "Electrode for secondary battery and manufacturing method thereof, and secondary battery using same",
+        "patent_id": "patent/KR101041932B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101041932B1%2Fen"
+      },
+      {
+        "publication_number": "CN102428763A",
+        "primary_language": "en",
+        "priority_date": "2009-05-19",
+        "publication_date": "2012-04-25",
+        "assignee_original": "\u7eb3\u7c73\u7cfb\u7edf\u516c\u53f8",
+        "title": "Nanostructured materials for battery applications",
+        "patent_id": "patent/CN102428763A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102428763A%2Fen"
+      },
+      {
+        "publication_number": "US9843027B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-09-14",
+        "publication_date": "2017-12-12",
+        "assignee_original": "Enovix Corporation",
+        "title": "Battery cell having package anode plate in contact with a plurality of dies",
+        "patent_id": "patent/US9843027B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9843027B1%2Fen"
+      },
+      {
+        "publication_number": "US9004001B2",
+        "primary_language": "en",
+        "priority_date": "2010-12-17",
+        "publication_date": "2015-04-14",
+        "assignee_original": "Palo Alto Research Center Incorporated",
+        "title": "Interdigitated finger coextrusion device",
+        "patent_id": "patent/US9004001B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9004001B2%2Fen"
+      },
+      {
+        "publication_number": "US9589692B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-12-17",
+        "publication_date": "2017-03-07",
+        "assignee_original": "Palo Alto Research Center Incorporated",
+        "title": "Interdigitated electrode device",
+        "patent_id": "patent/US9589692B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9589692B2%2Fen"
+      },
+      {
+        "publication_number": "GB2492167C",
+        "primary_language": "en",
+        "priority_date": "2011-06-24",
+        "publication_date": "2018-12-05",
+        "assignee_original": "Nexeon Ltd",
+        "title": "Structured particles",
+        "patent_id": "patent/GB2492167C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2492167C%2Fen"
+      },
+      {
+        "publication_number": "GB2500163B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-08-18",
+        "publication_date": "2016-02-24",
+        "assignee_original": "Nexeon Ltd",
+        "title": "Method",
+        "patent_id": "patent/GB2500163B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2500163B%2Fen"
+      },
+      {
+        "publication_number": "CN102522595B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-12-31",
+        "publication_date": "2014-07-16",
+        "assignee_original": "\u8463\u76f8\u76db",
+        "title": "Flexible thin film lithium ion battery and manufacturing method thereof",
+        "patent_id": "patent/CN102522595B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102522595B%2Fen"
+      },
+      {
+        "publication_number": "US9595360B2",
+        "primary_language": "en",
+        "priority_date": "2012-01-13",
+        "publication_date": "2017-03-14",
+        "assignee_original": "Energy Power Systems LLC",
+        "title": "Metallic alloys having amorphous, nano-crystalline, or microcrystalline structure",
+        "patent_id": "patent/US9595360B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9595360B2%2Fen"
+      },
+      {
+        "publication_number": "EP2807698B1",
+        "primary_language": "en",
+        "priority_date": "2012-01-24",
+        "publication_date": "2018-01-10",
+        "assignee_original": "Enovix Corporation",
+        "title": "Ionically permeable structures for energy storage devices",
+        "patent_id": "patent/EP2807698B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2807698B1%2Fen"
+      },
+      {
+        "publication_number": "WO2013114095A1",
+        "primary_language": "en",
+        "priority_date": "2012-01-30",
+        "publication_date": "2013-08-08",
+        "assignee_original": "Nexeon Limited",
+        "title": "Composition of si/c electro active material",
+        "patent_id": "patent/WO2013114095A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013114095A1%2Fen"
+      },
+      {
+        "publication_number": "GB2499984B",
+        "primary_language": "en",
+        "priority_date": "2012-02-28",
+        "publication_date": "2014-08-06",
+        "assignee_original": "Nexeon Ltd",
+        "title": "Composite particles comprising a removable filler",
+        "patent_id": "patent/GB2499984B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2499984B%2Fen"
+      },
+      {
+        "publication_number": "US20130309550A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-05-18",
+        "publication_date": "2013-11-21",
+        "assignee_original": "Energy Power Systems Llc.",
+        "title": "Lead-acid battery with high power density and energy density",
+        "patent_id": "patent/US20130309550A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130309550A1%2Fen"
+      },
+      {
+        "publication_number": "US20130309554A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-05-18",
+        "publication_date": "2013-11-21",
+        "assignee_original": "Energy Power Systems, LLC",
+        "title": "Lead-acid battery with high specific power and specific energy",
+        "patent_id": "patent/US20130309554A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130309554A1%2Fen"
+      },
+      {
+        "publication_number": "GB2502625B",
+        "primary_language": "en",
+        "priority_date": "2012-06-06",
+        "publication_date": "2015-07-29",
+        "assignee_original": "Nexeon Ltd",
+        "title": "Method of forming silicon",
+        "patent_id": "patent/GB2502625B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2502625B%2Fen"
+      },
+      {
+        "publication_number": "US9484569B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-06-13",
+        "publication_date": "2016-11-01",
+        "assignee_original": "24M Technologies, Inc.",
+        "title": "Electrochemical slurry compositions and methods for preparing the same",
+        "patent_id": "patent/US9484569B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9484569B2%2Fen"
+      },
+      {
+        "publication_number": "US9660292B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-16",
+        "publication_date": "2017-05-23",
+        "assignee_original": "Enovix Corporation",
+        "title": "Electrode structures for three-dimensional batteries",
+        "patent_id": "patent/US9660292B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9660292B2%2Fen"
+      },
+      {
+        "publication_number": "GB2507535B",
+        "primary_language": "en",
+        "priority_date": "2012-11-02",
+        "publication_date": "2015-07-15",
+        "assignee_original": "Nexeon Ltd",
+        "title": "Multilayer electrode",
+        "patent_id": "patent/GB2507535B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2507535B%2Fen"
+      },
+      {
+        "publication_number": "US20140127564A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-07",
+        "publication_date": "2014-05-08",
+        "assignee_original": "Samsung Sdi Co., Ltd.",
+        "title": "Negative electrode for rechargeable lithium battery and rechargeable lithium battery including same",
+        "patent_id": "patent/US20140127564A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140127564A1%2Fen"
+      },
+      {
+        "publication_number": "US10821591B2",
+        "primary_language": "en",
+        "priority_date": "2012-11-13",
+        "publication_date": "2020-11-03",
+        "assignee_original": "Milwaukee Electric Tool Corporation",
+        "title": "High-power cordless, hand-held power tool including a brushless direct current motor",
+        "patent_id": "patent/US10821591B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10821591B2%2Fen"
+      },
+      {
+        "publication_number": "US9337471B2",
+        "primary_language": "en",
+        "priority_date": "2012-12-27",
+        "publication_date": "2016-05-10",
+        "assignee_original": "Palo Alto Research Center Incorporated",
+        "title": "Co-extrusion print head for multi-layer battery structures",
+        "patent_id": "patent/US9337471B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9337471B2%2Fen"
+      },
+      {
+        "publication_number": "US9590232B2",
+        "primary_language": "en",
+        "priority_date": "2012-12-27",
+        "publication_date": "2017-03-07",
+        "assignee_original": "Palo Alto Research Center Incorporated",
+        "title": "Three dimensional co-extruded battery electrodes",
+        "patent_id": "patent/US9590232B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9590232B2%2Fen"
+      },
+      {
+        "publication_number": "US9012090B2",
+        "primary_language": "en",
+        "priority_date": "2012-12-27",
+        "publication_date": "2015-04-21",
+        "assignee_original": "Palo Alto Research Center Incorporated",
+        "title": "Advanced, high power and energy battery electrode manufactured by co-extrusion printing",
+        "patent_id": "patent/US9012090B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9012090B2%2Fen"
+      },
+      {
+        "publication_number": "US9899669B2",
+        "primary_language": "en",
+        "priority_date": "2012-12-27",
+        "publication_date": "2018-02-20",
+        "assignee_original": "Palo Alto Research Center Incorporated",
+        "title": "Structures for interdigitated finger co-extrusion",
+        "patent_id": "patent/US9899669B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9899669B2%2Fen"
+      },
+      {
+        "publication_number": "US10800086B2",
+        "primary_language": "en",
+        "priority_date": "2013-08-26",
+        "publication_date": "2020-10-13",
+        "assignee_original": "Palo Alto Research Center Incorporated",
+        "title": "Co-extrusion of periodically modulated structures",
+        "patent_id": "patent/US10800086B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10800086B2%2Fen"
+      },
+      {
+        "publication_number": "US10873074B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-10-04",
+        "publication_date": "2020-12-22",
+        "assignee_original": "The Board Of Trustees Of The Leland Stanford Junior University",
+        "title": "Large-volume-change lithium battery electrodes",
+        "patent_id": "patent/US10873074B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10873074B2%2Fen"
+      },
+      {
+        "publication_number": "KR101567203B1",
+        "primary_language": "en",
+        "priority_date": "2014-04-09",
+        "publication_date": "2015-11-09",
+        "assignee_original": "(\uc8fc)\uc624\ub80c\uc9c0\ud30c\uc6cc",
+        "title": "Negative electrode material for rechargeable battery and method of fabricating the same",
+        "patent_id": "patent/KR101567203B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101567203B1%2Fen"
+      },
+      {
+        "publication_number": "KR101604352B1",
+        "primary_language": "en",
+        "priority_date": "2014-04-22",
+        "publication_date": "2016-03-18",
+        "assignee_original": "(\uc8fc)\uc624\ub80c\uc9c0\ud30c\uc6cc",
+        "title": "Negative electrode active material and rechargeable battery having the same",
+        "patent_id": "patent/KR101604352B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101604352B1%2Fen"
+      },
+      {
+        "publication_number": "US9882200B2",
+        "primary_language": "en",
+        "priority_date": "2014-07-31",
+        "publication_date": "2018-01-30",
+        "assignee_original": "Palo Alto Research Center Incorporated",
+        "title": "High energy and power Li-ion battery having low stress and long-term cycling capacity",
+        "patent_id": "patent/US9882200B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9882200B2%2Fen"
+      },
+      {
+        "publication_number": "GB2533161C",
+        "primary_language": "en",
+        "priority_date": "2014-12-12",
+        "publication_date": "2019-07-24",
+        "assignee_original": "Nexeon Ltd",
+        "title": "Electrodes for metal-ion batteries",
+        "patent_id": "patent/GB2533161C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2533161C%2Fen"
+      },
+      {
+        "publication_number": "US20160322131A1",
+        "primary_language": "en",
+        "priority_date": "2015-04-29",
+        "publication_date": "2016-11-03",
+        "assignee_original": "Palo Alto Research Center Incoporated",
+        "title": "Co-extrusion printing of filaments for superconducting wire",
+        "patent_id": "patent/US20160322131A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160322131A1%2Fen"
+      },
+      {
+        "publication_number": "US9755221B2",
+        "primary_language": "en",
+        "priority_date": "2015-06-26",
+        "publication_date": "2017-09-05",
+        "assignee_original": "Palo Alto Research Center Incorporated",
+        "title": "Co-extruded conformal battery separator and electrode",
+        "patent_id": "patent/US9755221B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9755221B2%2Fen"
+      },
+      {
+        "publication_number": "WO2017124098A1",
+        "primary_language": "en",
+        "priority_date": "2016-01-15",
+        "publication_date": "2017-07-20",
+        "assignee_original": "24M Technologies, Inc.",
+        "title": "Systems and methods for infusion mixing a slurry-based electrode",
+        "patent_id": "patent/WO2017124098A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017124098A1%2Fen"
+      },
+      {
+        "publication_number": "WO2017146088A1",
+        "primary_language": "en",
+        "priority_date": "2016-02-24",
+        "publication_date": "2017-08-31",
+        "assignee_original": "\u65e5\u672c\u788d\u5b50\u682a\u5f0f\u4f1a\u793e",
+        "title": "Plate-shaped lithium composite oxide",
+        "patent_id": "patent/WO2017146088A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017146088A1%2Fen"
+      },
+      {
+        "publication_number": "JP6483919B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-25",
+        "publication_date": "2019-03-13",
+        "assignee_original": "\u65e5\u672c\u788d\u5b50\u682a\u5f0f\u4f1a\u793e",
+        "title": "Positive electrode",
+        "patent_id": "patent/JP6483919B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6483919B2%2Fen"
+      },
+      {
+        "publication_number": "WO2017188238A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-25",
+        "publication_date": "2017-11-02",
+        "assignee_original": "\u65e5\u672c\u788d\u5b50\u682a\u5f0f\u4f1a\u793e",
+        "title": "Method for manufacturing positive electrode",
+        "patent_id": "patent/WO2017188238A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017188238A1%2Fen"
+      },
+      {
+        "publication_number": "EP3352255B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-25",
+        "publication_date": "2020-04-15",
+        "assignee_original": "NGK Insulators, Ltd.",
+        "title": "Positive electrode",
+        "patent_id": "patent/EP3352255B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3352255B1%2Fen"
+      },
+      {
+        "publication_number": "JP6943873B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-11",
+        "publication_date": "2021-10-06",
+        "assignee_original": "\u65e5\u672c\u788d\u5b50\u682a\u5f0f\u4f1a\u793e",
+        "title": "IC power supply and various IC products equipped with it, power supply method to IC, and IC drive method",
+        "patent_id": "patent/JP6943873B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6943873B2%2Fen"
+      },
+      {
+        "publication_number": "JP6995135B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-11-10",
+        "publication_date": "2022-01-14",
+        "assignee_original": "\u65e5\u672c\u788d\u5b50\u682a\u5f0f\u4f1a\u793e",
+        "title": "Secondary battery",
+        "patent_id": "patent/JP6995135B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6995135B2%2Fen"
+      },
+      {
+        "publication_number": "US10923730B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-14",
+        "publication_date": "2021-02-16",
+        "assignee_original": "Chang Chun Petrochemical Co., Ltd.",
+        "title": "Electrodeposited copper foil with anti-burr property",
+        "patent_id": "patent/US10923730B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10923730B2%2Fen"
+      },
+      {
+        "publication_number": "US11973178B2",
+        "primary_language": "en",
+        "priority_date": "2019-06-26",
+        "publication_date": "2024-04-30",
+        "assignee_original": "Ionblox, Inc.",
+        "title": "Lithium ion cells with high performance electrolyte and silicon oxide active materials achieving very long cycle life performance",
+        "patent_id": "patent/US11973178B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11973178B2%2Fen"
+      },
+      {
+        "publication_number": "KR20220052330A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-08-20",
+        "publication_date": "2022-04-27",
+        "assignee_original": "\uc778\ub514\uc5b8 \uc2a4\ud398\uc774\uc2a4 \ub9ac\uc11c\uce58 \uc624\uac70\ub108\uc81c\uc774\uc158",
+        "title": "Manufacturing method of composite anode for lithium ion battery",
+        "patent_id": "patent/KR20220052330A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20220052330A%2Fen"
+      },
+      {
+        "publication_number": "NO20221351A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-12-16",
+        "publication_date": "2024-06-17",
+        "assignee_original": "Beyonder As",
+        "title": "An energy storage device for providing a power to energy ratio of at least 25",
+        "patent_id": "patent/NO20221351A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNO20221351A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US6337156B1",
+      "primary_language": "en",
+      "publication_date": "2002-01-08",
+      "title": "Ion battery using high aspect ratio electrodes",
+      "patent_id": "patent/US6337156B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6337156B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101156608B1",
+      "primary_language": "en",
+      "publication_date": "2012-06-15",
+      "title": "High energy density lithium secondary battery",
+      "patent_id": "patent/KR101156608B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101156608B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6706447B2",
+      "primary_language": "en",
+      "publication_date": "2004-03-16",
+      "title": "Lithium metal dispersion in secondary battery anodes",
+      "patent_id": "patent/US6706447B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6706447B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7276314B2",
+      "primary_language": "en",
+      "publication_date": "2007-10-02",
+      "title": "Lithium metal dispersion in secondary battery anodes",
+      "patent_id": "patent/US7276314B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7276314B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11430988B2",
+      "primary_language": "en",
+      "publication_date": "2022-08-30",
+      "title": "Electrode and secondary battery including the same",
+      "patent_id": "patent/US11430988B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11430988B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110832673B",
+      "primary_language": "en",
+      "publication_date": "2022-04-19",
+      "title": "Separator including coating layer, lithium secondary battery including the same, and method of manufacturing the same",
+      "patent_id": "patent/CN110832673B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110832673B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2328214B1",
+      "primary_language": "en",
+      "publication_date": "2017-08-09",
+      "title": "Negative electrode for rechargeable lithium battery and rechargeable lithium battery including same",
+      "patent_id": "patent/EP2328214B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2328214B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101228115B1",
+      "primary_language": "en",
+      "publication_date": "2013-02-01",
+      "title": "Cathode, preparation method thereof, and lithium battery containing the same",
+      "patent_id": "patent/KR101228115B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101228115B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3405380B2",
+      "primary_language": "en",
+      "publication_date": "2003-05-12",
+      "title": "Non-aqueous electrolyte secondary battery and method of manufacturing the same",
+      "patent_id": "patent/JP3405380B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3405380B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2000311681A",
+      "primary_language": "en",
+      "publication_date": "2000-11-07",
+      "title": "Negative electrode material for secondary battery, electrode structural body, secondary battery and their manufacture",
+      "patent_id": "patent/JP2000311681A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000311681A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8535826B2",
+      "primary_language": "en",
+      "publication_date": "2013-09-17",
+      "title": "Rechargeable lithium battery",
+      "patent_id": "patent/US8535826B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8535826B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111527627B",
+      "primary_language": "en",
+      "publication_date": "2023-05-30",
+      "title": "Method for manufacturing negative electrode and negative electrode obtained thereby",
+      "patent_id": "patent/CN111527627B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111527627B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20060068291A1",
+      "primary_language": "en",
+      "publication_date": "2006-03-30",
+      "title": "Lithium cell and method of forming same",
+      "patent_id": "patent/US20060068291A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060068291A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO1997028569A1",
+      "primary_language": "en",
+      "publication_date": "1997-08-07",
+      "title": "ELECTROCHEMICAL CELL OR BATTERY WITH A NEGATIVE ELECTRODE COMPRISING VANADIUM OXIDE, V6O13, OR LITHIATED VANADIUM OXIDE, LiyV6O13, AS AN ACTIVE MATERIAL",
+      "patent_id": "patent/WO1997028569A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1997028569A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101049826B1",
+      "primary_language": "en",
+      "publication_date": "2011-07-15",
+      "title": "A positive electrode for a lithium secondary battery, a manufacturing method thereof, and a lithium secondary battery including the same",
+      "patent_id": "patent/KR101049826B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101049826B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2023542123A",
+      "primary_language": "en",
+      "publication_date": "2023-10-05",
+      "title": "Lithium-ion battery with high specific energy density",
+      "patent_id": "patent/JP2023542123A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2023542123A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2000011991A",
+      "primary_language": "en",
+      "publication_date": "2000-01-14",
+      "title": "Organic electrolyte secondary battery",
+      "patent_id": "patent/JP2000011991A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000011991A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20210104740A1",
+      "primary_language": "en",
+      "publication_date": "2021-04-08",
+      "title": "Methods of prelithiating silicon-containing electrodes",
+      "patent_id": "patent/US20210104740A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210104740A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20090027901A",
+      "primary_language": "en",
+      "publication_date": "2009-03-18",
+      "title": "Manufacturing Method of Lithium Secondary Battery",
+      "patent_id": "patent/KR20090027901A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20090027901A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12211994B2",
+      "primary_language": "en",
+      "publication_date": "2025-01-28",
+      "title": "Electrode and lithium secondary battery comprising same",
+      "patent_id": "patent/US12211994B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12211994B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR102671198B1",
+      "primary_language": "en",
+      "publication_date": "2024-05-31",
+      "title": "Separator coating layer for lithium metal battery, separator for lithium metal battery, and lithium metal battery comprising the same",
+      "patent_id": "patent/KR102671198B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102671198B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR102475433B1",
+      "primary_language": "en",
+      "publication_date": "2022-12-06",
+      "title": "Anode, Preparation Method Thereof and Lithium Secandary Battery Comprising Same",
+      "patent_id": "patent/KR102475433B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102475433B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100432669B1",
+      "primary_language": "en",
+      "publication_date": "2004-05-22",
+      "title": "Negative active material for rechargeable lithium batteries and preparing for same",
+      "patent_id": "patent/KR100432669B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100432669B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20240015431A",
+      "primary_language": "en",
+      "publication_date": "2024-02-05",
+      "title": "High-charge and high-stability lithium secondary battery manufacturing process through magnetic field application",
+      "patent_id": "patent/KR20240015431A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20240015431A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100542195B1",
+      "primary_language": "en",
+      "publication_date": "2006-01-10",
+      "title": "Anode active material for lithium secondary battery and lithium secondary battery comprising same",
+      "patent_id": "patent/KR100542195B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100542195B1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2001-12-20",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2004-12-05",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAT HOLDER NO LONGER CLAIMS SMALL ENTITY STATUS, ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: STOL); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2005-07-08",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2009-07-08",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2013-03-14",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    }
+  ]
+}

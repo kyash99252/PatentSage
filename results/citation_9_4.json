@@ -1,0 +1,1021 @@
+{
+  "search_metadata": {
+    "id": "685255d57d6e70da52722939",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4bff7f85d0df5bf4/685255d57d6e70da52722939.json",
+    "created_at": "2025-06-18 05:59:49 UTC",
+    "processed_at": "2025-06-18 05:59:49 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/DE10125760A1/en",
+    "raw_html_file": "https://serpapi.com/searches/4bff7f85d0df5bf4/685255d57d6e70da52722939.html",
+    "total_time_taken": 0.75
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/DE10125760A1/en"
+  },
+  "title": "Device, for controlling nuclear fusion in opposing ion bundles, has symmetrical ion-deviating tubes comprising arc-like parts connected to reactor at one end by coaxial tubes",
+  "type": "patent",
+  "publication_number": "DE10125760A1",
+  "country": "Germany",
+  "prior_art_keywords": [
+    "ion",
+    "tubes",
+    "reactor",
+    "bundles",
+    "energy"
+  ],
+  "prior_art_date": "2001-05-17",
+  "application_number": "DE10125760A",
+  "inventors": [
+    {
+      "name": "Semen Bakal",
+      "link": "https://patents.google.com/?inventor=Semen+Bakal",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Semen+Bakal"
+    }
+  ],
+  "assignees": [
+    "Individual"
+  ],
+  "priority_date": "2001-05-17",
+  "filing_date": "2001-05-17",
+  "publication_date": "2002-11-21",
+  "worldwide_applications": {
+    "2001": [
+      {
+        "filing_date": "2001-05-17",
+        "country_code": "DE",
+        "application_number": "DE10125760A",
+        "document_id": "patent/DE10125760B4/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2001-05-17",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2001-05-17",
+      "title": "Priority to DE10125760A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/DE10125760B4/en"
+    },
+    {
+      "date": "2002-11-21",
+      "title": "Publication of DE10125760A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/DE10125760A1/en"
+    },
+    {
+      "date": "2006-03-16",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2006-03-16",
+      "title": "Publication of DE10125760B4",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/DE10125760B4/en"
+    },
+    {
+      "date": "2021-05-18",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=DE&NR=10125760A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/DE/10125760/1"
+    },
+    {
+      "text": "DPMA",
+      "link": "https://register.dpma.de/DPMAregister/pat/PatSchrifteneinsicht?docId=DE10125760A1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/DE10125760A1"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "G21B1/15",
+      "description": "Particle injectors for producing thermonuclear fusion reactions, e.g. pellet injectors",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G21B3/006",
+      "description": "Fusion by impact, e.g. cluster/beam interaction, ion beam collisions, impact on a target",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E30/10",
+      "description": "Nuclear fusion reactors",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Device for controlling nuclear fusion in opposing ion bundles comprises a reactor (1); accelerator (2); ion bundle injectors (3); magnetic field coils (4); a vacuum system (5); a boiler with heat carriers (6); lasers (7), plasma injectors (8); anodes (9) and symmetrical ion-deviating tubes (13) comprising two arc-like parts connected to the reactor at one end by coaxial tubes (12) and to each other at the other end by a straight section.   Dielectric plates (16) are on the straight sections of the ion deviating tubes, magnetic coils and in the arc-like parts of the ion deviating tubes. The device also has a generator (17) and the accelerator, plasma injectors, anodes, magnetic field coils and the lasers are parallel to the axis of the reactor and coaxial with the straight sections of the ion-deviating tubes. Preferred Features: The generator operates for a duration of 3-15 micro s with a frequency of 167-337 kHz for the periodic acceleration of the cyclically moving ion bundle.",
+  "description_link": "https://serpapi.com/searches/685255d57d6e70da52722939/google_patents_details/description.html",
+  "claims": [
+    "1. Vorrichtung zur kontrollierten Kernfusion in gegenl\u00e4ufigen Ionenb\u00fcndeln, mit \neinem Reaktor (1), Beschleunigern (2), Ionenb\u00fcndelinjektoren (3), \nMagnetfeldspulen (4), einem Vakuumsystem (5), einem Kessel mit \nW\u00e4rmetr\u00e4ger (6), Lasern (7), Plasmainjektoren (8), Anoden (9) und \nsymmetrisch angeordneten Ionenableitungsr\u00f6hren (13), dadurch \ngekennzeichnet, dass die Ionenableitungsr\u00f6hren (13) jeweils aus zwei \nbogenf\u00f6rmigen Teilen bestehen, die an dem einen Ende mittels koaxialer \nR\u00f6hren (12) mit dem Reaktor (1) und am anderen Ende durch einen \ngeradlinigen Abschnitt miteinander verbunden sind, an den geradlinigen \nAbschnitten der Ionenableitungsr\u00f6hren (13) Magnetspulen (15) und in den \nbogenf\u00f6rmigen Teilen der Ionenableitungsr\u00f6hren (13) dielektrische Scheiben \n(16) angeordnet sind, die Vorrichtung mit einem Generator (17) ausgestattet \nist, die Beschleuniger (2) mit den Ionenb\u00fcndelinjektoren (3), den \nPlasmainjektoren (8), den Anoden (9) und den Magnetfeldspulen (4) sowie die \nLaser (7) im Abstand 2 R parallel zur Achse des Reaktors (1) und koaxial mit \nden geradlinigen Abschnitten der Ionenableitungsr\u00f6hren (13) angeordnet sind \nund auf der Achse der aktiven Zone des Reaktors (1) Schutzwandungen (10) \nvorgesehen sind.1. Device for controlled nuclear fusion in counter-rotating ion bundles, with a reactor ( 1 ), accelerators ( 2 ), ion bundle injectors ( 3 ), magnetic field coils ( 4 ), a vacuum system ( 5 ), a boiler with heat transfer medium ( 6 ), lasers ( 7 ) , Plasma injectors ( 8 ), anodes ( 9 ) and symmetrically arranged ion discharge tubes ( 13 ), characterized in that the ion discharge tubes ( 13 ) each consist of two arcuate parts which are connected at one end to the reactor ( 1. ) By means of coaxial tubes ( 12 ) ) and are connected to one another at the other end by a rectilinear section, on the rectilinear sections of the ion discharge tubes ( 13 ) magnet coils ( 15 ) and in the arcuate parts of the ion discharge tubes ( 13 ) dielectric disks ( 16 ) are arranged, the device with a generator ( 17 ), the accelerator ( 2 ) with the ion beam injectors ( 3 ), the plasma injectors ( 8 ), the anodes ( 9 ) and the magnetic field coils ( 4 ) and the lasers ( 7 ) at a distance of 2 R parallel to the axis of the reactor ( 1 ) and coaxial with the straight sections of the ion discharge tubes ( 13 ) and on the axis of the active zone of the reactor ( 1 ) protective walls ( 10 ) are provided.",
+    "2. Vorrichtung nach Anspruch 1, dadurch gekennzeichnet, dass der Generator \n(17) mit einer Dauer von 3 \u00b5s bis 1,5 \u00b5s und einer Frequenz von \u03c9 = 167 kHz \n bis 337 kHz f\u00fcr die periodische Beschleunigung der sich zyklisch bewegenden \nIonenb\u00fcndel erzeugt und die dielektrischen Scheiben (16) in den \nbogenf\u00f6rmigen Teilen der Ionenableitungsr\u00f6hren (13) vertikal angeordnet sind.2. Device according to claim 1, characterized in that the generator ( 17 ) with a duration of 3 \u00b5s to 1.5 \u00b5s and a frequency of \u03c9 = 167 kHz to 337 kHz for the periodic acceleration of the cyclically moving ion bundle and generates dielectric disks ( 16 ) are arranged vertically in the arcuate parts of the ion discharge tubes ( 13 ).",
+    "3. Vorrichtung nach Anspruch 1 oder 2, dadurch gekennzeichnet, dass die \nBeschleuniger (2) den Ionen eine Energie von 10 keV bis 100 keV verleihen \nund der Plasmainjektor (8) Plasmoide mit einer Ionendichte von \u03c1 = 1015 \nIonen/cm3 bis 1019 Ionen/cm3 und einer Dauer von \u03c4 = 1,5 \u00b5s bis 3 \u00b5s durch \nEntladung des Kondensators mit einer Energie von 10 kJ bis 50 kJ bei Einsatz \neines Laserb\u00fcndels mit einer Energie von 5 J bis 10 J und \u03c4 = 10 ns erzeugt.3. Device according to claim 1 or 2, characterized in that the accelerators ( 2 ) give the ions an energy of 10 keV to 100 keV and the plasma injector ( 8 ) plasmoids with an ion density of \u03c1 = 10 15 ions / cm 3 to 10 19 ions / cm 3 and a duration of \u03c4 = 1.5 \u00b5s to 3 \u00b5s by discharging the capacitor with an energy of 10 kJ to 50 kJ when using a laser beam with an energy of 5 J to 10 J and \u03c4 = 10 ns .",
+    "4. Vorrichtung nach einem der Anspr\u00fcche 1 bis 3, dadurch gekennzeichnet, \ndass die gegenl\u00e4ufigen Ionenb\u00fcndel eine Dichte von \u03c1 = 1015 Ionen/cm3 bis \n1019 Ionen/cm3 und eine Ionenenergie E = 10 keV bis 100 keV aufweisen.4. Device according to one of claims 1 to 3, characterized in that the opposing ion bundles have a density of \u03c1 = 10 15 ions / cm 3 to 10 19 ions / cm 3 and an ion energy E = 10 keV to 100 keV."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "DE10125760A",
+      "representative_publication": "DE10125760B4",
+      "primary_language": "en",
+      "priority_date": "2001-05-17",
+      "filing_date": "2001-05-17",
+      "title": "Apparatus for generating collisions of opposing ion bundles"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "DE10125760A",
+      "representative_publication": "DE10125760B4",
+      "primary_language": "en",
+      "priority_date": "2001-05-17",
+      "filing_date": "2001-05-17",
+      "title": "Apparatus for generating collisions of opposing ion bundles"
+    }
+  ],
+  "family_id": "7686280",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "US4246067A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1978-08-30",
+        "publication_date": "1981-01-20",
+        "assignee_original": "Linlor William I",
+        "title": "Thermonuclear fusion system",
+        "patent_id": "patent/US4246067A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4246067A%2Fen"
+      },
+      {
+        "publication_number": "US4240873A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1978-09-22",
+        "publication_date": "1980-12-23",
+        "assignee_original": "Linlor William I",
+        "title": "Solenoidal fusion system",
+        "patent_id": "patent/US4240873A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4240873A%2Fen"
+      },
+      {
+        "publication_number": "IT1204166B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-06-27",
+        "publication_date": "1989-03-01",
+        "assignee_original": "Ansaldo Spa",
+        "title": "PARTICLE BAND THERMONUCLEAR MELTING PROCEDURE",
+        "patent_id": "patent/IT1204166B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIT1204166B%2Fen"
+      },
+      {
+        "publication_number": "DE19910146B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-03-31",
+        "publication_date": "2006-08-10",
+        "assignee_original": "Bakal, Semen, Dr.",
+        "title": "Apparatus for generating collisions of opposing ion bundles",
+        "patent_id": "patent/DE19910146B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE19910146B4%2Fen"
+      },
+      {
+        "publication_number": "DE10033969B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-07-06",
+        "publication_date": "2006-07-13",
+        "assignee_original": "Bakal, Semen, Dr.",
+        "title": "Apparatus for generating collisions of opposing ion bundles",
+        "patent_id": "patent/DE10033969B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10033969B4%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "FR2936899A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-07",
+        "publication_date": "2010-04-09",
+        "assignee_original": "Pierre Marcel Bourgogne",
+        "title": "Thermonuclear fusion realizing device i.e. pressure confining multi-reactor, for producing electricity in district heating application, has chambers filled with reaction gas mixed with gas to be confined e.g. nitrogen, argon or neon",
+        "patent_id": "patent/FR2936899A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2936899A1%2Fen"
+      },
+      {
+        "publication_number": "WO2010040912A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-07",
+        "publication_date": "2010-04-15",
+        "assignee_original": "Pierre Bourgogne",
+        "title": "Thermonuclear fusion multi-reactor",
+        "patent_id": "patent/WO2010040912A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2010040912A1%2Fen"
+      },
+      {
+        "publication_number": "WO2022106154A2",
+        "primary_language": "en",
+        "priority_date": "2020-11-20",
+        "publication_date": "2022-05-27",
+        "assignee_original": "Sakalauskas Viktoras",
+        "title": "Thermonuclear reaction method and reactor",
+        "patent_id": "patent/WO2022106154A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022106154A2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "DE202014000799U1",
+        "primary_language": "en",
+        "priority_date": "2014-01-24",
+        "publication_date": "2014-05-08",
+        "assignee_original": "Semen Bakal",
+        "title": "Thermonuclear Experimental Reactor",
+        "patent_id": "patent/DE202014000799U1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE202014000799U1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "DE60209226T2",
+      "primary_language": "en",
+      "publication_date": "2006-11-23",
+      "title": "CONTROLLED FUSION IN A FIELD CHANGE CONFIGURATION AND DIRECT ENERGY TRANSFORMATION",
+      "patent_id": "patent/DE60209226T2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE60209226T2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE69616315T2",
+      "primary_language": "en",
+      "publication_date": "2002-07-18",
+      "title": "ENERGY STORAGE",
+      "patent_id": "patent/DE69616315T2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE69616315T2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE2124442A1",
+      "primary_language": "en",
+      "publication_date": "1972-05-04",
+      "title": "Process and device for controlled atomic nuclear fusion by means of artificial plasma",
+      "patent_id": "patent/DE2124442A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE2124442A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE3104461A1",
+      "primary_language": "en",
+      "publication_date": "1982-02-18",
+      "title": "METHOD FOR GENERATING HIGHLY CHARGED HEAVY IONS, DEVICE FOR IMPLEMENTING THE METHOD, AND USING THIS METHOD",
+      "patent_id": "patent/DE3104461A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE3104461A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE1222589B",
+      "primary_language": "en",
+      "publication_date": "1966-08-11",
+      "title": "Device for generating a space-charge-neutralized beam of charged particles",
+      "patent_id": "patent/DE1222589B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE1222589B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1671333B1",
+      "primary_language": "en",
+      "publication_date": "2010-05-19",
+      "title": "Method and device for generating alfven waves",
+      "patent_id": "patent/EP1671333B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1671333B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE3424449A1",
+      "primary_language": "en",
+      "publication_date": "1985-01-17",
+      "title": "SOURCE FOR NEGATIVE IONS",
+      "patent_id": "patent/DE3424449A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE3424449A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE10125760B4",
+      "primary_language": "en",
+      "publication_date": "2006-03-16",
+      "title": "Apparatus for generating collisions of opposing ion bundles",
+      "patent_id": "patent/DE10125760B4/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10125760B4%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE10033969B4",
+      "primary_language": "en",
+      "publication_date": "2006-07-13",
+      "title": "Apparatus for generating collisions of opposing ion bundles",
+      "patent_id": "patent/DE10033969B4/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10033969B4%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DD251664A5",
+      "primary_language": "en",
+      "publication_date": "1987-11-18",
+      "title": "MACROSPOPIC DEVICE AND METHOD FOR FORMING A COHERENT BEAM OF BOSONES",
+      "patent_id": "patent/DD251664A5/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDD251664A5%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO1999016291A1",
+      "primary_language": "en",
+      "publication_date": "1999-04-01",
+      "title": "Method for generating energy by controlled plasma-induced nuclear fusion and device for the implementation of said method",
+      "patent_id": "patent/WO1999016291A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1999016291A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE19910146B4",
+      "primary_language": "en",
+      "publication_date": "2006-08-10",
+      "title": "Apparatus for generating collisions of opposing ion bundles",
+      "patent_id": "patent/DE19910146B4/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE19910146B4%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE1414949B2",
+      "primary_language": "en",
+      "publication_date": "1971-11-25",
+      "title": "DEVICE FOR GENERATING NUCLEAR FUSION REACTIONS",
+      "patent_id": "patent/DE1414949B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE1414949B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102020116549B3",
+      "primary_language": "en",
+      "publication_date": "2021-12-23",
+      "title": "Neutron generator and power generation system",
+      "patent_id": "patent/DE102020116549B3/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102020116549B3%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102023001479A1",
+      "primary_language": "en",
+      "publication_date": "2024-10-17",
+      "title": "fusion reactor",
+      "patent_id": "patent/DE102023001479A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102023001479A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE1077800B",
+      "primary_language": "en",
+      "publication_date": "1960-03-17",
+      "title": "Process and device for carrying out nuclear reactions",
+      "patent_id": "patent/DE1077800B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE1077800B%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16186660816766350402",
+      "scholar_authors": "Allardyce et al.",
+      "publication_date": "1990",
+      "title": "ISOLDE: A new client for the CERN PS Booster",
+      "patent_id": "scholar/16186660816766350402",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16186660816766350402"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE202004014903U1",
+      "primary_language": "en",
+      "publication_date": "2005-01-13",
+      "title": "Ion collision fusion reactor has ellipsoidal reaction chamber and periodically changing magnetic field coils in the curved section of the ion guide tubes",
+      "patent_id": "patent/DE202004014903U1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE202004014903U1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2000067535A1",
+      "primary_language": "en",
+      "publication_date": "2000-11-09",
+      "title": "Nuclear fusion machine for releasing energy with fewer neutrons and with average fusion reactant energies greater than 30 kev",
+      "patent_id": "patent/WO2000067535A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2000067535A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2025088029A2",
+      "primary_language": "en",
+      "publication_date": "2025-05-01",
+      "title": "Ion current generator for generating electrical energy from the induction of current",
+      "patent_id": "patent/WO2025088029A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025088029A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102009035298A1",
+      "primary_language": "en",
+      "publication_date": "2010-04-08",
+      "title": "Nuclear fusion device for use with aggregates to produce electricity, has ionization chamber for generating ions in initial area of evacuated ion beam tube, where impulse-controlled nuclear fusion events are carried out simultaneously",
+      "patent_id": "patent/DE102009035298A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102009035298A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE2657129C3",
+      "primary_language": "en",
+      "publication_date": "1979-11-08",
+      "title": "Charge exchanger",
+      "patent_id": "patent/DE2657129C3/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE2657129C3%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102015011836A1",
+      "primary_language": "en",
+      "publication_date": "2017-03-09",
+      "title": "Method and apparatus for operating a nuclear fusion power plant",
+      "patent_id": "patent/DE102015011836A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102015011836A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE1414949C",
+      "primary_language": "en",
+      "publication_date": "1972-06-22",
+      "title": "Device for inducing nuclear fusion reactions",
+      "patent_id": "patent/DE1414949C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE1414949C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102004004937A1",
+      "primary_language": "en",
+      "publication_date": "2005-01-27",
+      "title": "Reactor, for producing thermal energy, comprises two particle accelerators and reaction chamber between them at end of acceleration line",
+      "patent_id": "patent/DE102004004937A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102004004937A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2003-03-20",
+      "code": "8110",
+      "title": "Request for examination paragraph 44"
+    },
+    {
+      "date": "2006-09-14",
+      "code": "8364",
+      "title": "No opposition during term of opposition"
+    },
+    {
+      "date": "2012-06-29",
+      "code": "R409",
+      "title": "Internal rectification of the legal status completed"
+    },
+    {
+      "date": "2012-07-30",
+      "code": "R409",
+      "title": "Internal rectification of the legal status completed"
+    },
+    {
+      "date": "2019-12-03",
+      "code": "R119",
+      "title": "Application deemed withdrawn, or ip right lapsed, due to non-payment of renewal fee"
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "230000004927",
+        "name": "fusion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "230000001133",
+        "name": "acceleration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000000737",
+        "name": "periodic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000002500",
+        "name": "ions",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 62
+      },
+      {
+        "id": "238000010884",
+        "name": "ion-beam technique",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000001681",
+        "name": "protective effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000003990",
+        "name": "capacitor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012546",
+        "name": "transfer",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000007599",
+        "name": "discharging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000969",
+        "name": "carrier",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005265",
+        "name": "energy consumption",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000006835",
+        "name": "compression",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000007906",
+        "name": "compression",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000007423",
+        "name": "decrease",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000005684",
+        "name": "electric field",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000015572",
+        "name": "biosynthetic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052805",
+        "name": "deuterium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004969",
+        "name": "ion scattering spectroscopy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005855",
+        "name": "radiation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "YZCKVEUIGOORGS-OUBTZVSYSA-N",
+        "name": "Deuterium",
+        "domain": "Chemical compound",
+        "smiles": "[2H]",
+        "inchi_key": "YZCKVEUIGOORGS-OUBTZVSYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007792",
+        "name": "addition",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003245",
+        "name": "coal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002485",
+        "name": "combustion reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011109",
+        "name": "contamination",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005474",
+        "name": "detonation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "-1",
+        "name": "deuterium ion",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002474",
+        "name": "experimental method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002349",
+        "name": "favourable effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004992",
+        "name": "fission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006698",
+        "name": "induction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011835",
+        "name": "investigation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000014759",
+        "name": "maintenance of location",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000010355",
+        "name": "oscillation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003534",
+        "name": "oscillatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002245",
+        "name": "particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008092",
+        "name": "positive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002285",
+        "name": "radioactive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011160",
+        "name": "research",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002887",
+        "name": "superconductor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001360",
+        "name": "synchronised effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

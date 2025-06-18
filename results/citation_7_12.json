@@ -1,0 +1,4704 @@
+{
+  "search_metadata": {
+    "id": "685256c30d0b29d1efd6da05",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5aab340b8202e1f6/685256c30d0b29d1efd6da05.json",
+    "created_at": "2025-06-18 06:03:47 UTC",
+    "processed_at": "2025-06-18 06:03:47 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US6420071B1/en",
+    "raw_html_file": "https://serpapi.com/searches/5aab340b8202e1f6/685256c30d0b29d1efd6da05.html",
+    "total_time_taken": 1.73
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US6420071B1/en"
+  },
+  "title": "Method for improving the durability of ion insertion materials",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/e1/f2/fb/5b3048f02c941d/US6420071.pdf",
+  "publication_number": "US6420071B1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "ion",
+    "electrochemical cell",
+    "ion conducting",
+    "solid",
+    "layer"
+  ],
+  "prior_art_date": "2000-03-21",
+  "application_number": "US09/532,168",
+  "inventors": [
+    {
+      "name": "Se-Hee Lee",
+      "link": "https://patents.google.com/?inventor=Se-Hee+Lee",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Se-Hee+Lee"
+    },
+    {
+      "name": "C. Edwin Tracy",
+      "link": "https://patents.google.com/?inventor=C.+Edwin+Tracy",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=C.+Edwin+Tracy"
+    },
+    {
+      "name": "Hyeonsik M. Cheong",
+      "link": "https://patents.google.com/?inventor=Hyeonsik+M.+Cheong",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Hyeonsik+M.+Cheong"
+    }
+  ],
+  "assignees": [
+    "Alliance for Sustainable Energy LLC"
+  ],
+  "priority_date": "2000-03-21",
+  "filing_date": "2000-03-21",
+  "publication_date": "2002-07-16",
+  "worldwide_applications": {
+    "2000": [
+      {
+        "filing_date": "2000-03-21",
+        "country_code": "US",
+        "application_number": "US09/532,168",
+        "document_id": "patent/US6420071B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      }
+    ],
+    "2001": [
+      {
+        "filing_date": "2001-03-21",
+        "country_code": "WO",
+        "application_number": "PCT/US2001/009007",
+        "document_id": "patent/WO2001071827A2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Application Discontinuation"
+      },
+      {
+        "filing_date": "2001-03-21",
+        "country_code": "EP",
+        "application_number": "EP01920605A",
+        "document_id": "patent/EP1273056A2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      },
+      {
+        "filing_date": "2001-03-21",
+        "country_code": "AU",
+        "application_number": "AU2001247639A",
+        "document_id": "patent/AU2001247639A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      }
+    ],
+    "2002": [
+      {
+        "filing_date": "2002-01-29",
+        "country_code": "US",
+        "application_number": "US10/060,704",
+        "document_id": "patent/US20020076616A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2000-03-21",
+      "title": "Assigned to MIDWEST RESEARCH INSTITUTE",
+      "type": "reassignment",
+      "assignee_search": "MIDWEST RESEARCH INSTITUTE",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: LEE, SE-HEE, TRACY, C. EDWIN, CHEONG, HYEONSIK M."
+      ]
+    },
+    {
+      "date": "2000-03-21",
+      "title": "Priority to US09/532,168",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US6420071B1/en"
+    },
+    {
+      "date": "2000-03-21",
+      "title": "Application filed by Midwest Research Institute",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Midwest Research Institute"
+    },
+    {
+      "date": "2000-09-27",
+      "title": "Assigned to ENERGY, UNITED STATES DEPARTMENT OF",
+      "type": "reassignment",
+      "assignee_search": "ENERGY, UNITED STATES DEPARTMENT OF",
+      "description": [
+        "CONFIRMATORY LICENSE (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: MIDWEST RESEARCH INSTITUTE"
+      ]
+    },
+    {
+      "date": "2001-03-21",
+      "title": "Priority to PCT/US2001/009007",
+      "type": "priority",
+      "document_id": "patent/WO2001071827A2/en"
+    },
+    {
+      "date": "2001-03-21",
+      "title": "Priority to AU2001247639A",
+      "type": "priority",
+      "document_id": "patent/AU2001247639A1/en"
+    },
+    {
+      "date": "2001-03-21",
+      "title": "Priority to EP01920605A",
+      "type": "priority",
+      "document_id": "patent/EP1273056A2/en"
+    },
+    {
+      "date": "2002-01-29",
+      "title": "Priority to US10/060,704",
+      "type": "priority",
+      "document_id": "patent/US20020076616A1/en"
+    },
+    {
+      "date": "2002-07-16",
+      "title": "Publication of US6420071B1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US6420071B1/en"
+    },
+    {
+      "date": "2002-07-16",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2008-09-30",
+      "title": "Assigned to ALLIANCE FOR SUSTAINABLE ENERGY, LLC",
+      "type": "reassignment",
+      "assignee_search": "ALLIANCE FOR SUSTAINABLE ENERGY, LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: MIDWEST RESEARCH INSTITUTE"
+      ]
+    },
+    {
+      "date": "2020-03-21",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=6420071.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/09532168"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=6420071"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=6420071B1&KC=B1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/09532168/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US6420071"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/16/dc/61/18d77a3f694b5d/US06420071-20020716-D00000.png",
+    "https://patentimages.storage.googleapis.com/65/68/a1/6efa314653240e/US06420071-20020716-D00001.png",
+    "https://patentimages.storage.googleapis.com/4b/52/06/ad901f625c7efd/US06420071-20020716-D00002.png",
+    "https://patentimages.storage.googleapis.com/45/df/cd/6902c163c0c7ca/US06420071-20020716-D00003.png",
+    "https://patentimages.storage.googleapis.com/27/ab/82/20e894575b40fa/US06420071-20020716-D00004.png",
+    "https://patentimages.storage.googleapis.com/f2/68/9d/c15f7e74b8ac9a/US06420071-20020716-D00005.png",
+    "https://patentimages.storage.googleapis.com/00/63/51/1a31c42a3b1d30/US06420071-20020716-D00006.png",
+    "https://patentimages.storage.googleapis.com/c0/49/6e/cd2d5cf7d8b2b7/US06420071-20020716-D00007.png",
+    "https://patentimages.storage.googleapis.com/8e/c9/52/9660a3f9bb064c/US06420071-20020716-D00008.png"
+  ],
+  "classifications": [
+    {
+      "code": "H01M10/0525",
+      "description": "Rocking-chair batteries, i.e. batteries with lithium insertion or intercalation in both electrodes; Lithium-ion batteries",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G02F1/1533",
+      "description": "Constructional details structural features not otherwise provided for",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G02F2001/1536",
+      "description": "Constructional details structural features not otherwise provided for additional, e.g. protective, layer inside the cell",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/485",
+      "description": "Selection of substances as active materials, active masses, active liquids of inorganic oxides or hydroxides of mixed oxides or hydroxides for inserting or intercalating light metals, e.g. LiTi2O4 or LiTi2OxFy",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/66",
+      "description": "Selection of materials",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/46",
+      "description": "Separators, membranes or diaphragms characterised by their combination with electrodes",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M6/18",
+      "description": "Cells with non-aqueous electrolyte with solid electrolyte",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M6/183",
+      "description": "Cells with non-aqueous electrolyte with solid electrolyte with halogenide as solid electrolyte with fluoride as solid electrolyte",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T29/49108",
+      "description": "Electric battery cell making",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The invention provides a method of protecting an ion insertion material from the degradative effects of a liquid or gel-type electrolyte material by disposing a protective, solid ion conducting, electrically insulating, layer between the ion insertion layer and the liquid or gel-type electrolyte material. The invention further provides liquid or gel-type electrochemical cells having improved durability having a pair of electrodes, a pair of ion insertion layers sandwiched between the pair of electrodes, a pair of solid ion conducting layers sandwiched between the ion insertion layers, and a liquid or gel-type electrolyte material disposed between the solid ion conducting layers, where the solid ion conducting layer minimizes or prevents degradation of the faces of the ion insertion materials facing the liquid or gel-type electrolyte material. Electrochemical cells of this invention having increased durability include secondary lithium batteries and electrochromic devices.",
+  "description_link": "https://serpapi.com/searches/685256c30d0b29d1efd6da05/google_patents_details/description.html",
+  "claims": [
+    "1. A method of preventing degradation of an ion insertion material, wherein said ion insertion material has a surface which faces a liquid or polymer gel ion conducting material, said method comprising providing a solid ion conducting layer between said surface of said ion insertion material and said liquid or polymer gel ion conducting material.",
+    "2. The method of claim 1, wherein said solid ion conducting layer is a lithium phosphorous oxinitride.",
+    "3. The method of claim 1, wherein said solid ion conducting layer is lithium aluminum fluoride.",
+    "4. The method of claim 1, wherein said ion insertion material is an electrochromic material.",
+    "5. A method of producing a durable electrochemical cell, comprising:\n      (a) preparing a first electrode-equipped section by the method comprising: \n      (i) depositing a first ion insertion material on a first conducting material; and \n      (ii) depositing a first solid ion conducting material on said first ion insertion material; \n      (b) preparing a second electrode-equipped section by the method comprising \n      (i) depositing a second ion insertion material on a second conducting material; and \n      (ii) depositing a second solid ion conducting material on said second ion insertion material; \n      (c) disposing said first electrode-equipped section on said second electrode-equipped section, wherein said first solid ion conducting material is parallel to and spaced apart from said second solid ion conducting material by a plurality of spacers, wherein said first solid ion conducting material, said second ion conducting material, and said plurality of spacers define a void; and \n      (d) inserting a liquid or gel ion conducting material into said void.",
+    "6. The method of claim 5, wherein said first and second solid ion conducting layers are lithium aluminum fluoride.",
+    "7. The method of claim 5, wherein said first and second solid ion conducting layers are lithium phosphorous oxinitride.",
+    "8. The method of claim 5, wherein said first ion insertion layer is a cathodic electrochromic materials.",
+    "9. The method of claim 5, wherein said second ion insertion layer is an anodic electrochromic material.",
+    "10. The method of claim 5, wherein said first ion insertion layer is selected from the group consisting of transition metal oxides, transition metal sulfides, transition metal oxysulfides, transition metal halides, selenides, tellurides, chromates, molybdates, tungstates, vanadates, niobates, tantalates, titanates, and stannates.",
+    "11. The method of claim 10, wherein said first ion insertion layer is tungsten oxide.",
+    "12. The method of claim 5, wherein said second ion insertion layer is selected from the group consisting of V2O5, IrO2, and NiO2.",
+    "13. The method of claim 12, wherein said second ion insertion layer is V2O5.",
+    "14. The method of claim 5, wherein said first and second solid ion conducting layers have a thickness of about 1000 to 5000 Angstroms.",
+    "15. The method of claim 5, further comprising, prior to step (a)(i), depositing said first conducting material on a first substrate, and prior to step (b)(i), depositing said second conducting material on a second substrate.",
+    "16. An electrochemical cell having increased durability, comprising\n      first and second electrodes; \n      first and second ion insertion layers disposed on said first and second electrodes; \n      first and second solid ion conducting layers disposed on said first and second ion insertion layers; and \n      a liquid or gel ion conducting material disposed between said first and second solid ion conducting layers.",
+    "17. The electrochemical cell of claim 16, wherein said first and second solid ion conducting layers are lithium aluminum fluoride.",
+    "18. The electrochemical cell of claim 16, wherein said first and second solid ion conducting layers are lithium phosphorous oxinitride.",
+    "19. The electrochemical cell of claim 16, wherein said first ion insertion layer is a cathodic electrochromic material.",
+    "20. The electrochemical cell of claim 16, wherein said second ion insertion layer is an anodic electrochromic material.",
+    "21. The electrochemical cell of claim 16, wherein said first ion insertion layer is selected from the group consisting of transition metal oxides, transition metal sulfides, transition metal oxysulfides, transition metal halides, selenides, tellurides, chromates, molybdates, tungstates, vanadates, niobates, tantalates, titanates and stannates.",
+    "22. The electrochemical cell of claim 21, wherein said first ion insertion layer is tungsten oxide.",
+    "23. The electrochemical cell of claim 16, wherein said second ion insertion layer is selected from the group consisting of V2O5, IrO2, and NiO2.",
+    "24. The electrochemical cell of claim 23, wherein said second ion insertion layer is V2O5.",
+    "25. The electrochemical cell of claim 16, wherein said first and second solid ion conducting layers have a thickness of about 1000 to 5000 Angstroms.",
+    "26. The electrochemical cell of claim 16, wherein said first and second electrodes are connected to a voltage source in a reversible manner, such that polarity of voltage applied across said electrochemical cell is reversible.",
+    "27. The electrochemical cell of claim 16, further comprising a first substrate disposed on said first electrode on a side opposite that of said first ion insertion layer, and a second substrate disposed on said second electrode on a side opposite that of said second ion insertion layer.",
+    "28. The electrochemical cell of claim 16, wherein said cell is a lithium secondary battery.",
+    "29. The electrochemical cell of claim 16, wherein said cell is an electrochromic device.",
+    "30. The electrochemical cell of claim 16, the solid ion conducting material has positive ions and the liquid or gel ion conducting material has positive ions, and wherein the positive ions of the solid ion conducting material are identical to the positive ions of the liquid or gel ion conducting material."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US10/060,704",
+      "relation_type": "Division",
+      "representative_publication": "US20020076616A1",
+      "primary_language": "en",
+      "priority_date": "2000-03-21",
+      "filing_date": "2002-01-29",
+      "title": "Method of producing a durable electrochemical cell"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US09/532,168",
+      "representative_publication": "US6420071B1",
+      "primary_language": "en",
+      "priority_date": "2000-03-21",
+      "filing_date": "2000-03-21",
+      "title": "Method for improving the durability of ion insertion materials"
+    },
+    {
+      "application_number": "PCT/US2001/009007",
+      "representative_publication": "WO2001071827A2",
+      "primary_language": "en",
+      "priority_date": "2000-03-21",
+      "filing_date": "2001-03-21",
+      "title": "Method for improving the durability of ion insertion materials"
+    },
+    {
+      "application_number": "EP01920605A",
+      "representative_publication": "EP1273056A2",
+      "primary_language": "en",
+      "priority_date": "2000-03-21",
+      "filing_date": "2001-03-21",
+      "title": "Method for improving the durability of ion insertion materials"
+    },
+    {
+      "application_number": "AU2001247639A",
+      "representative_publication": "AU2001247639A1",
+      "primary_language": "en",
+      "priority_date": "2000-03-21",
+      "filing_date": "2001-03-21",
+      "title": "Method for improving the durability of ion insertion materials"
+    },
+    {
+      "application_number": "US10/060,704",
+      "representative_publication": "US20020076616A1",
+      "primary_language": "en",
+      "priority_date": "2000-03-21",
+      "filing_date": "2002-01-29",
+      "title": "Method of producing a durable electrochemical cell"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US09/532,168",
+      "representative_publication": "US6420071B1",
+      "primary_language": "en",
+      "priority_date": "2000-03-21",
+      "filing_date": "2000-03-21",
+      "title": "Method for improving the durability of ion insertion materials"
+    }
+  ],
+  "family_id": "24120631",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US4119770A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1976-05-07",
+        "publication_date": "1978-10-10",
+        "assignee_original": "Polaroid Corporation",
+        "title": "Electrical cells and batteries",
+        "patent_id": "patent/US4119770A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4119770A%2Fen"
+      },
+      {
+        "publication_number": "US4367267A",
+        "primary_language": "en",
+        "priority_date": "1980-04-25",
+        "publication_date": "1983-01-04",
+        "assignee_original": "Hitachi, Ltd.",
+        "title": "Amorphous lithium fluoaluminate",
+        "patent_id": "patent/US4367267A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4367267A%2Fen"
+      },
+      {
+        "publication_number": "US4668593A",
+        "primary_language": "en",
+        "priority_date": "1986-08-29",
+        "publication_date": "1987-05-26",
+        "assignee_original": "Eltron Research, Inc.",
+        "title": "Solvated electron lithium electrode for high energy density battery",
+        "patent_id": "patent/US4668593A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4668593A%2Fen"
+      },
+      {
+        "publication_number": "US5321544A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-09-04",
+        "publication_date": "1994-06-14",
+        "assignee_original": "Sun Active Glass Electrochromics, Inc.",
+        "title": "Electrochromic structures and methods",
+        "patent_id": "patent/US5321544A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5321544A%2Fen"
+      },
+      {
+        "publication_number": "US5404244A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-04-10",
+        "publication_date": "1995-04-04",
+        "assignee_original": "Sun Active Glass Electrochromics, Inc.",
+        "title": "Electrochromic structures and methods",
+        "patent_id": "patent/US5404244A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5404244A%2Fen"
+      },
+      {
+        "publication_number": "US5464706A",
+        "primary_language": "en",
+        "priority_date": "1994-03-02",
+        "publication_date": "1995-11-07",
+        "assignee_original": "Dasgupta; Sankar",
+        "title": "Current collector for lithium ion battery",
+        "patent_id": "patent/US5464706A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5464706A%2Fen"
+      },
+      {
+        "publication_number": "US5591540A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-06-26",
+        "publication_date": "1997-01-07",
+        "assignee_original": "Motorola, Inc.",
+        "title": "Packaging for an electrochemical device and device using same",
+        "patent_id": "patent/US5591540A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5591540A%2Fen"
+      },
+      {
+        "publication_number": "US5612153A",
+        "primary_language": "en",
+        "priority_date": "1995-04-13",
+        "publication_date": "1997-03-18",
+        "assignee_original": "Valence Technology, Inc.",
+        "title": "Battery mask from radiation curable and thermoplastic materials",
+        "patent_id": "patent/US5612153A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5612153A%2Fen"
+      },
+      {
+        "publication_number": "US5677081A",
+        "primary_language": "en",
+        "priority_date": "1994-09-21",
+        "publication_date": "1997-10-14",
+        "assignee_original": "Matsushita Electric Industrial Co., Ltd.",
+        "title": "Solid-state lithium secondary battery",
+        "patent_id": "patent/US5677081A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5677081A%2Fen"
+      },
+      {
+        "publication_number": "US5695887A",
+        "primary_language": "en",
+        "priority_date": "1996-05-09",
+        "publication_date": "1997-12-09",
+        "assignee_original": "Bell Communications Research, Inc.",
+        "title": "Chelation treatment for reduced self-discharge in Li-ion batteries",
+        "patent_id": "patent/US5695887A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5695887A%2Fen"
+      },
+      {
+        "publication_number": "US5705292A",
+        "primary_language": "en",
+        "priority_date": "1995-06-19",
+        "publication_date": "1998-01-06",
+        "assignee_original": "Sony Corporation",
+        "title": "Lithium ion secondary battery",
+        "patent_id": "patent/US5705292A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5705292A%2Fen"
+      },
+      {
+        "publication_number": "US5724177A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-09-04",
+        "publication_date": "1998-03-03",
+        "assignee_original": "Sun Active Glass Electrochromics, Inc.",
+        "title": "Electrochromic devices and methods",
+        "patent_id": "patent/US5724177A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5724177A%2Fen"
+      },
+      {
+        "publication_number": "US5728181A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-11-04",
+        "publication_date": "1998-03-17",
+        "assignee_original": "Motorola, Inc.",
+        "title": "Electrodes for electrochemical cells and method of making same",
+        "patent_id": "patent/US5728181A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5728181A%2Fen"
+      },
+      {
+        "publication_number": "US5919571A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-07-14",
+        "publication_date": "1999-07-06",
+        "assignee_original": "Minnesota Mining And Manufacturing Company",
+        "title": "Counterelectrode layer",
+        "patent_id": "patent/US5919571A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5919571A%2Fen"
+      },
+      {
+        "publication_number": "US5948562A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-11-03",
+        "publication_date": "1999-09-07",
+        "assignee_original": "Motorola, Inc.",
+        "title": "Energy storage device",
+        "patent_id": "patent/US5948562A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5948562A%2Fen"
+      },
+      {
+        "publication_number": "US6080511A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-06-12",
+        "publication_date": "2000-06-27",
+        "assignee_original": "Lithium Technology Corporation",
+        "title": "Composite polymer electrolytes for alkali metal electrochemical devices which contain a glass fiber net",
+        "patent_id": "patent/US6080511A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6080511A%2Fen"
+      },
+      {
+        "publication_number": "US6094292A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-10-15",
+        "publication_date": "2000-07-25",
+        "assignee_original": "Trustees Of Tufts College",
+        "title": "Electrochromic window with high reflectivity modulation",
+        "patent_id": "patent/US6094292A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6094292A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US5749927A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-05-24",
+        "publication_date": "1998-05-12",
+        "assignee_original": "W. R. Grace & Co. -Conn.",
+        "title": "Continuous process to produce lithium-polymer batteries",
+        "patent_id": "patent/US5749927A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5749927A%2Fen"
+      },
+      {
+        "publication_number": "AU1226699A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-10-09",
+        "publication_date": "1999-05-03",
+        "assignee_original": "Basf Aktiengesellschaft",
+        "title": "Composite suitable for use in electrochemical cells",
+        "patent_id": "patent/AU1226699A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU1226699A%2Fen"
+      },
+      {
+        "publication_number": "EP0971433A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-01-27",
+        "publication_date": "2003-09-03",
+        "assignee_original": "Yuasa Battery Co Ltd",
+        "title": "Lithium secondary battery of flat type",
+        "patent_id": "patent/EP0971433A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0971433A4%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "1) Kono, M.; Hayashi, E.; and Watanabe, M., \"Preparation, Mechanical Properties, and Electrochemical Characterization of Ploymer Gel Electrolytes Prepared from Poly (alkylene oxide) Macromonomers\", Journal of The Electrochemical Society, 146 (5) 1626-1632 (1999)."
+    },
+    {
+      "title": "2) Lee, S.; Liu, P.; Tracey, C.E.; Benson, D., \"All-Solid-State Rocking Chair Lithium Battery on a Flexible A1 Substrate\", Electrochemical and Solid-State Letters, 2 (9) 425-427 (1999)."
+    },
+    {
+      "title": "3) O'Brien, N.; Mathew, J.G.H.; Hichwa, B.P., \"Electrochromic Devices\", Vacuum & Thinfilm, pp. 28-32, Jul. 1999."
+    },
+    {
+      "title": "4) Mouchon, E.; Klein, L.C.; Picard, V.; Greenblatt, M., \"Sol-Gel Lithium Silicate Electrolyte Thin Films\", Mat. Res. Soc. Symp. Proc. vol. 346, pp. 189-200, 1994 Materials Research Society."
+    },
+    {
+      "title": "5) Lampert, C.M, \"Electrochromic Materials and Devices for Energy Efficient Windows\", Solar Energy Materials 11 Elsevier Science Publishers B.V. 1984 North-Holland, Amsterdam."
+    },
+    {
+      "title": "6) Beni, G.; Shay, J.L., \"Ion-Insertion Electrochromic Displays\", Advances in Image Pickup and Display, vol. 5. pp. 83-87, 1982."
+    },
+    {
+      "title": "7) Faughnan, B.W.; Crandall, R.S., \"Electrochromic Displays Based on WO3\", Display Devices, J.I. Pankove, Ed. 1980."
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20030003367A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-06-30",
+        "publication_date": "2003-01-02",
+        "assignee_original": "Roh Kwon-Sun",
+        "title": "Lithium battery and method for the preparation thereof",
+        "patent_id": "patent/US20030003367A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030003367A1%2Fen"
+      },
+      {
+        "publication_number": "US6645667B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-08-06",
+        "publication_date": "2003-11-11",
+        "assignee_original": "Matsushita Electric Industrial Co., Ltd.",
+        "title": "Lithium secondary cell",
+        "patent_id": "patent/US6645667B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6645667B1%2Fen"
+      },
+      {
+        "publication_number": "US20040021921A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-17",
+        "publication_date": "2004-02-05",
+        "assignee_original": "Richardson Thomas J.",
+        "title": "Electrochromic devices based on lithium insertion",
+        "patent_id": "patent/US20040021921A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040021921A1%2Fen"
+      },
+      {
+        "publication_number": "US6793692B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-05-15",
+        "publication_date": "2004-09-21",
+        "assignee_original": "Nisshinbo Industries, Inc.",
+        "title": "Electrical component and method for manufacturing the same",
+        "patent_id": "patent/US6793692B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6793692B2%2Fen"
+      },
+      {
+        "publication_number": "US20050064096A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-29",
+        "publication_date": "2005-03-24",
+        "assignee_original": "Tdk Corporation",
+        "title": "Method of making composite particle for electrode, method of making electrode, method of making electrochemical device, apparatus for making composite particle for electrode, apparatus for making electrode, and apparatus for making electrochemical device",
+        "patent_id": "patent/US20050064096A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050064096A1%2Fen"
+      },
+      {
+        "publication_number": "US20070292756A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-06-16",
+        "publication_date": "2007-12-20",
+        "assignee_original": "Sony Corporation",
+        "title": "Non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/US20070292756A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070292756A1%2Fen"
+      },
+      {
+        "publication_number": "US20080304131A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-06-07",
+        "publication_date": "2008-12-11",
+        "assignee_original": "Paul Nguyen",
+        "title": "Electrochromic devices and fabrication methods",
+        "patent_id": "patent/US20080304131A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080304131A1%2Fen"
+      },
+      {
+        "publication_number": "US20090057137A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-08-31",
+        "publication_date": "2009-03-05",
+        "assignee_original": "Midwest Research Institute",
+        "title": "Synthesizing thin films of lithiated transition metal oxide for use in electrochemical and battery devices",
+        "patent_id": "patent/US20090057137A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090057137A1%2Fen"
+      },
+      {
+        "publication_number": "US20090263707A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-16",
+        "publication_date": "2009-10-22",
+        "assignee_original": "Buckley James P",
+        "title": "High Energy Lithium Ion Secondary Batteries",
+        "patent_id": "patent/US20090263707A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090263707A1%2Fen"
+      },
+      {
+        "publication_number": "US20090285978A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-11",
+        "publication_date": "2009-11-19",
+        "assignee_original": "Sage Electrochromics, Inc.",
+        "title": "Electrochromic devices having improved ion conducting layers",
+        "patent_id": "patent/US20090285978A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090285978A1%2Fen"
+      },
+      {
+        "publication_number": "US20090323158A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-30",
+        "publication_date": "2009-12-31",
+        "assignee_original": "Zhongchun Wang",
+        "title": "Electrochromic Devices Based on Lithium Insertion",
+        "patent_id": "patent/US20090323158A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090323158A1%2Fen"
+      },
+      {
+        "publication_number": "US20100079845A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-01",
+        "publication_date": "2010-04-01",
+        "assignee_original": "Zhongchun Wang",
+        "title": "Reflection-Controllable Electrochromic Device Using A Base Metal As A Transparent Conductor",
+        "patent_id": "patent/US20100079845A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100079845A1%2Fen"
+      },
+      {
+        "publication_number": "US20100086854A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-30",
+        "publication_date": "2010-04-08",
+        "assignee_original": "Sujeet Kumar",
+        "title": "Fluorine doped lithium rich metal oxide positive electrode battery materials with high specific capacity and corresponding batteries",
+        "patent_id": "patent/US20100086854A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100086854A1%2Fen"
+      },
+      {
+        "publication_number": "US20100086853A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-07",
+        "publication_date": "2010-04-08",
+        "assignee_original": "Subramanian Venkatachalam",
+        "title": "Positive electrode materials for lithium ion batteries having a high specific discharge capacity and processes for the synthesis of these materials",
+        "patent_id": "patent/US20100086853A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100086853A1%2Fen"
+      },
+      {
+        "publication_number": "US20100143769A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-06-11",
+        "publication_date": "2010-06-10",
+        "assignee_original": "Midwest Research Institute",
+        "title": "Anodic Dendritic Growth Suppression System for Secondary Lithium Batteries",
+        "patent_id": "patent/US20100143769A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100143769A1%2Fen"
+      },
+      {
+        "publication_number": "US20100151332A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-11",
+        "publication_date": "2010-06-17",
+        "assignee_original": "Herman Lopez",
+        "title": "Positive electrode materials for high discharge capacity lithium ion batteries",
+        "patent_id": "patent/US20100151332A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100151332A1%2Fen"
+      },
+      {
+        "publication_number": "US20100245973A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-03-31",
+        "publication_date": "2010-09-30",
+        "assignee_original": "Soladigm, Inc.",
+        "title": "Electrochromic devices",
+        "patent_id": "patent/US20100245973A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100245973A1%2Fen"
+      },
+      {
+        "publication_number": "US20100273045A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-14",
+        "publication_date": "2010-10-28",
+        "assignee_original": "Masaki Hasegawa",
+        "title": "Nonaqueous electrolyte secondary battery and method for manufacturing the same",
+        "patent_id": "patent/US20100273045A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100273045A1%2Fen"
+      },
+      {
+        "publication_number": "US20100285372A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-06-11",
+        "publication_date": "2010-11-11",
+        "assignee_original": "Alliance For Sustainable Energy,Llc",
+        "title": "MultiLayer Solid Electrolyte for Lithium Thin Film Batteries",
+        "patent_id": "patent/US20100285372A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100285372A1%2Fen"
+      },
+      {
+        "publication_number": "US20110017528A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-07-24",
+        "publication_date": "2011-01-27",
+        "assignee_original": "Sujeet Kumar",
+        "title": "Lithium ion batteries with long cycling performance",
+        "patent_id": "patent/US20110017528A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110017528A1%2Fen"
+      },
+      {
+        "publication_number": "US20110052981A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-08-27",
+        "publication_date": "2011-03-03",
+        "assignee_original": "Lopez Herman A",
+        "title": "Layer-layer lithium rich complex metal oxides with high specific capacity and excellent cycling",
+        "patent_id": "patent/US20110052981A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110052981A1%2Fen"
+      },
+      {
+        "publication_number": "US20110076556A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-08-27",
+        "publication_date": "2011-03-31",
+        "assignee_original": "Deepak Kumaar Kandasamy Karthikeyan",
+        "title": "Metal oxide coated positive electrode materials for lithium-based batteries",
+        "patent_id": "patent/US20110076556A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110076556A1%2Fen"
+      },
+      {
+        "publication_number": "US20110111298A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-11-11",
+        "publication_date": "2011-05-12",
+        "assignee_original": "Lopez Herman A",
+        "title": "Coated positive electrode materials for lithium ion batteries",
+        "patent_id": "patent/US20110111298A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110111298A1%2Fen"
+      },
+      {
+        "publication_number": "US20110136019A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-04",
+        "publication_date": "2011-06-09",
+        "assignee_original": "Shabab Amiruddin",
+        "title": "Lithium ion battery with high voltage electrolytes and additives",
+        "patent_id": "patent/US20110136019A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110136019A1%2Fen"
+      },
+      {
+        "publication_number": "US20110151283A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-08-31",
+        "publication_date": "2011-06-23",
+        "assignee_original": "Alliance For Sustainable Energy, Llc.",
+        "title": "Thin film lithium-based batteries and electrochromic devices  fabricated with nanocomposite electrode materials",
+        "patent_id": "patent/US20110151283A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110151283A1%2Fen"
+      },
+      {
+        "publication_number": "US20110200868A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-07-15",
+        "publication_date": "2011-08-18",
+        "assignee_original": "Klaassen Jody J",
+        "title": "THIN-FILM BATTERIES WITH POLYMER AND LiPON ELECTROLYTE LAYERS AND METHOD",
+        "patent_id": "patent/US20110200868A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110200868A1%2Fen"
+      },
+      {
+        "publication_number": "US20110236751A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-26",
+        "publication_date": "2011-09-29",
+        "assignee_original": "Shabab Amiruddin",
+        "title": "High voltage battery formation protocols and control of charging and discharging for desirable long term cycling performance",
+        "patent_id": "patent/US20110236751A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110236751A1%2Fen"
+      },
+      {
+        "publication_number": "US20120147449A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-12-08",
+        "publication_date": "2012-06-14",
+        "assignee_original": "Soladigm, Inc.",
+        "title": "Spacers for insulated glass units",
+        "patent_id": "patent/US20120147449A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120147449A1%2Fen"
+      },
+      {
+        "publication_number": "US20120328952A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-29",
+        "publication_date": "2012-12-27",
+        "assignee_original": "Gleb Yushin",
+        "title": "Electrodes, lithium-ion batteries, and methods of making and using same",
+        "patent_id": "patent/US20120328952A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120328952A1%2Fen"
+      },
+      {
+        "publication_number": "US8663849B2",
+        "primary_language": "en",
+        "priority_date": "2010-09-22",
+        "publication_date": "2014-03-04",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Metal halide coatings on lithium ion battery positive electrode materials and corresponding batteries",
+        "patent_id": "patent/US8663849B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8663849B2%2Fen"
+      },
+      {
+        "publication_number": "US8741484B2",
+        "primary_language": "en",
+        "priority_date": "2010-04-02",
+        "publication_date": "2014-06-03",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Doped positive electrode active materials and lithium ion secondary battery constructed therefrom",
+        "patent_id": "patent/US8741484B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8741484B2%2Fen"
+      },
+      {
+        "publication_number": "KR101430615B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-09-19",
+        "publication_date": "2014-08-14",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Cathode and lithium battery employing it",
+        "patent_id": "patent/KR101430615B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101430615B1%2Fen"
+      },
+      {
+        "publication_number": "US8810889B2",
+        "primary_language": "en",
+        "priority_date": "2011-12-14",
+        "publication_date": "2014-08-19",
+        "assignee_original": "View, Inc.",
+        "title": "Connectors for smart windows",
+        "patent_id": "patent/US8810889B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8810889B2%2Fen"
+      },
+      {
+        "publication_number": "US8824038B2",
+        "primary_language": "en",
+        "priority_date": "2009-07-22",
+        "publication_date": "2014-09-02",
+        "assignee_original": "Jean-Christophe Giron",
+        "title": "Electrochromic device",
+        "patent_id": "patent/US8824038B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8824038B2%2Fen"
+      },
+      {
+        "publication_number": "US8928286B2",
+        "primary_language": "en",
+        "priority_date": "2010-09-03",
+        "publication_date": "2015-01-06",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Very long cycling of lithium ion batteries with lithium rich cathode materials",
+        "patent_id": "patent/US8928286B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8928286B2%2Fen"
+      },
+      {
+        "publication_number": "US9070489B2",
+        "primary_language": "en",
+        "priority_date": "2012-02-07",
+        "publication_date": "2015-06-30",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Mixed phase lithium metal oxide compositions with desirable battery performance",
+        "patent_id": "patent/US9070489B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9070489B2%2Fen"
+      },
+      {
+        "publication_number": "US9083062B2",
+        "primary_language": "en",
+        "priority_date": "2010-08-02",
+        "publication_date": "2015-07-14",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Battery packs for vehicles and high capacity pouch secondary batteries for incorporation into compact battery packs",
+        "patent_id": "patent/US9083062B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9083062B2%2Fen"
+      },
+      {
+        "publication_number": "US9159990B2",
+        "primary_language": "en",
+        "priority_date": "2011-08-19",
+        "publication_date": "2015-10-13",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "High capacity lithium ion battery formation protocol and corresponding batteries",
+        "patent_id": "patent/US9159990B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9159990B2%2Fen"
+      },
+      {
+        "publication_number": "US9166222B2",
+        "primary_language": "en",
+        "priority_date": "2010-11-02",
+        "publication_date": "2015-10-20",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Lithium ion batteries with supplemental lithium",
+        "patent_id": "patent/US9166222B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9166222B2%2Fen"
+      },
+      {
+        "publication_number": "US9442339B2",
+        "primary_language": "en",
+        "priority_date": "2010-12-08",
+        "publication_date": "2016-09-13",
+        "assignee_original": "View, Inc.",
+        "title": "Spacers and connectors for insulated glass units",
+        "patent_id": "patent/US9442339B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9442339B2%2Fen"
+      },
+      {
+        "publication_number": "US9454053B2",
+        "primary_language": "en",
+        "priority_date": "2011-12-12",
+        "publication_date": "2016-09-27",
+        "assignee_original": "View, Inc.",
+        "title": "Thin-film devices and fabrication",
+        "patent_id": "patent/US9454053B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9454053B2%2Fen"
+      },
+      {
+        "publication_number": "US9472789B2",
+        "primary_language": "en",
+        "priority_date": "2014-04-08",
+        "publication_date": "2016-10-18",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Thin, flexible microsystem with integrated energy source",
+        "patent_id": "patent/US9472789B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9472789B2%2Fen"
+      },
+      {
+        "publication_number": "US9482922B2",
+        "primary_language": "en",
+        "priority_date": "2011-03-16",
+        "publication_date": "2016-11-01",
+        "assignee_original": "View, Inc.",
+        "title": "Multipurpose controller for multistate windows",
+        "patent_id": "patent/US9482922B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9482922B2%2Fen"
+      },
+      {
+        "publication_number": "US9508566B2",
+        "primary_language": "en",
+        "priority_date": "2014-08-15",
+        "publication_date": "2016-11-29",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Wafer level overmold for three dimensional surfaces",
+        "patent_id": "patent/US9508566B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9508566B2%2Fen"
+      },
+      {
+        "publication_number": "US9552901B2",
+        "primary_language": "en",
+        "priority_date": "2012-08-17",
+        "publication_date": "2017-01-24",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Lithium ion batteries with high energy density, excellent cycling capability and low internal impedance",
+        "patent_id": "patent/US9552901B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9552901B2%2Fen"
+      },
+      {
+        "publication_number": "US9703167B2",
+        "primary_language": "en",
+        "priority_date": "2010-11-08",
+        "publication_date": "2017-07-11",
+        "assignee_original": "View, Inc.",
+        "title": "Electrochromic window fabrication methods",
+        "patent_id": "patent/US9703167B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9703167B2%2Fen"
+      },
+      {
+        "publication_number": "US9780358B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-04",
+        "publication_date": "2017-10-03",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Battery designs with high capacity anode materials and cathode materials",
+        "patent_id": "patent/US9780358B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9780358B2%2Fen"
+      },
+      {
+        "publication_number": "US9782949B2",
+        "primary_language": "en",
+        "priority_date": "2008-05-30",
+        "publication_date": "2017-10-10",
+        "assignee_original": "Corning Incorporated",
+        "title": "Glass laminated articles and layered articles",
+        "patent_id": "patent/US9782949B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9782949B2%2Fen"
+      },
+      {
+        "publication_number": "US9880440B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-01",
+        "publication_date": "2018-01-30",
+        "assignee_original": "Alliance For Sustainable Energy, Llc",
+        "title": "Electrochromic devices and related products and methods",
+        "patent_id": "patent/US9880440B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9880440B2%2Fen"
+      },
+      {
+        "publication_number": "US10105082B2",
+        "primary_language": "en",
+        "priority_date": "2014-08-15",
+        "publication_date": "2018-10-23",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Metal-oxide-semiconductor capacitor based sensor",
+        "patent_id": "patent/US10105082B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10105082B2%2Fen"
+      },
+      {
+        "publication_number": "US10115962B2",
+        "primary_language": "en",
+        "priority_date": "2012-12-20",
+        "publication_date": "2018-10-30",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "High capacity cathode material with stabilizing nanocoatings",
+        "patent_id": "patent/US10115962B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10115962B2%2Fen"
+      },
+      {
+        "publication_number": "US10170762B2",
+        "primary_language": "en",
+        "priority_date": "2011-12-12",
+        "publication_date": "2019-01-01",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Lithium metal oxides with multiple phases and stable high energy electrochemical cycling",
+        "patent_id": "patent/US10170762B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10170762B2%2Fen"
+      },
+      {
+        "publication_number": "US10175549B2",
+        "primary_language": "en",
+        "priority_date": "2011-03-16",
+        "publication_date": "2019-01-08",
+        "assignee_original": "View, Inc.",
+        "title": "Connectors for smart windows",
+        "patent_id": "patent/US10175549B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10175549B2%2Fen"
+      },
+      {
+        "publication_number": "US10180606B2",
+        "primary_language": "en",
+        "priority_date": "2010-12-08",
+        "publication_date": "2019-01-15",
+        "assignee_original": "View, Inc.",
+        "title": "Connectors for smart windows",
+        "patent_id": "patent/US10180606B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10180606B2%2Fen"
+      },
+      {
+        "publication_number": "US10290871B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-04",
+        "publication_date": "2019-05-14",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Battery cell engineering and design to reach high energy",
+        "patent_id": "patent/US10290871B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10290871B2%2Fen"
+      },
+      {
+        "publication_number": "US10288971B2",
+        "primary_language": "en",
+        "priority_date": "2012-08-23",
+        "publication_date": "2019-05-14",
+        "assignee_original": "View, Inc.",
+        "title": "Photonic-powered EC devices",
+        "patent_id": "patent/US10288971B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10288971B2%2Fen"
+      },
+      {
+        "publication_number": "US10732476B2",
+        "primary_language": "en",
+        "priority_date": "2018-05-14",
+        "publication_date": "2020-08-04",
+        "assignee_original": "Nokia Solutions And Networks Oy",
+        "title": "Electrochromic cell",
+        "patent_id": "patent/US10732476B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10732476B2%2Fen"
+      },
+      {
+        "publication_number": "US10975612B2",
+        "primary_language": "en",
+        "priority_date": "2014-12-15",
+        "publication_date": "2021-04-13",
+        "assignee_original": "View, Inc.",
+        "title": "Seals for electrochromic windows",
+        "patent_id": "patent/US10975612B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10975612B2%2Fen"
+      },
+      {
+        "publication_number": "US11067869B2",
+        "primary_language": "en",
+        "priority_date": "2009-12-22",
+        "publication_date": "2021-07-20",
+        "assignee_original": "View, Inc.",
+        "title": "Self-contained EC IGU",
+        "patent_id": "patent/US11067869B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11067869B2%2Fen"
+      },
+      {
+        "publication_number": "US11094925B2",
+        "primary_language": "en",
+        "priority_date": "2017-12-22",
+        "publication_date": "2021-08-17",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Electrodes with silicon oxide active materials for lithium ion cells achieving high capacity, high energy density and long cycle life performance",
+        "patent_id": "patent/US11094925B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11094925B2%2Fen"
+      },
+      {
+        "publication_number": "US11255120B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-25",
+        "publication_date": "2022-02-22",
+        "assignee_original": "View, Inc.",
+        "title": "Tester and electrical connectors for insulated glass units",
+        "patent_id": "patent/US11255120B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11255120B2%2Fen"
+      },
+      {
+        "publication_number": "US11314139B2",
+        "primary_language": "en",
+        "priority_date": "2009-12-22",
+        "publication_date": "2022-04-26",
+        "assignee_original": "View, Inc.",
+        "title": "Self-contained EC IGU",
+        "patent_id": "patent/US11314139B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11314139B2%2Fen"
+      },
+      {
+        "publication_number": "US11476494B2",
+        "primary_language": "en",
+        "priority_date": "2013-08-16",
+        "publication_date": "2022-10-18",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Lithium ion batteries with high capacity anode active material and good cycling for consumer electronics",
+        "patent_id": "patent/US11476494B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11476494B2%2Fen"
+      },
+      {
+        "publication_number": "US11719039B2",
+        "primary_language": "en",
+        "priority_date": "2011-12-14",
+        "publication_date": "2023-08-08",
+        "assignee_original": "View, Inc.",
+        "title": "Connectors for smart windows",
+        "patent_id": "patent/US11719039B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11719039B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US7131189B2",
+        "primary_language": "en",
+        "priority_date": "2000-03-24",
+        "publication_date": "2006-11-07",
+        "assignee_original": "Cymbet Corporation",
+        "title": "Continuous processing of thin-film batteries and like devices",
+        "patent_id": "patent/US7131189B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7131189B2%2Fen"
+      },
+      {
+        "publication_number": "JP2002040490A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-07-25",
+        "publication_date": "2002-02-06",
+        "assignee_original": "Fuji Xerox Co Ltd",
+        "title": "Optical device, composition for optical device, and method for controlling stimulation responding polymer gel",
+        "patent_id": "patent/JP2002040490A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002040490A%2Fen"
+      },
+      {
+        "publication_number": "US7294209B2",
+        "primary_language": "en",
+        "priority_date": "2003-01-02",
+        "publication_date": "2007-11-13",
+        "assignee_original": "Cymbet Corporation",
+        "title": "Apparatus and method for depositing material onto a substrate using a roll-to-roll mask",
+        "patent_id": "patent/US7294209B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7294209B2%2Fen"
+      },
+      {
+        "publication_number": "US7603144B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-01-02",
+        "publication_date": "2009-10-13",
+        "assignee_original": "Cymbet Corporation",
+        "title": "Active wireless tagging system on peel and stick substrate",
+        "patent_id": "patent/US7603144B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7603144B2%2Fen"
+      },
+      {
+        "publication_number": "US20040131760A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-01-02",
+        "publication_date": "2004-07-08",
+        "assignee_original": "Stuart Shakespeare",
+        "title": "Apparatus and method for depositing material onto multiple independently moving substrates in a chamber",
+        "patent_id": "patent/US20040131760A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040131760A1%2Fen"
+      },
+      {
+        "publication_number": "US6906436B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-01-02",
+        "publication_date": "2005-06-14",
+        "assignee_original": "Cymbet Corporation",
+        "title": "Solid state activity-activated battery device and method",
+        "patent_id": "patent/US6906436B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6906436B2%2Fen"
+      },
+      {
+        "publication_number": "US7211351B2",
+        "primary_language": "en",
+        "priority_date": "2003-10-16",
+        "publication_date": "2007-05-01",
+        "assignee_original": "Cymbet Corporation",
+        "title": "Lithium/air batteries with LiPON as separator and protective barrier and method",
+        "patent_id": "patent/US7211351B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7211351B2%2Fen"
+      },
+      {
+        "publication_number": "JP2007518246A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-01-06",
+        "publication_date": "2007-07-05",
+        "assignee_original": "\u30b7\u30f3\u30d9\u30c3\u30c8  \u30b3\u30fc\u30dd\u30fc\u30ec\u30fc\u30b7\u30e7\u30f3",
+        "title": "Layered barrier structure comprising one or more layers having a boundary and method of manufacturing the barrier structure",
+        "patent_id": "patent/JP2007518246A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007518246A%2Fen"
+      },
+      {
+        "publication_number": "US7776682B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-20",
+        "publication_date": "2010-08-17",
+        "assignee_original": "Spansion Llc",
+        "title": "Ordered porosity to direct memory element formation",
+        "patent_id": "patent/US7776682B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7776682B1%2Fen"
+      },
+      {
+        "publication_number": "WO2007011898A2",
+        "primary_language": "en",
+        "priority_date": "2005-07-15",
+        "publication_date": "2007-01-25",
+        "assignee_original": "Cymbet Corporation",
+        "title": "Apparatus and method for making thin-film batteries with soft and hard electrolyte layers",
+        "patent_id": "patent/WO2007011898A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007011898A2%2Fen"
+      },
+      {
+        "publication_number": "US20070012244A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-07-15",
+        "publication_date": "2007-01-18",
+        "assignee_original": "Cymbet Corporation",
+        "title": "Apparatus and method for making thin-film batteries with soft and hard electrolyte layers",
+        "patent_id": "patent/US20070012244A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070012244A1%2Fen"
+      },
+      {
+        "publication_number": "US20100183907A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-24",
+        "publication_date": "2010-07-22",
+        "assignee_original": "Porous Power Technologies, Llc",
+        "title": "Hard Spacers in Microporous Membrane Matrix",
+        "patent_id": "patent/US20100183907A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100183907A1%2Fen"
+      },
+      {
+        "publication_number": "US20110262816A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-01-12",
+        "publication_date": "2011-10-27",
+        "assignee_original": "Glenn Amatucci",
+        "title": "Polyhydrogen fluoride based battery",
+        "patent_id": "patent/US20110262816A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110262816A1%2Fen"
+      },
+      {
+        "publication_number": "US8845764B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-06-14",
+        "publication_date": "2014-09-30",
+        "assignee_original": "Semiconductor Energy Laboratory Co., Ltd.",
+        "title": "Power storage device comprising solid electrolyte layer over active material and second electrolyte and method of manufacturing the same",
+        "patent_id": "patent/US8845764B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8845764B2%2Fen"
+      },
+      {
+        "publication_number": "US9853325B2",
+        "primary_language": "en",
+        "priority_date": "2011-06-29",
+        "publication_date": "2017-12-26",
+        "assignee_original": "Space Charge, LLC",
+        "title": "Rugged, gel-free, lithium-free, high energy density solid-state electrochemical energy storage devices",
+        "patent_id": "patent/US9853325B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9853325B2%2Fen"
+      },
+      {
+        "publication_number": "US11527774B2",
+        "primary_language": "en",
+        "priority_date": "2011-06-29",
+        "publication_date": "2022-12-13",
+        "assignee_original": "Space Charge, LLC",
+        "title": "Electrochemical energy storage devices",
+        "patent_id": "patent/US11527774B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11527774B2%2Fen"
+      },
+      {
+        "publication_number": "US11996517B2",
+        "primary_language": "en",
+        "priority_date": "2011-06-29",
+        "publication_date": "2024-05-28",
+        "assignee_original": "Space Charge, LLC",
+        "title": "Electrochemical energy storage devices",
+        "patent_id": "patent/US11996517B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11996517B2%2Fen"
+      },
+      {
+        "publication_number": "US10601074B2",
+        "primary_language": "en",
+        "priority_date": "2011-06-29",
+        "publication_date": "2020-03-24",
+        "assignee_original": "Space Charge, LLC",
+        "title": "Rugged, gel-free, lithium-free, high energy density solid-state electrochemical energy storage devices",
+        "patent_id": "patent/US10601074B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10601074B2%2Fen"
+      },
+      {
+        "publication_number": "US20130095386A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-10-12",
+        "publication_date": "2013-04-18",
+        "assignee_original": "Battelle Memorial Institute",
+        "title": "Metal Fluoride Electrode Protection Layer and Method of Making Same",
+        "patent_id": "patent/US20130095386A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130095386A1%2Fen"
+      },
+      {
+        "publication_number": "JP5773038B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-07-01",
+        "publication_date": "2015-09-02",
+        "assignee_original": "\u30bb\u30a4\u30b3\u30fc\u30a8\u30d7\u30bd\u30f3\u682a\u5f0f\u4f1a\u793e",
+        "title": "Lithium battery",
+        "patent_id": "patent/JP5773038B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5773038B2%2Fen"
+      },
+      {
+        "publication_number": "US20160204464A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-01-08",
+        "publication_date": "2016-07-14",
+        "assignee_original": "Samsung Electronics Co., Ltd.",
+        "title": "Secondary battery having high rate capability and high energy density and method of manufacturing the same",
+        "patent_id": "patent/US20160204464A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160204464A1%2Fen"
+      },
+      {
+        "publication_number": "EP3429013A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-02",
+        "publication_date": "2019-11-27",
+        "assignee_original": "Kogakuin University",
+        "title": "Lithium ion secondary battery",
+        "patent_id": "patent/EP3429013A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3429013A4%2Fen"
+      },
+      {
+        "publication_number": "EP3712693B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-11-14",
+        "publication_date": "2025-04-02",
+        "assignee_original": "Sony Group Corporation",
+        "title": "Light control device, image display device, and display device",
+        "patent_id": "patent/EP3712693B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3712693B1%2Fen"
+      },
+      {
+        "publication_number": "EP3762989A4",
+        "primary_language": "en",
+        "priority_date": "2018-03-07",
+        "publication_date": "2021-12-15",
+        "assignee_original": "Space Charge, LLC",
+        "title": "Thin-film solid-state energy-storage devices",
+        "patent_id": "patent/EP3762989A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3762989A4%2Fen"
+      },
+      {
+        "publication_number": "CN111781781B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-07-02",
+        "publication_date": "2023-03-21",
+        "assignee_original": "\u6df1\u5733\u5e02\u8bda\u5fb7\u5229\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Memory electrochromic film based on rare earth metal and preparation method and application thereof",
+        "patent_id": "patent/CN111781781B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111781781B%2Fen"
+      },
+      {
+        "publication_number": "CN114242466B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-22",
+        "publication_date": "2023-06-30",
+        "assignee_original": "\u5929\u6d25\u7406\u5de5\u5927\u5b66",
+        "title": "Super capacitor with electrochromic function and high energy density and preparation method",
+        "patent_id": "patent/CN114242466B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114242466B%2Fen"
+      },
+      {
+        "publication_number": "CN115016188A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-06-30",
+        "publication_date": "2022-09-06",
+        "assignee_original": "\u6b66\u6c49\u534e\u661f\u5149\u7535\u534a\u5bfc\u4f53\u663e\u793a\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "title": "Display device and vehicle",
+        "patent_id": "patent/CN115016188A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115016188A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US6420071B1",
+      "primary_language": "en",
+      "publication_date": "2002-07-16",
+      "title": "Method for improving the durability of ion insertion materials",
+      "patent_id": "patent/US6420071B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6420071B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "18108386768036388573",
+      "scholar_authors": "Wang et al.",
+      "publication_date": "2020",
+      "title": "A new design of an electrochromic energy storage device with high capacity, long cycle lifetime and multicolor display",
+      "patent_id": "scholar/18108386768036388573",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F18108386768036388573"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100233394B1",
+      "primary_language": "en",
+      "publication_date": "1999-12-01",
+      "title": "Multilayered electrolyte and electrochemical cells using same",
+      "patent_id": "patent/KR100233394B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100233394B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10238213390231358049",
+      "scholar_authors": "Marcel et al.",
+      "publication_date": "2001",
+      "title": "An all-plastic WO3\u00b7 H2O/polyaniline electrochromic device",
+      "patent_id": "scholar/10238213390231358049",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10238213390231358049"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA1308800C",
+      "primary_language": "en",
+      "publication_date": "1992-10-13",
+      "title": "Solid state electrochromic light modulator",
+      "patent_id": "patent/CA1308800C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA1308800C%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16939471782321812788",
+      "scholar_authors": "Shen et al.",
+      "publication_date": "1992",
+      "title": "A study of tungsten trioxide and polyaniline composite films: I. Electrochemical and electrochromic behavior",
+      "patent_id": "scholar/16939471782321812788",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16939471782321812788"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5142406A",
+      "primary_language": "en",
+      "publication_date": "1992-08-25",
+      "title": "Electrochromic optical switching device",
+      "patent_id": "patent/US5142406A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5142406A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5232159B2",
+      "primary_language": "en",
+      "publication_date": "2013-07-10",
+      "title": "Method of making an ion-switching device without an independent lithiation step",
+      "patent_id": "patent/JP5232159B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5232159B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0519921B1",
+      "primary_language": "en",
+      "publication_date": "1996-08-21",
+      "title": "Electrochromic element, materials for use in such element, processes for making such element and such materials and use of such element in an electrochromic glass device",
+      "patent_id": "patent/EP0519921B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0519921B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6822778B2",
+      "primary_language": "en",
+      "publication_date": "2004-11-23",
+      "title": "Electrochromic layer",
+      "patent_id": "patent/US6822778B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6822778B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8643930B2",
+      "primary_language": "en",
+      "publication_date": "2014-02-04",
+      "title": "Thin film lithium-based batteries and electrochromic devices fabricated with nanocomposite electrode materials",
+      "patent_id": "patent/US8643930B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8643930B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5442478A",
+      "primary_language": "en",
+      "publication_date": "1995-08-15",
+      "title": "Electrochromic device using mercaptans and organothiolate compounds",
+      "patent_id": "patent/US5442478A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5442478A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "4643850643071600287",
+      "scholar_authors": "Heckner et al.",
+      "publication_date": "2002",
+      "title": "Similarities between electrochromic windows and thin film batteries",
+      "patent_id": "scholar/4643850643071600287",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F4643850643071600287"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20070076286A1",
+      "primary_language": "en",
+      "publication_date": "2007-04-05",
+      "title": "Electrochromic device comprising protective inorganic solid electrolyte film and manufacturing method thereof",
+      "patent_id": "patent/US20070076286A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070076286A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20170101702A",
+      "primary_language": "en",
+      "publication_date": "2017-09-06",
+      "title": "Electrochromic device",
+      "patent_id": "patent/KR20170101702A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20170101702A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0646977B1",
+      "primary_language": "en",
+      "publication_date": "1999-06-09",
+      "title": "Electrochemical devices comprising lithium nitride-metal compounds in at least one of a pair of electrodes",
+      "patent_id": "patent/EP0646977B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0646977B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3507926B2",
+      "primary_language": "en",
+      "publication_date": "2004-03-15",
+      "title": "Solid-state battery",
+      "patent_id": "patent/JP3507926B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3507926B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6845979154598313635",
+      "scholar_authors": "Panero et al.",
+      "publication_date": "1995",
+      "title": "Electrochromic windows based on polyaniline, tungsten oxide and gel electrolytes",
+      "patent_id": "scholar/6845979154598313635",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6845979154598313635"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3211036B2",
+      "primary_language": "en",
+      "publication_date": "2001-09-25",
+      "title": "Nickel oxide electrode intercalated with lithium ions",
+      "patent_id": "patent/JP3211036B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3211036B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13929740404690496698",
+      "scholar_authors": "Zhang et al.",
+      "publication_date": "1994",
+      "title": "Optimization Study of Solid\u2010State Electrochromic Devices Based on WO 3/Lithium\u2010Polymer Electrolyte/V 2 O 5 Structures",
+      "patent_id": "scholar/13929740404690496698",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13929740404690496698"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4960657A",
+      "primary_language": "en",
+      "publication_date": "1990-10-02",
+      "title": "Lithium cells",
+      "patent_id": "patent/US4960657A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4960657A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5768004A",
+      "primary_language": "en",
+      "publication_date": "1998-06-16",
+      "title": "Oxidatively coloring electrochromic material and electro-optical device using same",
+      "patent_id": "patent/US5768004A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5768004A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9202852079923699520",
+      "scholar_authors": "Visco et al.",
+      "publication_date": "1993",
+      "title": "Polyorganodisulfide electrodes for solid-state batteries and electrochromic devices",
+      "patent_id": "scholar/9202852079923699520",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9202852079923699520"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5441832A",
+      "primary_language": "en",
+      "publication_date": "1995-08-15",
+      "title": "Electrochemical cell",
+      "patent_id": "patent/US5441832A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5441832A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9203710132644552371",
+      "scholar_authors": "Kaneko et al.",
+      "publication_date": "2005",
+      "title": "Electro-deposited vanadium oxide as a counter-electrode for PProDOT-Me2 based electrochromic devices (ECDs)",
+      "patent_id": "scholar/9203710132644552371",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9203710132644552371"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2000-03-21",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MIDWEST RESEARCH INSTITUTE, MISSOURI"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:LEE, SE-HEE;TRACY, C. EDWIN;CHEONG, HYEONSIK M.;REEL/FRAME:010694/0419;SIGNING DATES FROM 20000309 TO 20000321"
+        }
+      ]
+    },
+    {
+      "date": "2000-09-27",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ENERGY, UNITED STATES DEPARTMENT OF, DISTRICT OF C"
+        },
+        {
+          "label": "Free format text",
+          "value": "CONFIRMATORY LICENSE;ASSIGNOR:MIDWEST RESEARCH INSTITUTE;REEL/FRAME:011255/0065"
+        },
+        {
+          "label": "Effective date",
+          "value": "20000911"
+        }
+      ]
+    },
+    {
+      "date": "2002-06-27",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2006-01-10",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2006-12-01",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2008-09-30",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ALLIANCE FOR SUSTAINABLE ENERGY, LLC, COLORADO"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:MIDWEST RESEARCH INSTITUTE;REEL/FRAME:021603/0337"
+        },
+        {
+          "label": "Effective date",
+          "value": "20080912"
+        },
+        {
+          "label": "Owner name",
+          "value": "ALLIANCE FOR SUSTAINABLE ENERGY, LLC,COLORADO"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:MIDWEST RESEARCH INSTITUTE;REEL/FRAME:021603/0337"
+        },
+        {
+          "label": "Effective date",
+          "value": "20080912"
+        }
+      ]
+    },
+    {
+      "date": "2009-12-21",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2013-12-30",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000003780",
+        "name": "insertion",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 132
+      },
+      {
+        "id": "230000037431",
+        "name": "insertion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 128
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 109
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 39
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 91
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 83
+      },
+      {
+        "id": "229910052744",
+        "name": "lithium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 32
+      },
+      {
+        "id": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "name": "Lithium",
+        "domain": "Chemical group",
+        "smiles": "[Li]",
+        "inchi_key": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 30
+      },
+      {
+        "id": "230000015556",
+        "name": "catabolic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000006731",
+        "name": "degradation reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "150000002500",
+        "name": "ions",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 275
+      },
+      {
+        "id": "239000004020",
+        "name": "conductor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 40
+      },
+      {
+        "id": "239000000758",
+        "name": "substrate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 32
+      },
+      {
+        "id": "-1",
+        "name": "lithium aluminum fluoride",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "229920000642",
+        "name": "polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000000151",
+        "name": "deposition",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "GNTDGMZSJNCJKK-UHFFFAOYSA-N",
+        "name": "divanadium pentaoxide",
+        "domain": "Chemical group",
+        "smiles": "O=[V](=O)O[V](=O)=O",
+        "inchi_key": "GNTDGMZSJNCJKK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "125000006850",
+        "name": "spacer group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "229910052723",
+        "name": "transition metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "BHEPBYXIRTUNPN-UHFFFAOYSA-N",
+        "name": "hydridophosphorus(.) (triplet)",
+        "domain": "Chemical compound",
+        "smiles": "[PH]",
+        "inchi_key": "BHEPBYXIRTUNPN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "QGLKJKCYBOYXKC-UHFFFAOYSA-N",
+        "name": "nonaoxidotritungsten",
+        "domain": "Chemical group",
+        "smiles": "O=[W]1(=O)O[W](=O)(=O)O[W](=O)(=O)O1",
+        "inchi_key": "QGLKJKCYBOYXKC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "229910001930",
+        "name": "tungsten oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "HTXDPTMKBJXEOW-UHFFFAOYSA-N",
+        "name": "iridium(IV) oxide",
+        "domain": "Inorganic materials",
+        "smiles": "O=[Ir]=O",
+        "inchi_key": "HTXDPTMKBJXEOW-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000002441",
+        "name": "reversible effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "125000005402",
+        "name": "stannate group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229910000314",
+        "name": "transition metal oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000011800",
+        "name": "void material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229910021543",
+        "name": "Nickel dioxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "ZCDOYSPFYFSLEW-UHFFFAOYSA-N",
+        "name": "chromate(2-)",
+        "domain": "Chemical class",
+        "smiles": "[O-][Cr]([O-])(=O)=O",
+        "inchi_key": "ZCDOYSPFYFSLEW-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "150000004772",
+        "name": "tellurides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "150000003624",
+        "name": "transition metals",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "LSGOVYNHVSXFFJ-UHFFFAOYSA-N",
+        "name": "vanadate(3-)",
+        "domain": "Chemical class",
+        "smiles": "[O-][V]([O-])([O-])=O",
+        "inchi_key": "LSGOVYNHVSXFFJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "150000004771",
+        "name": "selenides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001681",
+        "name": "protective effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 43
+      },
+      {
+        "id": "239000002001",
+        "name": "electrolyte material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "230000003413",
+        "name": "degradative effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000010410",
+        "name": "layer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 171
+      },
+      {
+        "id": "229910001416",
+        "name": "lithium ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 37
+      },
+      {
+        "id": "229910001935",
+        "name": "vanadium oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 31
+      },
+      {
+        "id": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "name": "Lithium ion",
+        "domain": "Chemical compound",
+        "smiles": "[Li+]",
+        "inchi_key": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 28
+      },
+      {
+        "id": "239000003792",
+        "name": "electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "239000007784",
+        "name": "solid electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "239000010408",
+        "name": "film",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "239000011244",
+        "name": "liquid electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "238000003860",
+        "name": "storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "230000001351",
+        "name": "cycling effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "229910014892",
+        "name": "LixPOyNz",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "XHCLAFWTIXFWPH-UHFFFAOYSA-N",
+        "name": "[O-2].[O-2].[O-2].[O-2].[O-2].[V+5].[V+5]",
+        "domain": "Chemical class",
+        "smiles": "[O-2].[O-2].[O-2].[O-2].[O-2].[V+5].[V+5]",
+        "inchi_key": "XHCLAFWTIXFWPH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "239000010409",
+        "name": "thin film",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "MHCFAGZWMAWTNR-UHFFFAOYSA-M",
+        "name": "lithium perchlorate",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[O-]Cl(=O)(=O)=O",
+        "inchi_key": "MHCFAGZWMAWTNR-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "229910001486",
+        "name": "lithium perchlorate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "PXHVJJICTQNCMI-UHFFFAOYSA-N",
+        "name": "Nickel",
+        "domain": "Chemical compound",
+        "smiles": "[Ni]",
+        "inchi_key": "PXHVJJICTQNCMI-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000010416",
+        "name": "ion conductor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "RUOJZAUFBMNUDX-UHFFFAOYSA-N",
+        "name": "propylene carbonate",
+        "domain": "Chemical compound",
+        "smiles": "CC1COC(=O)O1",
+        "inchi_key": "RUOJZAUFBMNUDX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "ZNOKGRXACCSDPY-UHFFFAOYSA-N",
+        "name": "tungsten trioxide",
+        "domain": "Chemical compound",
+        "smiles": "O=[W](=O)=O",
+        "inchi_key": "ZNOKGRXACCSDPY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000000295",
+        "name": "complement effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000010949",
+        "name": "copper",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000011521",
+        "name": "glass",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000011253",
+        "name": "protective coating",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000011241",
+        "name": "protective layer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "RYGMFSIKBFXOCR-UHFFFAOYSA-N",
+        "name": "Copper",
+        "domain": "Chemical compound",
+        "smiles": "[Cu]",
+        "inchi_key": "RYGMFSIKBFXOCR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "XEEYBQQBJWHFJM-UHFFFAOYSA-N",
+        "name": "Iron",
+        "domain": "Chemical compound",
+        "smiles": "[Fe]",
+        "inchi_key": "XEEYBQQBJWHFJM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+        "name": "Silicium dioxide",
+        "domain": "Chemical compound",
+        "smiles": "O=[Si]=O",
+        "inchi_key": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229910052782",
+        "name": "aluminium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "name": "aluminium",
+        "domain": "Chemical compound",
+        "smiles": "[Al]",
+        "inchi_key": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "150000001875",
+        "name": "compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229910052802",
+        "name": "copper",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000011245",
+        "name": "gel electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229910001386",
+        "name": "lithium phosphate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229910003002",
+        "name": "lithium salt",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "159000000002",
+        "name": "lithium salts",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000000843",
+        "name": "powder",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000000126",
+        "name": "substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000002207",
+        "name": "thermal evaporation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "XOLBLPGZBRYERU-UHFFFAOYSA-N",
+        "name": "tin dioxide",
+        "domain": "Chemical compound",
+        "smiles": "O=[Sn]=O",
+        "inchi_key": "XOLBLPGZBRYERU-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "TWQULNDIKKJZPH-UHFFFAOYSA-K",
+        "name": "trilithium;phosphate",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[Li+].[Li+].[O-]P([O-])([O-])=O",
+        "inchi_key": "TWQULNDIKKJZPH-UHFFFAOYSA-K",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "WEVYAHXRMPXWCK-UHFFFAOYSA-N",
+        "name": "Acetonitrile",
+        "domain": "Chemical compound",
+        "smiles": "CC#N",
+        "inchi_key": "WEVYAHXRMPXWCK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910015107",
+        "name": "LixWO3",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000003125",
+        "name": "aqueous solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000007797",
+        "name": "corrosion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005260",
+        "name": "corrosion",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005137",
+        "name": "deposition process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000007599",
+        "name": "discharging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000002474",
+        "name": "experimental method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000009830",
+        "name": "intercalation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052751",
+        "name": "metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "150000002739",
+        "name": "metals",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052759",
+        "name": "nickel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000012299",
+        "name": "nitrogen atmosphere",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000003287",
+        "name": "optical effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000002829",
+        "name": "reductive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000004544",
+        "name": "sputter deposition",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "YEJRWHAVMIAJKC-UHFFFAOYSA-N",
+        "name": "4-Butyrolactone",
+        "domain": "Chemical compound",
+        "smiles": "O=C1CCCO1",
+        "inchi_key": "YEJRWHAVMIAJKC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "XTHFKEDIFFGKHM-UHFFFAOYSA-N",
+        "name": "Dimethoxyethane",
+        "domain": "Chemical compound",
+        "smiles": "COCCOC",
+        "inchi_key": "XTHFKEDIFFGKHM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "KDLHZDBZIXYQEI-UHFFFAOYSA-N",
+        "name": "Palladium",
+        "domain": "Chemical compound",
+        "smiles": "[Pd]",
+        "inchi_key": "KDLHZDBZIXYQEI-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "WYURNTSHIVDZCO-UHFFFAOYSA-N",
+        "name": "Tetrahydrofuran",
+        "domain": "Chemical compound",
+        "smiles": "C1CCOC1",
+        "inchi_key": "WYURNTSHIVDZCO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000010405",
+        "name": "anode material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000010406",
+        "name": "cathode material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000007547",
+        "name": "defect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001627",
+        "name": "detrimental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011888",
+        "name": "foil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000010931",
+        "name": "gold",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052739",
+        "name": "hydrogen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000001257",
+        "name": "hydrogen",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "AMWRITDGCCNYAT-UHFFFAOYSA-L",
+        "name": "hydroxy(oxo)manganese;manganese",
+        "domain": "Chemical compound",
+        "smiles": "[Mn].O[Mn]=O.O[Mn]=O",
+        "inchi_key": "AMWRITDGCCNYAT-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "AMGQUBHHOARCQH-UHFFFAOYSA-N",
+        "name": "indium;oxotin",
+        "domain": "Chemical class",
+        "smiles": "[In].[Sn]=O",
+        "inchi_key": "AMGQUBHHOARCQH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000002347",
+        "name": "injection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000007924",
+        "name": "injection",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002687",
+        "name": "intercalation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052742",
+        "name": "iron",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000670",
+        "name": "limiting effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "KWGKDLIKAYFUFQ-UHFFFAOYSA-M",
+        "name": "lithium chloride",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[Cl-]",
+        "inchi_key": "KWGKDLIKAYFUFQ-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "URLJKFSTXLNXLG-UHFFFAOYSA-N",
+        "name": "niobium(5+);oxygen(2-)",
+        "domain": "Chemical compound",
+        "smiles": "[O-2].[O-2].[O-2].[O-2].[O-2].[Nb+5].[Nb+5]",
+        "inchi_key": "URLJKFSTXLNXLG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004033",
+        "name": "plastic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920003023",
+        "name": "plastic",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "BASFCYQUMIYNBI-UHFFFAOYSA-N",
+        "name": "platinum",
+        "domain": "Chemical compound",
+        "smiles": "[Pt]",
+        "inchi_key": "BASFCYQUMIYNBI-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920003229",
+        "name": "poly(methyl methacrylate)",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004926",
+        "name": "polymethyl methacrylate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000002360",
+        "name": "preparation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002035",
+        "name": "prolonged effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013341",
+        "name": "scale-up",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000377",
+        "name": "silicon dioxide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000010935",
+        "name": "stainless steel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910001220",
+        "name": "stainless steel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000004763",
+        "name": "sulfides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910001887",
+        "name": "tin oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "BHZCMUVGYXEBMY-UHFFFAOYSA-N",
+        "name": "trilithium;azanide",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[Li+].[Li+].[NH2-]",
+        "inchi_key": "BHZCMUVGYXEBMY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000014692",
+        "name": "zinc oxide",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "OMAWWKIPXLIPDE-UHFFFAOYSA-N",
+        "name": "(ethyldiselanyl)ethane",
+        "domain": "Chemical compound",
+        "smiles": "CC[Se][Se]CC",
+        "inchi_key": "OMAWWKIPXLIPDE-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "name": "Carbon",
+        "domain": "Chemical compound",
+        "smiles": "[C]",
+        "inchi_key": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+        "name": "Cu2+",
+        "domain": "Chemical compound",
+        "smiles": "[Cu+2]",
+        "inchi_key": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000733",
+        "name": "Li alloy",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910010408",
+        "name": "Li2NH",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "FUJCRWPEOMXPAD-UHFFFAOYSA-N",
+        "name": "Li2O",
+        "domain": "Inorganic materials",
+        "smiles": "[Li+].[Li+].[O-2]",
+        "inchi_key": "FUJCRWPEOMXPAD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001216",
+        "name": "Li2S",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001556",
+        "name": "Li2Si2O5",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910007786",
+        "name": "Li2WO4",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910011790",
+        "name": "Li4GeO4",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910010682",
+        "name": "Li5AlO4",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910010694",
+        "name": "Li5GaO4",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910010889",
+        "name": "Li6ZnO4",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910010078",
+        "name": "LiAlMgF4",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000552",
+        "name": "LiCF3SO3",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910010947",
+        "name": "LiHf2(PO4)3",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910015312",
+        "name": "LiMgF",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001091",
+        "name": "LixCoO2",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910015329",
+        "name": "LixMn2O4",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910014149",
+        "name": "LixNiO2",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910014886",
+        "name": "LixPOy",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910014671",
+        "name": "LixSnO2",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910014715",
+        "name": "LixTiO2",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001194",
+        "name": "LixV2O5",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920003171",
+        "name": "Poly (ethylene oxide)",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002202",
+        "name": "Polyethylene glycol",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BQCADISMDOOEFD-UHFFFAOYSA-N",
+        "name": "Silver",
+        "domain": "Chemical compound",
+        "smiles": "[Ag]",
+        "inchi_key": "BQCADISMDOOEFD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910003092",
+        "name": "TiS2",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "GWEVSGVZZGPLCZ-UHFFFAOYSA-N",
+        "name": "Titan oxide",
+        "domain": "Chemical compound",
+        "smiles": "O=[Ti]=O",
+        "inchi_key": "GWEVSGVZZGPLCZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "DAKWPKUUDNSNPN-UHFFFAOYSA-N",
+        "name": "Trimethylolpropane triacrylate",
+        "domain": "Chemical compound",
+        "smiles": "C=CC(=O)OCC(CC)(COC(=O)C=C)COC(=O)C=C",
+        "inchi_key": "DAKWPKUUDNSNPN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011149",
+        "name": "active material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000001450",
+        "name": "anions",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011324",
+        "name": "bead",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009286",
+        "name": "beneficial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000015572",
+        "name": "biosynthetic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004061",
+        "name": "bleaching",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007844",
+        "name": "bleaching agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229930188620",
+        "name": "butyrolactone",
+        "domain": "Natural products",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052799",
+        "name": "carbon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006182",
+        "name": "cathode active material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000420",
+        "name": "cerium oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005229",
+        "name": "chemical vapour deposition",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "IVMYJDGYRUAWML-UHFFFAOYSA-N",
+        "name": "cobalt(ii) oxide",
+        "domain": "Chemical class",
+        "smiles": "[Co]=O",
+        "inchi_key": "IVMYJDGYRUAWML-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004040",
+        "name": "coloring",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002131",
+        "name": "composite material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011889",
+        "name": "copper foil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000593",
+        "name": "degrading effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008021",
+        "name": "deposition",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006866",
+        "name": "deterioration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000004386",
+        "name": "diacrylate group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XUCJHNOBJLKZNU-UHFFFAOYSA-M",
+        "name": "dilithium;hydroxide",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[Li+].[OH-]",
+        "inchi_key": "XUCJHNOBJLKZNU-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
+        "name": "dimethyl sulfate",
+        "domain": "Chemical compound",
+        "smiles": "COS(=O)(=O)OC",
+        "inchi_key": "VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005684",
+        "name": "electric field",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011262",
+        "name": "electrochemically active material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011532",
+        "name": "electronic conductor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000174",
+        "name": "eucryptite",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000605",
+        "name": "extraction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000499",
+        "name": "gel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "PCHJSUWPFVWCPO-UHFFFAOYSA-N",
+        "name": "gold",
+        "domain": "Chemical compound",
+        "smiles": "[Au]",
+        "inchi_key": "PCHJSUWPFVWCPO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052737",
+        "name": "gold",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "GPRLSGONYQIRFK-UHFFFAOYSA-N",
+        "name": "hydron",
+        "domain": "Chemical compound",
+        "smiles": "[H+]",
+        "inchi_key": "GPRLSGONYQIRFK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006872",
+        "name": "improvement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010348",
+        "name": "incorporation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "PJXISJQVUVHSOJ-UHFFFAOYSA-N",
+        "name": "indium(III) oxide",
+        "domain": "Inorganic materials",
+        "smiles": "[O-2].[O-2].[O-2].[In+3].[In+3]",
+        "inchi_key": "PJXISJQVUVHSOJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002401",
+        "name": "inhibitory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052909",
+        "name": "inorganic silicate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007733",
+        "name": "ion plating",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000457",
+        "name": "iridium oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "UQSXHKLRYXJYBZ-UHFFFAOYSA-N",
+        "name": "iron oxide",
+        "domain": "Inorganic materials",
+        "smiles": "[Fe]=O",
+        "inchi_key": "UQSXHKLRYXJYBZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013980",
+        "name": "iron oxide",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "VBMVTYDPPZVILR-UHFFFAOYSA-N",
+        "name": "iron(2+);oxygen(2-)",
+        "domain": "Chemical class",
+        "smiles": "[O-2].[Fe+2]",
+        "inchi_key": "VBMVTYDPPZVILR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052747",
+        "name": "lanthanoid",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002602",
+        "name": "lanthanoids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001540",
+        "name": "lithium hexafluoroarsenate(V)",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001537",
+        "name": "lithium tetrachloroaluminate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001496",
+        "name": "lithium tetrafluoroborate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ORUIBWPALBXDOA-UHFFFAOYSA-L",
+        "name": "magnesium fluoride",
+        "domain": "Chemical compound",
+        "smiles": "[F-].[F-].[Mg+2]",
+        "inchi_key": "ORUIBWPALBXDOA-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001755",
+        "name": "magnetron sputter deposition",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910044991",
+        "name": "metal oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000004706",
+        "name": "metal oxides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "KKONEYHHUWRKAE-UHFFFAOYSA-N",
+        "name": "methyl formate thiolane 1,1-dioxide",
+        "domain": "Chemical compound",
+        "smiles": "S1(=O)(=O)CCCC1.C(=O)OC",
+        "inchi_key": "KKONEYHHUWRKAE-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011533",
+        "name": "mixed conductor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000476",
+        "name": "molybdenum oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007773",
+        "name": "negative electrode material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000480",
+        "name": "nickel oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000484",
+        "name": "niobium oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ZKATWMILCYLAPD-UHFFFAOYSA-N",
+        "name": "niobium pentoxide",
+        "domain": "Inorganic materials",
+        "smiles": "O=[Nb](=O)O[Nb](=O)=O",
+        "inchi_key": "ZKATWMILCYLAPD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BMMGVYCKOGBVEV-UHFFFAOYSA-N",
+        "name": "oxo(oxoceriooxy)cerium",
+        "domain": "Chemical compound",
+        "smiles": "[Ce]=O.O=[Ce]=O",
+        "inchi_key": "BMMGVYCKOGBVEV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "PQQKPALAQIIWST-UHFFFAOYSA-N",
+        "name": "oxomolybdenum",
+        "domain": "Chemical compound",
+        "smiles": "[Mo]=O",
+        "inchi_key": "PQQKPALAQIIWST-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "GNRSAWUEBMWBQH-UHFFFAOYSA-N",
+        "name": "oxonickel",
+        "domain": "Chemical compound",
+        "smiles": "[Ni]=O",
+        "inchi_key": "GNRSAWUEBMWBQH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "SJLOMQIUPFZJAN-UHFFFAOYSA-N",
+        "name": "oxorhodium",
+        "domain": "Chemical compound",
+        "smiles": "[Rh]=O",
+        "inchi_key": "SJLOMQIUPFZJAN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052763",
+        "name": "palladium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000035515",
+        "name": "penetration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052697",
+        "name": "platinum",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920005569",
+        "name": "poly(vinylidene fluoride-co-hexafluoropropylene)",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002239",
+        "name": "polyacrylonitrile",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000515",
+        "name": "polycarbonate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004417",
+        "name": "polycarbonate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001223",
+        "name": "polyethylene glycol",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005518",
+        "name": "polymer electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002981",
+        "name": "polyvinylidene fluoride",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007774",
+        "name": "positive electrode material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011160",
+        "name": "research",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011347",
+        "name": "resin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920005989",
+        "name": "resin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910003450",
+        "name": "rhodium oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007650",
+        "name": "screen-printing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000003346",
+        "name": "selenoethers",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000012239",
+        "name": "silicon dioxide",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052709",
+        "name": "silver",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004332",
+        "name": "silver",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940071182",
+        "name": "stannate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011232",
+        "name": "storage material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "YLQBMQCUIZJEEH-UHFFFAOYSA-N",
+        "name": "tetrahydrofuran",
+        "domain": "Natural products",
+        "smiles": "C=1C=COC=1",
+        "inchi_key": "YLQBMQCUIZJEEH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "QHGNHLZPVBIIPX-UHFFFAOYSA-N",
+        "name": "tin(ii) oxide",
+        "domain": "Chemical class",
+        "smiles": "[Sn]=O",
+        "inchi_key": "QHGNHLZPVBIIPX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010936",
+        "name": "titanium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "OGIDPMRJRNCKJF-UHFFFAOYSA-N",
+        "name": "titanium oxide",
+        "domain": "Inorganic materials",
+        "smiles": "[Ti]=O",
+        "inchi_key": "OGIDPMRJRNCKJF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012780",
+        "name": "transparent material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001771",
+        "name": "vacuum deposition",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "RNWHGQJWIACOKP-UHFFFAOYSA-N",
+        "name": "zinc;oxygen(2-)",
+        "domain": "Chemical class",
+        "smiles": "[O-2].[Zn+2]",
+        "inchi_key": "RNWHGQJWIACOKP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

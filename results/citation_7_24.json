@@ -1,0 +1,2539 @@
+{
+  "search_metadata": {
+    "id": "685256d8f5d5ace0dbd6ba3d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/73afb9c908e6a3ba/685256d8f5d5ace0dbd6ba3d.json",
+    "created_at": "2025-06-18 06:04:08 UTC",
+    "processed_at": "2025-06-18 06:04:08 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20040038125A1/en",
+    "raw_html_file": "https://serpapi.com/searches/73afb9c908e6a3ba/685256d8f5d5ace0dbd6ba3d.html",
+    "total_time_taken": 2.27
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20040038125A1/en"
+  },
+  "title": "Reinforced pouch type secondary battery",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/db/6b/28/1c746247b4b118/US20040038125A1.pdf",
+  "publication_number": "US20040038125A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "pouch",
+    "electrode assembly",
+    "positive",
+    "secondary battery",
+    "reinforcement member"
+  ],
+  "prior_art_date": "2002-06-17",
+  "application_number": "US10/462,729",
+  "inventors": [
+    {
+      "name": "Sang-Bum Kim",
+      "link": "https://patents.google.com/?inventor=Sang-Bum+Kim",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Sang-Bum+Kim"
+    },
+    {
+      "name": "Chang-ho Kim",
+      "link": "https://patents.google.com/?inventor=Chang-ho+Kim",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Chang-ho+Kim"
+    },
+    {
+      "name": "Youn-han Chang",
+      "link": "https://patents.google.com/?inventor=Youn-han+Chang",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Youn-han+Chang"
+    },
+    {
+      "name": "Won-Chull Han",
+      "link": "https://patents.google.com/?inventor=Won-Chull+Han",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Won-Chull+Han"
+    }
+  ],
+  "assignees": [
+    "Samsung SDI Co Ltd"
+  ],
+  "priority_date": "2002-06-17",
+  "filing_date": "2003-06-17",
+  "publication_date": "2004-02-26",
+  "worldwide_applications": {
+    "2002": [
+      {
+        "filing_date": "2002-06-17",
+        "country_code": "KR",
+        "application_number": "KR10-2002-0033721A",
+        "document_id": "patent/KR100472504B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      }
+    ],
+    "2003": [
+      {
+        "filing_date": "2003-06-17",
+        "country_code": "US",
+        "application_number": "US10/462,729",
+        "document_id": "patent/US7722984B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      }
+    ],
+    "2010": [
+      {
+        "filing_date": "2010-04-16",
+        "country_code": "US",
+        "application_number": "US12/761,983",
+        "document_id": "patent/US7947390B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      }
+    ],
+    "2011": [
+      {
+        "filing_date": "2011-05-23",
+        "country_code": "US",
+        "application_number": "US13/113,519",
+        "document_id": "patent/US8133609B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2003-06-17",
+      "title": "Application filed by Samsung SDI Co Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Samsung SDI Co Ltd"
+    },
+    {
+      "date": "2003-06-17",
+      "title": "Assigned to SAMSUNG SDI CO., LTD.",
+      "type": "reassignment",
+      "assignee_search": "SAMSUNG SDI CO., LTD.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: CHANG, YOUN-HAN, HAN, WON-CHULL, KIM, CHANG-HO, KIM, SANG-BUM"
+      ]
+    },
+    {
+      "date": "2004-02-26",
+      "title": "Publication of US20040038125A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20040038125A1/en"
+    },
+    {
+      "date": "2010-04-16",
+      "title": "Priority to US12/761,983",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US7947390B2/en"
+    },
+    {
+      "date": "2010-05-25",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2010-05-25",
+      "title": "Publication of US7722984B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US7722984B2/en"
+    },
+    {
+      "date": "2011-05-23",
+      "title": "Priority to US13/113,519",
+      "type": "priority",
+      "document_id": "patent/US8133609B2/en"
+    },
+    {
+      "date": "2024-01-08",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20040038125.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/10462729"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20040038125"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2004038125A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/10462729/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20040038125"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/63/f4/38/b2c23ad182ba0e/US20040038125A1-20040226-D00000.png",
+    "https://patentimages.storage.googleapis.com/42/74/5b/9a7a041072893c/US20040038125A1-20040226-D00001.png",
+    "https://patentimages.storage.googleapis.com/bc/62/52/d4e14a1c8f0109/US20040038125A1-20040226-D00002.png",
+    "https://patentimages.storage.googleapis.com/bc/2b/7d/e85d8fd2116223/US20040038125A1-20040226-D00003.png",
+    "https://patentimages.storage.googleapis.com/9c/30/4f/eae6e8bbbf36f2/US20040038125A1-20040226-D00004.png",
+    "https://patentimages.storage.googleapis.com/8d/20/31/8cda166ed57891/US20040038125A1-20040226-D00005.png",
+    "https://patentimages.storage.googleapis.com/44/69/0c/151ba21e554a8a/US20040038125A1-20040226-D00006.png",
+    "https://patentimages.storage.googleapis.com/6f/aa/89/d2f24d7a960e7f/US20040038125A1-20040226-D00007.png",
+    "https://patentimages.storage.googleapis.com/98/ec/e7/1ebeb460d10362/US20040038125A1-20040226-D00008.png",
+    "https://patentimages.storage.googleapis.com/91/e6/75/00c302f9a3d4c4/US20040038125A1-20040226-D00009.png",
+    "https://patentimages.storage.googleapis.com/d2/dc/e1/d7ceb6ca45b033/US20040038125A1-20040226-D00010.png",
+    "https://patentimages.storage.googleapis.com/92/18/31/4caaaa03e5a4d6/US20040038125A1-20040226-D00011.png",
+    "https://patentimages.storage.googleapis.com/b6/7e/3e/ddc8e58d14435c/US20040038125A1-20040226-D00012.png",
+    "https://patentimages.storage.googleapis.com/39/70/22/d5c0553d53b812/US20040038125A1-20040226-D00013.png",
+    "https://patentimages.storage.googleapis.com/eb/b2/5f/4d6553570aacd5/US20040038125A1-20040226-D00014.png"
+  ],
+  "classifications": [
+    {
+      "code": "H01M50/579",
+      "description": "Devices or arrangements for the interruption of current in response to shock",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/178",
+      "description": "Arrangements of electric connectors penetrating the casing adapted for the shape of the cells for pouch or flexible bag cells",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/186",
+      "description": "Sealing members characterised by the disposition of the sealing members",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/55",
+      "description": "Terminals characterised by the disposition of the terminals on the cells on the same side of the cell",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/103",
+      "description": "Primary casings; Jackets or wrappings characterised by their shape or physical structure prismatic or rectangular",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A pouch type secondary battery having enhanced reliability by protecting the battery from external impacts is described. A reinforcement structure may be installed on a pouch casing and an electrode assembly housed in the pouch casing. Short-circuits inside the pouch casing may be minimized. The pouch type secondary battery has an electrode assembly with positive and negative electrode plates with a separator interposed therebetween, and positive and negative terminal portions extending from the positive and negative electrode plates. A first reinforcement member is closely adhered to one or more planes of the electrode assembly. A second reinforcement member may be adhered to the pouch casing and used with or without the first reinforcement member.",
+  "description_link": "https://serpapi.com/searches/685256d8f5d5ace0dbd6ba3d/google_patents_details/description.html",
+  "claims": [
+    "1. A pouch type secondary battery comprising: \nan electrode assembly having positive and negative electrode plates with a separator interposed therebetween, and positive and negative terminal portions extending from the positive and negative electrode plates;  a first reinforcement member adhered to at least one plane of the electrode assembly; and  a pouch casing in which the electrode assembly is housed, wherein the positive and negative terminal portions extend outward from the pouch casing, the positive and negative terminal portions being insulated from each other at a sealed portion of the pouch casing.",
+    "2. The pouch type secondary battery of claim 1, wherein the first reinforcement member is a metal foil.",
+    "3. The pouch type secondary battery of claim 1, wherein the first reinforcement member includes a first layer made of a metal foil and a second layer made of an adhesive resin material.",
+    "4. The pouch type secondary battery of claim 1, wherein the first reinforcement member is a fiber reinforced resin material.",
+    "5. The pouch type secondary battery of claim 1, wherein the first reinforcement member is an insulating tape.",
+    "6. The pouch type secondary battery of claim 1, wherein the first reinforcement member includes a thermal adhesion layer adhered at a plane facing the electrode assembly.",
+    "7. The pouch type secondary battery of 1, wherein the first reinforcement member is fixed to the electrode assembly by an insulating tape.",
+    "8. The pouch type secondary battery of claim 1, further comprising an insulating terminal cover having insertion holes into which the positive and negative terminal portions are inserted and drawn outward.",
+    "9. The pouch type secondary battery of claim 1, further comprising a second reinforcement member adhered to at least one surface of the pouch casing.",
+    "10. A pouch type secondary battery comprising: \nan electrode assembly having positive and negative electrode plates with a separator interposed therebetween, and positive and negative terminal portions extending from the positive and negative electrode plates;  an insulating tape adhered to at least one plane of the electrode assembly; and  a pouch casing in which the electrode assembly is housed, wherein the positive and negative terminal portions extend outward from the pouch casing, the positive and negative terminal portions being insulated from each other at a sealed portion of the pouch casing.",
+    "11. The pouch type secondary battery of claim 10, further comprising an insulating terminal cover having insertion holes into which the positive and negative terminal portions are inserted and drawn outward.",
+    "12. A pouch type secondary battery comprising: \nan electrode assembly having positive and negative electrode plates with a separator interposed therebetween, and positive and negative terminal portions extending from the positive and negative electrode plates;  a pouch casing in which the electrode assembly is housed, wherein the positive and negative terminal portions extend outward from the pouch casing, the positive and negative terminal portions being insulated from each other at a sealed portion of the pouch casing; and  a second reinforcement member closely adhered to at least one plane of the internal surfaces of the pouch casing.",
+    "13. The pouch type secondary battery of claim 12, wherein the second reinforcement member is a metal foil.",
+    "14. The pouch type secondary battery of claim 12, wherein the second reinforcement member has a third layer made of a metal foil and a fourth layer made of an adhesive resin material.",
+    "15. The pouch type secondary battery of claim 12, wherein the second reinforcement member may have a fiber reinforced resin material.",
+    "16. The pouch type secondary battery of claim 12, wherein the second reinforcement member has a thermal adhesion layer adhered to a plane of the pouch casing facing the electrode assembly.",
+    "17. The pouch type secondary battery according to claim 12, wherein the second reinforcement member is an insulating tape.",
+    "18. The pouch type secondary battery of claim 12, further comprising a first reinforcement member adhered to at least one plane of the electrode assembly."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US12/761,983",
+      "relation_type": "Continuation",
+      "representative_publication": "US7947390B2",
+      "primary_language": "en",
+      "priority_date": "2002-06-17",
+      "filing_date": "2010-04-16",
+      "title": "Reinforced pouch type secondary battery"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US12/761,983",
+      "representative_publication": "US7947390B2",
+      "primary_language": "en",
+      "priority_date": "2002-06-17",
+      "filing_date": "2010-04-16",
+      "title": "Reinforced pouch type secondary battery"
+    },
+    {
+      "application_number": "US13/113,519",
+      "representative_publication": "US8133609B2",
+      "primary_language": "en",
+      "priority_date": "2002-06-17",
+      "filing_date": "2011-05-23",
+      "title": "Reinforced pouch type secondary battery"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "KR10-2002-0033721A",
+      "representative_publication": "KR100472504B1",
+      "primary_language": "en",
+      "priority_date": "2002-06-17",
+      "filing_date": "2002-06-17",
+      "title": "Pouch type secondary battery with improved reinforcement structure"
+    },
+    {
+      "application_number": "KR2002-0033721",
+      "filing_date": "2002-06-17"
+    }
+  ],
+  "family_id": "31884872",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US6042966A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-01-20",
+        "publication_date": "2000-03-28",
+        "assignee_original": "Valence Technology, Inc.",
+        "title": "Battery terminal insulation",
+        "patent_id": "patent/US6042966A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6042966A%2Fen"
+      },
+      {
+        "publication_number": "US20010051298A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-05-14",
+        "publication_date": "2001-12-13",
+        "assignee_original": "Mitsubishi Denki Kabushiki Kaisha",
+        "title": "Plate-shaped battery and battery apparatus",
+        "patent_id": "patent/US20010051298A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20010051298A1%2Fen"
+      },
+      {
+        "publication_number": "US20030133254A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-01-16",
+        "publication_date": "2003-07-17",
+        "assignee_original": "Zheng Chen",
+        "title": "Light-weight reinforced electreochemical capacitor and process for making the same",
+        "patent_id": "patent/US20030133254A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030133254A1%2Fen"
+      },
+      {
+        "publication_number": "US6743546B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-26",
+        "publication_date": "2004-06-01",
+        "assignee_original": "Matsushita Electric Industrial Co., Ltd.",
+        "title": "Laminate sheath type battery",
+        "patent_id": "patent/US6743546B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6743546B1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JPH10214606A",
+        "primary_language": "en",
+        "priority_date": "1996-11-28",
+        "publication_date": "1998-08-11",
+        "assignee_original": "Sanyo Electric Co Ltd",
+        "title": "Thin type battery of laminated armor body",
+        "patent_id": "patent/JPH10214606A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH10214606A%2Fen"
+      },
+      {
+        "publication_number": "JP2000195475A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-25",
+        "publication_date": "2000-07-14",
+        "assignee_original": "Mitsubishi Chemicals Corp",
+        "title": "Rechargeable battery",
+        "patent_id": "patent/JP2000195475A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000195475A%2Fen"
+      },
+      {
+        "publication_number": "JP2000357536A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-06-15",
+        "publication_date": "2000-12-26",
+        "assignee_original": "Japan Storage Battery Co Ltd",
+        "title": "Nonaqueous electrolyte battery",
+        "patent_id": "patent/JP2000357536A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000357536A%2Fen"
+      },
+      {
+        "publication_number": "JP3800868B2",
+        "primary_language": "en",
+        "priority_date": "1999-06-22",
+        "publication_date": "2006-07-26",
+        "assignee_original": "\u30ab\u30b7\u30aa\u8a08\u7b97\u6a5f\u682a\u5f0f\u4f1a\u793e",
+        "title": "Liquid crystal display",
+        "patent_id": "patent/JP3800868B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3800868B2%2Fen"
+      },
+      {
+        "publication_number": "KR100573097B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-06-30",
+        "publication_date": "2006-04-24",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Secondary battery",
+        "patent_id": "patent/KR100573097B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100573097B1%2Fen"
+      },
+      {
+        "publication_number": "JP2001283798A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-29",
+        "publication_date": "2001-10-12",
+        "assignee_original": "Sanyo Electric Co Ltd",
+        "title": "Battery with laminated armor",
+        "patent_id": "patent/JP2001283798A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2001283798A%2Fen"
+      },
+      {
+        "publication_number": "JP4821043B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-11-08",
+        "publication_date": "2011-11-24",
+        "assignee_original": "\uff34\uff44\uff4b\u682a\u5f0f\u4f1a\u793e",
+        "title": "Electrochemical devices",
+        "patent_id": "patent/JP4821043B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4821043B2%2Fen"
+      },
+      {
+        "publication_number": "DE10226848A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-06-15",
+        "publication_date": "2003-12-24",
+        "assignee_original": "Varta Microbattery Gmbh",
+        "title": "Galvanic element",
+        "patent_id": "patent/DE10226848A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10226848A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20040045597A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-11-12",
+        "publication_date": "2004-03-11",
+        "assignee_original": "Takaaki Kimijima",
+        "title": "Electric cell",
+        "patent_id": "patent/US20040045597A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040045597A1%2Fen"
+      },
+      {
+        "publication_number": "US20060099503A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-09-24",
+        "publication_date": "2006-05-11",
+        "assignee_original": "Lee Hyung B",
+        "title": "Lithium polymer battery and method for manufacturing the same",
+        "patent_id": "patent/US20060099503A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060099503A1%2Fen"
+      },
+      {
+        "publication_number": "US20060099501A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-10-28",
+        "publication_date": "2006-05-11",
+        "assignee_original": "Kim Ka Y",
+        "title": "Secondary battery",
+        "patent_id": "patent/US20060099501A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060099501A1%2Fen"
+      },
+      {
+        "publication_number": "US20060127751A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-11-29",
+        "publication_date": "2006-06-15",
+        "assignee_original": "Woo Soon K",
+        "title": "Lithium rechargeable battery",
+        "patent_id": "patent/US20060127751A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060127751A1%2Fen"
+      },
+      {
+        "publication_number": "US20060154145A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-09-24",
+        "publication_date": "2006-07-13",
+        "assignee_original": "Lee Hyung B",
+        "title": "Secondary battery having jelly roll configuration type electrode assembly",
+        "patent_id": "patent/US20060154145A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060154145A1%2Fen"
+      },
+      {
+        "publication_number": "WO2007055479A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-08",
+        "publication_date": "2007-05-18",
+        "assignee_original": "Lg Chem, Ltd.",
+        "title": "Secondary battery with advanced safety",
+        "patent_id": "patent/WO2007055479A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007055479A1%2Fen"
+      },
+      {
+        "publication_number": "US20070117008A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-21",
+        "publication_date": "2007-05-24",
+        "assignee_original": "Shinako Kaneko",
+        "title": "Stack-type lithium-ion polymer battery",
+        "patent_id": "patent/US20070117008A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070117008A1%2Fen"
+      },
+      {
+        "publication_number": "US20070231685A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-28",
+        "publication_date": "2007-10-04",
+        "assignee_original": "Tomoyasu Takeuchi",
+        "title": "Laminate Type Secondary Battery and Battery Pack Thereof",
+        "patent_id": "patent/US20070231685A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070231685A1%2Fen"
+      },
+      {
+        "publication_number": "WO2007114542A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-30",
+        "publication_date": "2007-10-11",
+        "assignee_original": "Lg Chem, Ltd.",
+        "title": "Secondary battery of improved safety",
+        "patent_id": "patent/WO2007114542A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007114542A1%2Fen"
+      },
+      {
+        "publication_number": "WO2007114579A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-04-03",
+        "publication_date": "2007-10-11",
+        "assignee_original": "Lg Chem, Ltd.",
+        "title": "Lithium secondary battery improved safety and capacity",
+        "patent_id": "patent/WO2007114579A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007114579A1%2Fen"
+      },
+      {
+        "publication_number": "WO2007126243A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-05-01",
+        "publication_date": "2007-11-08",
+        "assignee_original": "Lg Chem, Ltd.",
+        "title": "Secondary battery having electrode with self cutting part to be destructed on application of over-current",
+        "patent_id": "patent/WO2007126243A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007126243A1%2Fen"
+      },
+      {
+        "publication_number": "US20080166628A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-01-10",
+        "publication_date": "2008-07-10",
+        "assignee_original": "Heongsin Kim",
+        "title": "External case for secondary batteries and secondary battery using the external case",
+        "patent_id": "patent/US20080166628A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080166628A1%2Fen"
+      },
+      {
+        "publication_number": "CN100411225C",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-30",
+        "publication_date": "2008-08-13",
+        "assignee_original": "\u4e09\u661fSdi\u682a\u5f0f\u4f1a\u793e",
+        "title": "Can type secondary battery",
+        "patent_id": "patent/CN100411225C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN100411225C%2Fen"
+      },
+      {
+        "publication_number": "US20080241680A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-03-26",
+        "publication_date": "2008-10-02",
+        "assignee_original": "Saehan Enertech, Inc.",
+        "title": "Pouch type lithium secondary battery",
+        "patent_id": "patent/US20080241680A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080241680A1%2Fen"
+      },
+      {
+        "publication_number": "WO2009078680A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-18",
+        "publication_date": "2009-09-17",
+        "assignee_original": "Lg Chem. Ltd.",
+        "title": "Pouch type secondary battery with improved safety",
+        "patent_id": "patent/WO2009078680A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009078680A3%2Fen"
+      },
+      {
+        "publication_number": "US20090263707A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-16",
+        "publication_date": "2009-10-22",
+        "assignee_original": "Buckley James P",
+        "title": "High Energy Lithium Ion Secondary Batteries",
+        "patent_id": "patent/US20090263707A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090263707A1%2Fen"
+      },
+      {
+        "publication_number": "US20100099023A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-10-23",
+        "publication_date": "2010-04-22",
+        "assignee_original": "Akira Kuroda",
+        "title": "Assembled battery, manufacturing method of the same, and vehicle provided with assembled battery",
+        "patent_id": "patent/US20100099023A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100099023A1%2Fen"
+      },
+      {
+        "publication_number": "US20100136411A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-07-14",
+        "publication_date": "2010-06-03",
+        "assignee_original": "A123 Systems, Inc.",
+        "title": "Prismatic Cell With Outer Electrode Layers Coated On A Single Side",
+        "patent_id": "patent/US20100136411A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100136411A1%2Fen"
+      },
+      {
+        "publication_number": "EP2038942A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-07-10",
+        "publication_date": "2010-07-21",
+        "assignee_original": "Lg Chemical Ltd",
+        "title": "SECURITY KIT FOR SECONDARY BATTERY",
+        "patent_id": "patent/EP2038942A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2038942A4%2Fen"
+      },
+      {
+        "publication_number": "US20110081574A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-10-01",
+        "publication_date": "2011-04-07",
+        "assignee_original": "Yunkyung Jo",
+        "title": "Secondary battery and method of fabricating secondary battery",
+        "patent_id": "patent/US20110081574A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110081574A1%2Fen"
+      },
+      {
+        "publication_number": "US20110206976A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-02-19",
+        "publication_date": "2011-08-25",
+        "assignee_original": "Kyung-Mo Yoo",
+        "title": "Electrode assembly and secondary battery using the same",
+        "patent_id": "patent/US20110206976A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110206976A1%2Fen"
+      },
+      {
+        "publication_number": "US20110244319A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-03-31",
+        "publication_date": "2011-10-06",
+        "assignee_original": "Mitsubishi Heavy Industries, Ltd.",
+        "title": "Secondary battery and battery system",
+        "patent_id": "patent/US20110244319A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110244319A1%2Fen"
+      },
+      {
+        "publication_number": "US20110250486A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-03-31",
+        "publication_date": "2011-10-13",
+        "assignee_original": "Mitsubishi Heavy Industries, Ltd.",
+        "title": "Secondary battery and battery system",
+        "patent_id": "patent/US20110250486A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110250486A1%2Fen"
+      },
+      {
+        "publication_number": "WO2011085778A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-01-13",
+        "publication_date": "2011-11-10",
+        "assignee_original": "Li-Tec Battery Gmbh",
+        "title": "Frame for an electrochemical energy storage device",
+        "patent_id": "patent/WO2011085778A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011085778A3%2Fen"
+      },
+      {
+        "publication_number": "US20120129014A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-18",
+        "publication_date": "2012-05-24",
+        "assignee_original": "Woon-Seong Baek",
+        "title": "Battery pack",
+        "patent_id": "patent/US20120129014A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120129014A1%2Fen"
+      },
+      {
+        "publication_number": "US20120225345A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-04-06",
+        "publication_date": "2012-09-06",
+        "assignee_original": "Soo-Young Kim",
+        "title": "Stack-type cell or bi-cell, electrode assembly for secondary battery using the same, and manufacturing method thereof",
+        "patent_id": "patent/US20120225345A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120225345A1%2Fen"
+      },
+      {
+        "publication_number": "US20120258352A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-04-05",
+        "publication_date": "2012-10-11",
+        "assignee_original": "Samsung Sdi Co., Ltd.",
+        "title": "Electrode assembly and secondary battery using the same",
+        "patent_id": "patent/US20120258352A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120258352A1%2Fen"
+      },
+      {
+        "publication_number": "US20130004835A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-01",
+        "publication_date": "2013-01-03",
+        "assignee_original": "Apple Inc.",
+        "title": "Battery pouch sheet edge insulation",
+        "patent_id": "patent/US20130004835A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130004835A1%2Fen"
+      },
+      {
+        "publication_number": "CN103165829A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-12-09",
+        "publication_date": "2013-06-19",
+        "assignee_original": "\u4e09\u661fSdi\u682a\u5f0f\u4f1a\u793e",
+        "title": "secondary battery",
+        "patent_id": "patent/CN103165829A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103165829A%2Fen"
+      },
+      {
+        "publication_number": "US20140106194A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-01-26",
+        "publication_date": "2014-04-17",
+        "assignee_original": "Apple Inc.",
+        "title": "Battery with multiple jelly rolls in a single pouch",
+        "patent_id": "patent/US20140106194A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140106194A1%2Fen"
+      },
+      {
+        "publication_number": "US20140302383A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-29",
+        "publication_date": "2014-10-09",
+        "assignee_original": "Nissan Motor Co., Ltd.",
+        "title": "Flat battery and method for producing flat battery",
+        "patent_id": "patent/US20140302383A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140302383A1%2Fen"
+      },
+      {
+        "publication_number": "US20150221925A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-09-11",
+        "publication_date": "2015-08-06",
+        "assignee_original": "Routejade Inc.",
+        "title": "Stacked type secondary battery",
+        "patent_id": "patent/US20150221925A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150221925A1%2Fen"
+      },
+      {
+        "publication_number": "EP2882024A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-09",
+        "publication_date": "2015-10-14",
+        "assignee_original": "Lg Chemical Ltd",
+        "title": "ASSEMBLY OF STAGE ELECTRODES, SECONDARY BATTERY, BATTERY PARK AND DEVICE COMPRISING SAME, AND METHOD OF MANUFACTURING THE SAME",
+        "patent_id": "patent/EP2882024A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2882024A4%2Fen"
+      },
+      {
+        "publication_number": "US20160116941A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-10-24",
+        "publication_date": "2016-04-28",
+        "assignee_original": "Semiconductor Energy Laboratory Co., Ltd.",
+        "title": "Electronic device",
+        "patent_id": "patent/US20160116941A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160116941A1%2Fen"
+      },
+      {
+        "publication_number": "CN105576297A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-10-30",
+        "publication_date": "2016-05-11",
+        "assignee_original": "\u4e30\u7530\u81ea\u52a8\u8f66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Method of manufacturing secondary battery, and secondary battery",
+        "patent_id": "patent/CN105576297A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105576297A%2Fen"
+      },
+      {
+        "publication_number": "EP2660892A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-12-28",
+        "publication_date": "2016-09-07",
+        "assignee_original": "Automotive Energy Supply Corp",
+        "title": "BATTERY COVERED WITH A FILM AND METHOD FOR COVERING A SCREEN",
+        "patent_id": "patent/EP2660892A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2660892A4%2Fen"
+      },
+      {
+        "publication_number": "US20170117529A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-23",
+        "publication_date": "2017-04-27",
+        "assignee_original": "Samsung Sdi Co., Ltd.",
+        "title": "Secondary battery",
+        "patent_id": "patent/US20170117529A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170117529A1%2Fen"
+      },
+      {
+        "publication_number": "US20170125836A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-11-04",
+        "publication_date": "2017-05-04",
+        "assignee_original": "Samsung Sdi Co., Ltd.",
+        "title": "Secondary battery",
+        "patent_id": "patent/US20170125836A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170125836A1%2Fen"
+      },
+      {
+        "publication_number": "US9806302B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-12-09",
+        "publication_date": "2017-10-31",
+        "assignee_original": "Applied Materials, Inc.",
+        "title": "Thin film battery package",
+        "patent_id": "patent/US9806302B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9806302B2%2Fen"
+      },
+      {
+        "publication_number": "US10158107B2",
+        "primary_language": "en",
+        "priority_date": "2015-04-03",
+        "publication_date": "2018-12-18",
+        "assignee_original": "Toyota Jidosha Kabushiki Kaisha",
+        "title": "Battery comprising insulative films",
+        "patent_id": "patent/US10158107B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10158107B2%2Fen"
+      },
+      {
+        "publication_number": "CN109417151A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-02-23",
+        "publication_date": "2019-03-01",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793eLg\u5316\u5b66",
+        "title": "Battery unit using bus bar",
+        "patent_id": "patent/CN109417151A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109417151A%2Fen"
+      },
+      {
+        "publication_number": "CN109585720A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-09-28",
+        "publication_date": "2019-04-05",
+        "assignee_original": "\u9ea6\u514b\u8d5b\u5c14\u63a7\u80a1\u682a\u5f0f\u4f1a\u793e",
+        "title": "Electrochemical element",
+        "patent_id": "patent/CN109585720A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109585720A%2Fen"
+      },
+      {
+        "publication_number": "WO2019168302A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-02-27",
+        "publication_date": "2019-09-06",
+        "assignee_original": "Samsung Electronics Co., Ltd.",
+        "title": "Electronic device including battery structure",
+        "patent_id": "patent/WO2019168302A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019168302A1%2Fen"
+      },
+      {
+        "publication_number": "US20190305303A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-03-29",
+        "publication_date": "2019-10-03",
+        "assignee_original": "Lenovo (Singapore) Pte. Ltd.",
+        "title": "Battery package",
+        "patent_id": "patent/US20190305303A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190305303A1%2Fen"
+      },
+      {
+        "publication_number": "CN111684638A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-11-15",
+        "publication_date": "2020-09-18",
+        "assignee_original": "\u827e\u8bfa\u7ef4\u514b\u65af\u516c\u53f8",
+        "title": "Electrode assembly and secondary battery",
+        "patent_id": "patent/CN111684638A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111684638A%2Fen"
+      },
+      {
+        "publication_number": "EP3863107A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-08-19",
+        "publication_date": "2021-08-11",
+        "assignee_original": "Beijing Xiaomi Mobile Software Co., Ltd.",
+        "title": "Composite battery and electronic device",
+        "patent_id": "patent/EP3863107A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3863107A1%2Fen"
+      },
+      {
+        "publication_number": "CN113314806A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-02-07",
+        "publication_date": "2021-08-27",
+        "assignee_original": "\u5317\u4eac\u5c0f\u7c73\u79fb\u52a8\u8f6f\u4ef6\u6709\u9650\u516c\u53f8",
+        "title": "Composite battery and electronic device",
+        "patent_id": "patent/CN113314806A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113314806A%2Fen"
+      },
+      {
+        "publication_number": "US11262795B2",
+        "primary_language": "en",
+        "priority_date": "2014-10-17",
+        "publication_date": "2022-03-01",
+        "assignee_original": "Semiconductor Energy Laboratory Co., Ltd.",
+        "title": "Electronic device",
+        "patent_id": "patent/US11262795B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11262795B2%2Fen"
+      },
+      {
+        "publication_number": "US20220320567A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-08-19",
+        "publication_date": "2022-10-06",
+        "assignee_original": "Samsung Sdi Co., Ltd.",
+        "title": "Rechargeable battery",
+        "patent_id": "patent/US20220320567A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220320567A1%2Fen"
+      },
+      {
+        "publication_number": "US20220384882A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-06-01",
+        "publication_date": "2022-12-01",
+        "assignee_original": "Toyota Jidosha Kabushiki Kaisha",
+        "title": "Outer package and battery",
+        "patent_id": "patent/US20220384882A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220384882A1%2Fen"
+      },
+      {
+        "publication_number": "US11532859B2",
+        "primary_language": "en",
+        "priority_date": "2016-11-07",
+        "publication_date": "2022-12-20",
+        "assignee_original": "Samsung Sdi Co., Ltd.",
+        "title": "Rechargeable battery",
+        "patent_id": "patent/US11532859B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11532859B2%2Fen"
+      },
+      {
+        "publication_number": "US12095040B2",
+        "primary_language": "en",
+        "priority_date": "2017-11-15",
+        "publication_date": "2024-09-17",
+        "assignee_original": "Enovix Corporation",
+        "title": "Constrained electrode assembly",
+        "patent_id": "patent/US12095040B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12095040B2%2Fen"
+      },
+      {
+        "publication_number": "US12183892B2",
+        "primary_language": "en",
+        "priority_date": "2018-08-06",
+        "publication_date": "2024-12-31",
+        "assignee_original": "Enovix Corporation",
+        "title": "Electrode assembly manufacture and device",
+        "patent_id": "patent/US12183892B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12183892B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "KR101075349B1",
+        "primary_language": "en",
+        "priority_date": "2005-09-06",
+        "publication_date": "2011-10-19",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Pouch type rechargeable battery",
+        "patent_id": "patent/KR101075349B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101075349B1%2Fen"
+      },
+      {
+        "publication_number": "KR100646500B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-28",
+        "publication_date": "2006-11-14",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Electrode assembly for lithium secondary battery and lithium secondary battery using same",
+        "patent_id": "patent/KR100646500B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100646500B1%2Fen"
+      },
+      {
+        "publication_number": "KR100947982B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-28",
+        "publication_date": "2010-03-18",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Electrode assembly and pouch type lithium secondary battery having same",
+        "patent_id": "patent/KR100947982B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100947982B1%2Fen"
+      },
+      {
+        "publication_number": "KR101419557B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-08-07",
+        "publication_date": "2014-07-14",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc5d8\uc9c0\ud654\ud559",
+        "title": "Light-area battery for preventing parts",
+        "patent_id": "patent/KR101419557B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101419557B1%2Fen"
+      },
+      {
+        "publication_number": "KR101108184B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-11",
+        "publication_date": "2012-02-06",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Battery pack",
+        "patent_id": "patent/KR101108184B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101108184B1%2Fen"
+      },
+      {
+        "publication_number": "KR101866369B1",
+        "primary_language": "en",
+        "priority_date": "2011-07-12",
+        "publication_date": "2018-06-14",
+        "assignee_original": "\uc5d0\uc2a4\ucf00\uc774\uc774\ub178\ubca0\uc774\uc158 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Battery case",
+        "patent_id": "patent/KR101866369B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101866369B1%2Fen"
+      },
+      {
+        "publication_number": "US20130149586A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-12-09",
+        "publication_date": "2013-06-13",
+        "assignee_original": "Samsung Sdi Co., Ltd.",
+        "title": "Battery cell",
+        "patent_id": "patent/US20130149586A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130149586A1%2Fen"
+      },
+      {
+        "publication_number": "KR101914562B1",
+        "primary_language": "en",
+        "priority_date": "2011-12-09",
+        "publication_date": "2018-12-28",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Secondary battery",
+        "patent_id": "patent/KR101914562B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101914562B1%2Fen"
+      },
+      {
+        "publication_number": "KR101905077B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-01-19",
+        "publication_date": "2018-10-05",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Reinforcing material for battery cell and battery cell using the same",
+        "patent_id": "patent/KR101905077B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101905077B1%2Fen"
+      },
+      {
+        "publication_number": "KR101897223B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-04-24",
+        "publication_date": "2018-09-12",
+        "assignee_original": "\uc5d0\uc2a4\ucf00\uc774\uc774\ub178\ubca0\uc774\uc158 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Pouch type secondary battery",
+        "patent_id": "patent/KR101897223B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101897223B1%2Fen"
+      },
+      {
+        "publication_number": "US8808895B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-06-22",
+        "publication_date": "2014-08-19",
+        "assignee_original": "Apple Inc.",
+        "title": "Battery protection structures",
+        "patent_id": "patent/US8808895B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8808895B2%2Fen"
+      },
+      {
+        "publication_number": "US9660292B2",
+        "primary_language": "en",
+        "priority_date": "2012-08-16",
+        "publication_date": "2017-05-23",
+        "assignee_original": "Enovix Corporation",
+        "title": "Electrode structures for three-dimensional batteries",
+        "patent_id": "patent/US9660292B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9660292B2%2Fen"
+      },
+      {
+        "publication_number": "TW201414046A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-09-19",
+        "publication_date": "2014-04-01",
+        "assignee_original": "Dijiya Energy Saving Technology Inc",
+        "title": "Structure of lithium battery",
+        "patent_id": "patent/TW201414046A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTW201414046A%2Fen"
+      },
+      {
+        "publication_number": "KR101917350B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-10-18",
+        "publication_date": "2018-11-09",
+        "assignee_original": "\uc5d0\uc2a4\ucf00\uc774\uc774\ub178\ubca0\uc774\uc158 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "The Secondary battery",
+        "patent_id": "patent/KR101917350B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101917350B1%2Fen"
+      },
+      {
+        "publication_number": "CN105308772B",
+        "primary_language": "en",
+        "priority_date": "2013-03-15",
+        "publication_date": "2018-11-16",
+        "assignee_original": "\u827e\u8bfa\u7ef4\u514b\u65af\u516c\u53f8",
+        "title": "Separator for three-dimensional battery",
+        "patent_id": "patent/CN105308772B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105308772B%2Fen"
+      },
+      {
+        "publication_number": "KR101996250B1",
+        "primary_language": "en",
+        "priority_date": "2013-06-21",
+        "publication_date": "2019-07-04",
+        "assignee_original": "\uc5d0\uc2a4\ucf00\uc774\uc774\ub178\ubca0\uc774\uc158 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Secondary battery and secondary batter pack having the same",
+        "patent_id": "patent/KR101996250B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101996250B1%2Fen"
+      },
+      {
+        "publication_number": "KR102222112B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-07-16",
+        "publication_date": "2021-03-03",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Flexible secondary battery",
+        "patent_id": "patent/KR102222112B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102222112B1%2Fen"
+      },
+      {
+        "publication_number": "KR102233779B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-09-17",
+        "publication_date": "2021-03-30",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Secondary battery",
+        "patent_id": "patent/KR102233779B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102233779B1%2Fen"
+      },
+      {
+        "publication_number": "CN105633311B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-11-21",
+        "publication_date": "2018-11-27",
+        "assignee_original": "\u8fea\u82ac\u5c3c\u9999\u6e2f\u6709\u9650\u516c\u53f8",
+        "title": "battery module positioning structure and battery module",
+        "patent_id": "patent/CN105633311B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105633311B%2Fen"
+      },
+      {
+        "publication_number": "US9819000B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-11-21",
+        "publication_date": "2017-11-14",
+        "assignee_original": "Tymphany Worldwide Enterprises Limited",
+        "title": "Battery module positioning structure and battery module",
+        "patent_id": "patent/US9819000B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9819000B2%2Fen"
+      },
+      {
+        "publication_number": "EP4113682A1",
+        "primary_language": "en",
+        "priority_date": "2015-05-14",
+        "publication_date": "2023-01-04",
+        "assignee_original": "Enovix Corporation",
+        "title": "Longitudinal constraints for energy storage devices",
+        "patent_id": "patent/EP4113682A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4113682A1%2Fen"
+      },
+      {
+        "publication_number": "KR102504792B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-16",
+        "publication_date": "2023-02-27",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Rechargeable battery",
+        "patent_id": "patent/KR102504792B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102504792B1%2Fen"
+      },
+      {
+        "publication_number": "KR102479486B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-28",
+        "publication_date": "2022-12-19",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Pouch type rechargeable battery",
+        "patent_id": "patent/KR102479486B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102479486B1%2Fen"
+      },
+      {
+        "publication_number": "KR102580236B1",
+        "primary_language": "en",
+        "priority_date": "2015-11-20",
+        "publication_date": "2023-09-19",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Secondary battery",
+        "patent_id": "patent/KR102580236B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102580236B1%2Fen"
+      },
+      {
+        "publication_number": "KR102149931B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-11-30",
+        "publication_date": "2020-08-31",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc5d8\uc9c0\ud654\ud559",
+        "title": "Secondary battery with relieved gas trap",
+        "patent_id": "patent/KR102149931B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102149931B1%2Fen"
+      },
+      {
+        "publication_number": "KR102074808B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-10",
+        "publication_date": "2020-02-07",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc5d8\uc9c0\ud654\ud559",
+        "title": "Electrode Assembly Comprising Electrode Plate Having Reinforcing Member Attached on One Side",
+        "patent_id": "patent/KR102074808B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102074808B1%2Fen"
+      },
+      {
+        "publication_number": "KR102391925B1",
+        "primary_language": "en",
+        "priority_date": "2016-05-13",
+        "publication_date": "2022-04-28",
+        "assignee_original": "\uc5d0\ub178\ube45\uc2a4 \ucf54\uc624\ud37c\ub808\uc774\uc158",
+        "title": "Dimensional Constraints for 3D Batteries",
+        "patent_id": "patent/KR102391925B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102391925B1%2Fen"
+      },
+      {
+        "publication_number": "WO2018093965A1",
+        "primary_language": "en",
+        "priority_date": "2016-11-16",
+        "publication_date": "2018-05-24",
+        "assignee_original": "Enovix Corporation",
+        "title": "Three-dimensional batteries with compressible cathodes",
+        "patent_id": "patent/WO2018093965A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018093965A1%2Fen"
+      },
+      {
+        "publication_number": "KR102227806B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-01-25",
+        "publication_date": "2021-03-15",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc5d8\uc9c0\ud654\ud559",
+        "title": "Secondary battery",
+        "patent_id": "patent/KR102227806B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102227806B1%2Fen"
+      },
+      {
+        "publication_number": "KR102263444B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-23",
+        "publication_date": "2021-06-11",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc5d8\uc9c0\uc5d0\ub108\uc9c0\uc194\ub8e8\uc158",
+        "title": "Battery Cell Comprising Receiving Frame",
+        "patent_id": "patent/KR102263444B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102263444B1%2Fen"
+      },
+      {
+        "publication_number": "KR102606048B1",
+        "primary_language": "en",
+        "priority_date": "2017-04-24",
+        "publication_date": "2023-11-27",
+        "assignee_original": "\uc5d0\uc774\uc77c\uc774\uc0bc \uc2dc\uc2a4\ud15c\uc988 \uc5d8\uc5d8\uc528",
+        "title": "vehicle battery",
+        "patent_id": "patent/KR102606048B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102606048B1%2Fen"
+      },
+      {
+        "publication_number": "CN110770956A",
+        "primary_language": "en",
+        "priority_date": "2017-06-15",
+        "publication_date": "2020-02-07",
+        "assignee_original": "A123\u7cfb\u7edf\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "Stacked prismatic architecture for electrochemical cells",
+        "patent_id": "patent/CN110770956A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110770956A%2Fen"
+      },
+      {
+        "publication_number": "US12199246B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-06-15",
+        "publication_date": "2025-01-14",
+        "assignee_original": "A123 Systems Llc",
+        "title": "Stacked prismatic architecture for electrochemical cell",
+        "patent_id": "patent/US12199246B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12199246B2%2Fen"
+      },
+      {
+        "publication_number": "KR102248104B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-10-11",
+        "publication_date": "2021-05-03",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc5d8\uc9c0\ud654\ud559",
+        "title": "Battery Cell Comprising Sealing Tape for Accelerating Heat Conduction",
+        "patent_id": "patent/KR102248104B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102248104B1%2Fen"
+      },
+      {
+        "publication_number": "US11355802B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-04-26",
+        "publication_date": "2022-06-07",
+        "assignee_original": "Toyota Jidosha Kabushiki Kaisha",
+        "title": "Secondary battery having improved manufacturability and performance",
+        "patent_id": "patent/US11355802B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11355802B2%2Fen"
+      },
+      {
+        "publication_number": "KR102395231B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-24",
+        "publication_date": "2022-05-04",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc5d8\uc9c0\uc5d0\ub108\uc9c0\uc194\ub8e8\uc158",
+        "title": "Battery cell and battery module including the same",
+        "patent_id": "patent/KR102395231B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102395231B1%2Fen"
+      },
+      {
+        "publication_number": "WO2021196028A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-03-31",
+        "publication_date": "2021-10-07",
+        "assignee_original": "\u5b81\u5fb7\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Battery",
+        "patent_id": "patent/WO2021196028A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021196028A1%2Fen"
+      },
+      {
+        "publication_number": "EP4200921B1",
+        "primary_language": "en",
+        "priority_date": "2020-09-18",
+        "publication_date": "2024-08-14",
+        "assignee_original": "Enovix Corporation",
+        "title": "Process for delineating a population of electrode structures in a web using a laser beam",
+        "patent_id": "patent/EP4200921B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4200921B1%2Fen"
+      },
+      {
+        "publication_number": "KR20230122050A",
+        "primary_language": "en",
+        "priority_date": "2020-12-09",
+        "publication_date": "2023-08-22",
+        "assignee_original": "\uc5d0\ub178\ube45\uc2a4 \ucf54\uc624\ud37c\ub808\uc774\uc158",
+        "title": "Method and apparatus for manufacturing electrode assembly for secondary battery",
+        "patent_id": "patent/KR20230122050A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20230122050A%2Fen"
+      },
+      {
+        "publication_number": "JP2024526097A",
+        "primary_language": "en",
+        "priority_date": "2021-06-15",
+        "publication_date": "2024-07-17",
+        "assignee_original": "\u30a8\u30ce\u30d3\u30af\u30b9\u30fb\u30b3\u30fc\u30dd\u30ec\u30a4\u30b7\u30e7\u30f3",
+        "title": "Spacer for providing protection for electrochemical battery enclosures and systems and methods therefor - Patents.com",
+        "patent_id": "patent/JP2024526097A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2024526097A%2Fen"
+      },
+      {
+        "publication_number": "US20240030556A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-10-12",
+        "publication_date": "2024-01-25",
+        "assignee_original": "Lg Energy Solution, Ltd.",
+        "title": "Electrode Assembly",
+        "patent_id": "patent/US20240030556A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240030556A1%2Fen"
+      },
+      {
+        "publication_number": "WO2024063103A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-22",
+        "publication_date": "2024-03-28",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u6751\u7530\u88fd\u4f5c\u6240",
+        "title": "Secondary battery",
+        "patent_id": "patent/WO2024063103A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024063103A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US7722984B2",
+      "primary_language": "en",
+      "publication_date": "2010-05-25",
+      "title": "Reinforced pouch type secondary battery",
+      "patent_id": "patent/US7722984B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7722984B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7410723B2",
+      "primary_language": "en",
+      "publication_date": "2008-08-12",
+      "title": "Pouch type secondary battery",
+      "patent_id": "patent/US7410723B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7410723B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100891383B1",
+      "primary_language": "en",
+      "publication_date": "2009-04-02",
+      "title": "Pouch Type Secondary Battery",
+      "patent_id": "patent/KR100891383B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100891383B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7122276B2",
+      "primary_language": "en",
+      "publication_date": "2006-10-17",
+      "title": "Pouch type secondary battery with safety vent",
+      "patent_id": "patent/US7122276B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7122276B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8986871B2",
+      "primary_language": "en",
+      "publication_date": "2015-03-24",
+      "title": "Electrode assembly and secondary battery having the same",
+      "patent_id": "patent/US8986871B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8986871B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100496305B1",
+      "primary_language": "en",
+      "publication_date": "2005-06-17",
+      "title": "Pouched-type lithium secondary battery and the fabrication method thereof",
+      "patent_id": "patent/KR100496305B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100496305B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5254332B2",
+      "primary_language": "en",
+      "publication_date": "2013-08-07",
+      "title": "Large capacity battery pack",
+      "patent_id": "patent/JP5254332B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5254332B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100601548B1",
+      "primary_language": "en",
+      "publication_date": "2006-07-19",
+      "title": "Secondary battery",
+      "patent_id": "patent/KR100601548B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100601548B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100790631B1",
+      "primary_language": "en",
+      "publication_date": "2008-01-02",
+      "title": "Collector cover member for film-covered electrical devices and corresponding film-covered electrical devices",
+      "patent_id": "patent/KR100790631B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100790631B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7618737B2",
+      "primary_language": "en",
+      "publication_date": "2009-11-17",
+      "title": "Lithium secondary battery and method for manufacturing the same",
+      "patent_id": "patent/US7618737B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7618737B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN1437273A",
+      "primary_language": "en",
+      "publication_date": "2003-08-20",
+      "title": "Secondary battery",
+      "patent_id": "patent/CN1437273A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1437273A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100515833B1",
+      "primary_language": "en",
+      "publication_date": "2005-09-21",
+      "title": "Jelly-roll type electrode assembly and secondary battery applying the same",
+      "patent_id": "patent/KR100515833B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100515833B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20070071251A",
+      "primary_language": "en",
+      "publication_date": "2007-07-04",
+      "title": "Pouch Case and Pouch Secondary Battery",
+      "patent_id": "patent/KR20070071251A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20070071251A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100918408B1",
+      "primary_language": "en",
+      "publication_date": "2009-09-24",
+      "title": "Pouch Type Secondary Battery",
+      "patent_id": "patent/KR100918408B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100918408B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101146465B1",
+      "primary_language": "en",
+      "publication_date": "2012-05-21",
+      "title": "Pouch type secondary battery and the fabrication method thereof",
+      "patent_id": "patent/KR101146465B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101146465B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100601549B1",
+      "primary_language": "en",
+      "publication_date": "2006-07-19",
+      "title": "Pouch Type Lithium Secondary Battery",
+      "patent_id": "patent/KR100601549B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100601549B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20040107868A",
+      "primary_language": "en",
+      "publication_date": "2004-12-23",
+      "title": "Pouched-type lithium secondary battery",
+      "patent_id": "patent/KR20040107868A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20040107868A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20220033944A",
+      "primary_language": "en",
+      "publication_date": "2022-03-17",
+      "title": "The Electrode Assembly And The Secondary Battery",
+      "patent_id": "patent/KR20220033944A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20220033944A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100838064B1",
+      "primary_language": "en",
+      "publication_date": "2008-06-16",
+      "title": "Lithium secondary battery",
+      "patent_id": "patent/KR100838064B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100838064B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240304902A1",
+      "primary_language": "en",
+      "publication_date": "2024-09-12",
+      "title": "Pouch-Type Secondary Battery and Manufacturing Method Therefor",
+      "patent_id": "patent/US20240304902A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240304902A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20060034508A",
+      "primary_language": "en",
+      "publication_date": "2006-04-24",
+      "title": "Pouch Type Secondary Battery",
+      "patent_id": "patent/KR20060034508A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20060034508A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2003-06-17",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "SAMSUNG SDI CO., LTD., KOREA, REPUBLIC OF"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KIM, SANG-BUM;KIM, CHANG-HO;HAN, WON-CHULL;AND OTHERS;REEL/FRAME:014183/0241"
+        },
+        {
+          "label": "Effective date",
+          "value": "20030603"
+        },
+        {
+          "label": "Owner name",
+          "value": "SAMSUNG SDI CO., LTD.,KOREA, REPUBLIC OF"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KIM, SANG-BUM;KIM, CHANG-HO;HAN, WON-CHULL;AND OTHERS;REEL/FRAME:014183/0241"
+        },
+        {
+          "label": "Effective date",
+          "value": "20030603"
+        }
+      ]
+    },
+    {
+      "date": "2009-11-01",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2010-05-05",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2013-10-25",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2017-11-09",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552)"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2021-11-10",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 12TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1553); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "230000002787",
+        "name": "reinforcement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 83
+      },
+      {
+        "id": "239000011888",
+        "name": "foil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 32
+      },
+      {
+        "id": "229910052751",
+        "name": "metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "229920005989",
+        "name": "resin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "239000011347",
+        "name": "resin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "239000004840",
+        "name": "adhesive resin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "229920006223",
+        "name": "adhesive resin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000000835",
+        "name": "fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000037431",
+        "name": "insertion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000003780",
+        "name": "insertion",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000010408",
+        "name": "film",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000008961",
+        "name": "swelling",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "229910052782",
+        "name": "aluminium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "name": "aluminium",
+        "domain": "Chemical compound",
+        "smiles": "[Al]",
+        "inchi_key": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000005025",
+        "name": "cast polypropylene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "-1",
+        "name": "polypropylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000002131",
+        "name": "composite material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000008151",
+        "name": "electrolyte solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000006835",
+        "name": "compression",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000007906",
+        "name": "compression",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229920000139",
+        "name": "polyethylene terephthalate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000005020",
+        "name": "polyethylene terephthalate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "name": "Lithium",
+        "domain": "Chemical compound",
+        "smiles": "[Li]",
+        "inchi_key": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000004677",
+        "name": "Nylon",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000004743",
+        "name": "Polypropylene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000011248",
+        "name": "coating agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000000576",
+        "name": "coating method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000002347",
+        "name": "injection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000007924",
+        "name": "injection",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052744",
+        "name": "lithium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920001778",
+        "name": "nylon",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920001155",
+        "name": "polypropylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000001681",
+        "name": "protective effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "RYGMFSIKBFXOCR-UHFFFAOYSA-N",
+        "name": "Copper",
+        "domain": "Chemical compound",
+        "smiles": "[Cu]",
+        "inchi_key": "RYGMFSIKBFXOCR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "XEEYBQQBJWHFJM-UHFFFAOYSA-N",
+        "name": "Iron",
+        "domain": "Chemical compound",
+        "smiles": "[Fe]",
+        "inchi_key": "XEEYBQQBJWHFJM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000003575",
+        "name": "carbonaceous material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011889",
+        "name": "copper foil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000012212",
+        "name": "insulator",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000003475",
+        "name": "lamination",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "FUJCRWPEOMXPAD-UHFFFAOYSA-N",
+        "name": "lithium oxide",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[Li+].[O-2]",
+        "inchi_key": "FUJCRWPEOMXPAD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910001947",
+        "name": "lithium oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000002844",
+        "name": "melting",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008018",
+        "name": "melting",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000007773",
+        "name": "negative electrode material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920000642",
+        "name": "polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002952",
+        "name": "polymeric resin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000007774",
+        "name": "positive electrode material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002002",
+        "name": "slurry",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920003002",
+        "name": "synthetic resin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000010409",
+        "name": "thin film",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000003466",
+        "name": "welding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "name": "Lithium ion",
+        "domain": "Chemical compound",
+        "smiles": "[Li+]",
+        "inchi_key": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004952",
+        "name": "Polyamide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000853",
+        "name": "adhesive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001070",
+        "name": "adhesive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000712",
+        "name": "assembly",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000429",
+        "name": "assembly",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007599",
+        "name": "discharging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001771",
+        "name": "impaired effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052742",
+        "name": "iron",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010030",
+        "name": "laminating",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001416",
+        "name": "lithium ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000155",
+        "name": "melt",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052987",
+        "name": "metal hydride",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007769",
+        "name": "metal material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004806",
+        "name": "packaging method and process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002647",
+        "name": "polyamide",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003014",
+        "name": "reinforcing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000717",
+        "name": "retained effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007789",
+        "name": "sealing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001220",
+        "name": "stainless steel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010935",
+        "name": "stainless steel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

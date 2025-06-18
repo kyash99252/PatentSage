@@ -1,0 +1,3732 @@
+{
+  "search_metadata": {
+    "id": "6852569eb9dbc40b48b70f70",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/361967db975607a3/6852569eb9dbc40b48b70f70.json",
+    "created_at": "2025-06-18 06:03:10 UTC",
+    "processed_at": "2025-06-18 06:03:10 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN106463711A/en",
+    "raw_html_file": "https://serpapi.com/searches/361967db975607a3/6852569eb9dbc40b48b70f70.html",
+    "total_time_taken": 1.64
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN106463711A/en"
+  },
+  "title": "Dendrite inhibiting electrolytes for metal-based batteries",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/ed/89/ad/61e85f034bef1d/CN106463711A.pdf",
+  "publication_number": "CN106463711A",
+  "country": "China",
+  "prior_art_keywords": [
+    "metal",
+    "halogen",
+    "electrolyte",
+    "battery",
+    "lithium"
+  ],
+  "prior_art_date": "2014-03-24",
+  "application_number": "CN201580026799.4A",
+  "inventors": [
+    {
+      "name": "\u6797\u767b\u00b7A\u00b7\u963f\u5f7b",
+      "link": "https://patents.google.com/?inventor=%E6%9E%97%E7%99%BB%C2%B7A%C2%B7%E9%98%BF%E5%BD%BB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%9E%97%E7%99%BB%C2%B7A%C2%B7%E9%98%BF%E5%BD%BB"
+    },
+    {
+      "name": "T\u00b7\u963f\u91cc\u4e9a\u65af",
+      "link": "https://patents.google.com/?inventor=T%C2%B7%E9%98%BF%E9%87%8C%E4%BA%9A%E6%96%AF",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=T%C2%B7%E9%98%BF%E9%87%8C%E4%BA%9A%E6%96%AF"
+    },
+    {
+      "name": "Y\u00b7\u9646",
+      "link": "https://patents.google.com/?inventor=Y%C2%B7%E9%99%86",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Y%C2%B7%E9%99%86"
+    },
+    {
+      "name": "Z\u00b7\u6d82",
+      "link": "https://patents.google.com/?inventor=Z%C2%B7%E6%B6%82",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Z%C2%B7%E6%B6%82"
+    },
+    {
+      "name": "D\u00b7\u803f\u65af\u52d2",
+      "link": "https://patents.google.com/?inventor=D%C2%B7%E8%80%BF%E6%96%AF%E5%8B%92",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=D%C2%B7%E8%80%BF%E6%96%AF%E5%8B%92"
+    },
+    {
+      "name": "S\u00b7\u4e54\u675c\u91cc",
+      "link": "https://patents.google.com/?inventor=S%C2%B7%E4%B9%94%E6%9D%9C%E9%87%8C",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=S%C2%B7%E4%B9%94%E6%9D%9C%E9%87%8C"
+    }
+  ],
+  "assignees": [
+    "Cornell University"
+  ],
+  "priority_date": "2014-03-24",
+  "filing_date": "2015-03-24",
+  "publication_date": "2017-02-22",
+  "worldwide_applications": {
+    "2015": [
+      {
+        "filing_date": "2015-03-24",
+        "country_code": "CN",
+        "application_number": "CN201580026799.4A",
+        "document_id": "patent/CN106463711B/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      },
+      {
+        "filing_date": "2015-03-24",
+        "country_code": "KR",
+        "application_number": "KR1020167028116A",
+        "document_id": "patent/KR102448135B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2015-03-24",
+        "country_code": "US",
+        "application_number": "US15/128,635",
+        "document_id": "patent/US10938069B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2015-03-24",
+        "country_code": "WO",
+        "application_number": "PCT/US2015/022157",
+        "document_id": "patent/WO2015148450A1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Application Filing"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2015-03-24",
+      "title": "Application filed by Cornell University",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Cornell University"
+    },
+    {
+      "date": "2017-02-22",
+      "title": "Publication of CN106463711A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN106463711A/en"
+    },
+    {
+      "date": "2021-05-07",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2021-05-07",
+      "title": "Publication of CN106463711B",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN106463711B/en"
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2035-03-24",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=106463711A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/201580026799/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN106463711A"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "H01M10/0567",
+      "description": "Liquid materials characterised by the additives",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/052",
+      "description": "Li-accumulators",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/054",
+      "description": "Accumulators with insertion or intercalation of metals other than lithium, e.g. with magnesium or aluminium",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0568",
+      "description": "Liquid materials characterised by the solutes",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0569",
+      "description": "Liquid materials characterised by the solvents",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/38",
+      "description": "Selection of substances as active materials, active masses, active liquids of elements or alloys",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/381",
+      "description": "Alkaline or alkaline earth metals elements",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/382",
+      "description": "Lithium",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/446",
+      "description": "Composite material consisting of a mixture of organic and inorganic materials",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/451",
+      "description": "Separators, membranes or diaphragms characterised by the material having a layered structure comprising layers of only organic material and layers containing inorganic material",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/457",
+      "description": "Separators, membranes or diaphragms characterised by the material having a layered structure comprising three or more layers",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2300/0025",
+      "description": "Organic electrolyte",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T10/70",
+      "description": "Energy storage systems for electromobility, e.g. batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The present invention discloses a metal-based battery comprising at least one metal electrode immersed in an electrolyte comprising: (1) an aprotic solvent; (2) a halogen-containing simple substance; and optionally ( 3) Metal salts with halogen-containing complex anions. The halogen-containing simple species may include metal halide salts comprising metal cations selected from, but not limited to, lithium and sodium metal cations. The metal halide salt may also include a halide anion selected from the group consisting of fluoride, chloride, bromide and iodide halide anions. The use of the metal halide salt in the metal-based battery provides enhanced cycling capability in the metal-based battery. Additional halogen-containing simple substance additives that could enhance the cycle performance of metal-based batteries are also contemplated.",
+  "abstract_original": "\u672c\u53d1\u660e\u516c\u5f00\u4e86\u4e00\u79cd\u91d1\u5c5e\u57fa\u84c4\u7535\u6c60\uff0c\u6240\u8ff0\u91d1\u5c5e\u57fa\u84c4\u7535\u6c60\u5305\u62ec\u6d78\u5165\u7535\u89e3\u8d28\u5185\u7684\u81f3\u5c11\u4e00\u4e2a\u91d1\u5c5e\u7535\u6781\uff0c\u6240\u8ff0\u7535\u89e3\u8d28\u5305\u62ec\uff1a(1)\u975e\u8d28\u5b50\u6eb6\u5242\uff1b(2)\u542b\u5364\u7d20\u7b80\u5355\u7269\u8d28\uff1b\u4ee5\u53ca\u4efb\u9009\u7684(3)\u5177\u6709\u542b\u5364\u7d20\u590d\u6742\u9634\u79bb\u5b50\u7684\u91d1\u5c5e\u76d0\u3002\u6240\u8ff0\u542b\u5364\u7d20\u7b80\u5355\u7269\u8d28\u53ef\u5305\u62ec\u91d1\u5c5e\u5364\u5316\u7269\u76d0\uff0c\u6240\u8ff0\u91d1\u5c5e\u5364\u5316\u7269\u76d0\u5305\u62ec\u91d1\u5c5e\u9633\u79bb\u5b50\uff0c\u6240\u8ff0\u91d1\u5c5e\u9633\u79bb\u5b50\u9009\u81ea\u4f46\u4e0d\u9650\u4e8e\u9502\u548c\u94a0\u91d1\u5c5e\u9633\u79bb\u5b50\u3002\u6240\u8ff0\u91d1\u5c5e\u5364\u5316\u7269\u76d0\u8fd8\u53ef\u5305\u62ec\u5364\u5316\u7269\u9634\u79bb\u5b50\uff0c\u6240\u8ff0\u5364\u5316\u7269\u9634\u79bb\u5b50\u9009\u81ea\u6c1f\u5316\u7269\u3001\u6c2f\u5316\u7269\u3001\u6eb4\u5316\u7269\u548c\u7898\u5316\u7269\u5364\u5316\u7269\u9634\u79bb\u5b50\u3002\u6240\u8ff0\u91d1\u5c5e\u5364\u5316\u7269\u76d0\u5728\u6240\u8ff0\u91d1\u5c5e\u57fa\u84c4\u7535\u6c60\u5185\u7684\u4f7f\u7528\u63d0\u4f9b\u4e86\u6240\u8ff0\u91d1\u5c5e\u57fa\u84c4\u7535\u6c60\u5185\u589e\u5f3a\u7684\u5faa\u73af\u80fd\u529b\u3002\u8fd8\u8bbe\u60f3\u4e86\u53ef\u589e\u5f3a\u91d1\u5c5e\u57fa\u84c4\u7535\u6c60\u5faa\u73af\u6027\u80fd\u7684\u989d\u5916\u542b\u5364\u7d20\u7b80\u5355\u7269\u8d28\u6dfb\u52a0\u5242\u3002",
+  "description_link": "https://serpapi.com/searches/6852569eb9dbc40b48b70f70/google_patents_details/description.html",
+  "claims": [
+    "1.\u4e00\u79cd\u53ef\u5145\u7535\u84c4\u7535\u6c60\uff0c\u5305\u62ec\uff1a1. A rechargeable storage battery, comprising:\n      \n      \n         \u81f3\u5c11\u4e00\u4e2a\u91d1\u5c5e\u7535\u6781\uff1b\u548cat least one metal electrode; and\n      \n      \n         \u7535\u89e3\u8d28\uff0c\u6240\u8ff0\u7535\u89e3\u8d28\u5305\u542b\uff1aan electrolyte comprising:\n      \n      \n         \u975e\u8d28\u5b50\u6eb6\u5242\uff1b\u548caprotic solvents; and\n      \n      \n         \u542b\u5364\u7d20\u7b80\u5355\u7269\u8d28\u3002Halogenated simple substances.",
+    "2.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u53ef\u5145\u7535\u84c4\u7535\u6c60\uff0c\u5176\u4e2d\u6240\u8ff0\u7535\u89e3\u8d28\u8fd8\u5305\u542b\u5177\u6709\u542b\u5364\u7d20\u590d\u6742\u9634\u79bb\u5b50\u7684\u91d1\u5c5e\u76d0\u30022. The rechargeable battery of claim 1, wherein the electrolyte further comprises a metal salt having a halogen-containing complex anion.",
+    "3.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u53ef\u5145\u7535\u84c4\u7535\u6c60\uff0c\u5176\u4e2d\u6240\u8ff0\u975e\u8d28\u5b50\u6eb6\u5242\u9009\u81ea\u78b3\u9178\u4e9a\u4e59\u916f\u3001\u78b3\u9178\u4e9a\u4e19\u916f\u3001\u78b3\u9178\u4e8c\u4e59\u916f\u548c\u78b3\u9178\u4e8c\u7532\u916f\u30023. The rechargeable battery of claim 1, wherein the aprotic solvent is selected from the group consisting of ethylene carbonate, propylene carbonate, diethyl carbonate, and dimethyl carbonate.",
+    "4.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u53ef\u5145\u7535\u84c4\u7535\u6c60\uff0c\u5176\u4e2d\u6240\u8ff0\u542b\u5364\u7d20\u7b80\u5355\u7269\u8d28\u5305\u542b\u91d1\u5c5e\u5364\u5316\u7269\u76d0\uff0c\u6240\u8ff0\u91d1\u5c5e\u5364\u5316\u7269\u76d0\u5305\u62ec\uff1a4. The rechargeable battery of claim 1, wherein said halogen-containing simple substance comprises a metal halide salt comprising:\n      \n      \n         \u9009\u81ea\u9502\u548c\u94a0\u7684\u91d1\u5c5e\u9633\u79bb\u5b50\uff1b\u4ee5\u53cametal cations selected from lithium and sodium; and\n      \n      \n         \u9009\u81ea\u6c1f\u5316\u7269\u3001\u6c2f\u5316\u7269\u3001\u6eb4\u5316\u7269\u548c\u7898\u5316\u7269\u7684\u5364\u5316\u7269\u9634\u79bb\u5b50\u3002A halide anion selected from fluoride, chloride, bromide and iodide.",
+    "5.\u6839\u636e\u6743\u5229\u8981\u6c424\u6240\u8ff0\u7684\u53ef\u5145\u7535\u84c4\u7535\u6c60\uff0c\u5176\u4e2d\u6240\u9009\u62e9\u7684\u6240\u8ff0\u91d1\u5c5e\u9633\u79bb\u5b50\u4e0e\u6240\u8ff0\u81f3\u5c11\u4e00\u4e2a\u91d1\u5c5e\u7535\u6781\u4e2d\u6240\u7528\u7684\u91d1\u5c5e\u76f8\u540c\u30025. The rechargeable battery of claim 4, wherein said metal cation is selected to be the same metal used in said at least one metal electrode.",
+    "6.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u53ef\u5145\u7535\u84c4\u7535\u6c60\uff0c\u5176\u4e2d\uff1a6. The rechargeable battery of claim 1, wherein:\n      \n      \n         \u6240\u8ff0\u542b\u5364\u7d20\u7b80\u5355\u7269\u8d28\u4ee5\u6240\u8ff0\u975e\u8d28\u5b50\u6eb6\u5242\u7684\u7ea65\u6469\u5c14\uff05\u81f3\u7ea640\u6469\u5c14\uff05\u7684\u6d53\u5ea6\u5b58\u5728\uff1b\u5e76\u4e14said halogen-containing simple species is present at a concentration of about 5 mole percent to about 40 mole percent of said aprotic solvent; and\n      \n      \n         \u5177\u6709\u6240\u8ff0\u542b\u5364\u7d20\u590d\u6742\u9634\u79bb\u5b50\u7684\u6240\u8ff0\u91d1\u5c5e\u76d0\u4ee5\u76f8\u5bf9\u4e8e\u6240\u8ff0\u975e\u8d28\u5b50\u6eb6\u5242\u7ea60.5M\u81f3\u7ea62M\u7684\u6d53\u5ea6\u5b58\u5728\u3002The metal salt with the halogen-containing complex anion is present at a concentration of about 0.5M to about 2M relative to the aprotic solvent.",
+    "7.\u6839\u636e\u6743\u5229\u8981\u6c424\u6240\u8ff0\u7684\u53ef\u5145\u7535\u84c4\u7535\u6c60\uff0c\u5176\u4e2d\u6240\u8ff0\u7535\u89e3\u8d28\u57fa\u672c\u4e0a\u7531\u6240\u8ff0\u975e\u8d28\u5b50\u6eb6\u5242\u3001\u6240\u8ff0\u542b\u5364\u7d20\u7b80\u5355\u7269\u8d28\u4ee5\u53ca\u5177\u6709\u6240\u8ff0\u542b\u5364\u7d20\u590d\u6742\u9634\u79bb\u5b50\u7684\u6240\u8ff0\u91d1\u5c5e\u76d0\u7ec4\u6210\u30027. The rechargeable battery of claim 4, wherein said electrolyte consists essentially of said aprotic solvent, said halogen-containing simple species, and said metal salt with said halogen-containing complex anion.",
+    "8.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u53ef\u5145\u7535\u84c4\u7535\u6c60\uff0c\u8fd8\u5305\u62ec\u5c06\u6240\u8ff0\u81f3\u5c11\u4e00\u4e2a\u91d1\u5c5e\u7535\u6781\u4e0e\u989d\u5916\u7684\u53cd\u7535\u6781\u9694\u5f00\u7684\u9694\u677f\u30028. The rechargeable battery of claim 1, further comprising a separator separating the at least one metal electrode from an additional counter electrode.",
+    "9.\u6839\u636e\u6743\u5229\u8981\u6c428\u6240\u8ff0\u7684\u53ef\u5145\u7535\u84c4\u7535\u6c60\uff0c\u5176\u4e2d\u6240\u8ff0\u9694\u677f\u5305\u62ec\u591a\u5b54\u9676\u74f7\u82af\uff0c\u6240\u8ff0\u591a\u5b54\u9676\u74f7\u82af\u5206\u9694\u5e76\u5c42\u5408\u5230\u4e00\u5bf9\u53ef\u6e17\u900f\u7684\u805a\u5408\u7269\u6750\u6599\u5c42\u30029. The rechargeable battery of claim 8, wherein the separator comprises a porous ceramic core separated and laminated to a pair of permeable layers of polymeric material.",
+    "10.\u6839\u636e\u6743\u5229\u8981\u6c429\u6240\u8ff0\u7684\u53ef\u5145\u7535\u84c4\u7535\u6c60\uff0c\u5176\u4e2d\u6240\u8ff0\u4e00\u5bf9\u53ef\u6e17\u900f\u7684\u805a\u5408\u7269\u6750\u6599\u5c42\u5305\u62ec\u591a\u5b54\u7535\u7edd\u7f18\u805a\u5408\u7269\u6750\u6599\u300210. The rechargeable battery of claim 9, wherein the pair of permeable layers of polymeric material comprises a porous electrically insulating polymeric material.",
+    "11.\u6839\u636e\u6743\u5229\u8981\u6c4210\u6240\u8ff0\u7684\u53ef\u5145\u7535\u84c4\u7535\u6c60\uff0c\u5176\u4e2d\u6240\u8ff0\u9694\u677f\u7528\u6240\u8ff0\u7535\u89e3\u8d28\u9971\u548c\u300211. The rechargeable battery of claim 10, wherein the separator is saturated with the electrolyte.",
+    "12.\u4e00\u79cd\u7ec4\u5408\u7269\uff0c\u5305\u542b\uff1a12. A composition comprising:\n      \n      \n         \u975e\u8d28\u5b50\u6eb6\u5242\uff1bAprotic solvents;\n      \n      \n         \u542b\u5364\u7d20\u7b80\u5355\u7269\u8d28\uff1b\u4ee5\u53caHalogen-containing simple substances; and\n      \n      \n         \u5177\u6709\u542b\u5364\u7d20\u590d\u6742\u9634\u79bb\u5b50\u7684\u91d1\u5c5e\u76d0\u3002Metal salts with halogen-containing complex anions.",
+    "13.\u6839\u636e\u6743\u5229\u8981\u6c4212\u6240\u8ff0\u7684\u7ec4\u5408\u7269\uff0c\u5176\u4e2d\u6240\u8ff0\u7ec4\u5408\u7269\u5305\u542b\u91d1\u5c5e\u57fa\u84c4\u7535\u6c60\u7535\u89e3\u8d28\u300213. The composition of claim 12, wherein the composition comprises a metal-based battery electrolyte.",
+    "14.\u6839\u636e\u6743\u5229\u8981\u6c4212\u6240\u8ff0\u7684\u7ec4\u5408\u7269\uff0c\u5176\u4e2d\u6240\u8ff0\u975e\u8d28\u5b50\u6eb6\u5242\u9009\u81ea\u78b3\u9178\u4e9a\u4e59\u916f\u3001\u78b3\u9178\u4e9a\u4e19\u916f\u3001\u78b3\u9178\u4e8c\u4e59\u916f\u548c\u78b3\u9178\u4e8c\u7532\u916f\u300214. The composition of claim 12, wherein the aprotic solvent is selected from the group consisting of ethylene carbonate, propylene carbonate, diethyl carbonate and dimethyl carbonate.",
+    "15.\u6839\u636e\u6743\u5229\u8981\u6c4212\u6240\u8ff0\u7684\u7ec4\u5408\u7269\uff0c\u5176\u4e2d\u6240\u8ff0\u542b\u5364\u7d20\u7b80\u5355\u7269\u8d28\u9009\u81ea\u91d1\u5c5e\u5364\u5316\u7269\u76d0\u3001\u5355\u8d28\u53cc\u539f\u5b50\u5364\u7d20\u3001\u975e\u91d1\u5c5e\u5364\u5316\u7269\u3001\u5364\u5316\u6c22\u3001\u6df7\u5408\u5364\u7d20\u5364\u5316\u7269\u4ee5\u53ca\u60f0\u6027\u6c14\u4f53\u5364\u5316\u7269\u300215. The composition of claim 12, wherein the halogen-containing simple species is selected from the group consisting of metal halide salts, elemental diatomic halogens, non-metal halides, hydrogen halides, mixed halogen halides, and noble gas halides.",
+    "16.\u6839\u636e\u6743\u5229\u8981\u6c4212\u6240\u8ff0\u7684\u7ec4\u5408\u7269\uff0c\u5176\u4e2d\u5177\u6709\u6240\u8ff0\u542b\u5364\u7d20\u590d\u6742\u9634\u79bb\u5b50\u7684\u6240\u8ff0\u91d1\u5c5e\u76d0\u9009\u81ea\u91d1\u5c5eTFSI\u76d0\u3001\u91d1\u5c5e\u56db\u6c1f\u787c\u9178\u76d0\u548c\u91d1\u5c5e\u516d\u6c1f\u78f7\u9178\u76d0\u300216. The composition of claim 12, wherein said metal salt having said halogen-containing complex anion is selected from the group consisting of metal TFSI salts, metal tetrafluoroborates, and metal hexafluorophosphates.",
+    "17.\u6839\u636e\u6743\u5229\u8981\u6c4212\u6240\u8ff0\u7684\u7ec4\u5408\u7269\uff0c\u5176\u4e2d\u6240\u8ff0\u542b\u5364\u7d20\u7b80\u5355\u7269\u8d28\u57fa\u672c\u4e0a\u4e0d\u6eb6\u4e8e\u6240\u8ff0\u975e\u8d28\u5b50\u6eb6\u5242\u5185\u300217. The composition of claim 12, wherein the halogen-containing simple species is substantially insoluble in the aprotic solvent.",
+    "18.\u6839\u636e\u6743\u5229\u8981\u6c4212\u6240\u8ff0\u7684\u7ec4\u5408\u7269\uff0c\u5176\u4e2d\u6240\u8ff0\u542b\u5364\u7d20\u7b80\u5355\u7269\u8d28\u53ef\u90e8\u5206\u6eb6\u4e8e\u6240\u8ff0\u975e\u8d28\u5b50\u6eb6\u5242\u5185\u300218. The composition of claim 12, wherein the halogen-containing simple species is partially soluble in the aprotic solvent.",
+    "19.\u6839\u636e\u6743\u5229\u8981\u6c4212\u6240\u8ff0\u7684\u7ec4\u5408\u7269\uff0c\u5176\u4e2d\u6240\u8ff0\u542b\u5364\u7d20\u7b80\u5355\u7269\u8d28\u57fa\u672c\u4e0a\u53ef\u6eb6\u4e8e\u6240\u8ff0\u975e\u8d28\u5b50\u6eb6\u5242\u5185\u300219. The composition of claim 12, wherein the halogen-containing simple species is substantially soluble in the aprotic solvent.",
+    "20.\u6839\u636e\u6743\u5229\u8981\u6c4212\u6240\u8ff0\u7684\u7ec4\u5408\u7269\uff0c\u5176\u4e2d\u6240\u8ff0\u542b\u5364\u7d20\u7b80\u5355\u7269\u8d28\u4ee5\u6240\u8ff0\u975e\u8d28\u5b50\u6eb6\u5242\u7684\u7ea65\u6469\u5c14\uff05\u81f3\u7ea640\u6469\u5c14\uff05\u7684\u91cf\u5b58\u5728\u300220. The composition of claim 12, wherein the halogen-containing simple species is present in an amount of about 5 mole percent to about 40 mole percent of the aprotic solvent.",
+    "21.\u6839\u636e\u6743\u5229\u8981\u6c4212\u6240\u8ff0\u7684\u7ec4\u5408\u7269\uff0c\u5176\u4e2d\u5177\u6709\u6240\u8ff0\u542b\u5364\u7d20\u590d\u6742\u9634\u79bb\u5b50\u7684\u6240\u8ff0\u91d1\u5c5e\u76d0\u4ee5\u76f8\u5bf9\u4e8e\u6240\u8ff0\u975e\u8d28\u5b50\u6eb6\u5242\u7ea60.5M\u81f3\u7ea62M\u7684\u6d53\u5ea6\u5b58\u5728\u300221. The composition of claim 12, wherein said metal salt with said halogen-containing complex anion is present at a concentration of about 0.5M to about 2M relative to said aprotic solvent.",
+    "22.\u4e00\u79cd\u7528\u4e8e\u64cd\u4f5c\u4e8c\u6b21\u84c4\u7535\u6c60\u7684\u65b9\u6cd5\uff0c\u5305\u62ec\uff1a22. A method for operating a secondary battery comprising:\n      \n      \n         \u5bf9\u4e8c\u6b21\u84c4\u7535\u6c60\u8fdb\u884c\u653e\u7535\uff0c\u4ee5\u63d0\u4f9b\u653e\u7535\u540e\u7684\u4e8c\u6b21\u84c4\u7535\u6c60\uff0c\u6240\u8ff0\u4e8c\u6b21\u84c4\u7535\u6c60\u5305\u62ec\uff1aDischarging the secondary battery to provide a discharged secondary battery including:\n      \n      \n         \u81f3\u5c11\u4e00\u4e2a\u91d1\u5c5e\u7535\u6781\uff1b\u548cat least one metal electrode; and\n      \n      \n         \u7535\u89e3\u8d28\uff0c\u6240\u8ff0\u7535\u89e3\u8d28\u5305\u542b\uff1aan electrolyte comprising:\n      \n      \n         \u975e\u8d28\u5b50\u6eb6\u5242\uff1b\u548caprotic solvents; and\n      \n      \n         \u542b\u5364\u7d20\u7b80\u5355\u7269\u8d28\uff1b\u4ee5\u53caHalogen-containing simple substances; and\n      \n      \n         \u5bf9\u6240\u8ff0\u653e\u7535\u540e\u7684\u4e8c\u6b21\u84c4\u7535\u6c60\u8fdb\u884c\u518d\u5145\u7535\uff0c\u4ee5\u63d0\u4f9b\u518d\u5145\u7535\u7684\u4e8c\u6b21\u84c4\u7535\u6c60\uff0c\u6240\u8ff0\u518d\u5145\u7535\u7684\u4e8c\u6b21\u84c4\u7535\u6c60\u5728\u6240\u8ff0\u81f3\u5c11\u4e00\u4e2a\u91d1\u5c5e\u7535\u6781\u5904\u65e0\u679d\u6676\u5f62\u6210\u3002The discharged secondary battery is recharged to provide a recharged secondary battery free of dendrite formation at the at least one metal electrode.",
+    "23.\u6839\u636e\u6743\u5229\u8981\u6c4222\u6240\u8ff0\u7684\u65b9\u6cd5\uff0c\u5176\u4e2d\u5728\u81f3\u5c11\u7ea61000\u4e2a\u653e\u7535\u548c\u5145\u7535\u5faa\u73af\u540e\uff0c\u6240\u8ff0\u518d\u5145\u7535\u7684\u4e8c\u6b21\u84c4\u7535\u6c60\u5728\u6240\u8ff0\u81f3\u5c11\u4e00\u4e2a\u91d1\u5c5e\u7535\u6781\u5904\u65e0\u679d\u6676\u5f62\u6210\u300223. The method of claim 22, wherein the recharged secondary battery is free of dendrite formation at the at least one metal electrode after at least about 1000 discharge and charge cycles.",
+    "24.\u6839\u636e\u6743\u5229\u8981\u6c4222\u6240\u8ff0\u7684\u65b9\u6cd5\uff0c\u5176\u4e2d\u5728\u653e\u7535\u548c\u5145\u7535\u81f3\u5c11\u7ea61000\u4e2a\u5c0f\u65f6\u540e\uff0c\u6240\u8ff0\u518d\u5145\u7535\u7684\u4e8c\u6b21\u84c4\u7535\u6c60\u5728\u6240\u8ff0\u81f3\u5c11\u4e00\u4e2a\u91d1\u5c5e\u7535\u6781\u5904\u65e0\u679d\u6676\u5f62\u6210\u300224. The method of claim 22, wherein the recharged secondary battery is free of dendrite formation at the at least one metal electrode after discharging and charging for at least about 1000 hours.",
+    "25.\u6839\u636e\u6743\u5229\u8981\u6c4222\u6240\u8ff0\u7684\u65b9\u6cd5\uff0c\u5176\u4e2d\u6240\u8ff0\u975e\u8d28\u5b50\u6eb6\u5242\u9009\u81ea\u78b3\u9178\u4e9a\u4e59\u916f\u3001\u78b3\u9178\u4e9a\u4e19\u916f\u3001\u78b3\u9178\u4e8c\u4e59\u916f\u548c\u78b3\u9178\u4e8c\u7532\u916f\u300225. The method of claim 22, wherein the aprotic solvent is selected from the group consisting of ethylene carbonate, propylene carbonate, diethyl carbonate and dimethyl carbonate.",
+    "26.\u6839\u636e\u6743\u5229\u8981\u6c4222\u6240\u8ff0\u7684\u65b9\u6cd5\uff0c\u5176\u4e2d\u6240\u8ff0\u542b\u5364\u7d20\u7b80\u5355\u7269\u8d28\u5305\u542b\u91d1\u5c5e\u5364\u5316\u7269\u76d0\uff0c\u6240\u8ff0\u91d1\u5c5e\u5364\u5316\u7269\u76d0\u5305\u62ec\uff1a26. The method of claim 22, wherein the halogen-containing simple species comprises a metal halide salt comprising:\n      \n      \n         \u9009\u81ea\u9502\u91d1\u5c5e\u548c\u94a0\u91d1\u5c5e\u7684\u91d1\u5c5e\u9633\u79bb\u5b50\uff1b\u4ee5\u53cametal cations selected from lithium metal and sodium metal; and\n      \n      \n         \u9009\u81ea\u6c1f\u5316\u7269\u3001\u6c2f\u5316\u7269\u3001\u6eb4\u5316\u7269\u548c\u7898\u5316\u7269\u7684\u5364\u5316\u7269\u9634\u79bb\u5b50\u3002A halide anion selected from fluoride, chloride, bromide and iodide.",
+    "27.\u6839\u636e\u6743\u5229\u8981\u6c4222\u6240\u8ff0\u7684\u65b9\u6cd5\uff0c\u5176\u4e2d\u6240\u8ff0\u542b\u5364\u7d20\u7b80\u5355\u7269\u8d28\u4ee5\u6240\u8ff0\u6eb6\u5242\u7684\u7ea65\u6469\u5c14\uff05\u81f3\u7ea640\u6469\u5c14\uff05\u7684\u6d53\u5ea6\u5b58\u5728\u300227. The method of claim 22, wherein the halogen-containing simple species is present at a concentration of about 5 mole percent to about 40 mole percent of the solvent.",
+    "28.\u6839\u636e\u6743\u5229\u8981\u6c4226\u6240\u8ff0\u7684\u65b9\u6cd5\uff0c\u5176\u4e2d\u6240\u9009\u62e9\u7684\u6240\u8ff0\u91d1\u5c5e\u9633\u79bb\u5b50\u4e0e\u6240\u8ff0\u81f3\u5c11\u4e00\u4e2a\u91d1\u5c5e\u7535\u6781\u4e2d\u6240\u7528\u7684\u91d1\u5c5e\u76f8\u540c\u300228. The method of claim 26, wherein the selected metal cation is the same metal used in the at least one metal electrode.",
+    "29.\u6839\u636e\u6743\u5229\u8981\u6c4222\u6240\u8ff0\u7684\u65b9\u6cd5\uff0c\u5176\u4e2d\u6240\u8ff0\u7535\u89e3\u8d28\u57fa\u672c\u4e0a\u7531\u6240\u8ff0\u6eb6\u5242\u548c\u6240\u8ff0\u542b\u5364\u7d20\u7b80\u5355\u7269\u8d28\u7ec4\u6210\u300229. The method of claim 22, wherein the electrolyte consists essentially of the solvent and the halogen-containing simple species.",
+    "30.\u6839\u636e\u6743\u5229\u8981\u6c4222\u6240\u8ff0\u7684\u65b9\u6cd5\uff0c\u53e6\u5916\u5176\u4e2d\u6240\u8ff0\u518d\u5145\u7535\u7684\u4e8c\u6b21\u84c4\u7535\u6c60\u5305\u62ec\u5c06\u6240\u8ff0\u81f3\u5c11\u4e00\u4e2a\u91d1\u5c5e\u7535\u6781\u4e0e\u989d\u5916\u7684\u53cd\u7535\u6781\u9694\u5f00\u7684\u9694\u677f\uff0c\u5176\u4e2d\uff1a30. The method of claim 22, further wherein said recharged secondary battery includes a separator separating said at least one metal electrode from an additional counter electrode, wherein:\n      \n      \n         \u6240\u8ff0\u9694\u677f\u5305\u62ec\u591a\u5b54\u9676\u74f7\u82af\u90e8\u4ef6\uff0c\u6240\u8ff0\u591a\u5b54\u9676\u74f7\u82af\u90e8\u4ef6\u5206\u9694\u5e76\u5c42\u5408\u5230\u4e00\u5bf9\u53ef\u6e17\u900f\u7684\u7535\u7edd\u7f18\u805a\u5408\u7269\u6750\u6599\u5c42\uff1b\u5e76\u4e14the separator comprises a porous ceramic core member separated and laminated to a pair of permeable layers of electrically insulating polymeric material; and\n      \n      \n         \u6240\u8ff0\u9694\u677f\u7528\u6240\u8ff0\u7535\u89e3\u8d28\u9971\u548c\u3002The separator is saturated with the electrolyte."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US201461969433P",
+      "priority_date": "2014-03-24",
+      "filing_date": "2014-03-24"
+    },
+    {
+      "application_number": "US61/969,433",
+      "filing_date": "2014-03-24"
+    },
+    {
+      "application_number": "US201462090585P",
+      "priority_date": "2014-12-11",
+      "filing_date": "2014-12-11"
+    },
+    {
+      "application_number": "US62/090,585",
+      "filing_date": "2014-12-11"
+    },
+    {
+      "application_number": "PCT/US2015/022157",
+      "representative_publication": "WO2015148450A1",
+      "primary_language": "en",
+      "priority_date": "2014-03-24",
+      "filing_date": "2015-03-24",
+      "title": "Dendrite inhibiting electrolytes for metal-based batteries"
+    }
+  ],
+  "family_id": "52815335",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US6117591A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-05-27",
+        "publication_date": "2000-09-12",
+        "assignee_original": "Wilson Greatbatch Ltd.",
+        "title": "Hydrogen fluoride additive for nonaqueous electrolyte in alkali metal electrochemical cells",
+        "patent_id": "patent/US6117591A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6117591A%2Fen"
+      },
+      {
+        "publication_number": "WO2001090316A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-05-24",
+        "publication_date": "2001-11-29",
+        "assignee_original": "Nexell Therapeutics, Inc.",
+        "title": "Human circulating dendritic cell compositions and methods",
+        "patent_id": "patent/WO2001090316A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2001090316A2%2Fen"
+      },
+      {
+        "publication_number": "CN1501539A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-11-16",
+        "publication_date": "2004-06-02",
+        "assignee_original": "\ufffd\ufffd\ufffd\ufffdSdi\ufffd\ufffd\u02bd\ufffd\ufffd\ufffd\ufffd",
+        "title": "Non-aqueous electrolyte and lithium battery using it",
+        "patent_id": "patent/CN1501539A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1501539A%2Fen"
+      },
+      {
+        "publication_number": "CN1601797A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-09-28",
+        "publication_date": "2005-03-30",
+        "assignee_original": "\u6210\u90fd\u8335\u5730\u4e50\u7535\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Method of mfg secondary lithium cell",
+        "patent_id": "patent/CN1601797A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1601797A%2Fen"
+      },
+      {
+        "publication_number": "CN101523644A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-08-11",
+        "publication_date": "2009-09-02",
+        "assignee_original": "\u52a0\u5dde\u7406\u5de5\u5b66\u9662",
+        "title": "Dissociating agents, formulations and methods for enhancing fluoride solubility",
+        "patent_id": "patent/CN101523644A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101523644A%2Fen"
+      },
+      {
+        "publication_number": "CN101593851A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-05-29",
+        "publication_date": "2009-12-02",
+        "assignee_original": "\u6bd4\u4e9a\u8fea\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "A kind of compositions of additives and contain the electrolyte and the lithium rechargeable battery of this compositions of additives",
+        "patent_id": "patent/CN101593851A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101593851A%2Fen"
+      },
+      {
+        "publication_number": "JP2012113842A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-19",
+        "publication_date": "2012-06-14",
+        "assignee_original": "Sumitomo Electric Ind Ltd",
+        "title": "Nonaqueous electrolyte battery and manufacturing method thereof",
+        "patent_id": "patent/JP2012113842A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2012113842A%2Fen"
+      },
+      {
+        "publication_number": "CN102651466A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-05-27",
+        "publication_date": "2012-08-29",
+        "assignee_original": "\u6c5f\u897f\u91d1\u8def\u65b0\u80fd\u6e90\u6709\u9650\u516c\u53f8",
+        "title": "High-safety ceramic composite lithium-ion isolating membrane and lithium battery thereof",
+        "patent_id": "patent/CN102651466A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102651466A%2Fen"
+      },
+      {
+        "publication_number": "CN102723527A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-06-29",
+        "publication_date": "2012-10-10",
+        "assignee_original": "\u4e0a\u6d77\u9526\u4f17\u4fe1\u606f\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Method for manufacturing non-aqueous electrolyte solution of lithium ion secondary battery",
+        "patent_id": "patent/CN102723527A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102723527A%2Fen"
+      },
+      {
+        "publication_number": "JP2013037993A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-08-10",
+        "publication_date": "2013-02-21",
+        "assignee_original": "Toyota Central R&D Labs Inc",
+        "title": "Nonaqueous magnesium battery",
+        "patent_id": "patent/JP2013037993A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2013037993A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JP2000182664A",
+        "primary_language": "en",
+        "priority_date": "1998-12-14",
+        "publication_date": "2000-06-30",
+        "assignee_original": "Gs Melcotec Kk",
+        "title": "Nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/JP2000182664A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000182664A%2Fen"
+      },
+      {
+        "publication_number": "JP2004207210A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-23",
+        "publication_date": "2004-07-22",
+        "assignee_original": "Sanyo Electric Co Ltd",
+        "title": "Nonaqueous electrolyte battery",
+        "patent_id": "patent/JP2004207210A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2004207210A%2Fen"
+      },
+      {
+        "publication_number": "US8658309B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-08-11",
+        "publication_date": "2014-02-25",
+        "assignee_original": "California Institute Of Technology",
+        "title": "Dissociating agents, formulations and methods providing enhanced solubility of fluorides",
+        "patent_id": "patent/US8658309B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8658309B2%2Fen"
+      },
+      {
+        "publication_number": "FR2935547B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-08-29",
+        "publication_date": "2011-03-25",
+        "assignee_original": "Commissariat Energie Atomique",
+        "title": "IONIC LIQUID ELECTROLYTES AND ELECTROCHEMICAL DEVICES SUCH AS ACCUMULATORS COMPRISING SAME.",
+        "patent_id": "patent/FR2935547B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2935547B1%2Fen"
+      },
+      {
+        "publication_number": "US9455446B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-03-28",
+        "publication_date": "2016-09-27",
+        "assignee_original": "Sharp Laboratories Of America, Inc.",
+        "title": "Sodium and potassium ion batteries with halogen salts",
+        "patent_id": "patent/US9455446B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9455446B2%2Fen"
+      },
+      {
+        "publication_number": "US20140272526A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-14",
+        "publication_date": "2014-09-18",
+        "assignee_original": "GM Global Technology Operations LLC",
+        "title": "Porous separator for a lithium ion battery and a method of making the same",
+        "patent_id": "patent/US20140272526A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140272526A1%2Fen"
+      },
+      {
+        "publication_number": "US10411299B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-08-02",
+        "publication_date": "2019-09-10",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Electrolytes for stable cycling of high capacity lithium based batteries",
+        "patent_id": "patent/US10411299B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10411299B2%2Fen"
+      },
+      {
+        "publication_number": "US11721831B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-08-30",
+        "publication_date": "2023-08-08",
+        "assignee_original": "Sila Nanotechnologies, Inc.",
+        "title": "Electrolyte or electrode additives for increasing metal content in metal-ion batteries",
+        "patent_id": "patent/US11721831B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11721831B2%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "Z.-I.TAKEHARA: \"Future prospects of the lithium metal anode\", \u300aJOURNAL OF POWER SOURCES\u300b",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "\u8c22\u51ef \u7b49: \"\u300a\u65b0\u4e00\u4ee3\u9502\u4e8c\u6b21\u7535\u6c60\u6280\u672f\u300b\", 31 August 2013, \u56fd\u9632\u5de5\u4e1a\u51fa\u7248\u793e",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "\u8f9b\u68ee\u7b49: \"\u9ad8\u80fd\u91cf\u5bc6\u5ea6\u9502\u4e8c\u6b21\u7535\u6c60\u7535\u6781\u6750\u6599\u7814\u7a76\u8fdb\u5c55 \", \u300a\u4e2d\u56fd\u79d1\u5b66:\u5316\u5b66\u300b",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN107275671A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-07-07",
+        "publication_date": "2017-10-20",
+        "assignee_original": "\u4e1c\u839e\u5e02\u822a\u76db\u65b0\u80fd\u6e90\u6750\u6599\u6709\u9650\u516c\u53f8",
+        "title": "A kind of electrolyte and preparation method and lithium battery for suppressing Li dendrite",
+        "patent_id": "patent/CN107275671A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107275671A%2Fen"
+      },
+      {
+        "publication_number": "CN109326825A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-07-31",
+        "publication_date": "2019-02-12",
+        "assignee_original": "\u4f4f\u53cb\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/CN109326825A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109326825A%2Fen"
+      },
+      {
+        "publication_number": "CN109411811A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-08-15",
+        "publication_date": "2019-03-01",
+        "assignee_original": "\u901a\u7528\u6c7d\u8f66\u73af\u7403\u79d1\u6280\u8fd0\u4f5c\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "Lithium metal battery with mixed electrolyte system",
+        "patent_id": "patent/CN109411811A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109411811A%2Fen"
+      },
+      {
+        "publication_number": "CN112652825A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-01-20",
+        "publication_date": "2021-04-13",
+        "assignee_original": "\u5c71\u4e1c\u5927\u5b66",
+        "title": "Low-cost aqueous zinc ion battery electrolyte and preparation method and application thereof",
+        "patent_id": "patent/CN112652825A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112652825A%2Fen"
+      },
+      {
+        "publication_number": "CN113013496A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-02-22",
+        "publication_date": "2021-06-22",
+        "assignee_original": "\u5c71\u4e1c\u5927\u5b66",
+        "title": "Non-cathode zinc battery with high safety coefficient and low cost and application thereof",
+        "patent_id": "patent/CN113013496A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113013496A%2Fen"
+      },
+      {
+        "publication_number": "CN113299888A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-02-21",
+        "publication_date": "2021-08-24",
+        "assignee_original": "\u56fd\u5bb6\u80fd\u6e90\u6295\u8d44\u96c6\u56e2\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "Lithium metal negative electrode, lithium battery electrolyte and lithium battery",
+        "patent_id": "patent/CN113299888A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113299888A%2Fen"
+      },
+      {
+        "publication_number": "CN114068861A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-07-30",
+        "publication_date": "2022-02-18",
+        "assignee_original": "\u901a\u7528\u6c7d\u8f66\u73af\u7403\u79d1\u6280\u8fd0\u4f5c\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "Positive electrode for secondary lithium metal battery and method of manufacture",
+        "patent_id": "patent/CN114068861A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114068861A%2Fen"
+      },
+      {
+        "publication_number": "CN114335722A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-23",
+        "publication_date": "2022-04-12",
+        "assignee_original": "\u60e0\u5dde\u9502\u5a01\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Lithium ion battery, electrolyte and additive thereof",
+        "patent_id": "patent/CN114335722A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114335722A%2Fen"
+      },
+      {
+        "publication_number": "CN114614082A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-03-24",
+        "publication_date": "2022-06-10",
+        "assignee_original": "\u897f\u5317\u6838\u6280\u672f\u7814\u7a76\u6240",
+        "title": "Preparation method of sodium beta-alumina solid electrolyte with high ionic conductivity",
+        "patent_id": "patent/CN114614082A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114614082A%2Fen"
+      },
+      {
+        "publication_number": "WO2024077514A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-10-12",
+        "publication_date": "2024-04-18",
+        "assignee_original": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Electrolyte, battery cell, battery, and electric device",
+        "patent_id": "patent/WO2024077514A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024077514A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JP7298845B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-07",
+        "publication_date": "2023-06-27",
+        "assignee_original": "\u30bb\u30d4\u30aa\u30f3 \u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u30ba\uff0c\u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30a3\u30c9",
+        "title": "Microstructured ion-conducting composites and uses thereof",
+        "patent_id": "patent/JP7298845B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7298845B2%2Fen"
+      },
+      {
+        "publication_number": "JP7112084B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-01-31",
+        "publication_date": "2022-08-03",
+        "assignee_original": "\u5b66\u6821\u6cd5\u4eba \u95a2\u897f\u5927\u5b66",
+        "title": "Electrolyte, secondary battery, and method for producing electrolyte",
+        "patent_id": "patent/JP7112084B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7112084B2%2Fen"
+      },
+      {
+        "publication_number": "US10873107B2",
+        "primary_language": "en",
+        "priority_date": "2017-08-01",
+        "publication_date": "2020-12-22",
+        "assignee_original": "Drexel University",
+        "title": "Additives for suppressing dendritic growth in batteries",
+        "patent_id": "patent/US10873107B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10873107B2%2Fen"
+      },
+      {
+        "publication_number": "CN109390584A",
+        "primary_language": "en",
+        "priority_date": "2017-08-11",
+        "publication_date": "2019-02-26",
+        "assignee_original": "\u8d22\u56e2\u6cd5\u4eba\u5de5\u4e1a\u6280\u672f\u7814\u7a76\u9662",
+        "title": "Negative electrode and lithium battery",
+        "patent_id": "patent/CN109390584A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109390584A%2Fen"
+      },
+      {
+        "publication_number": "AU2019247382B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-04-06",
+        "publication_date": "2024-09-19",
+        "assignee_original": "Celgard, Llc",
+        "title": "Solid state batteries, sse batteries, lithium metal batteries with solid state electrolytes, hsse, separators, and/or coatings, and/or related methods",
+        "patent_id": "patent/AU2019247382B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2019247382B2%2Fen"
+      },
+      {
+        "publication_number": "EP3837038B1",
+        "primary_language": "en",
+        "priority_date": "2018-08-17",
+        "publication_date": "2023-02-15",
+        "assignee_original": "The Regents Of The University Of California",
+        "title": "Diversity-oriented polymers of intrinsic microporosity and uses thereof",
+        "patent_id": "patent/EP3837038B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3837038B1%2Fen"
+      },
+      {
+        "publication_number": "DE102018218618A1",
+        "primary_language": "en",
+        "priority_date": "2018-10-31",
+        "publication_date": "2020-04-30",
+        "assignee_original": "Robert Bosch Gmbh",
+        "title": "Electrochemical solid-state cell with improved sulfidic solid electrolyte and process for its production",
+        "patent_id": "patent/DE102018218618A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102018218618A1%2Fen"
+      },
+      {
+        "publication_number": "CN113725499A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-05-25",
+        "publication_date": "2021-11-30",
+        "assignee_original": "\u9999\u6e2f\u57ce\u5e02\u5927\u5b66",
+        "title": "Electrolyte for energy storage device and energy storage device using the same",
+        "patent_id": "patent/CN113725499A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113725499A%2Fen"
+      },
+      {
+        "publication_number": "WO2024115088A1",
+        "primary_language": "en",
+        "priority_date": "2022-11-29",
+        "publication_date": "2024-06-06",
+        "assignee_original": "Litronik Batterietechnologie Gmbh",
+        "title": "Primary alkali metal cells with cyano-cycloalkanes additives",
+        "patent_id": "patent/WO2024115088A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024115088A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CN106463711B",
+      "primary_language": "en",
+      "publication_date": "2021-05-07",
+      "title": "Dendrite inhibiting electrolyte for metal-based batteries",
+      "patent_id": "patent/CN106463711B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106463711B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113196541B",
+      "primary_language": "en",
+      "publication_date": "2023-05-16",
+      "title": "Rechargeable battery unit",
+      "patent_id": "patent/CN113196541B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113196541B%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7594387605014200852",
+      "scholar_authors": "Zhang et al.",
+      "publication_date": "2020",
+      "title": "Lithium metal anodes with nonaqueous electrolytes",
+      "patent_id": "scholar/7594387605014200852",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7594387605014200852"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17198625944527673236",
+      "scholar_authors": "Hu et al.",
+      "publication_date": "2018",
+      "title": "Nanostructured Li-rich fluoride coated by ionic liquid as high ion-conductivity solid electrolyte additive to suppress dendrite growth at Li metal anode",
+      "patent_id": "scholar/17198625944527673236",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17198625944527673236"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3265819504245851341",
+      "scholar_authors": "Lin et al.",
+      "publication_date": "2012",
+      "title": "High performance silicon nanoparticle anode in fluoroethylene carbonate-based electrolyte for Li-ion batteries",
+      "patent_id": "scholar/3265819504245851341",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3265819504245851341"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9203109B2",
+      "primary_language": "en",
+      "publication_date": "2015-12-01",
+      "title": "Rechargeable lithium battery for wide temperature operation",
+      "patent_id": "patent/US9203109B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9203109B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2546799797982846608",
+      "scholar_authors": "Lewandowski et al.",
+      "publication_date": "2009",
+      "title": "Ionic liquids as electrolytes for Li-ion batteries\u2014An overview of electrochemical studies",
+      "patent_id": "scholar/2546799797982846608",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2546799797982846608"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN100530811C",
+      "primary_language": "en",
+      "publication_date": "2009-08-19",
+      "title": "Overcharge protection for electrochemical cells",
+      "patent_id": "patent/CN100530811C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN100530811C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101702406B1",
+      "primary_language": "en",
+      "publication_date": "2017-02-03",
+      "title": "Lithium rechargeable battery",
+      "patent_id": "patent/KR101702406B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101702406B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102195084B",
+      "primary_language": "en",
+      "publication_date": "2015-02-11",
+      "title": "Non-aqueous electrolyte and lithium secondary battery using the same",
+      "patent_id": "patent/CN102195084B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102195084B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20150295274A1",
+      "primary_language": "en",
+      "publication_date": "2015-10-15",
+      "title": "Galvanic element",
+      "patent_id": "patent/US20150295274A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150295274A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20100266907A1",
+      "primary_language": "en",
+      "publication_date": "2010-10-21",
+      "title": "Metal air battery system",
+      "patent_id": "patent/US20100266907A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100266907A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6339076B2",
+      "primary_language": "en",
+      "publication_date": "2018-06-06",
+      "title": "Nonaqueous electrolyte and nonaqueous electrolyte secondary battery using the same",
+      "patent_id": "patent/JP6339076B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6339076B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101640291A",
+      "primary_language": "en",
+      "publication_date": "2010-02-03",
+      "title": "Electrolyte and lithium ion secondary battery including the same",
+      "patent_id": "patent/CN101640291A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101640291A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106133979A",
+      "primary_language": "en",
+      "publication_date": "2016-11-16",
+      "title": "Extended-life lithium ion battery",
+      "patent_id": "patent/CN106133979A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106133979A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101523644A",
+      "primary_language": "en",
+      "publication_date": "2009-09-02",
+      "title": "Dissociating agents, formulations and methods for enhancing fluoride solubility",
+      "patent_id": "patent/CN101523644A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101523644A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107925055A",
+      "primary_language": "en",
+      "publication_date": "2018-04-17",
+      "title": "Electro-chemical cell",
+      "patent_id": "patent/CN107925055A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107925055A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2018101612A",
+      "primary_language": "en",
+      "publication_date": "2018-06-28",
+      "title": "Nonaqueous electrolyte and nonaqueous electrolyte power storage device",
+      "patent_id": "patent/JP2018101612A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2018101612A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN114730857A",
+      "primary_language": "en",
+      "publication_date": "2022-07-08",
+      "title": "Ionic liquid-based liquid compositions for protecting lithium metal components, related coating and polymerization methods, and electrochemical storage systems",
+      "patent_id": "patent/CN114730857A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114730857A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6875522B2",
+      "primary_language": "en",
+      "publication_date": "2021-05-26",
+      "title": "Semi-solid electrolyte, electrodes, electrodes with semi-solid electrolyte layer, and secondary batteries",
+      "patent_id": "patent/JP6875522B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6875522B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN117747791A",
+      "primary_language": "en",
+      "publication_date": "2024-03-22",
+      "title": "Composite positive electrode, preparation method thereof and lithium ion battery",
+      "patent_id": "patent/CN117747791A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117747791A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101911520B1",
+      "primary_language": "en",
+      "publication_date": "2018-10-25",
+      "title": "Liquid Electrolytes For Na Secondary Batteries And Na Secondary Batteries Comprising The Same",
+      "patent_id": "patent/KR101911520B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101911520B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101175134B1",
+      "primary_language": "en",
+      "publication_date": "2012-08-20",
+      "title": "Electrolyte with silicon compound and lithium battery using the same",
+      "patent_id": "patent/KR101175134B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101175134B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2021138370A1",
+      "primary_language": "en",
+      "publication_date": "2021-07-08",
+      "title": "High safety and high capacity lithium metal batteries in ionic liquid electrolyte with a sodium additive",
+      "patent_id": "patent/WO2021138370A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021138370A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14842999598056662291",
+      "scholar_authors": "Afrifah et al.",
+      "publication_date": "2023",
+      "title": "Bikitaite composite polymer electrolyte for high-performance solid-state lithium metal battery",
+      "patent_id": "scholar/14842999598056662291",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14842999598056662291"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2017-02-22",
+      "code": "C06",
+      "title": "Publication"
+    },
+    {
+      "date": "2017-02-22",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2017-04-12",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2017-04-12",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2018-02-15",
+      "code": "REG",
+      "title": "Reference to a national code",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "HK"
+        },
+        {
+          "label": "Ref legal event code",
+          "value": "DE"
+        },
+        {
+          "label": "Ref document number",
+          "value": "1234531"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "HK"
+        }
+      ]
+    },
+    {
+      "date": "2021-05-07",
+      "code": "GR01",
+      "title": "Patent grant"
+    },
+    {
+      "date": "2021-05-07",
+      "code": "GR01",
+      "title": "Patent grant"
+    },
+    {
+      "date": "2025-03-18",
+      "code": "CF01",
+      "title": "Termination of patent right due to non-payment of annual fee",
+      "attributes": [
+        {
+          "label": "Granted publication date",
+          "value": "20210507"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-18",
+      "code": "CF01",
+      "title": "Termination of patent right due to non-payment of annual fee"
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "239000003792",
+        "name": "electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 118
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 114
+      },
+      {
+        "id": "229910052751",
+        "name": "metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 113
+      },
+      {
+        "id": "210000001787",
+        "name": "dendrite",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "description"
+        ],
+        "count": 37
+      },
+      {
+        "id": "230000002401",
+        "name": "inhibitory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052744",
+        "name": "lithium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 70
+      },
+      {
+        "id": "229910052736",
+        "name": "halogen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 46
+      },
+      {
+        "id": "150000002367",
+        "name": "halogens",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 44
+      },
+      {
+        "id": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "name": "Lithium",
+        "domain": "Chemical compound",
+        "smiles": "[Li]",
+        "inchi_key": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 43
+      },
+      {
+        "id": "-1",
+        "name": "sodium metal cations",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 31
+      },
+      {
+        "id": "239000000010",
+        "name": "aprotic solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 28
+      },
+      {
+        "id": "150000003839",
+        "name": "salts",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 28
+      },
+      {
+        "id": "229910001507",
+        "name": "metal halide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "239000000126",
+        "name": "substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "150000001450",
+        "name": "anions",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "150000001768",
+        "name": "cations",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "CPELXLSAUQHCOX-UHFFFAOYSA-M",
+        "name": "Bromide",
+        "domain": "Chemical compound",
+        "smiles": "[Br-]",
+        "inchi_key": "CPELXLSAUQHCOX-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "VEXZGXHMUGYJMC-UHFFFAOYSA-M",
+        "name": "Chloride anion",
+        "domain": "Chemical compound",
+        "smiles": "[Cl-]",
+        "inchi_key": "VEXZGXHMUGYJMC-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "KRHYYFGTRYWZRS-UHFFFAOYSA-M",
+        "name": "Fluoride anion",
+        "domain": "Chemical compound",
+        "smiles": "[F-]",
+        "inchi_key": "KRHYYFGTRYWZRS-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "RUOJZAUFBMNUDX-UHFFFAOYSA-N",
+        "name": "propylene carbonate",
+        "domain": "Chemical compound",
+        "smiles": "CC1COC(=O)O1",
+        "inchi_key": "RUOJZAUFBMNUDX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 49
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 36
+      },
+      {
+        "id": "239000011734",
+        "name": "sodium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 33
+      },
+      {
+        "id": "229910052708",
+        "name": "sodium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 30
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "KMTRUDSVKNLOMY-UHFFFAOYSA-N",
+        "name": "Ethylene carbonate",
+        "domain": "Chemical compound",
+        "smiles": "O=C1OCCO1",
+        "inchi_key": "KMTRUDSVKNLOMY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "DGAQECJNVWCQMB-PUAWFVPOSA-M",
+        "name": "Ilexoside XXIX",
+        "domain": "Chemical compound",
+        "smiles": "C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)OS(=O)(=O)[O-])C)C)[C@@H]2[C@]1(C)O)C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O.[Na+]",
+        "inchi_key": "DGAQECJNVWCQMB-PUAWFVPOSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "KEAYESYHFKHZAL-UHFFFAOYSA-N",
+        "name": "Sodium",
+        "domain": "Chemical compound",
+        "smiles": "[Na]",
+        "inchi_key": "KEAYESYHFKHZAL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "230000015572",
+        "name": "biosynthetic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "150000005309",
+        "name": "metal halides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000002904",
+        "name": "solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "IEJIGPNLZYLLBP-UHFFFAOYSA-N",
+        "name": "dimethyl carbonate",
+        "domain": "Chemical compound",
+        "smiles": "COC(=O)OC",
+        "inchi_key": "IEJIGPNLZYLLBP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "150000004820",
+        "name": "halides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "OIFBSDVPJOWBCH-UHFFFAOYSA-N",
+        "name": "Diethyl carbonate",
+        "domain": "Chemical compound",
+        "smiles": "CCOC(=O)OCC",
+        "inchi_key": "OIFBSDVPJOWBCH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000007599",
+        "name": "discharging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000003860",
+        "name": "storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000000919",
+        "name": "ceramic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "XMBWDFGMSWQBCA-UHFFFAOYSA-N",
+        "name": "hydrogen iodide",
+        "domain": "Chemical compound",
+        "smiles": "I",
+        "inchi_key": "XMBWDFGMSWQBCA-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052755",
+        "name": "nonmetal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920006395",
+        "name": "saturated elastomer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052739",
+        "name": "hydrogen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001257",
+        "name": "hydrogen",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052756",
+        "name": "noble gas",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000654",
+        "name": "additive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 54
+      },
+      {
+        "id": "230000001351",
+        "name": "cycling effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "PQXKHYXIUOZZFA-UHFFFAOYSA-M",
+        "name": "lithium fluoride",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[F-]",
+        "inchi_key": "PQXKHYXIUOZZFA-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 156
+      },
+      {
+        "id": "PUZPDOWCWNUUKD-UHFFFAOYSA-M",
+        "name": "sodium fluoride",
+        "domain": "Chemical compound",
+        "smiles": "[F-].[Na+]",
+        "inchi_key": "PUZPDOWCWNUUKD-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 73
+      },
+      {
+        "id": "210000004027",
+        "name": "cell",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 42
+      },
+      {
+        "id": "QSZMZKBZAYQGRS-UHFFFAOYSA-N",
+        "name": "lithium;bis(trifluoromethylsulfonyl)azanide",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F",
+        "inchi_key": "QSZMZKBZAYQGRS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 39
+      },
+      {
+        "id": "229910003473",
+        "name": "lithium bis(trifluoromethanesulfonyl)imide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 38
+      },
+      {
+        "id": "235000013024",
+        "name": "sodium fluoride",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 36
+      },
+      {
+        "id": "239000011775",
+        "name": "sodium fluoride",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 36
+      },
+      {
+        "id": "230000000996",
+        "name": "additive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 34
+      },
+      {
+        "id": "235000002639",
+        "name": "sodium chloride",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 32
+      },
+      {
+        "id": "239000011244",
+        "name": "liquid electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "239000002033",
+        "name": "PVDF binder",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "238000004070",
+        "name": "electrodeposition",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "230000010287",
+        "name": "polarization",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "229920002981",
+        "name": "polyvinylidene fluoride",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "229910002986",
+        "name": "Li4Ti5O12",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+        "name": "aluminium oxide",
+        "domain": "Inorganic materials",
+        "smiles": "[O-2].[O-2].[O-2].[Al+3].[Al+3]",
+        "inchi_key": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "238000001453",
+        "name": "impedance spectrum",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "239000012528",
+        "name": "membrane",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "239000010410",
+        "name": "layer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "150000002739",
+        "name": "metals",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "238000002474",
+        "name": "experimental method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "FYYHWMGAXLPEAU-UHFFFAOYSA-N",
+        "name": "Magnesium",
+        "domain": "Chemical compound",
+        "smiles": "[Mg]",
+        "inchi_key": "FYYHWMGAXLPEAU-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "WYURNTSHIVDZCO-UHFFFAOYSA-N",
+        "name": "Tetrahydrofuran",
+        "domain": "Chemical compound",
+        "smiles": "C1CCOC1",
+        "inchi_key": "WYURNTSHIVDZCO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "ZMANZCXQSJIPKH-UHFFFAOYSA-N",
+        "name": "Triethylamine",
+        "domain": "Chemical compound",
+        "smiles": "CCN(CC)CC",
+        "inchi_key": "ZMANZCXQSJIPKH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "name": "aluminium",
+        "domain": "Chemical compound",
+        "smiles": "[Al]",
+        "inchi_key": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "150000002500",
+        "name": "ions",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "AMXOYNBUYSYVKV-UHFFFAOYSA-M",
+        "name": "lithium bromide",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[Br-]",
+        "inchi_key": "AMXOYNBUYSYVKV-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "229910052749",
+        "name": "magnesium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000011777",
+        "name": "magnesium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "229910052725",
+        "name": "zinc",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000011701",
+        "name": "zinc",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "FAPWRFPIFSIZLT-UHFFFAOYSA-M",
+        "name": "Sodium chloride",
+        "domain": "Chemical group",
+        "smiles": "[Na+].[Cl-]",
+        "inchi_key": "FAPWRFPIFSIZLT-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "HCHKCACWOHOZIP-UHFFFAOYSA-N",
+        "name": "Zinc",
+        "domain": "Chemical compound",
+        "smiles": "[Zn]",
+        "inchi_key": "HCHKCACWOHOZIP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "229910052782",
+        "name": "aluminium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "125000004429",
+        "name": "atom",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "229910052799",
+        "name": "carbon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000007423",
+        "name": "decrease",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "150000008040",
+        "name": "ionic compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000000670",
+        "name": "limiting effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000011148",
+        "name": "porous material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "JGFZNNIVVJXRND-UHFFFAOYSA-N",
+        "name": "N,N-Diisopropylethylamine (DIPEA)",
+        "domain": "Chemical compound",
+        "smiles": "CCN(C(C)C)C(C)C",
+        "inchi_key": "JGFZNNIVVJXRND-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229910019398",
+        "name": "NaPF6",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "150000001875",
+        "name": "compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000002484",
+        "name": "cyclic voltammetry",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "KWGKDLIKAYFUFQ-UHFFFAOYSA-M",
+        "name": "lithium chloride",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[Cl-]",
+        "inchi_key": "KWGKDLIKAYFUFQ-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "HSZCZNFXUDYRKD-UHFFFAOYSA-M",
+        "name": "lithium iodide",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[I-]",
+        "inchi_key": "HSZCZNFXUDYRKD-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229910001416",
+        "name": "lithium ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000007747",
+        "name": "plating",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229920000642",
+        "name": "polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000001878",
+        "name": "scanning electron micrograph",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000004626",
+        "name": "scanning electron microscopy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "RTZKZFJDLAIYFH-UHFFFAOYSA-N",
+        "name": "Diethyl ether",
+        "domain": "Chemical compound",
+        "smiles": "CCOCC",
+        "inchi_key": "RTZKZFJDLAIYFH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "XTHFKEDIFFGKHM-UHFFFAOYSA-N",
+        "name": "Dimethoxyethane",
+        "domain": "Chemical compound",
+        "smiles": "COCCOC",
+        "inchi_key": "XTHFKEDIFFGKHM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910013870",
+        "name": "LiPF 6",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "name": "Lithium ion",
+        "domain": "Chemical compound",
+        "smiles": "[Li+]",
+        "inchi_key": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910006270",
+        "name": "Li\u2014Li",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000003247",
+        "name": "decreasing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000000151",
+        "name": "deposition",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008021",
+        "name": "deposition",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000009792",
+        "name": "diffusion process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000009826",
+        "name": "distribution",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910021645",
+        "name": "metal ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000007784",
+        "name": "solid electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000243",
+        "name": "solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "AVQQQNCBBIEMEU-UHFFFAOYSA-N",
+        "name": "1,1,3,3-tetramethylurea",
+        "domain": "Chemical compound",
+        "smiles": "CN(C)C(=O)N(C)C",
+        "inchi_key": "AVQQQNCBBIEMEU-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "LVBBUOJJSJBSHL-UHFFFAOYSA-N",
+        "name": "1-methyl-3-propylpiperidine",
+        "domain": "Chemical compound",
+        "smiles": "CCCC1CCCN(C)C1",
+        "inchi_key": "LVBBUOJJSJBSHL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "OXMIDRBAFOEOQT-UHFFFAOYSA-N",
+        "name": "2,5-dimethyloxolane",
+        "domain": "Chemical compound",
+        "smiles": "CC1CCC(C)O1",
+        "inchi_key": "OXMIDRBAFOEOQT-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "JWUJQDFVADABEY-UHFFFAOYSA-N",
+        "name": "2-methyltetrahydrofuran",
+        "domain": "Chemical compound",
+        "smiles": "CC1CCCO1",
+        "inchi_key": "JWUJQDFVADABEY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+        "name": "Argon",
+        "domain": "Chemical compound",
+        "smiles": "[Ar]",
+        "inchi_key": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "name": "Carbon",
+        "domain": "Chemical compound",
+        "smiles": "[C]",
+        "inchi_key": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000003775",
+        "name": "Density Functional Theory",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "LCGLNKUTAGEVQW-UHFFFAOYSA-N",
+        "name": "Dimethyl ether",
+        "domain": "Chemical compound",
+        "smiles": "COC",
+        "inchi_key": "LCGLNKUTAGEVQW-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002000",
+        "name": "Electrolyte additive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910012670",
+        "name": "LiTi5O12",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910006561",
+        "name": "Li\u2014F",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011149",
+        "name": "active material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "RDOXTESZEPMUJZ-UHFFFAOYSA-N",
+        "name": "anisole",
+        "domain": "Chemical compound",
+        "smiles": "COC1=CC=CC=C1",
+        "inchi_key": "RDOXTESZEPMUJZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000009286",
+        "name": "beneficial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052593",
+        "name": "corundum",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "125000004122",
+        "name": "cyclic group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005137",
+        "name": "deposition process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002659",
+        "name": "electrodeposit",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002349",
+        "name": "favourable effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004907",
+        "name": "flux",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000013538",
+        "name": "functional additive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "GNOIPBMMFNIUFM-UHFFFAOYSA-N",
+        "name": "hexamethylphosphoric triamide",
+        "domain": "Chemical compound",
+        "smiles": "CN(C)P(=O)(N(C)C)N(C)C",
+        "inchi_key": "GNOIPBMMFNIUFM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910003002",
+        "name": "lithium salt",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "159000000002",
+        "name": "lithium salts",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000020960",
+        "name": "lithium transport",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000007774",
+        "name": "longterm",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "TWNQGVIAIRXVLR-UHFFFAOYSA-N",
+        "name": "oxo(oxoalumanyloxy)alumane",
+        "domain": "Chemical compound",
+        "smiles": "O=[Al]O[Al]=O",
+        "inchi_key": "TWNQGVIAIRXVLR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011241",
+        "name": "protective layer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008439",
+        "name": "repair process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011160",
+        "name": "research",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000007086",
+        "name": "side reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "JHJLBTNAGRQEKS-UHFFFAOYSA-M",
+        "name": "sodium bromide",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].[Br-]",
+        "inchi_key": "JHJLBTNAGRQEKS-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011780",
+        "name": "sodium chloride",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "FVAUCKIRQBBSSJ-UHFFFAOYSA-M",
+        "name": "sodium iodide",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].[I-]",
+        "inchi_key": "FVAUCKIRQBBSSJ-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000001228",
+        "name": "spectrum",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "ZUHZGEOKBKGPSW-UHFFFAOYSA-N",
+        "name": "tetraglyme",
+        "domain": "Chemical compound",
+        "smiles": "COCCOCCOCCOCCOC",
+        "inchi_key": "ZUHZGEOKBKGPSW-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "YLQBMQCUIZJEEH-UHFFFAOYSA-N",
+        "name": "tetrahydrofuran",
+        "domain": "Natural products",
+        "smiles": "C=1C=COC=1",
+        "inchi_key": "YLQBMQCUIZJEEH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910001845",
+        "name": "yogo sapphire",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "LZDKZFUFMNSQCJ-UHFFFAOYSA-N",
+        "name": "1,2-diethoxyethane",
+        "domain": "Chemical compound",
+        "smiles": "CCOCCOCC",
+        "inchi_key": "LZDKZFUFMNSQCJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WNXJIVFYUVYPPR-UHFFFAOYSA-N",
+        "name": "1,3-dioxolane",
+        "domain": "Chemical compound",
+        "smiles": "C1COCO1",
+        "inchi_key": "WNXJIVFYUVYPPR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "RYHBNJHYFVUHQT-UHFFFAOYSA-N",
+        "name": "1,4-Dioxane",
+        "domain": "Chemical compound",
+        "smiles": "C1COCCO1",
+        "inchi_key": "RYHBNJHYFVUHQT-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "CXBDYQVECUFKRK-UHFFFAOYSA-N",
+        "name": "1-methoxybutane",
+        "domain": "Chemical compound",
+        "smiles": "CCCCOC",
+        "inchi_key": "CXBDYQVECUFKRK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ZPDIRKNRUWXYLJ-UHFFFAOYSA-N",
+        "name": "2,2-dimethyloxolane",
+        "domain": "Chemical compound",
+        "smiles": "CC1(C)CCCO1",
+        "inchi_key": "ZPDIRKNRUWXYLJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910015844",
+        "name": "BCl3",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BVKZGUZCCUSVTD-UHFFFAOYSA-L",
+        "name": "Carbonate",
+        "domain": "Chemical compound",
+        "smiles": "[O-]C([O-])=O",
+        "inchi_key": "BVKZGUZCCUSVTD-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ZAFNJMIOTHYJRJ-UHFFFAOYSA-N",
+        "name": "Diisopropyl ether",
+        "domain": "Chemical compound",
+        "smiles": "CC(C)OC(C)C",
+        "inchi_key": "ZAFNJMIOTHYJRJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "VEXZGXHMUGYJMC-UHFFFAOYSA-N",
+        "name": "Hydrochloric acid",
+        "domain": "Chemical compound",
+        "smiles": "Cl",
+        "inchi_key": "VEXZGXHMUGYJMC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "CPELXLSAUQHCOX-UHFFFAOYSA-N",
+        "name": "Hydrogen bromide",
+        "domain": "Chemical compound",
+        "smiles": "Br",
+        "inchi_key": "CPELXLSAUQHCOX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910021201",
+        "name": "NaFSI",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XOJVVFBFDXDTEG-UHFFFAOYSA-N",
+        "name": "Norphytane",
+        "domain": "Natural products",
+        "smiles": "CC(C)CCCC(C)CCCC(C)CCCC(C)C",
+        "inchi_key": "XOJVVFBFDXDTEG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910021174",
+        "name": "PF5",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910004014",
+        "name": "SiF4",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "DHXVGJBLRPWPCS-UHFFFAOYSA-N",
+        "name": "Tetrahydropyran",
+        "domain": "Chemical compound",
+        "smiles": "C1CCOCC1",
+        "inchi_key": "DHXVGJBLRPWPCS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002378",
+        "name": "acidificating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001994",
+        "name": "activation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004458",
+        "name": "analytical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052786",
+        "name": "argon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+        "name": "benzene",
+        "domain": "Substances",
+        "smiles": "C1=CC=CC=C1",
+        "inchi_key": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "MYWGVEGHKGKUMM-UHFFFAOYSA-N",
+        "name": "carbonic acid;ethene",
+        "domain": "Chemical compound",
+        "smiles": "C=C.C=C.OC(O)=O",
+        "inchi_key": "MYWGVEGHKGKUMM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910021525",
+        "name": "ceramic electrolyte",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012512",
+        "name": "characterization method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007795",
+        "name": "chemical reaction product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002131",
+        "name": "composite material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007547",
+        "name": "defect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002950",
+        "name": "deficient",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001419",
+        "name": "dependent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "SBZXBUIDTXKZTM-UHFFFAOYSA-N",
+        "name": "diglyme",
+        "domain": "Chemical compound",
+        "smiles": "COCCOCCOC",
+        "inchi_key": "SBZXBUIDTXKZTM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010494",
+        "name": "dissociation reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005593",
+        "name": "dissociations",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008151",
+        "name": "electrolyte solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004146",
+        "name": "energy storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002708",
+        "name": "enhancing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "JBTWLSYIZRCDFO-UHFFFAOYSA-N",
+        "name": "ethyl methyl carbonate",
+        "domain": "Chemical compound",
+        "smiles": "CCOC(=O)OC",
+        "inchi_key": "JBTWLSYIZRCDFO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910002804",
+        "name": "graphite",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010439",
+        "name": "graphite",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000005843",
+        "name": "halogen group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001566",
+        "name": "impedance spectroscopy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006872",
+        "name": "improvement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011261",
+        "name": "inert gas",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001802",
+        "name": "infusion",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005764",
+        "name": "inhibitory process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000977",
+        "name": "initiatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000004694",
+        "name": "iodide salts",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002608",
+        "name": "ionic liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002427",
+        "name": "irreversible effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001496",
+        "name": "lithium tetrafluoroborate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005923",
+        "name": "long-lasting effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011159",
+        "name": "matrix material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000155",
+        "name": "melt",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007769",
+        "name": "metal material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "UZKWTJUDCOPSNM-UHFFFAOYSA-N",
+        "name": "methoxybenzene",
+        "domain": "Substances",
+        "smiles": "CCCCOC=C",
+        "inchi_key": "UZKWTJUDCOPSNM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005012",
+        "name": "migration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013508",
+        "name": "migration",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002156",
+        "name": "mixing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003607",
+        "name": "modifier",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002808",
+        "name": "molecular sieve",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "AJFDBNQQDYLMJN-UHFFFAOYSA-N",
+        "name": "n,n-diethylacetamide",
+        "domain": "Chemical compound",
+        "smiles": "CCN(CC)C(C)=O",
+        "inchi_key": "AJFDBNQQDYLMJN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002086",
+        "name": "nanomaterial",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003121",
+        "name": "nonmonotonic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002161",
+        "name": "passivation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "OBCUTHMOOONNBS-UHFFFAOYSA-N",
+        "name": "phosphorus pentafluoride",
+        "domain": "Chemical compound",
+        "smiles": "FP(F)(F)(F)F",
+        "inchi_key": "OBCUTHMOOONNBS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000843",
+        "name": "powder",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002028",
+        "name": "premature",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000047",
+        "name": "product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000035755",
+        "name": "proliferation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002829",
+        "name": "reductive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ABTOQLMXBSRXSM-UHFFFAOYSA-N",
+        "name": "silicon tetrafluoride",
+        "domain": "Chemical compound",
+        "smiles": "F[Si](F)(F)F",
+        "inchi_key": "ABTOQLMXBSRXSM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "URGAHOPLAPQHLN-UHFFFAOYSA-N",
+        "name": "sodium aluminosilicate",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].[Al+3].[O-][Si]([O-])=O.[O-][Si]([O-])=O",
+        "inchi_key": "URGAHOPLAPQHLN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "VCCATSJUUVERFU-UHFFFAOYSA-N",
+        "name": "sodium bis(fluorosulfonyl)azanide",
+        "domain": "Chemical compound",
+        "smiles": "FS(=O)(=O)N([Na])S(F)(=O)=O",
+        "inchi_key": "VCCATSJUUVERFU-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "GTSHREYGKSITGK-UHFFFAOYSA-N",
+        "name": "sodium ferrocyanide",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].[Na+].[Na+].[Na+].[Fe+2].N#[C-].N#[C-].N#[C-].N#[C-].N#[C-].N#[C-]",
+        "inchi_key": "GTSHREYGKSITGK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000012247",
+        "name": "sodium ferrocyanide",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000264",
+        "name": "sodium ferrocyanide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BAZAXWOYCMUHIX-UHFFFAOYSA-M",
+        "name": "sodium perchlorate",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].[O-]Cl(=O)(=O)=O",
+        "inchi_key": "BAZAXWOYCMUHIX-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001488",
+        "name": "sodium perchlorate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "YLKTWKVVQDCJFL-UHFFFAOYSA-N",
+        "name": "sodium;bis(trifluoromethylsulfonyl)azanide",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F",
+        "inchi_key": "YLKTWKVVQDCJFL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001251",
+        "name": "solid state electrolyte alloy",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052596",
+        "name": "spinel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011029",
+        "name": "spinel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003756",
+        "name": "stirring",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000758",
+        "name": "substrate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "FAQYAMRNWDIXMY-UHFFFAOYSA-N",
+        "name": "trichloroborane",
+        "domain": "Chemical compound",
+        "smiles": "ClB(Cl)Cl",
+        "inchi_key": "FAQYAMRNWDIXMY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "YFNKIDBQEZZDLK-UHFFFAOYSA-N",
+        "name": "triglyme",
+        "domain": "Chemical compound",
+        "smiles": "COCCOCCOCCOC",
+        "inchi_key": "YFNKIDBQEZZDLK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001075",
+        "name": "voltammogram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

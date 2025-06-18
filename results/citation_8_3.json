@@ -1,0 +1,454 @@
+{
+  "search_metadata": {
+    "id": "685255ccbf04d59a7b97eeb8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/00e875d6fb9ae383/685255ccbf04d59a7b97eeb8.json",
+    "created_at": "2025-06-18 05:59:40 UTC",
+    "processed_at": "2025-06-18 05:59:40 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/RU2152081C1/en",
+    "raw_html_file": "https://serpapi.com/searches/00e875d6fb9ae383/685255ccbf04d59a7b97eeb8.html",
+    "total_time_taken": 0.95
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/RU2152081C1/en"
+  },
+  "title": "Magnetic thermonuclear reactor",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/94/e4/60/1fdfe994179800/RU2152081C1.pdf",
+  "publication_number": "RU2152081C1",
+  "country": "Russia",
+  "prior_art_keywords": [
+    "chamber",
+    "magnetic",
+    "plasma",
+    "winding",
+    "coil"
+  ],
+  "prior_art_date": "1996-04-25",
+  "application_number": "RU96108171/06A",
+  "inventors": [
+    {
+      "name": "\u0410.\u0410. \u041b\u0435\u043e\u043d\u0442\u044c\u0435\u0432",
+      "link": "https://patents.google.com/?inventor=%D0%90.%D0%90.+%D0%9B%D0%B5%D0%BE%D0%BD%D1%82%D1%8C%D0%B5%D0%B2",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%D0%90.%D0%90.+%D0%9B%D0%B5%D0%BE%D0%BD%D1%82%D1%8C%D0%B5%D0%B2"
+    }
+  ],
+  "priority_date": "1996-04-25",
+  "filing_date": "1996-04-25",
+  "publication_date": "2000-06-27",
+  "worldwide_applications": {
+    "1996": [
+      {
+        "filing_date": "1996-04-25",
+        "country_code": "RU",
+        "application_number": "RU96108171/06A",
+        "document_id": "patent/RU2152081C1/en",
+        "legal_status_cat": "active",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1996-04-25",
+      "title": "Application filed by \u041b\u0435\u043e\u043d\u0442\u044c\u0435\u0432 \u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0438\u0447",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "\u041b\u0435\u043e\u043d\u0442\u044c\u0435\u0432 \u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0438\u0447"
+    },
+    {
+      "date": "1996-04-25",
+      "title": "Priority to RU96108171/06A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/RU2152081C1/en"
+    },
+    {
+      "date": "1998-07-27",
+      "title": "Publication of RU96108171A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/RU96108171A/en"
+    },
+    {
+      "date": "2000-06-27",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2000-06-27",
+      "title": "Publication of RU2152081C1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/RU2152081C1/en"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=RU&NR=2152081C1&KC=C1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/RU/96108171/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/RU2152081C1"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/af/c2/f9/17bbeb3ae05a9d/00000002.png",
+    "https://patentimages.storage.googleapis.com/19/ca/1f/9a8707982f66b5/00000003.png",
+    "https://patentimages.storage.googleapis.com/22/1a/a6/ce59924eacace5/00000004.png",
+    "https://patentimages.storage.googleapis.com/c4/d5/b7/6989b6a0944439/00000005.png",
+    "https://patentimages.storage.googleapis.com/41/a4/90/d0d524f2365c95/00000006.png",
+    "https://patentimages.storage.googleapis.com/8d/4c/1c/99195fa5b4acab/00000007.png",
+    "https://patentimages.storage.googleapis.com/90/ff/23/2656d4eb6ece10/00000008.png"
+  ],
+  "classifications": [
+    {
+      "code": "Y02E30/10",
+      "description": "Nuclear fusion reactors",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "FIELD: applied physics; tokamaks. SUBSTANCE: reactor longitudinal spiral-shaped winding whose turns are placed on chamber surface in tangential manner over entire length is connected to output terminals of secondary coil of DC-to- constant-ripple-current induction converter. Leads of converter primary coil whose turn number is smaller than that of secondary coil are connected to DC generator; inserted between opposing ends of cores projecting from coils are variable-permeance rotors assembled of transformer iron strips and mounted on common shaft which is rotating in bearings and kinematically coupled, for example, with electromechanical drive for varying its speed; ends of coil cores and shaft bearings are secured in converter stator. New shape of winding makes it possible to organize space-saving toroidal vacuum chamber without through central bore. EFFECT: provision for holding plasma by magnetic field in heat insulation. 2 cl, 8 dwg",
+  "description_link": "https://serpapi.com/searches/685255ccbf04d59a7b97eeb8/google_patents_details/description.html",
+  "claims": [
+    "1. \u041c\u0430\u0433\u043d\u0438\u0442\u043d\u044b\u0439 \u0442\u0435\u0440\u043c\u043e\u044f\u0434\u0435\u0440\u043d\u044b\u0439 \u0440\u0435\u0430\u043a\u0442\u043e\u0440, \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0438\u0439 \u0432\u0430\u043a\u0443\u0443\u043c\u043d\u0443\u044e \u043a\u0430\u043c\u0435\u0440\u0443 \u0442\u043e\u0440\u043e\u0438\u0434\u0430\u043b\u044c\u043d\u043e\u0439 \u0444\u043e\u0440\u043c\u044b, \u043d\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u0443\u044e \u0434\u0435\u0439\u0442\u0435\u0440\u0438\u0435\u0432\u043e-\u0442\u0440\u0438\u0442\u0438\u0435\u0432\u043e\u0439 \u0441\u043c\u0435\u0441\u044c\u044e \u044f\u0434\u0435\u0440\u043d\u043e\u0433\u043e \u0442\u043e\u043f\u043b\u0438\u0432\u0430, \u0438 \u043e\u0431\u043c\u043e\u0442\u043a\u0443, \u0443\u043b\u043e\u0436\u0435\u043d\u043d\u0443\u044e \u043f\u043e \u0432\u043d\u0435\u0448\u043d\u0435\u0439 \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u0438 \u043a\u0430\u043c\u0435\u0440\u044b \u0441\u043f\u0438\u0440\u0430\u043b\u044c\u043d\u043e \u043f\u0440\u043e\u0434\u043e\u043b\u044c\u043d\u044b\u043c\u0438 \u0432\u0438\u0442\u043a\u0430\u043c\u0438, \u043f\u0440\u0438\u043b\u0435\u0433\u0430\u044e\u0449\u0438\u043c\u0438 \u0434\u0440\u0443\u0433 \u043a \u0434\u0440\u0443\u0433\u0443, \u043e\u0442\u043b\u0438\u0447\u0430\u044e\u0449\u0438\u0439\u0441\u044f \u0442\u0435\u043c, \u0447\u0442\u043e \u0442\u043e\u0440\u043e\u0438\u0434\u0430\u043b\u044c\u043d\u0430\u044f \u043a\u0430\u043c\u0435\u0440\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0430 \u0431\u0435\u0437 \u043d\u0430\u0440\u0443\u0436\u043d\u043e\u0433\u043e \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u043e\u0442\u0432\u0435\u0440\u0441\u0442\u0438\u044f, \u0440\u0430\u0434\u0438\u0443\u0441 \u0435\u0435 \u043e\u0441\u0435\u0432\u043e\u0439 \u043e\u043a\u0440\u0443\u0436\u043d\u043e\u0441\u0442\u0438 \u0440\u0430\u0432\u0435\u043d \u0440\u0430\u0434\u0438\u0443\u0441\u0443 \u043e\u043a\u0440\u0443\u0436\u043d\u043e\u0441\u0442\u0438 \u043f\u043e\u043f\u0435\u0440\u0435\u0447\u043d\u043e\u0433\u043e \u0441\u0435\u0447\u0435\u043d\u0438\u044f \u043a\u0430\u043c\u0435\u0440\u044b, \u0430 \u043e\u0431\u043c\u043e\u0442\u043a\u0430 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0430 \u043a \u0432\u044b\u0445\u043e\u0434\u043d\u044b\u043c \u0437\u0430\u0436\u0438\u043c\u0430\u043c \u0438\u043d\u0434\u0443\u043a\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0432\u0442\u043e\u0440\u0438\u0447\u043d\u043e\u0439 \u043a\u0430\u0442\u0443\u0448\u043a\u0438 \u043f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u0442\u043e\u043a\u0430 \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e\u0433\u043e \u0432 \u0442\u043e\u043a \u043f\u0443\u043b\u044c\u0441\u0438\u0440\u0443\u044e\u0449\u0438\u0439 \u043e\u0434\u043d\u043e\u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0435\u0433\u043e \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f, \u043d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u043e \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u0438 \u0438\u0437\u043c\u0435\u043d\u044f\u044e\u0449\u0438\u0439\u0441\u044f \u043f\u043e \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0435, \u043f\u0435\u0440\u0432\u0438\u0447\u043d\u0430\u044f \u043a\u0430\u0442\u0443\u0448\u043a\u0430 \u0432\u043e\u0437\u0431\u0443\u0436\u0434\u0435\u043d\u0438\u044f \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u0441 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e\u043c \u0432\u0438\u0442\u043a\u043e\u043c \u043c\u0435\u043d\u044c\u0448\u0438\u043c, \u0447\u0435\u043c \u0432\u043e \u0432\u0442\u043e\u0440\u0438\u0447\u043d\u043e\u0439, \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0430 \u0441 \u0433\u0435\u043d\u0435\u0440\u0430\u0442\u043e\u0440\u043e\u043c \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e\u0433\u043e \u0442\u043e\u043a\u0430, \u043f\u0440\u0438\u0447\u0435\u043c \u043e\u0431\u0435 \u043a\u0430\u0442\u0443\u0448\u043a\u0438 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u044b \u043d\u0430 \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0445 \u0441\u0435\u0440\u0434\u0435\u0447\u043d\u0438\u043a\u0430\u0445, \u043d\u0430\u0431\u0440\u0430\u043d\u043d\u044b\u0445 \u043f\u0430\u043a\u0435\u0442\u0430\u043c\u0438, \u043f\u0430\u0440\u0430\u043b\u043b\u0435\u043b\u044c\u043d\u043e \u043f\u043b\u043e\u0441\u043a\u043e\u0441\u0442\u0438, \u043f\u043e \u043d\u0438\u043c \u043f\u0440\u043e\u043b\u0435\u0433\u0430\u044e\u0449\u0435\u0439, \u0438\u0437 \u043f\u0440\u044f\u043c\u043e\u0443\u0433\u043e\u043b\u044c\u043d\u044b\u0445 \u043f\u043b\u0430\u0441\u0442\u0438\u043d \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u0442\u0430\u043b\u0438, \u043c\u0435\u0436\u0434\u0443 \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u043b\u0435\u0436\u0430\u0449\u0438\u043c\u0438 \u0443\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u043d\u044b\u043c\u0438 \u043d\u0435\u043f\u043e\u0434\u0432\u0438\u0436\u043d\u043e \u043a\u043e\u043d\u0446\u0430\u043c\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0445, \u0432\u044b\u0441\u0442\u0443\u043f\u0430\u044e\u0449\u0438\u043c\u0438 \u0438\u0437 \u0442\u043e\u0440\u0446\u043e\u0432 \u043a\u0430\u0442\u0443\u0448\u0435\u043a, \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u044b \u043d\u0430 \u043d\u0435\u0444\u0435\u0440\u0440\u043e\u043c\u0430\u0433\u043d\u0438\u0442\u043d\u043e\u0439 \u043e\u0441\u0438 \u0434\u0432\u0430 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0445 \u0440\u043e\u0442\u043e\u0440 \u0434\u0438\u0441\u043a\u0430, \u043d\u0430\u0431\u0440\u0430\u043d\u043d\u044b\u0445 \u043f\u0430\u043a\u0435\u0442\u0430\u043c\u0438 \u0438\u0437 \u043a\u0440\u0443\u0433\u043b\u044b\u0445 \u043f\u043b\u0430\u0441\u0442\u0438\u043d \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u0442\u0430\u043b\u0438, \u0432 \u043a\u0430\u0436\u0434\u043e\u043c \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u0441\u0435\u0447\u0435\u043d\u0438\u044f \u0444\u043e\u0440\u043c\u0430 \u043e\u0431\u043e\u0434\u0430, \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u043d\u0430\u044f \u0432 \u043d\u0438\u0445 \u0434\u0432\u0443\u043c\u044f \u0434\u0438\u0430\u043c\u0435\u0442\u0440\u0430\u043b\u044c\u043d\u043e \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u043b\u0435\u0436\u0430\u0449\u0438\u043c\u0438 \u043e\u0442\u0432\u0435\u0440\u0441\u0442\u0438\u044f\u043c\u0438 \u0441\u0435\u0433\u043c\u0435\u043d\u0442\u043d\u043e\u0439 \u0444\u043e\u0440\u043c\u044b, \u0441\u043e\u0433\u043b\u0430\u0441\u043d\u043e \u0437\u0430\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u043d\u044b\u0445 \u043d\u0430 \u043e\u0441\u0438 \u0441 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c\u044e \u0432\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u043f\u0440\u0438 \u043c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0445 \u0437\u0430\u0437\u043e\u0440\u0430\u0445 \u0441 \u043a\u043e\u043d\u0446\u0430\u043c\u0438 \u0441\u0435\u0440\u0434\u0435\u0447\u043d\u0438\u043a\u043e\u0432, \u043a\u0438\u043d\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u043f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u043e\u0439 \u043a \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u043c\u0443 \u043f\u0440\u0438\u0432\u043e\u0434\u0443 \u0438\u0437\u043c\u0435\u043d\u044f\u0435\u043c\u043e\u0439 \u0447\u0430\u0441\u0442\u043e\u0442\u044b \u0432\u0440\u0430\u0449\u0435\u043d\u0438\u044f.\u00a01. Magnetic thermonuclear reactor containing a vacuum chamber of a toroidal shape, superimposed by a deuterium-tritium mixture of nuclear fuel, and a winding laid on the outer surface of the chamber helically with longitudinal coils adjacent to each other, characterized in that the toroidal chamber is made without an external opening in the center, the radius of its axial circumference is equal to the radius of the circumference of the camera\u2019s cross section, and the winding is connected to the output terminals of the induction secondary coil of the DC-to-current converter pulsating one-sided direction, continuously periodically varying in magnitude, the primary excitation coil of which with a number of turns less than the secondary is connected to a direct current generator, both coils located on separate cores, stacked in packets, parallel to the plane running along them, from rectangular electrical plates steel, between the opposite ends of which are fixed motionless, protruding from the ends of the coils, two components of the rotor di are installed on the non-ferromagnetic axis ka, assembled in packages of round plates of electrical steel, in each of which a rim shape is formed of variable cross-section, made in them by two diametrically opposing openings of a segment shape, according to which they are rotatable with minimal gaps with the ends of the cores, kinematically connected to the electromechanical drive rotational speeds.",
+    "2. \u041c\u0430\u0433\u043d\u0438\u0442\u043d\u044b\u0439 \u0442\u0435\u0440\u043c\u043e\u044f\u0434\u0435\u0440\u043d\u044b\u0439 \u0440\u0435\u0430\u043a\u0442\u043e\u0440 \u043f\u043e \u043f.1, \u043e\u0442\u043b\u0438\u0447\u0430\u044e\u0449\u0438\u0439\u0441\u044f \u0442\u0435\u043c, \u0447\u0442\u043e \u043a\u043e\u0440\u043f\u0443\u0441 \u0441 \u0434\u0432\u0443\u043c\u044f \u0431\u043e\u043a\u043e\u0432\u044b\u043c\u0438 \u043a\u0440\u044b\u0448\u043a\u0430\u043c\u0438 \u043f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u0442\u043e\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d \u0438\u0437 \u0430\u043b\u044e\u043c\u0438\u043d\u0438\u044f, \u0432 \u043a\u0440\u044b\u0448\u043a\u0430\u0445 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u0443\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u044b \u043a\u043e\u043d\u0446\u044b \u0441\u0435\u0440\u0434\u0435\u0447\u043d\u0438\u043a\u043e\u0432 \u043a\u0430\u0442\u0443\u0448\u0435\u043a \u0438 \u043f\u043e\u0434\u0448\u0438\u043f\u043d\u0438\u043a\u0438 \u043e\u0441\u0438 \u0440\u043e\u0442\u043e\u0440\u0430.\u00a02. The magnetic thermonuclear reactor according to claim 1, characterized in that the housing with two side covers of the current transducer is made of aluminum, in the covers of which the ends of the cores of the coils and bearings of the axis of the rotor are strengthened."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "RU96108171/06A",
+      "representative_publication": "RU2152081C1",
+      "primary_language": "en",
+      "priority_date": "1996-04-25",
+      "filing_date": "1996-04-25",
+      "title": "Magnetic thermonuclear reactor"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "RU96108171/06A",
+      "representative_publication": "RU2152081C1",
+      "primary_language": "en",
+      "priority_date": "1996-04-25",
+      "filing_date": "1996-04-25",
+      "title": "Magnetic thermonuclear reactor"
+    }
+  ],
+  "family_id": "20179816",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "GB857686A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1957-06-12",
+        "publication_date": "1961-01-04",
+        "assignee_original": "Commissariat Energie Atomique",
+        "title": "Improvements in apparatus for creating by induction an electric discharge in a gas at low pressure",
+        "patent_id": "patent/GB857686A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB857686A%2Fen"
+      },
+      {
+        "publication_number": "US4615860A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1979-02-28",
+        "publication_date": "1986-10-07",
+        "assignee_original": "United States Department Of Energy",
+        "title": "Tokamak with in situ magnetohydrodynamic generation of toroidal magnetic field",
+        "patent_id": "patent/US4615860A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4615860A%2Fen"
+      },
+      {
+        "publication_number": "US4713208A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-05-21",
+        "publication_date": "1987-12-15",
+        "assignee_original": "The United States Of America As Represented By The United States Department Of Energy",
+        "title": "Spheromak reactor with poloidal flux-amplifying transformer",
+        "patent_id": "patent/US4713208A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4713208A%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "\u0418\u0412\u0410\u041d\u041e\u0412-\u0421\u041c\u041e\u041b\u0415\u041d\u0421\u041a\u0418\u0419 \u0410.\u0412. \u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043c\u0430\u0448\u0438\u043d\u044b. - \u041c.: \u042d\u043d\u0435\u0440\u0433\u0438\u044f, 1980, \u0441.368 \u0438 369.",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "EA011055B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-19",
+        "publication_date": "2008-12-30",
+        "assignee_original": "\u0414\u0437\u0435 \u0420\u0438\u0434\u0436\u0435\u043d\u0442\u0441 \u041e\u0444 \u0414\u0437\u0435 \u042e\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0438 \u041e\u0444 \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f",
+        "title": "Plasma electric generation system",
+        "patent_id": "patent/EA011055B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEA011055B1%2Fen"
+      },
+      {
+        "publication_number": "RU2496284C2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-07-28",
+        "publication_date": "2013-10-20",
+        "assignee_original": "\u0421\u0430\u0436 \u0418\u043d\u043d\u043e\u0432\u0430\u0441\u044c\u043e\u043d \u0418\u043d\u043a.",
+        "title": "Generation method of pulse flux of high-energy particles, and source of particles for implementation of such method",
+        "patent_id": "patent/RU2496284C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2496284C2%2Fen"
+      },
+      {
+        "publication_number": "RU2736311C1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-12-17",
+        "publication_date": "2020-11-13",
+        "assignee_original": "\u0412\u0438\u043a\u0442\u043e\u0440 \u0421\u0435\u0440\u0433\u0435\u0435\u0432\u0438\u0447 \u041a\u043b\u0451\u043d\u043e\u0432",
+        "title": "Device for charged particles retention",
+        "patent_id": "patent/RU2736311C1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2736311C1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US4347621A",
+      "primary_language": "en",
+      "publication_date": "1982-08-31",
+      "title": "Trochoidal nuclear fusion reactor",
+      "patent_id": "patent/US4347621A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4347621A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3868522A",
+      "primary_language": "en",
+      "publication_date": "1975-02-25",
+      "title": "Superconducting cyclotron",
+      "patent_id": "patent/US3868522A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3868522A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101062807B1",
+      "primary_language": "en",
+      "publication_date": "2011-09-07",
+      "title": "Systems and methods for driving plasma ions and electrons in the magnetic field of FRC",
+      "patent_id": "patent/KR101062807B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101062807B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5923716A",
+      "primary_language": "en",
+      "publication_date": "1999-07-13",
+      "title": "Plasma extrusion dynamo and methods related thereto",
+      "patent_id": "patent/US5923716A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5923716A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4434130A",
+      "primary_language": "en",
+      "publication_date": "1984-02-28",
+      "title": "Electron space charge channeling for focusing ion beams",
+      "patent_id": "patent/US4434130A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4434130A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3885890A",
+      "primary_language": "en",
+      "publication_date": "1975-05-27",
+      "title": "Electromagnetic pumps",
+      "patent_id": "patent/US3885890A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3885890A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3015618A",
+      "primary_language": "en",
+      "publication_date": "1962-01-02",
+      "title": "Apparatus for heating a plasma",
+      "patent_id": "patent/US3015618A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3015618A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8247942B2",
+      "primary_language": "en",
+      "publication_date": "2012-08-21",
+      "title": "Multi-winding homopolar electric machine",
+      "patent_id": "patent/US8247942B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8247942B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3617908A",
+      "primary_language": "en",
+      "publication_date": "1971-11-02",
+      "title": "Charged particle accelerator with single or multimode operation",
+      "patent_id": "patent/US3617908A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3617908A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3324316A",
+      "primary_language": "en",
+      "publication_date": "1967-06-06",
+      "title": "Controlled fusion devices",
+      "patent_id": "patent/US3324316A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3324316A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20070206716A1",
+      "primary_language": "en",
+      "publication_date": "2007-09-06",
+      "title": "Plasma containment method",
+      "patent_id": "patent/US20070206716A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070206716A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3577317A",
+      "primary_language": "en",
+      "publication_date": "1971-05-04",
+      "title": "Controlled fusion reactor",
+      "patent_id": "patent/US3577317A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3577317A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3433705A",
+      "primary_language": "en",
+      "publication_date": "1969-03-18",
+      "title": "Stellarator having multipole magnets",
+      "patent_id": "patent/US3433705A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3433705A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20230011431A",
+      "primary_language": "en",
+      "publication_date": "2023-01-20",
+      "title": "magnetic mirror machine",
+      "patent_id": "patent/KR20230011431A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20230011431A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3626305A",
+      "primary_language": "en",
+      "publication_date": "1971-12-07",
+      "title": "High energy ion accelerator",
+      "patent_id": "patent/US3626305A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3626305A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2020237380A1",
+      "primary_language": "en",
+      "publication_date": "2020-12-03",
+      "title": "System and method for generating and accelerating magnetized plasma",
+      "patent_id": "patent/WO2020237380A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2020237380A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2152081C1",
+      "primary_language": "en",
+      "publication_date": "2000-06-27",
+      "title": "Magnetic thermonuclear reactor",
+      "patent_id": "patent/RU2152081C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2152081C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "SU1217269A3",
+      "primary_language": "en",
+      "publication_date": "1986-03-07",
+      "title": "Method and apparatus for confining and heating plasma",
+      "patent_id": "patent/SU1217269A3/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSU1217269A3%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN209200131U",
+      "primary_language": "en",
+      "publication_date": "2019-08-02",
+      "title": "Antenna mounts, radio frequency antenna assemblies and fusion devices",
+      "patent_id": "patent/CN209200131U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN209200131U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4244782A",
+      "primary_language": "en",
+      "publication_date": "1981-01-13",
+      "title": "Nuclear fusion system",
+      "patent_id": "patent/US4244782A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4244782A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO1990013136A1",
+      "primary_language": "en",
+      "publication_date": "1990-11-01",
+      "title": "Magnetic fusion reactor and ignition method",
+      "patent_id": "patent/WO1990013136A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1990013136A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10582604B2",
+      "primary_language": "en",
+      "publication_date": "2020-03-03",
+      "title": "Device and method for the heating and confinement of plasma",
+      "patent_id": "patent/US10582604B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10582604B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20070098129A1",
+      "primary_language": "en",
+      "publication_date": "2007-05-03",
+      "title": "Plasma containment method",
+      "patent_id": "patent/US20070098129A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070098129A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5240382A",
+      "primary_language": "en",
+      "publication_date": "1993-08-31",
+      "title": "Converged magnetic flux type intense magnetic field electro-magnetic pump",
+      "patent_id": "patent/US5240382A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5240382A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4735765A",
+      "primary_language": "en",
+      "publication_date": "1988-04-05",
+      "title": "Flexible helical-axis stellarator",
+      "patent_id": "patent/US4735765A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4735765A%2Fen"
+    }
+  ]
+}

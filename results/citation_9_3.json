@@ -1,0 +1,1599 @@
+{
+  "search_metadata": {
+    "id": "685255d3fbbebb13493e2a6a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/830bf159e591482f/685255d3fbbebb13493e2a6a.json",
+    "created_at": "2025-06-18 05:59:47 UTC",
+    "processed_at": "2025-06-18 05:59:47 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/EP0662693A1/en",
+    "raw_html_file": "https://serpapi.com/searches/830bf159e591482f/685255d3fbbebb13493e2a6a.html",
+    "total_time_taken": 0.78
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/EP0662693A1/en"
+  },
+  "title": "Generator for nuclear fusion by centripetal compression",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/df/3c/d2/afca372430bfe0/EP0662693A1.pdf",
+  "publication_number": "EP0662693A1",
+  "country": "European Patent Office",
+  "prior_art_keywords": [
+    "mercury",
+    "deuterium",
+    "generator",
+    "cylinders",
+    "energy"
+  ],
+  "prior_art_date": "1993-07-26",
+  "application_number": "EP94914423A",
+  "inventors": [
+    {
+      "name": "Diego Orellana Hurtado",
+      "link": "https://patents.google.com/?inventor=Diego+Orellana+Hurtado",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Diego+Orellana+Hurtado"
+    }
+  ],
+  "assignees": [
+    "Individual"
+  ],
+  "priority_date": "1993-07-26",
+  "filing_date": "1994-05-09",
+  "publication_date": "1995-07-12",
+  "worldwide_applications": {
+    "1994": [
+      {
+        "filing_date": "1994-05-09",
+        "country_code": "EP",
+        "application_number": "EP94914423A",
+        "document_id": "patent/EP0662693A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn",
+        "this_app": true
+      },
+      {
+        "filing_date": "1994-05-09",
+        "country_code": "WO",
+        "application_number": "PCT/ES1994/000046",
+        "document_id": "patent/WO1995003611A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Application Discontinuation"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1994-05-09",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "1995-07-12",
+      "title": "Publication of EP0662693A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/EP0662693A1/en"
+    },
+    {
+      "date": "Status",
+      "title": "Withdrawn",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=EP&NR=0662693A1&KC=A1&FT=D"
+    },
+    {
+      "text": "EPO GPI",
+      "link": "https://data.epo.org/gpi/EP0662693A1"
+    },
+    {
+      "text": "EP Register",
+      "link": "https://register.epo.org/espacenet/application?number=EP94914423"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/EP/94914423/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/EP0662693A1"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/16/fe/20/f706d4cdea3745/imgf0001.png",
+    "https://patentimages.storage.googleapis.com/98/16/5c/4b806fea75faac/imgf0002.png",
+    "https://patentimages.storage.googleapis.com/95/ec/a8/6ebf5bdc04af65/imgf0003.png",
+    "https://patentimages.storage.googleapis.com/9f/9f/88/79a916154cff37/imgf0004.png",
+    "https://patentimages.storage.googleapis.com/c3/85/58/125116df5d1462/imgf0005.png",
+    "https://patentimages.storage.googleapis.com/e5/0a/f5/9775c93fdd78e5/imgf0006.png",
+    "https://patentimages.storage.googleapis.com/86/66/e8/b0d943c649650c/imgf0007.png"
+  ],
+  "classifications": [
+    {
+      "code": "G21B1/00",
+      "description": "Thermonuclear fusion reactors",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E30/10",
+      "description": "Nuclear fusion reactors",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Generator for nuclear fusion by centripetal compression, which compresses a mass of deuterium between two electrodes of liquid mercury and using the technique of the centripetal compressors by the action of a centrifugal field of forces on a column of mercury, and provides for the compaction of the deuterium mass at a rate of 10\u00b2\u00b3 atoms per cm\u00b3. Its ionises the deuterium mass at its maximum compression. It applies to the resulting plasma three electromagnetic fields in the three spatial axes and initiates the fusion by inversion of the electric ionising field while increasing its value. The mercury electrodes moderate the rapid neutrons proceeding from the fusion, evaporate and limit the macroscopic elevation of the temperature. The mercury gives off its heat to the outside in a heat exchanger whose secondary of pressure water is immersed in the mercury. The water supply and steam output are provided through the rotation shaft of the generator. It has a cyclic and continuous operation. The power is regulated by adjusting the number of cycles or the fuel for each cycle.",
+  "description_link": "https://serpapi.com/searches/685255d3fbbebb13493e2a6a/google_patents_details/description.html",
+  "claims": [
+    "1  a  .- Generator of energy of nuclear fusion by Centripetal Compression, which produces an inertial confinement on a little mass of deuterium, inside a liquid metal (mercury), compacted to very high pressure, produces an ionization in said mass of deuterium very compacted between two electrodes of the liquid mercury, produces a magnetic confinement from one electromagnetic field which is increasing at the time very quickly and for starting the ignition of the nuclear fusion, is used the increasing of temperature from electric discharge, on the little mass of deuterium and the Lorentz Force from inversion polarity of the electric field, which is ionizing the little mass of deuterium. \nThe Generator has a cylindroide superstructure, turning horizontally on its own axle with high angular aceleration and inside it, there are the cylinders wheels, said cylinders wheels are turning solidary with the superstructure, there is heating interchangers solidary in superstructure with pressure water in its pipes and there is liquid mercury filling all the space among the cylinders wheels and heating interchangers, exept the center of the cylindroide. Said center is the deuterium chamber and is occupied by deuterium. The cylinders wheels, are situated inside of the perimeter of the cylindroide superstructure. The cylinders are made tangentialy in the perimeter of each cylinders wheel, and open by one of its extremes. The cylinders wheels are turing very slowly on its own axle, moreover are turning solidarity with superstructure. The cylinders, sequencely, are remained inside the mass of the liquid mercury and inside deuterium chamber. Said cylinders are being filled of deuterium when they remain in the deuterium chamber. Deuterium in the cylinders is being compressed by liquid mercury and from action of the centrifugal force field and the slow turning of the cylinders wheel. Said compression is done at direction of the center of the cylindroide superstructure (centripetal compression). During the compression the deuterium remains inside of the toroidal electromagnetic field. At the position of the maximum radius with relation of the center axle of the superstructure, the liquid mercury is doing the maximum compression on deuterium and against the spherical bottom of the cylinder.\n\nEach cylinder is closing its spherical bottom with a piece made with refractary ceramic and called \"Anvil\". Said Anvil is drilled by a lot of very thin capillaries full of liquid mercury. The bubble of deuterium (payload) remains between a surface of liquid mercury by one of its sides and the said capillaries with its ceramic support (Anvil plate), by other side. The capillaries with multiple conexion, are conected electricaly, with the supply of energy and with the control room, they are both exterior of the cylindroide superstructure. Said conexion is made across the interior chests in cemaric pieces, which are filled of liquid mercury and metalic electrodes, which are conecting this \"mercury chest\", across of the empty axle of the cylinders wheel and the electric friction ring on the cylindroide, to the said external supply of energy. By external control, an electric discharge is done from external supply of energy, this electric discharge is ionizing the deuterium between capillaries (catode) and the mass of liquid mercury which is compressing said deuterium (the mass of liquid mercury is conected permanently to earth).\n\nOn the payload (plasma bubble from ionization of deuterium) are putting in action, simultaneously,three electromagnetic fields, the said toroidal electromagnetic field, a transversal electromagnetic field which is installed inside cylindroide superstructure and is closing on the payload and the electromagnetic field from ionizing electric current, On the payload is done an inversion of polarity of the electric field which is ionizing, from the inversion of polarity of the capillaries (negative by positive) and increasing its tension, instantaneously, the neccessary value for getting inside payload an electric field (- grd. V) equivalent to 10\u00b9\u2076 V/m., and this is producing the modification of the cycloidal movement of the load particles in payload, because instantaneously the tangential trajectory of this movement is changing . The load particles (deuterium nucleus with one positive load and electrons) are being pushed from Lorentz Force. The Generator is using an increasing instantaneously of temperature in the payload (from the very strong electric discharge which is derivated of the inversion of polarity and increasing the value of the electric field tension) and the Lorentz Force (from the inversion of the desplazament of the cycloidal trajectory when the tangencial movement the all nucleus changes at the moment of inversion of polarity of the electric field in capillaries) for reaching the nuclear fusion of the few nucleus of the payload, (electrothermonuclear fusion).\n\nProcess which is using the energy from nuclear fusion of the first nucleus for getting nuclear fusion of all nucleus inside the plasma bubble (payload).\n\nProcess which is protecting the mechanism from nuclear fusion energy by evaporation of liquid mercury in capillaries. Said evaporation is producing a vapor douche from capillaries to some very hot points in the fusion sphere. Said vapor douche is pushing this very hot points inside of the mass of liquid mercury and is separating them of the Anvil plate and interior walls of the fusion sphere. The capillaries lose mercury.\n\nProcess which is protecting the mechanism from nuclear fusion energy by evaporation of the liquid mercury in fusion sphere, cylinder and capillaries. The mercury steams are being pushing, by action of the centrifugal force field inside the cylindroide superstructure and liquid mercury more dense than mercury steams, from Anvil plate and fusion sphere to exterior of the cylinder. The liquid mercury is substituting, from Arquimedes push and different density, the mercury steam inside the fusion sphere, and said liquide mercury, by evaporation, continues the refrigeration of the bottom of the cylinder, Anvil plate and fusion sphere. The energy from nuclear fusion is being extracted from Generator to exterior by means of the condensation of mercury steams in heating interchangers, which get up the heat from mercury steams in a pipes circuit with pressure water, situated among cylinders wheels. For that is hollow the turning axle of the cylindroide superstructure and is supplying water by the bottom of said axle and is extracting water superheating steam by the top of said axle. Process by means of a beam pipes system inside the refractary ceramic, condenses the mercury steams inside the capillaries and from said condensation is done empty in capillaries and said empty joint the action of the centripetal force field refill the capillaries of mercury which was lost at the moment of ignition nuclear fusion. Its functioning is cycle and continuous and permits the control of the power output by means of modification of the pressure in deuterium chamber or modification of the turning velocity of the cylinders wheels.",
+    "2  a  .- Generator of energy of nuclear fusion by Centripetal Compression as it's claimed in claim 1a, which has a cylindroide body turning on its own axle with constant angular velocity and high angular aceleration. The Generator has an electric motor with winded and inundated rotor and with regulation of velocity from the exterior of Generator. It has in the center of its cylindroide morphology a combustible chamber (or deuterium chamber) and the cylinders wheels, which are installed around of the interior perimeter of the cylindroide. Said cylinders wheels are turning solidary with the cylindroide. \nThe Generator among the cylinders wheels has a heating interchangers with a lot of the water pipes which are conected with the toroidal comum colectors made in the body of the cylindroide superstructure. The water to high pressure is supplyed across of the interior axle of the cylindroide and by the bottom of the said axle. The water vapor is going out from Generator by the top of the said axle. The interfaces for conecting the Generator with the exterior are the water chamber (at the bottom of the main axle) and the steam chamber (at the top of said axle). The heating interchangers are using primary innundated system with liquid mercury and mercury steam , which is filling all the space among pipes of said heating interchanger, the interior wall of the cylindroide superstructure and cylinders wheels, except the center space which is ocuppied by deuterium. The cylindroide superstructure is turning on wheels and railway. Said railway is supported on a flotating base, made of concrete steel and with connection to erth of all metallic parts (railway and steel of the concrete base) by means of deep electrodes.",
+    "3  a  .- Generator of energy of nuclear fusion by Centripetal Compression as it's claimed in claim 1a and 2a, having in the interior walls of the cylinders and cylindroide superstructure, a lamina of refractary ceramic which is re-covering said walls. This lamina is a thermic and electric isolate. In the bottom of each cylinder, there is a hemisphere which is supported on the ceramic piece said \"Anvil\". This \"Anvil\" is perforated by a lot of capillaries full of liquid mercury from interior chambers made in the support of the \"Anvil\". Said interior chambers, across of hollow axle of the cylinders wheels, have electric connection with the exterior of Generator for at adequated moments, by means of control devices (installed at interior and exterior of the Generator) can be applicated electric tensions (negatives or positives) to said capillaries.",
+    "4  a  .- Generator of energy of nuclear fusion by Centripetal Compression as it's claimed in claim 1a, 2a and 3a, which has in each cylinders wheel, a toroidal coil installed in the perimeter of said wheel. The electromagnetic toroidal field axis, is situated on the geometric center of deuterium bubble at the moment of the maximum compression. The electromagnetic toroidal field, is created on the starting of Generator, it is always activated and it is a constant field.",
+    "5  a  .- Generator of energy of nuclear fusion by Centripetal Compression as it's claimed in claim 1a, 2a, 3a and 4a. \nProcess which has a transversal coil for every cylinders wheel, installed in cylindroide superstructure and closing its electromagnetic field across of the cylinders wheel. The center of the deuterium bubble is crossed by the axis of the electromagnetic transversal field at the moment of the maximum compression The electromagnetic transversal fields are activated by means of an external source of energy, at the instant of the ionizing of deuterium bubble and said time is coinciding with the maximum compression of the deuterium bubble. The activation of the transversal fields is pulsating and when said transversal fields are reaching its maximum of energy, they keep it in during a little fraction of second. To continuation this energy is discharged on parallel condensate battery, which is installed at the exterior of the Generator. The electric switch systems are made by means of inverse circuits of tyristors in bridge and circuits series-parallels from a room of the power electronic equipment, situated at the exterior of the Generator.",
+    "6  a  .- Generator of energy of nuclear fusion by Centripetal Compression as it's claimed in claim 1a, 2a, 3a, 4a and 5a. \nProcess which is using liquid mercury as piston for compressing a little mass of deuterium, taking said deuterium in the cylinder of the wheel by the side of low pressure of the centripetal compresser (combustible chamber), when the mercury and by action of the centrifugal force field, is ejected from cylinder, doing empty which is occupied by deuterium. It is using liquid mercury like emitting catode for ionizing electric field of the deuterium bubble very compressed and like attracting anode at the moment of the inversion of electric field which ionizes. It is using liquid mercury like electrode with zero potential of the electric field by electric conection with earth, for directing discharges of the electrons from emitting catode, during the ionization and for giving electrons at the moment of the inversion of the electric field. Using liquid mercury and subjected a very high pressure, like blanket or moderator of the quick neutrons from nuclear fusion, taking the energy of the said neutrons, so, the liquid mercury becomes in superheated mercury steam, that by effect of its less density are pushing out instantaneously from the fusion sphere and cylinders, (zone where nuclear fusion has been happened) and said superheated mercury steams are replaced by some liquid mercury, which becomes mercury steam again, cooling the interior wall of the cylinder and fusion sphere and securing phisicaly, the stability of the Generator. It's using superheat mercury steam for taking out the energy from nuclear fusion, by means of heating interchanger, performace by water pipes sumerged in mercury. It's liquid mercury at the first step for cooling of the ceramic anvil and capillaries, it becomes in superheated steam and said superheated steam mercury is using for separate the very hot points from nuclear fusion on the solid walls of the fusion sphere and plate of the anvil. Said very hot points, are introduced inside liquid mercury and mercury steam for generating and induced electric current from modifying the resultant of the electromagnetic field on the surfaces at contact with the plasma bubble. It's using mercury steam in movement among electromagnetic fields.",
+    "7  a  .- Generator of energy of nuclear fusion by Centripetal Compression as its claimed in claim 1a, 2a, 3a, 4a, 5a and 6a. \nProcess which is extracting the helium from nuclear reaction by means of centrifugal force field, because the helium remains between mercury and deuterium inside the deuterium chamber, which permits getting out it for suction pipes and suction pump. Said suction pipes have a siphon which retains the mercury inside of Generator during the stopping.\n\nThe suction pump is simultaneously controlled with the deuterium load pump, temperature and pressure of the combustible chamber, by means of the adecuate system of regulation and control for pressure and temperature.",
+    "8  a  .- Generator of energy of nuclear fusion by Centripetal Compression as it's claimed in claim 1a, 2a, 3a, 4a, 5a, 6a and 7a. Process which permits to modify the parameters of analysis of several steps of an nuclear fusion research, like pressure on the plasma, nuclear mass by cycle, power output, etc., actuating on the velocity of the main motor for turning, actuating on the electric tension regulater, actuating on the velocity of turning of the cylinders wheel and actuating on the regulater of the pressure in the deuterium chamber.",
+    "9  a  .- Generator of energy of nuclear fusion by Centripetal Compression as it's claimed in claim 1a, 2a, 3a, 4a, 5a, 6a and 7a and 8a. Process which realizes cyclicaly the nuclear fusion and realizes continuously the exit of vapor. Process which realizes the power output control, actuating on the parameters which are modifying the pressure in the deuterium chamber or on the parameters which are modifying the turning of the cylinders wheels."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "ES9301665",
+      "filing_date": "1993-07-26"
+    },
+    {
+      "application_number": "ES9301665",
+      "filing_date": "1993-07-26"
+    },
+    {
+      "application_number": "PCT/ES1994/000046",
+      "representative_publication": "WO1995003611A1",
+      "primary_language": "en",
+      "priority_date": "1993-07-26",
+      "filing_date": "1994-05-09",
+      "title": "Generator for nuclear fusion by centripetal compression"
+    }
+  ],
+  "family_id": "8282669",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "US4269658A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1975-10-14",
+        "publication_date": "1981-05-26",
+        "assignee_original": "General Atomic Company",
+        "title": "Mechanical compression plasma device",
+        "patent_id": "patent/US4269658A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4269658A%2Fen"
+      },
+      {
+        "publication_number": "US4140057A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1978-05-02",
+        "publication_date": "1979-02-20",
+        "assignee_original": "The United States Of America As Represented By The Secretary Of The Navy",
+        "title": "Axisymmetric stabilized liner implosion system",
+        "patent_id": "patent/US4140057A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4140057A%2Fen"
+      },
+      {
+        "publication_number": "US4333796A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1978-05-19",
+        "publication_date": "1982-06-08",
+        "assignee_original": "Flynn Hugh G",
+        "title": "Method of generating energy by acoustically induced cavitation fusion and reactor therefor",
+        "patent_id": "patent/US4333796A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4333796A%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "See references of WO9503611A1",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "FR2936899A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-07",
+        "publication_date": "2010-04-09",
+        "assignee_original": "Pierre Marcel Bourgogne",
+        "title": "Thermonuclear fusion realizing device i.e. pressure confining multi-reactor, for producing electricity in district heating application, has chambers filled with reaction gas mixed with gas to be confined e.g. nitrogen, argon or neon",
+        "patent_id": "patent/FR2936899A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2936899A1%2Fen"
+      },
+      {
+        "publication_number": "WO2010040912A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-07",
+        "publication_date": "2010-04-15",
+        "assignee_original": "Pierre Bourgogne",
+        "title": "Thermonuclear fusion multi-reactor",
+        "patent_id": "patent/WO2010040912A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2010040912A1%2Fen"
+      },
+      {
+        "publication_number": "US8537958B2",
+        "primary_language": "en",
+        "priority_date": "2009-02-04",
+        "publication_date": "2013-09-17",
+        "assignee_original": "General Fusion, Inc.",
+        "title": "Systems and methods for compressing plasma",
+        "patent_id": "patent/US8537958B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8537958B2%2Fen"
+      },
+      {
+        "publication_number": "US8891719B2",
+        "primary_language": "en",
+        "priority_date": "2009-07-29",
+        "publication_date": "2014-11-18",
+        "assignee_original": "General Fusion, Inc.",
+        "title": "Systems and methods for plasma compression with recycling of projectiles",
+        "patent_id": "patent/US8891719B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8891719B2%2Fen"
+      },
+      {
+        "publication_number": "US10002680B2",
+        "primary_language": "en",
+        "priority_date": "2005-03-04",
+        "publication_date": "2018-06-19",
+        "assignee_original": "General Fusion Inc.",
+        "title": "Pressure wave generator and controller for generating a pressure wave in a liquid medium",
+        "patent_id": "patent/US10002680B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10002680B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CN107076022B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-17",
+        "publication_date": "2021-01-08",
+        "assignee_original": "\u8fed\u6208\u00b7\u5965\u96f7\u5229\u4e9a\u7eb3\u4e4c\u5c14\u5854\u591a",
+        "title": "Circular propelling jet type compression engine",
+        "patent_id": "patent/CN107076022B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107076022B%2Fen"
+      },
+      {
+        "publication_number": "ES2543809B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-17",
+        "publication_date": "2016-06-09",
+        "assignee_original": "Diego ORELLANA HURTADO",
+        "title": "Light blue impulse motor",
+        "patent_id": "patent/ES2543809B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2543809B1%2Fen"
+      },
+      {
+        "publication_number": "EP3542369A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-17",
+        "publication_date": "2020-06-10",
+        "assignee_original": "Krasnoff, Curren",
+        "title": "Fusion reactor",
+        "patent_id": "patent/EP3542369A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3542369A4%2Fen"
+      },
+      {
+        "publication_number": "CN109961857B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-25",
+        "publication_date": "2024-02-09",
+        "assignee_original": "\u6838\u5de5\u4e1a\u897f\u5357\u7269\u7406\u7814\u7a76\u9662",
+        "title": "Double-layer shielding structure suitable for shielding live cooling water pipes",
+        "patent_id": "patent/CN109961857B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109961857B%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "EP0662693A1",
+      "primary_language": "en",
+      "publication_date": "1995-07-12",
+      "title": "Generator for nuclear fusion by centripetal compression",
+      "patent_id": "patent/EP0662693A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0662693A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4097093B2",
+      "primary_language": "en",
+      "publication_date": "2008-06-04",
+      "title": "Magnetic and electrostatic confinement of plasma in magnetic field reversal configuration",
+      "patent_id": "patent/JP4097093B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4097093B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5160694A",
+      "primary_language": "en",
+      "publication_date": "1992-11-03",
+      "title": "Fusion reactor",
+      "patent_id": "patent/US5160694A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5160694A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101062807B1",
+      "primary_language": "en",
+      "publication_date": "2011-09-07",
+      "title": "Systems and methods for driving plasma ions and electrons in the magnetic field of FRC",
+      "patent_id": "patent/KR101062807B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101062807B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4735762A",
+      "primary_language": "en",
+      "publication_date": "1988-04-05",
+      "title": "Laser or charged-particle-beam fusion reactor with direct electric generation by magnetic flux compression",
+      "patent_id": "patent/US4735762A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4735762A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EA034282B1",
+      "primary_language": "en",
+      "publication_date": "2020-01-24",
+      "title": "Method for generating and maintaining a magnetic field with a field reversed configuration (frc)",
+      "patent_id": "patent/EA034282B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEA034282B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US2993851A",
+      "primary_language": "en",
+      "publication_date": "1961-07-25",
+      "title": "High temperature and neutron producing system",
+      "patent_id": "patent/US2993851A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2993851A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20020150193A1",
+      "primary_language": "en",
+      "publication_date": "2002-10-17",
+      "title": "Compact high flux neutron generator",
+      "patent_id": "patent/US20020150193A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020150193A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2831319B2",
+      "primary_language": "en",
+      "publication_date": "1998-12-02",
+      "title": "Electrolysis method and equipment of fluid electrolyte",
+      "patent_id": "patent/JP2831319B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2831319B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5773919A",
+      "primary_language": "en",
+      "publication_date": "1998-06-30",
+      "title": "Electron spiral toroid",
+      "patent_id": "patent/US5773919A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5773919A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20210217537A1",
+      "primary_language": "en",
+      "publication_date": "2021-07-15",
+      "title": "Ion Beam Device and Method for Generating Heat and Power",
+      "patent_id": "patent/US20210217537A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210217537A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20030001510A1",
+      "primary_language": "en",
+      "publication_date": "2003-01-02",
+      "title": "Magneto-hydrodynamic power cell using atomic conversion of energy, plasma and field ionization",
+      "patent_id": "patent/US20030001510A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030001510A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12355311231403274426",
+      "scholar_authors": "Trunk",
+      "publication_date": "1975",
+      "title": "Numerical parameter studies for the dense plasma focus",
+      "patent_id": "scholar/12355311231403274426",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12355311231403274426"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2135825C1",
+      "primary_language": "en",
+      "publication_date": "1999-08-27",
+      "title": "Process and plant for producing heat and mechanical energy (options)",
+      "patent_id": "patent/RU2135825C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2135825C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20020070258A",
+      "primary_language": "en",
+      "publication_date": "2002-09-05",
+      "title": "Method for the production of electric energy and mhd generator therefor",
+      "patent_id": "patent/KR20020070258A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20020070258A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8136001990851658780",
+      "scholar_authors": "Moses et al.",
+      "publication_date": "1989",
+      "title": "LIBRA\u2013A light ion beam inertial confinement fusion reactor conceptual design",
+      "patent_id": "scholar/8136001990851658780",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8136001990851658780"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "IL300751A",
+      "primary_language": "en",
+      "publication_date": "2023-04-01",
+      "title": "Orbital confinement fusion device",
+      "patent_id": "patent/IL300751A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIL300751A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "612162267245426761",
+      "scholar_authors": "Niu",
+      "publication_date": "1994",
+      "title": "Application of pulse power technology to inertial confinement fusion: Focusing and propagation of proton beam",
+      "patent_id": "scholar/612162267245426761",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F612162267245426761"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12150280938448260284",
+      "scholar_authors": "Masuda et al.",
+      "publication_date": "2001",
+      "title": "Performance characteristics of an inertial electrostatic confinement fusion device with a triple-grid system",
+      "patent_id": "scholar/12150280938448260284",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12150280938448260284"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102018002854A1",
+      "primary_language": "en",
+      "publication_date": "2018-10-11",
+      "title": "Cold dynamic hydrogen fusion",
+      "patent_id": "patent/DE102018002854A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102018002854A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EA047270B1",
+      "primary_language": "en",
+      "publication_date": "2024-06-26",
+      "title": "NUCLEAR fusion device with orbital confinement",
+      "patent_id": "patent/EA047270B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEA047270B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17327187000028092530",
+      "scholar_authors": "Niu",
+      "publication_date": "1991",
+      "title": "Proton beam fusion",
+      "patent_id": "scholar/17327187000028092530",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17327187000028092530"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15886972115491389709",
+      "scholar_authors": "Chen et al.",
+      "publication_date": "1974",
+      "title": "Introduction to Controlled Fusion",
+      "patent_id": "scholar/15886972115491389709",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15886972115491389709"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7191855803368031416",
+      "scholar_authors": "Winterberg",
+      "publication_date": "1990",
+      "title": "Circular magnetic macroparticle accelerator for impact fusion",
+      "patent_id": "scholar/7191855803368031416",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7191855803368031416"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2014035359A1",
+      "primary_language": "en",
+      "publication_date": "2014-03-06",
+      "title": "Method for carrying out a thermonuclear synthesis reaction, thermonuclear reactor, deflecting device",
+      "patent_id": "patent/WO2014035359A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014035359A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "1995-05-25",
+      "code": "PUAI",
+      "title": "Public reference made under article 153(3) epc to a published international application that has entered the european phase",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ORIGINAL CODE: 0009012"
+        }
+      ]
+    },
+    {
+      "date": "1995-07-12",
+      "code": "17P",
+      "title": "Request for examination filed",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "19950109"
+        }
+      ]
+    },
+    {
+      "date": "1995-07-12",
+      "code": "AK",
+      "title": "Designated contracting states",
+      "attributes": [
+        {
+          "label": "Kind code of ref document",
+          "value": "A1"
+        },
+        {
+          "label": "Designated state(s)",
+          "value": "CH DE FR GB IT LI PT SE"
+        }
+      ]
+    },
+    {
+      "date": "1996-04-17",
+      "code": "17Q",
+      "title": "First examination report despatched",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "19960228"
+        }
+      ]
+    },
+    {
+      "date": "1997-10-24",
+      "code": "STAA",
+      "title": "Information on the status of an ep patent application or granted ep patent",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN"
+        }
+      ]
+    },
+    {
+      "date": "1997-12-10",
+      "code": "18D",
+      "title": "Application deemed to be withdrawn",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "19970610"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "230000004927",
+        "name": "fusion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 85
+      },
+      {
+        "id": "230000006835",
+        "name": "compression",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 34
+      },
+      {
+        "id": "238000007906",
+        "name": "compression",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 34
+      },
+      {
+        "id": "QSHDDOUJBYECFT-UHFFFAOYSA-N",
+        "name": "mercury",
+        "domain": "Chemical compound",
+        "smiles": "[Hg]",
+        "inchi_key": "QSHDDOUJBYECFT-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 123
+      },
+      {
+        "id": "229910052753",
+        "name": "mercury",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 123
+      },
+      {
+        "id": "YZCKVEUIGOORGS-OUBTZVSYSA-N",
+        "name": "Deuterium",
+        "domain": "Chemical compound",
+        "smiles": "[2H]",
+        "inchi_key": "YZCKVEUIGOORGS-OUBTZVSYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 74
+      },
+      {
+        "id": "229910052805",
+        "name": "deuterium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 74
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 59
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 29
+      },
+      {
+        "id": "230000005672",
+        "name": "electromagnetic field",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 28
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "230000005684",
+        "name": "electric field",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 28
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "239000000919",
+        "name": "ceramic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "229910000831",
+        "name": "Steel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "239000010959",
+        "name": "steel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "229910052734",
+        "name": "helium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000001307",
+        "name": "helium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+        "name": "helium atom",
+        "domain": "Chemical compound",
+        "smiles": "[He]",
+        "inchi_key": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "238000001704",
+        "name": "evaporation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000001816",
+        "name": "cooling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000008020",
+        "name": "evaporation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000002245",
+        "name": "particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000004567",
+        "name": "concrete",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000005291",
+        "name": "magnetic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000009833",
+        "name": "condensation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000005494",
+        "name": "condensation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229940059082",
+        "name": "douche",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000011049",
+        "name": "filling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000007246",
+        "name": "mechanism",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000004458",
+        "name": "analytical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000000038",
+        "name": "chest",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004913",
+        "name": "activation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000001975",
+        "name": "deuterium",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001338",
+        "name": "liquidmetal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005057",
+        "name": "refrigeration",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005056",
+        "name": "compaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000004122",
+        "name": "cyclic group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000446",
+        "name": "fuel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001105",
+        "name": "regulatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000001736",
+        "name": "capillary",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "YZCKVEUIGOORGS-NJFSPNSNSA-N",
+        "name": "Tritium",
+        "domain": "Chemical compound",
+        "smiles": "[3H]",
+        "inchi_key": "YZCKVEUIGOORGS-NJFSPNSNSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "229910052722",
+        "name": "tritium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008878",
+        "name": "coupling",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000010168",
+        "name": "coupling process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005859",
+        "name": "coupling reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005381",
+        "name": "potential energy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000011150",
+        "name": "reinforced concrete",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000011109",
+        "name": "contamination",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005294",
+        "name": "ferromagnetic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005484",
+        "name": "gravity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011835",
+        "name": "investigation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005036",
+        "name": "potential barrier",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005299",
+        "name": "abrasion",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003213",
+        "name": "activating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001174",
+        "name": "ascending effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "TZCXTZWJZNENPQ-UHFFFAOYSA-L",
+        "name": "barium sulfate",
+        "domain": "Chemical compound",
+        "smiles": "[Ba+2].[O-]S([O-])(=O)=O",
+        "inchi_key": "TZCXTZWJZNENPQ-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000015572",
+        "name": "biosynthetic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009835",
+        "name": "boiling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009395",
+        "name": "breeding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001488",
+        "name": "breeding effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004364",
+        "name": "calculation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003628",
+        "name": "erosive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002349",
+        "name": "favourable effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012467",
+        "name": "final product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009434",
+        "name": "installation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005339",
+        "name": "levitation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011068",
+        "name": "loading method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052751",
+        "name": "metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002360",
+        "name": "preparation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000047",
+        "name": "product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005855",
+        "name": "radiation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011214",
+        "name": "refractory ceramic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000717",
+        "name": "retained effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008247",
+        "name": "solid mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003860",
+        "name": "storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008400",
+        "name": "supply water",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003786",
+        "name": "synthesis reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002123",
+        "name": "temporal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002699",
+        "name": "waste material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

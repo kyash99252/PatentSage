@@ -1,0 +1,2250 @@
+{
+  "search_metadata": {
+    "id": "685256f52efef85578d8fac8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ef316f0ea5b3742b/685256f52efef85578d8fac8.json",
+    "created_at": "2025-06-18 06:04:37 UTC",
+    "processed_at": "2025-06-18 06:04:37 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/JP2004356004A/en",
+    "raw_html_file": "https://serpapi.com/searches/ef316f0ea5b3742b/685256f52efef85578d8fac8.html",
+    "total_time_taken": 0.55
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/JP2004356004A/en"
+  },
+  "title": "Positive electrode plate and non-aqueous electrolyte secondary battery containing the same",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/72/7a/3e/7b7c022fb27845/JP2004356004A.pdf",
+  "publication_number": "JP2004356004A",
+  "country": "Japan",
+  "prior_art_keywords": [
+    "positive electrode",
+    "electrode plate",
+    "weight",
+    "active material",
+    "binder"
+  ],
+  "prior_art_date": "2003-05-30",
+  "application_number": "JP2003154321A",
+  "inventors": [
+    {
+      "name": "Shozo Fujiwara",
+      "link": "https://patents.google.com/?inventor=Shozo+Fujiwara",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Shozo+Fujiwara"
+    },
+    {
+      "name": "\u660c\u4e09 \u85e4\u539f",
+      "link": "https://patents.google.com/?inventor=%E6%98%8C%E4%B8%89+%E8%97%A4%E5%8E%9F",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%98%8C%E4%B8%89+%E8%97%A4%E5%8E%9F"
+    },
+    {
+      "name": "Hideya Asano",
+      "link": "https://patents.google.com/?inventor=Hideya+Asano",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Hideya+Asano"
+    },
+    {
+      "name": "\u82f1\u4e5f \u6d45\u91ce",
+      "link": "https://patents.google.com/?inventor=%E8%8B%B1%E4%B9%9F+%E6%B5%85%E9%87%8E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E8%8B%B1%E4%B9%9F+%E6%B5%85%E9%87%8E"
+    },
+    {
+      "name": "Hajime Konishi",
+      "link": "https://patents.google.com/?inventor=Hajime+Konishi",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Hajime+Konishi"
+    },
+    {
+      "name": "\u59cb \u5c0f\u897f",
+      "link": "https://patents.google.com/?inventor=%E5%A7%8B+%E5%B0%8F%E8%A5%BF",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%A7%8B+%E5%B0%8F%E8%A5%BF"
+    }
+  ],
+  "assignees": [
+    "Panasonic Holdings Corp"
+  ],
+  "priority_date": "2003-05-30",
+  "filing_date": "2003-05-30",
+  "publication_date": "2004-12-16",
+  "worldwide_applications": {
+    "2003": [
+      {
+        "filing_date": "2003-05-30",
+        "country_code": "JP",
+        "application_number": "JP2003154321A",
+        "document_id": "patent/JP4354214B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2003-05-30",
+      "title": "Application filed by Matsushita Electric Industrial Co Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Matsushita Electric Industrial Co Ltd"
+    },
+    {
+      "date": "2003-05-30",
+      "title": "Priority to JP2003154321A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/JP4354214B2/en"
+    },
+    {
+      "date": "2004-12-16",
+      "title": "Publication of JP2004356004A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/JP2004356004A/en"
+    },
+    {
+      "date": "2009-10-28",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2009-10-28",
+      "title": "Publication of JP4354214B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/JP4354214B2/en"
+    },
+    {
+      "date": "2023-05-30",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=JP&NR=2004356004A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/JP/2003154321/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/JP2004356004A"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "<P>PROBLEM TO BE SOLVED: To provide a positive electrode plate having a superior strength and a non-aqueous electrolyte secondary battery which is superior in cold temperature discharge characteristics, storing recoverability, and a cycle life.  <P>SOLUTION: The positive electrode plate is obtained by a process in which a positive electrode mixture containing a positive electrode active material 100 pts.wt., a conductive material 0.5-4 pts.wt., and a binder 0.5-4 pts.wt., and an organic solvent are mixed so that the binder may not be deposited as a solid by being dissolved in the organic solvent and a process in which the paste obtained by the above process is coated on the positive electrode core material, dried and the positive electrode mixture is carried by the positive electrode core material.  <P>COPYRIGHT: (C)2005,JPO&NCIPI",
+  "description_link": "https://serpapi.com/searches/685256f52efef85578d8fac8/google_patents_details/description.html",
+  "claims": [
+    "\u6b63\u6975\u6d3b\u7269\u8cea\uff11\uff10\uff10\u91cd\u91cf\u90e8\u3001\u5c0e\u96fb\u6027\u6750\u6599\uff10\uff0e\uff15\u301c\uff14\u91cd\u91cf\u90e8\u304a\u3088\u3073\u7d50\u7740\u6750\uff10\uff0e\uff15\u301c\uff14\u91cd\u91cf\u90e8\u3092\u542b\u3080\u6b63\u6975\u5408\u5264\u3068\u3001\u6709\u6a5f\u6eb6\u5a92\u3068\u3092\u3001\u524d\u8a18\u7d50\u7740\u6750\u304c\u524d\u8a18\u6709\u6a5f\u6eb6\u5264\u306b\u6eb6\u89e3\u3057\u3066\u56fa\u4f53\u3068\u3057\u3066\u6790\u51fa\u3057\u306a\u3044\u3088\u3046\u306b\u6e29\u5ea6\u5236\u5fa1\u3057\u306a\u304c\u3089\u6df7\u5408\u3059\u308b\u5de5\u7a0b\u3001\u306a\u3089\u3073\u306b\u524d\u8a18\u5de5\u7a0b\u3067\u5f97\u3089\u308c\u305f\u30da\u30fc\u30b9\u30c8\u3092\u6b63\u6975\u82af\u6750\u306b\u5857\u5de5\u3057\u3001\u4e7e\u71e5\u3055\u305b\u3066\u3001\u524d\u8a18\u6b63\u6975\u5408\u5264\u3092\u524d\u8a18\u6b63\u6975\u82af\u6750\u306b\u62c5\u6301\u3055\u305b\u308b\u5de5\u7a0b\u3001\u306b\u3088\u308a\u5f97\u3089\u308c\u305f\u975e\u6c34\u96fb\u89e3\u8cea\u4e8c\u6b21\u96fb\u6c60\u7528\u6b63\u6975\u677f\u3002A positive electrode mixture containing 100 parts by weight of a positive electrode active material, 0.5 to 4 parts by weight of a conductive material, and 0.5 to 4 parts by weight of a binder, and an organic solvent, wherein the binder dissolves in the organic solvent Mixing the paste while controlling the temperature so as not to precipitate as a solid, and applying the paste obtained in the above step to a positive electrode core material, drying and supporting the positive electrode mixture on the positive electrode core material. The positive electrode plate for a non-aqueous electrolyte secondary battery obtained by the above.",
+    "\u524d\u8a18\u6b63\u6975\u5408\u5264\u3068\u524d\u8a18\u6709\u6a5f\u6eb6\u5a92\u3068\u306e\u6df7\u5408\u7269\u306e\u6df7\u5408\u4e2d\u306e\u6e29\u5ea6\u3092\uff13\uff10\u301c\uff16\uff10\u2103\u306b\u5236\u5fa1\u3059\u308b\u8acb\u6c42\u9805\uff11\u8a18\u8f09\u306e\u975e\u6c34\u96fb\u89e3\u8cea\u4e8c\u6b21\u96fb\u6c60\u7528\u6b63\u6975\u677f\u3002The positive electrode plate for a non-aqueous electrolyte secondary battery according to claim 1, wherein the temperature during mixing of the mixture of the positive electrode mixture and the organic solvent is controlled to 30 to 60C.",
+    "\u524d\u8a18\u5c0e\u96fb\u6027\u6750\u6599\u304c\u3001\u5929\u7136\u9ed2\u925b\u3001\u4eba\u9020\u9ed2\u925b\u3001\u30ab\u30fc\u30dc\u30f3\u30d6\u30e9\u30c3\u30af\u3001\u70ad\u7d20\u7e4a\u7dad\u304a\u3088\u3073\u91d1\u5c5e\u7e4a\u7dad\u3088\u308a\u306a\u308b\u7fa4\u304b\u3089\u9078\u3070\u308c\u305f\u5c11\u306a\u304f\u3068\u3082\uff11\u7a2e\u304b\u3089\u306a\u308b\u8acb\u6c42\u9805\uff11\u8a18\u8f09\u306e\u975e\u6c34\u96fb\u89e3\u8cea\u4e8c\u6b21\u96fb\u6c60\u7528\u6b63\u6975\u677f\u3002The positive electrode plate for a non-aqueous electrolyte secondary battery according to claim 1, wherein the conductive material is at least one selected from the group consisting of natural graphite, artificial graphite, carbon black, carbon fiber, and metal fiber.",
+    "\u524d\u8a18\u7d50\u7740\u6750\u304c\u3001\u30d5\u30c3\u7d20\u539f\u5b50\u542b\u6709\u9ad8\u5206\u5b50\u6750\u6599\u304b\u3089\u306a\u308a\u3001\u524d\u8a18\u30d5\u30c3\u7d20\u539f\u5b50\u542b\u6709\u9ad8\u5206\u5b50\u6750\u6599\u304c\u3001\u30d5\u30c3\u5316\u30d3\u30cb\u30ea\u30c7\u30f3\u3001\u30d8\u30ad\u30b5\u30d5\u30eb\u30aa\u30ed\u30d7\u30ed\u30d4\u30ec\u30f3\u3001\u30af\u30ed\u30ed\u30c8\u30ea\u30d5\u30eb\u30aa\u30ed\u30a8\u30c1\u30ec\u30f3\u304a\u3088\u3073\u30c6\u30c8\u30e9\u30d5\u30eb\u30aa\u30ed\u30a8\u30c1\u30ec\u30f3\u3088\u308a\u306a\u308b\u7fa4\u304b\u3089\u9078\u3070\u308c\u305f\u5c11\u306a\u304f\u3068\u3082\uff11\u7a2e\u306e\u30e2\u30ce\u30de\u30fc\u5358\u4f4d\u3092\u542b\u6709\u3059\u308b\u8acb\u6c42\u9805\uff11\u8a18\u8f09\u306e\u975e\u6c34\u96fb\u89e3\u8cea\u4e8c\u6b21\u96fb\u6c60\u7528\u6b63\u6975\u677f\u3002The binder is a fluorine-containing polymer material, and the fluorine-containing polymer material is at least one selected from the group consisting of vinylidene fluoride, hexafluoropropylene, chlorotrifluoroethylene, and tetrafluoroethylene. The positive electrode plate for a non-aqueous electrolyte secondary battery according to claim 1, comprising a monomer unit of:",
+    "\u524d\u8a18\u30d5\u30c3\u7d20\u539f\u5b50\u542b\u6709\u9ad8\u5206\u5b50\u6750\u6599\u306e\u91cd\u91cf\u5e73\u5747\u5206\u5b50\u91cf\u304c\u3001\uff15\uff10\u4e07\u301c\uff11\uff11\uff10\u4e07\u3067\u3042\u308b\u8acb\u6c42\u9805\uff14\u8a18\u8f09\u306e\u975e\u6c34\u96fb\u89e3\u8cea\u4e8c\u6b21\u96fb\u6c60\u7528\u6b63\u6975\u677f\u3002The positive electrode plate for a non-aqueous electrolyte secondary battery according to claim 4, wherein the fluorine atom-containing polymer material has a weight average molecular weight of 500,000 to 1.1 million.",
+    "\u524d\u8a18\u6b63\u6975\u6d3b\u7269\u8cea\u304c\u3001\u30ea\u30c1\u30a6\u30e0\u542b\u6709\u8907\u5408\u9178\u5316\u7269\u304b\u3089\u306a\u308a\u3001\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u542b\u6709\u8907\u5408\u9178\u5316\u7269\u304c\u3001\uff23\uff4f\u3001\uff2d\uff47\u3001\uff2d\uff4e\u3001\uff2e\uff49\u304a\u3088\u3073\uff21\uff4c\u3088\u308a\u306a\u308b\u7fa4\u304b\u3089\u9078\u3070\u308c\u305f\u5c11\u306a\u304f\u3068\u3082\uff11\u7a2e\u3092\u542b\u6709\u3059\u308b\u8acb\u6c42\u9805\uff11\u8a18\u8f09\u306e\u975e\u6c34\u96fb\u89e3\u8cea\u4e8c\u6b21\u96fb\u6c60\u7528\u6b63\u6975\u677f\u3002The non-electrolyte according to claim 1, wherein the positive electrode active material is made of a lithium-containing composite oxide, and the lithium-containing composite oxide contains at least one selected from the group consisting of Co, Mg, Mn, Ni, and Al. Positive electrode plate for water electrolyte secondary battery.",
+    "\u8acb\u6c42\u9805\uff11\u301c\uff17\u306b\u8a18\u8f09\u3055\u308c\u305f\u3044\u305a\u308c\u304b\u306e\u6b63\u6975\u677f\u3068\u3001\u8ca0\u6975\u677f\u3068\u3001\u524d\u8a18\u6b63\u6975\u677f\u3068\u524d\u8a18\u8ca0\u6975\u677f\u3068\u306e\u9593\u306b\u4ecb\u5728\u3059\u308b\u30bb\u30d1\u30ec\u30fc\u30bf\u3068\u304b\u3089\u306a\u308b\u6975\u677f\u7fa4\u3001\u975e\u6c34\u96fb\u89e3\u8cea\u3001\u306a\u3089\u3073\u306b\u524d\u8a18\u6975\u677f\u7fa4\u3068\u524d\u8a18\u975e\u6c34\u96fb\u89e3\u8cea\u3068\u3092\u53ce\u5bb9\u3059\u308b\u96fb\u6c60\u30b1\u30fc\u30b9\u3092\u5177\u5099\u3059\u308b\u975e\u6c34\u96fb\u89e3\u8cea\u4e8c\u6b21\u96fb\u6c60\u3002The positive electrode plate according to any one of claims 1 to 7, a negative electrode plate, an electrode plate group including a separator interposed between the positive electrode plate and the negative electrode plate, a nonaqueous electrolyte, and the electrode plate group. And a non-aqueous electrolyte secondary battery comprising a battery case containing the non-aqueous electrolyte."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "JP2003154321A",
+      "representative_publication": "JP4354214B2",
+      "primary_language": "en",
+      "priority_date": "2003-05-30",
+      "filing_date": "2003-05-30",
+      "title": "Positive electrode plate and non-aqueous electrolyte secondary battery including the same"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "JP2003154321A",
+      "representative_publication": "JP4354214B2",
+      "primary_language": "en",
+      "priority_date": "2003-05-30",
+      "filing_date": "2003-05-30",
+      "title": "Positive electrode plate and non-aqueous electrolyte secondary battery including the same"
+    }
+  ],
+  "family_id": "34049010",
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "JP2005243486A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-27",
+        "publication_date": "2005-09-08",
+        "assignee_original": "Toshiba Corp",
+        "title": "Nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/JP2005243486A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2005243486A%2Fen"
+      },
+      {
+        "publication_number": "JP2008218385A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-19",
+        "publication_date": "2008-09-18",
+        "assignee_original": "Sony Corp",
+        "title": "Electrode, method for manufacturing the electrode, and battery",
+        "patent_id": "patent/JP2008218385A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2008218385A%2Fen"
+      },
+      {
+        "publication_number": "WO2011010421A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-07-21",
+        "publication_date": "2011-01-27",
+        "assignee_original": "\u30d1\u30ca\u30bd\u30cb\u30c3\u30af\u682a\u5f0f\u4f1a\u793e",
+        "title": "Rectangular nonaqueous electrolyte secondary battery and method for manufacturing same",
+        "patent_id": "patent/WO2011010421A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011010421A1%2Fen"
+      },
+      {
+        "publication_number": "JP2011519126A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-16",
+        "publication_date": "2011-06-30",
+        "assignee_original": "\u30a8\u30f3\u30d3\u30a2\u30fb\u30b7\u30b9\u30c6\u30e0\u30ba\u30fb\u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30c3\u30c9",
+        "title": "High energy lithium ion secondary battery",
+        "patent_id": "patent/JP2011519126A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2011519126A%2Fen"
+      },
+      {
+        "publication_number": "WO2011114626A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-17",
+        "publication_date": "2011-09-22",
+        "assignee_original": "\u30d1\u30ca\u30bd\u30cb\u30c3\u30af\u682a\u5f0f\u4f1a\u793e",
+        "title": "Positive electrode for nonaqueous electrolyte secondary battery, manufacturing method for same, and nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/WO2011114626A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011114626A1%2Fen"
+      },
+      {
+        "publication_number": "JP2015536539A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-10-23",
+        "publication_date": "2015-12-21",
+        "assignee_original": "\u30d3\u30fc\u30a8\u30fc\u30a8\u30b9\u30a8\u30d5 \u30bd\u30b7\u30a8\u30bf\u30b9\u30fb\u30e8\u30fc\u30ed\u30d4\u30a2\uff22\uff41\uff53\uff46 \uff33\uff45",
+        "title": "Method for producing positive electrode",
+        "patent_id": "patent/JP2015536539A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2015536539A%2Fen"
+      },
+      {
+        "publication_number": "WO2018221632A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-06-01",
+        "publication_date": "2018-12-06",
+        "assignee_original": "\u30e9\u30a4\u30aa\u30f3\u30fb\u30b9\u30da\u30b7\u30e3\u30ea\u30c6\u30a3\u30fb\u30b1\u30df\u30ab\u30eb\u30ba\u682a\u5f0f\u4f1a\u793e",
+        "title": "Carbon black for electrode and electrode slurry",
+        "patent_id": "patent/WO2018221632A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018221632A1%2Fen"
+      },
+      {
+        "publication_number": "WO2019244933A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-06-20",
+        "publication_date": "2019-12-26",
+        "assignee_original": "\u7a4d\u6c34\u5316\u5b66\u5de5\u696d\u682a\u5f0f\u4f1a\u793e",
+        "title": "Positive electrode material for lithium ion secondary battery, positive electrode active material layer, and lithium ion secondary battery",
+        "patent_id": "patent/WO2019244933A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019244933A1%2Fen"
+      },
+      {
+        "publication_number": "CN115336064A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-03-25",
+        "publication_date": "2022-11-11",
+        "assignee_original": "\u4e09\u4e95\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Lithium secondary battery",
+        "patent_id": "patent/CN115336064A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115336064A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JP6879710B2",
+        "primary_language": "en",
+        "priority_date": "2016-10-31",
+        "publication_date": "2021-06-02",
+        "assignee_original": "\u4f4f\u53cb\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Positive electrode for lithium secondary battery and lithium secondary battery",
+        "patent_id": "patent/JP6879710B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6879710B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US9012088B2",
+      "primary_language": "en",
+      "publication_date": "2015-04-21",
+      "title": "Anode composition comprising acrylonitrile-acrylic acid copolymer as binder, method for preparing the anode composition and lithium secondary battery using the anode composition",
+      "patent_id": "patent/US9012088B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9012088B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5494497B2",
+      "primary_language": "en",
+      "publication_date": "2014-05-14",
+      "title": "Slurry for positive electrode mixture of lithium secondary battery, positive electrode using the slurry, and lithium secondary battery",
+      "patent_id": "patent/JP5494497B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5494497B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5625917B2",
+      "primary_language": "en",
+      "publication_date": "2014-11-19",
+      "title": "Slurry for electrode mixture of lithium secondary battery, electrode using the slurry, and lithium secondary battery",
+      "patent_id": "patent/JP5625917B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5625917B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101772754B1",
+      "primary_language": "en",
+      "publication_date": "2017-08-29",
+      "title": "Method for producing positive electrode active material layer for lithium ion battery, and positive electrode active material layer for lithium ion battery",
+      "patent_id": "patent/KR101772754B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101772754B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6805374B2",
+      "primary_language": "en",
+      "publication_date": "2020-12-23",
+      "title": "Electrodes for lithium-ion secondary batteries, their manufacturing methods, and lithium-ion secondary batteries",
+      "patent_id": "patent/JP6805374B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6805374B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPWO2017094252A1",
+      "primary_language": "en",
+      "publication_date": "2018-09-13",
+      "title": "Non-aqueous secondary battery adhesive layer composition, non-aqueous secondary battery adhesive layer, laminate and non-aqueous secondary battery",
+      "patent_id": "patent/JPWO2017094252A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPWO2017094252A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2012510142A",
+      "primary_language": "en",
+      "publication_date": "2012-04-26",
+      "title": "Silicon-based negative electrode, lithium ion battery, and method for manufacturing silicon-based negative electrode",
+      "patent_id": "patent/JP2012510142A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2012510142A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2018503946A",
+      "primary_language": "en",
+      "publication_date": "2018-02-08",
+      "title": "Method for producing positive electrode forming composition for lithium secondary battery, and positive electrode and lithium secondary battery produced using the same",
+      "patent_id": "patent/JP2018503946A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2018503946A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102473916A",
+      "primary_language": "en",
+      "publication_date": "2012-05-23",
+      "title": "Slurry for electrode mixture for lithium secondary battery, electrode using same, and lithium secondary battery",
+      "patent_id": "patent/CN102473916A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102473916A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10811686B2",
+      "primary_language": "en",
+      "publication_date": "2020-10-20",
+      "title": "Slurry for positive electrode of lithium-ion secondary battery, positive electrode for lithium-ion secondary battery obtained using slurry for positive electrode of lithium-ion secondary battery and production method therefor, and lithium-ion secondary battery provided with positive electrode for lithium-ion secondary battery and production method therefor",
+      "patent_id": "patent/US10811686B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10811686B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109863629B",
+      "primary_language": "en",
+      "publication_date": "2022-02-08",
+      "title": "Method for preparing positive electrode slurry for lithium secondary battery and positive electrode for lithium secondary battery obtained thereby",
+      "patent_id": "patent/CN109863629B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109863629B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2007234418A",
+      "primary_language": "en",
+      "publication_date": "2007-09-13",
+      "title": "Negative electrode mixture paste for nonaqueous secondary battery, negative electrode and nonaqueous secondary battery using it as well as manufacturing method of negative electrode mixture paste",
+      "patent_id": "patent/JP2007234418A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007234418A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20160083718A",
+      "primary_language": "en",
+      "publication_date": "2016-07-12",
+      "title": "Composition for preparing negative electrode of lithium secondary battery, method for preparing the same, and lithium secondary battery comprising negative electrode prepared by using the same",
+      "patent_id": "patent/KR20160083718A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20160083718A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4354214B2",
+      "primary_language": "en",
+      "publication_date": "2009-10-28",
+      "title": "Positive electrode plate and non-aqueous electrolyte secondary battery including the same",
+      "patent_id": "patent/JP4354214B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4354214B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113646946B",
+      "primary_language": "en",
+      "publication_date": "2024-09-13",
+      "title": "Secondary battery",
+      "patent_id": "patent/CN113646946B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113646946B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5195429B2",
+      "primary_language": "en",
+      "publication_date": "2013-05-08",
+      "title": "Nonaqueous electrolyte secondary battery electrode and nonaqueous electrolyte secondary battery using the same",
+      "patent_id": "patent/JP5195429B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5195429B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20150029090A",
+      "primary_language": "en",
+      "publication_date": "2015-03-18",
+      "title": "Binder of Improved Adhesive Force and Lithium Secondary Battery Comprising the Same",
+      "patent_id": "patent/KR20150029090A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20150029090A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2013171839A",
+      "primary_language": "en",
+      "publication_date": "2013-09-02",
+      "title": "Electrode for lithium secondary battery, method for producing the same, and lithium secondary battery using the same",
+      "patent_id": "patent/JP2013171839A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2013171839A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2012043763A1",
+      "primary_language": "en",
+      "publication_date": "2012-04-05",
+      "title": "Electrode mixture for electricity-storage device, method for manufacturing said electrode mixture, and electricity-storage-device electrode and lithium-ion secondary battery using said electrode mixture",
+      "patent_id": "patent/WO2012043763A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012043763A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2009187819A",
+      "primary_language": "en",
+      "publication_date": "2009-08-20",
+      "title": "Method for producing paste for lithium ion secondary battery",
+      "patent_id": "patent/JP2009187819A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2009187819A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "TWI839581B",
+      "primary_language": "en",
+      "publication_date": "2024-04-21",
+      "title": "Non-aqueous secondary battery electrode, electrode coating, and non-aqueous secondary battery",
+      "patent_id": "patent/TWI839581B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI839581B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5509644B2",
+      "primary_language": "en",
+      "publication_date": "2014-06-04",
+      "title": "Slurry for electrode mixture of lithium secondary battery, electrode, method for producing the same, and lithium secondary battery",
+      "patent_id": "patent/JP5509644B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5509644B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4474717B2",
+      "primary_language": "en",
+      "publication_date": "2010-06-09",
+      "title": "Non-aqueous secondary battery and manufacturing method thereof",
+      "patent_id": "patent/JP4474717B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4474717B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7432020B2",
+      "primary_language": "en",
+      "publication_date": "2024-02-15",
+      "title": "Positive electrode for lithium secondary batteries and lithium secondary batteries containing the same",
+      "patent_id": "patent/JP7432020B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7432020B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2005310658A",
+      "primary_language": "en",
+      "publication_date": "2005-11-04",
+      "title": "Non-aqueous electrolyte primary battery binder",
+      "patent_id": "patent/JP2005310658A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2005310658A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2006-04-12",
+      "code": "A621",
+      "title": "Written request for application examination",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A621"
+        },
+        {
+          "label": "Effective date",
+          "value": "20060411"
+        }
+      ]
+    },
+    {
+      "date": "2008-12-15",
+      "code": "A977",
+      "title": "Report on retrieval",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A971007"
+        },
+        {
+          "label": "Effective date",
+          "value": "20081215"
+        }
+      ]
+    },
+    {
+      "date": "2008-12-19",
+      "code": "A131",
+      "title": "Notification of reasons for refusal",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A131"
+        },
+        {
+          "label": "Effective date",
+          "value": "20081218"
+        }
+      ]
+    },
+    {
+      "date": "2009-02-13",
+      "code": "A521",
+      "title": "Written amendment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A523"
+        },
+        {
+          "label": "Effective date",
+          "value": "20090212"
+        }
+      ]
+    },
+    {
+      "date": "2009-06-25",
+      "code": "TRDD",
+      "title": "Decision of grant or rejection written"
+    },
+    {
+      "date": "2009-07-03",
+      "code": "A01",
+      "title": "Written decision to grant a patent or to grant a registration (utility model)",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A01"
+        },
+        {
+          "label": "Effective date",
+          "value": "20090702"
+        }
+      ]
+    },
+    {
+      "date": "2009-07-09",
+      "code": "A01",
+      "title": "Written decision to grant a patent or to grant a registration (utility model)",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A01"
+        }
+      ]
+    },
+    {
+      "date": "2009-08-06",
+      "code": "A61",
+      "title": "First payment of annual fees (during grant procedure)",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A61"
+        },
+        {
+          "label": "Effective date",
+          "value": "20090729"
+        }
+      ]
+    },
+    {
+      "date": "2009-08-07",
+      "code": "R150",
+      "title": "Certificate of patent or registration of utility model",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: R150"
+        }
+      ]
+    },
+    {
+      "date": "2009-08-10",
+      "code": "FPAY",
+      "title": "Renewal fee payment (event date is renewal date of database)",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT UNTIL: 20120807"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "date": "2012-08-07",
+      "code": "FPAY",
+      "title": "Renewal fee payment (event date is renewal date of database)",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT UNTIL: 20130807"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2013-08-07",
+      "code": "LAPS",
+      "title": "Cancellation because of no payment of annual fees"
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "239000011255",
+        "name": "nonaqueous electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 161
+      },
+      {
+        "id": "239000011230",
+        "name": "binding agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 76
+      },
+      {
+        "id": "239000007774",
+        "name": "positive electrode material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 62
+      },
+      {
+        "id": "239000004020",
+        "name": "conductor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 39
+      },
+      {
+        "id": "239000003960",
+        "name": "organic solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 32
+      },
+      {
+        "id": "239000011162",
+        "name": "core material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "238000002156",
+        "name": "mixing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "239000002131",
+        "name": "composite material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "239000002861",
+        "name": "polymer material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "229910052731",
+        "name": "fluorine",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "name": "Lithium",
+        "domain": "Chemical compound",
+        "smiles": "[Li]",
+        "inchi_key": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "125000001153",
+        "name": "fluoro group",
+        "domain": "Chemical group",
+        "smiles": "F*",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "229910052744",
+        "name": "lithium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "BFKJFAAPBSQJPD-UHFFFAOYSA-N",
+        "name": "tetrafluoroethene",
+        "domain": "Chemical group",
+        "smiles": "FC(F)=C(F)F",
+        "inchi_key": "BFKJFAAPBSQJPD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "229910052782",
+        "name": "aluminium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000001035",
+        "name": "drying",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000003792",
+        "name": "electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229920000049",
+        "name": "Carbon (fiber)",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910021383",
+        "name": "artificial graphite",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000006229",
+        "name": "carbon black",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000004917",
+        "name": "carbon fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000835",
+        "name": "fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000011737",
+        "name": "fluorine",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052749",
+        "name": "magnesium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052748",
+        "name": "manganese",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052751",
+        "name": "metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+        "name": "methane",
+        "domain": "Chemical compound",
+        "smiles": "C",
+        "inchi_key": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910021382",
+        "name": "natural graphite",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052759",
+        "name": "nickel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "BQCIDUSAKPWEOX-UHFFFAOYSA-N",
+        "name": "1,1-Difluoroethene",
+        "domain": "Chemical compound",
+        "smiles": "FC(F)=C",
+        "inchi_key": "BQCIDUSAKPWEOX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "YCKRFDGAMUMZLT-UHFFFAOYSA-N",
+        "name": "Fluorine atom",
+        "domain": "Chemical compound",
+        "smiles": "[F]",
+        "inchi_key": "YCKRFDGAMUMZLT-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "-1",
+        "name": "hexafluoropropylene, chlorotrifluoroethylene",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000178",
+        "name": "monomer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000002033",
+        "name": "PVDF binder",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 31
+      },
+      {
+        "id": "229920002981",
+        "name": "polyvinylidene fluoride",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 31
+      },
+      {
+        "id": "239000011149",
+        "name": "active material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 28
+      },
+      {
+        "id": "230000000052",
+        "name": "comparative effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "SECXISVLQFMRJM-UHFFFAOYSA-N",
+        "name": "N-Methylpyrrolidone",
+        "domain": "Chemical compound",
+        "smiles": "CN1CCCC1=O",
+        "inchi_key": "SECXISVLQFMRJM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000007423",
+        "name": "decrease",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000002244",
+        "name": "precipitate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000003756",
+        "name": "stirring",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "229920001577",
+        "name": "copolymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000002360",
+        "name": "preparation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000003795",
+        "name": "chemical substances by application",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000001556",
+        "name": "precipitation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "name": "Carbon",
+        "domain": "Chemical compound",
+        "smiles": "[C]",
+        "inchi_key": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000004898",
+        "name": "kneading",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000007773",
+        "name": "negative electrode material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+        "name": "2-Butanone",
+        "domain": "Chemical compound",
+        "smiles": "CCC(C)=O",
+        "inchi_key": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920002134",
+        "name": "Carboxymethyl cellulose",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910013733",
+        "name": "LiCo",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910012820",
+        "name": "LiCoO",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "UUAGAQFQZIEFAH-UHFFFAOYSA-N",
+        "name": "chlorotrifluoroethylene",
+        "domain": "Chemical group",
+        "smiles": "FC(F)=C(F)Cl",
+        "inchi_key": "UUAGAQFQZIEFAH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000011156",
+        "name": "evaluation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000001879",
+        "name": "gelation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "HCDGVLDPFQMKDK-UHFFFAOYSA-N",
+        "name": "hexafluoropropylene",
+        "domain": "Chemical group",
+        "smiles": "FC(F)=C(F)C(F)(F)F",
+        "inchi_key": "HCDGVLDPFQMKDK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000002245",
+        "name": "particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005096",
+        "name": "rolling process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000010079",
+        "name": "rubber tapping",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000243",
+        "name": "solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000003860",
+        "name": "storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000006230",
+        "name": "acetylene black",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000007864",
+        "name": "aqueous solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000001768",
+        "name": "carboxy methyl cellulose",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000010948",
+        "name": "carboxy methyl cellulose",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000008112",
+        "name": "carboxymethyl-cellulose",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011248",
+        "name": "coating agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000000576",
+        "name": "coating method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000001816",
+        "name": "cooling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005520",
+        "name": "cutting process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000007599",
+        "name": "discharging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910002804",
+        "name": "graphite",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000010439",
+        "name": "graphite",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000009776",
+        "name": "industrial production",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000005518",
+        "name": "polymer electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011084",
+        "name": "recovery",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002904",
+        "name": "solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002562",
+        "name": "thickening agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "RYGMFSIKBFXOCR-UHFFFAOYSA-N",
+        "name": "Copper",
+        "domain": "Chemical compound",
+        "smiles": "[Cu]",
+        "inchi_key": "RYGMFSIKBFXOCR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "OIFBSDVPJOWBCH-UHFFFAOYSA-N",
+        "name": "Diethyl carbonate",
+        "domain": "Chemical compound",
+        "smiles": "CCOC(=O)OCC",
+        "inchi_key": "OIFBSDVPJOWBCH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "KMTRUDSVKNLOMY-UHFFFAOYSA-N",
+        "name": "Ethylene carbonate",
+        "domain": "Chemical compound",
+        "smiles": "O=C1OCCO1",
+        "inchi_key": "KMTRUDSVKNLOMY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910007966",
+        "name": "Li-Co",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910008088",
+        "name": "Li-Mn",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910012349",
+        "name": "LiCo0.995Mg0.005O2",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910013872",
+        "name": "LiPF",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "101150058243",
+        "name": "Lipf gene",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "name": "Lithium ion",
+        "domain": "Chemical compound",
+        "smiles": "[Li+]",
+        "inchi_key": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910008295",
+        "name": "Li\u2014Co",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910006309",
+        "name": "Li\u2014Mg",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910006327",
+        "name": "Li\u2014Mn",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910006378",
+        "name": "Li\u2014Mn\u2014Ni",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005062",
+        "name": "Polybutadiene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052775",
+        "name": "Thulium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002390",
+        "name": "adhesive tape",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000000217",
+        "name": "alkyl group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "name": "aluminium",
+        "domain": "Chemical compound",
+        "smiles": "[Al]",
+        "inchi_key": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052788",
+        "name": "barium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "MTAZNLWOLGHBHU-UHFFFAOYSA-N",
+        "name": "butadiene-styrene rubber",
+        "domain": "Chemical compound",
+        "smiles": "C=CC=C.C=CC1=CC=CC=C1",
+        "inchi_key": "MTAZNLWOLGHBHU-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052791",
+        "name": "calcium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052799",
+        "name": "carbon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052802",
+        "name": "copper",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010949",
+        "name": "copper",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011889",
+        "name": "copper foil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007812",
+        "name": "deficiency",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009831",
+        "name": "deintercalation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000151",
+        "name": "deposition",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007865",
+        "name": "diluting",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006185",
+        "name": "dispersion",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "JBTWLSYIZRCDFO-UHFFFAOYSA-N",
+        "name": "ethyl methyl carbonate",
+        "domain": "Chemical compound",
+        "smiles": "CCOC(=O)OC",
+        "inchi_key": "JBTWLSYIZRCDFO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002349",
+        "name": "favourable effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011888",
+        "name": "foil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000000524",
+        "name": "functional group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009477",
+        "name": "glass transition",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005484",
+        "name": "gravity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001771",
+        "name": "impaired effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009830",
+        "name": "intercalation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002687",
+        "name": "intercalation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010030",
+        "name": "laminating",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001416",
+        "name": "lithium ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002844",
+        "name": "melting",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008018",
+        "name": "melting",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012046",
+        "name": "mixed solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002857",
+        "name": "polybutadiene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920013716",
+        "name": "polyethylene resin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000642",
+        "name": "polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011148",
+        "name": "porous material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002994",
+        "name": "raw material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009257",
+        "name": "reactivity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000717",
+        "name": "retained effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007784",
+        "name": "solid electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052712",
+        "name": "strontium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008719",
+        "name": "thickening",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004804",
+        "name": "winding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052725",
+        "name": "zinc",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

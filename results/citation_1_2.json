@@ -1,0 +1,2267 @@
+{
+  "search_metadata": {
+    "id": "68525691bcd927c2c9f50246",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/284224829636eb77/68525691bcd927c2c9f50246.json",
+    "created_at": "2025-06-18 06:02:57 UTC",
+    "processed_at": "2025-06-18 06:02:57 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN103887473A/en",
+    "raw_html_file": "https://serpapi.com/searches/284224829636eb77/68525691bcd927c2c9f50246.html",
+    "total_time_taken": 2.38
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN103887473A/en"
+  },
+  "title": "Negative electrode with surface coated with lithiated zeolite and lithium ion battery using negative electrode",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/07/d7/44/e5f3b094361e79/CN103887473A.pdf",
+  "publication_number": "CN103887473A",
+  "country": "China",
+  "prior_art_keywords": [
+    "lithiumation",
+    "zeolite",
+    "coated",
+    "negative pole",
+    "coating"
+  ],
+  "prior_art_date": "2014-04-20",
+  "application_number": "CN201410157259.7A",
+  "inventors": [
+    {
+      "name": "\u90ed\u6625\u6cf0",
+      "link": "https://patents.google.com/?inventor=%E9%83%AD%E6%98%A5%E6%B3%B0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E9%83%AD%E6%98%A5%E6%B3%B0"
+    },
+    {
+      "name": "\u5f20\u8d8a\u8d85",
+      "link": "https://patents.google.com/?inventor=%E5%BC%A0%E8%B6%8A%E8%B6%85",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%BC%A0%E8%B6%8A%E8%B6%85"
+    },
+    {
+      "name": "\u9ad8\u79c0\u73b2",
+      "link": "https://patents.google.com/?inventor=%E9%AB%98%E7%A7%80%E7%8E%B2",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E9%AB%98%E7%A7%80%E7%8E%B2"
+    },
+    {
+      "name": "\u66f9\u5efa\u5764",
+      "link": "https://patents.google.com/?inventor=%E6%9B%B9%E5%BB%BA%E5%9D%A4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%9B%B9%E5%BB%BA%E5%9D%A4"
+    }
+  ],
+  "assignees": [
+    "Tianjin EV Energies Co Ltd"
+  ],
+  "priority_date": "2014-04-20",
+  "filing_date": "2014-04-20",
+  "publication_date": "2014-06-25",
+  "worldwide_applications": {
+    "2014": [
+      {
+        "filing_date": "2014-04-20",
+        "country_code": "CN",
+        "application_number": "CN201410157259.7A",
+        "document_id": "patent/CN103887473A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2014-04-20",
+      "title": "Application filed by Tianjin EV Energies Co Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Tianjin EV Energies Co Ltd"
+    },
+    {
+      "date": "2014-04-20",
+      "title": "Priority to CN201410157259.7A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN103887473A/en"
+    },
+    {
+      "date": "2014-06-25",
+      "title": "Publication of CN103887473A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN103887473A/en"
+    },
+    {
+      "date": "Status",
+      "title": "Pending",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=103887473A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/201410157259/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN103887473A"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/bf/7e/b4/44240ea23f3426/140420183903.png"
+  ],
+  "classifications": [
+    {
+      "code": "H01M4/13",
+      "description": "Electrodes for accumulators with non-aqueous electrolyte, e.g. for lithium-accumulators; Processes of manufacture thereof",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0525",
+      "description": "Rocking-chair batteries, i.e. batteries with lithium insertion or intercalation in both electrodes; Lithium-ion batteries",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/62",
+      "description": "Selection of inactive substances as ingredients for active masses, e.g. binders, fillers",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2004/027",
+      "description": "Negative electrodes",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/0404",
+      "description": "Methods of deposition of the material by coating on electrode collectors",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/139",
+      "description": "Processes of manufacture",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The invention discloses a negative electrode with the surface coated with lithiated zeolite and a lithium ion battery using the negative electrode. The negative electrode comprises a negative electrode plate and a lithiated zeolite coating, wherein the lithiated zeolite coating comprises 95-98% (by weight percent) of lithiated zeolite and 2-5% (by weight percent) of a binder; slurry of the lithiated zeolite coating also comprises a solvent; the solvent is N-methyl-2-pyrrolidone (NMP) or acetone; two surfaces of the negative electrode plate are coated with the slurry of the lithiated zeolite coating; the binder is polyvinylidene fluoride (PVDF) or P(VDF-HFP). The lithiated zeolite coating provided by the invention is relatively large in resistance, the safety of the battery can be improved, a migration passage is provided for lithium ions by a porous structure of the lithiated zeolite, the rate capability and the low temperature performance of the battery can be ensured, the lithiated zeolite coating has the strong absorption on water and gas, and can maintain the interface uniformity between each electrode and each membrane, and the cycle life of the battery is prolonged.",
+  "description_link": "https://serpapi.com/searches/68525691bcd927c2c9f50246/google_patents_details/description.html",
+  "claims": [
+    "1. a lithiumation zeolite table is coated with negative pole, it is characterized in that: described lithiumation zeolite table is coated with negative pole and comprises negative plate and lithiumation zeolite coating, described lithiumation zeolite coating comprises lithiumation zeolite 95-98%(weight ratio), binding agent 2%-5%(weight ratio), the slurry of described lithiumation zeolite coating also comprises solvent, described solvent is NMP or acetone, and the slurry of described lithiumation zeolite coating is coated in negative plate two sides; Described binding agent is PVDF or P (VDF-HFP).",
+    "2. lithiumation zeolite table according to claim 1 is coated with negative pole, it is characterized in that: the solids content of the slurry of described lithiumation zeolite coating is 20%-60%.",
+    "3. lithiumation zeolite table according to claim 1 is coated with negative pole, it is characterized in that: the average grain diameter D50 of described lithiumation zeolite is 100-2000nm, and pore size is 3A or 4A.",
+    "4. lithiumation zeolite table according to claim 1 is coated with negative pole, it is characterized in that: the one side thickness of described lithiumation zeolite coating is 1-5um.",
+    "5. a lithium ion battery for lithiumation zeolite table painting negative pole described in right to use requirement 1-4, is characterized in that: described lithium ion battery comprises positive pole, negative pole, barrier film, electrolyte,\n      Described positive pole comprises metal collector, positive electrode active materials 90-97%(weight ratio), conductive agent, binding agent, described positive electrode active materials is one or more in cobalt acid lithium, nickle cobalt lithium manganate, LiMn2O4, LiFePO4, described conductive agent is one or both the combination in carbon black, electrically conductive graphite, and described binding agent is PVDF;\n      Described negative pole is that the lithiumation zeolite table described in claim 1-4 any one is coated with negative pole;\n      Described barrier film is the one in polyolefin micropore barrier diaphragm, nonwoven fabrics barrier film, PVDF barrier film, ceramic diaphragm, fibre diaphragm;\n      Described electrolyte comprises electrolyte lithium salts, electrolyte solvent, film for additive, and described electrolyte lithium salts is LiPF\n          6, LiBF\n          4, LiClO\n          4, LiBOB, LiN (CF\n          3sO\n          2)\n          2, Li (CF\n          3sO\n          2)\n          3in one or more combination; Described electrolyte solvent is ethylene carbonate (EC), propene carbonate (PC), butylene, \u0251-butyrolactone, \u0251-valerolactone, dimethyl carbonate (DMC), diethyl carbonate (DEC), methyl ethyl carbonate (EMC), diethoxyethane, 1, the combination of two or more in 3-dioxolane; Described film for additive is one or more the combination in vinylene carbonate (VC), propylene sulfite (PS), maleic anhydride.",
+    "6. the described lithiumation zeolite of use according to claim 5 table is coated with the lithium ion battery of negative pole, it is characterized in that: described membrane thicknesses is 7--25um, and porosity is 25%--60%."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN201410157259.7A",
+      "representative_publication": "CN103887473A",
+      "primary_language": "en",
+      "priority_date": "2014-04-20",
+      "filing_date": "2014-04-20",
+      "title": "Negative electrode with surface coated with lithiated zeolite and lithium ion battery using negative electrode"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CN201410157259.7A",
+      "representative_publication": "CN103887473A",
+      "primary_language": "en",
+      "priority_date": "2014-04-20",
+      "filing_date": "2014-04-20",
+      "title": "Negative electrode with surface coated with lithiated zeolite and lithium ion battery using negative electrode"
+    }
+  ],
+  "family_id": "50956277",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "CN103035920A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-09-30",
+        "publication_date": "2013-04-10",
+        "assignee_original": "\u6df1\u5733\u5e02\u6bd4\u514b\u7535\u6c60\u6709\u9650\u516c\u53f8",
+        "title": "Lithium-ion battery and preparation method thereof",
+        "patent_id": "patent/CN103035920A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103035920A%2Fen"
+      },
+      {
+        "publication_number": "CN103050705A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-01-06",
+        "publication_date": "2013-04-17",
+        "assignee_original": "\u5929\u6d25\u5e02\u6377\u5a01\u52a8\u529b\u5de5\u4e1a\u6709\u9650\u516c\u53f8",
+        "title": "Lithium titanate coated cathode and lithium ion battery using cathode",
+        "patent_id": "patent/CN103050705A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103050705A%2Fen"
+      },
+      {
+        "publication_number": "WO2013062997A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-10-28",
+        "publication_date": "2013-05-02",
+        "assignee_original": "Lubrizol Advanced Materials, Inc.",
+        "title": "Polyurethane-based electrode binder compositions and electrodes thereof for electrochemical cells",
+        "patent_id": "patent/WO2013062997A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013062997A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN104810548A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-07-15",
+        "publication_date": "2015-07-29",
+        "assignee_original": "\u4e07\u5411A\u4e00\u4e8c\u4e09\u7cfb\u7edf\u6709\u9650\u516c\u53f8",
+        "title": "High-performance lithium titanate power battery",
+        "patent_id": "patent/CN104810548A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104810548A%2Fen"
+      },
+      {
+        "publication_number": "CN107749476A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-10-19",
+        "publication_date": "2018-03-02",
+        "assignee_original": "\u4e07\u5411\u4e8c\u4e09\u80a1\u4efd\u516c\u53f8",
+        "title": "A kind of LiMn2O4 power lithium-ion battery",
+        "patent_id": "patent/CN107749476A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107749476A%2Fen"
+      },
+      {
+        "publication_number": "CN107749465A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-10-26",
+        "publication_date": "2018-03-02",
+        "assignee_original": "\u4e07\u5411\u4e8c\u4e09\u80a1\u4efd\u516c\u53f8",
+        "title": "A kind of LiFePO4 NCM ternary material power lithium-ion batteries",
+        "patent_id": "patent/CN107749465A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107749465A%2Fen"
+      },
+      {
+        "publication_number": "CN107749477A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-10-19",
+        "publication_date": "2018-03-02",
+        "assignee_original": "\u4e07\u5411\u4e8c\u4e09\u80a1\u4efd\u516c\u53f8",
+        "title": "A kind of nickel cobalt manganese NCM ternary material power lithium-ion batteries",
+        "patent_id": "patent/CN107749477A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107749477A%2Fen"
+      },
+      {
+        "publication_number": "CN107749463A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-10-19",
+        "publication_date": "2018-03-02",
+        "assignee_original": "\u4e07\u5411\u4e8c\u4e09\u80a1\u4efd\u516c\u53f8",
+        "title": "A kind of LiMn2O4 cobalt acid lithium power lithium-ion battery",
+        "patent_id": "patent/CN107749463A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107749463A%2Fen"
+      },
+      {
+        "publication_number": "CN107785544A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-10-21",
+        "publication_date": "2018-03-09",
+        "assignee_original": "\u4e07\u5411\u4e8c\u4e09\u80a1\u4efd\u516c\u53f8",
+        "title": "A kind of nickel cobalt aluminium NCA ternary material power lithium-ion batteries",
+        "patent_id": "patent/CN107785544A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107785544A%2Fen"
+      },
+      {
+        "publication_number": "CN107785575A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-10-21",
+        "publication_date": "2018-03-09",
+        "assignee_original": "\u4e07\u5411\u4e8c\u4e09\u80a1\u4efd\u516c\u53f8",
+        "title": "A kind of lithium iron phosphate power lithium ion battery",
+        "patent_id": "patent/CN107785575A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107785575A%2Fen"
+      },
+      {
+        "publication_number": "CN108258301A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-02-05",
+        "publication_date": "2018-07-06",
+        "assignee_original": "\u5e7f\u5dde\u5929\u8d50\u9ad8\u65b0\u6750\u6599\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "A kind of excellent lithium ion battery of high temperature cyclic performance",
+        "patent_id": "patent/CN108258301A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108258301A%2Fen"
+      },
+      {
+        "publication_number": "CN108346799A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-01-23",
+        "publication_date": "2018-07-31",
+        "assignee_original": "\u4e07\u5411\u4e8c\u4e09\u80a1\u4efd\u516c\u53f8",
+        "title": "A kind of lithium ion battery of high-energy density wide temperature range",
+        "patent_id": "patent/CN108346799A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108346799A%2Fen"
+      },
+      {
+        "publication_number": "US20180254449A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-02",
+        "publication_date": "2018-09-06",
+        "assignee_original": "GM Global Technology Operations LLC",
+        "title": "Composite porous separator including lithium ion-exchanged zeolite particles",
+        "patent_id": "patent/US20180254449A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180254449A1%2Fen"
+      },
+      {
+        "publication_number": "US20180254531A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-02",
+        "publication_date": "2018-09-06",
+        "assignee_original": "GM Global Technology Operations LLC",
+        "title": "Lithium ion battery including lithium ion-exchanged zeolite particles",
+        "patent_id": "patent/US20180254531A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180254531A1%2Fen"
+      },
+      {
+        "publication_number": "CN110071246A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-01-24",
+        "publication_date": "2019-07-30",
+        "assignee_original": "\u901a\u7528\u6c7d\u8f66\u73af\u7403\u79d1\u6280\u8fd0\u4f5c\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "Diaphragm and preparation method thereof containing lithium electrochemical cells",
+        "patent_id": "patent/CN110071246A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110071246A%2Fen"
+      },
+      {
+        "publication_number": "CN110959220A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-07-31",
+        "publication_date": "2020-04-03",
+        "assignee_original": "\u7ef4\u91d1\u7535\u529b\u7cfb\u7edf\u6709\u9650\u516c\u53f8",
+        "title": "Electrochemical cell with getter and method of forming the same",
+        "patent_id": "patent/CN110959220A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110959220A%2Fen"
+      },
+      {
+        "publication_number": "CN111916635A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-07-30",
+        "publication_date": "2020-11-10",
+        "assignee_original": "\u798f\u5efa\u5de8\u7535\u65b0\u80fd\u6e90\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Lithium ion battery diaphragm and preparation method thereof",
+        "patent_id": "patent/CN111916635A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111916635A%2Fen"
+      },
+      {
+        "publication_number": "WO2021247736A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-06-02",
+        "publication_date": "2021-12-09",
+        "assignee_original": "Arizona Board Of Regents On Behalf Of Arizona State University",
+        "title": "Fire-proof lithium-ion battery",
+        "patent_id": "patent/WO2021247736A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021247736A1%2Fen"
+      },
+      {
+        "publication_number": "CN114292552A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-31",
+        "publication_date": "2022-04-08",
+        "assignee_original": "\u8702\u5de2\u80fd\u6e90\u79d1\u6280(\u65e0\u9521)\u6709\u9650\u516c\u53f8",
+        "title": "Polyolefin diaphragm modification liquid, modified polyolefin diaphragm and preparation method and application thereof",
+        "patent_id": "patent/CN114292552A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114292552A%2Fen"
+      },
+      {
+        "publication_number": "CN114649498A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-21",
+        "publication_date": "2022-06-21",
+        "assignee_original": "\u901a\u7528\u6c7d\u8f66\u73af\u7403\u79d1\u6280\u8fd0\u4f5c\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "Lithium battery pack including composite flame retardant particles",
+        "patent_id": "patent/CN114649498A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114649498A%2Fen"
+      },
+      {
+        "publication_number": "CN114665097A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-04-20",
+        "publication_date": "2022-06-24",
+        "assignee_original": "\u8702\u5de2\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "A kind of cobalt-free cathode material and its preparation method and application",
+        "patent_id": "patent/CN114665097A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114665097A%2Fen"
+      },
+      {
+        "publication_number": "CN116154143A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-04-21",
+        "publication_date": "2023-05-23",
+        "assignee_original": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Positive electrode active material, positive electrode plate, battery cell, battery and electric equipment",
+        "patent_id": "patent/CN116154143A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116154143A%2Fen"
+      },
+      {
+        "publication_number": "CN119419218A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2025-01-09",
+        "publication_date": "2025-02-11",
+        "assignee_original": "\u5b89\u5fbd\u76df\u7ef4\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Negative electrode protective layer and preparation method thereof, lithium battery negative electrode and lithium battery",
+        "patent_id": "patent/CN119419218A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119419218A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CN103887473A",
+      "primary_language": "en",
+      "publication_date": "2014-06-25",
+      "title": "Negative electrode with surface coated with lithiated zeolite and lithium ion battery using negative electrode",
+      "patent_id": "patent/CN103887473A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103887473A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN206878100U",
+      "primary_language": "en",
+      "publication_date": "2018-01-12",
+      "title": "collector and electrochemical energy storage device",
+      "patent_id": "patent/CN206878100U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN206878100U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5929897B2",
+      "primary_language": "en",
+      "publication_date": "2016-06-08",
+      "title": "Positive electrode plate for nonaqueous electrolyte secondary battery and method for producing the same, nonaqueous electrolyte secondary battery and method for producing the same",
+      "patent_id": "patent/JP5929897B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5929897B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101998265B1",
+      "primary_language": "en",
+      "publication_date": "2019-07-09",
+      "title": "Nonaqueous electrolyte secondary battery and manufacturing method therefor",
+      "patent_id": "patent/KR101998265B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101998265B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2021536112A",
+      "primary_language": "en",
+      "publication_date": "2021-12-23",
+      "title": "Lithium ion secondary battery",
+      "patent_id": "patent/JP2021536112A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2021536112A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103050705A",
+      "primary_language": "en",
+      "publication_date": "2013-04-17",
+      "title": "Lithium titanate coated cathode and lithium ion battery using cathode",
+      "patent_id": "patent/CN103050705A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103050705A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103117382B",
+      "primary_language": "en",
+      "publication_date": "2015-07-08",
+      "title": "Preparation method of lithium ion battery negative pole material capable of improving safety performance",
+      "patent_id": "patent/CN103117382B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103117382B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN108352491B",
+      "primary_language": "en",
+      "publication_date": "2021-01-08",
+      "title": "Nonaqueous electrolyte secondary battery",
+      "patent_id": "patent/CN108352491B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108352491B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102683739A",
+      "primary_language": "en",
+      "publication_date": "2012-09-19",
+      "title": "Lithium ion battery",
+      "patent_id": "patent/CN102683739A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102683739A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102332579B",
+      "primary_language": "en",
+      "publication_date": "2014-10-08",
+      "title": "Lithium ion battery and negative electrode active material thereof",
+      "patent_id": "patent/CN102332579B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102332579B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107394113A",
+      "primary_language": "en",
+      "publication_date": "2017-11-24",
+      "title": "Surface coating for improving safety performance of power lithium ion battery, surface coating application and power lithium ion battery",
+      "patent_id": "patent/CN107394113A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107394113A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6601065B2",
+      "primary_language": "en",
+      "publication_date": "2019-11-06",
+      "title": "Secondary battery",
+      "patent_id": "patent/JP6601065B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6601065B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11289694B2",
+      "primary_language": "en",
+      "publication_date": "2022-03-29",
+      "title": "Negative electrode plate, preparation method thereof and electrochemical device",
+      "patent_id": "patent/US11289694B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11289694B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3404763B1",
+      "primary_language": "en",
+      "publication_date": "2021-11-24",
+      "title": "Electricity storage element",
+      "patent_id": "patent/EP3404763B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3404763B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2016085838A",
+      "primary_language": "en",
+      "publication_date": "2016-05-19",
+      "title": "Lithium ion secondary battery",
+      "patent_id": "patent/JP2016085838A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2016085838A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20210114026A",
+      "primary_language": "en",
+      "publication_date": "2021-09-17",
+      "title": "Hybrid solid electrolytes for all-solid-state cells",
+      "patent_id": "patent/KR20210114026A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20210114026A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2011192561A",
+      "primary_language": "en",
+      "publication_date": "2011-09-29",
+      "title": "Manufacturing method for nonaqueous electrolyte secondary battery",
+      "patent_id": "patent/JP2011192561A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2011192561A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2018168272A1",
+      "primary_language": "en",
+      "publication_date": "2018-09-20",
+      "title": "Positive electrode for non-aqueous electrolyte secondary cell, and non-aqueous electrolyte secondary cell",
+      "patent_id": "patent/WO2018168272A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018168272A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2019160553A",
+      "primary_language": "en",
+      "publication_date": "2019-09-19",
+      "title": "Electrode and power storage element",
+      "patent_id": "patent/JP2019160553A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2019160553A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2016081711A",
+      "primary_language": "en",
+      "publication_date": "2016-05-16",
+      "title": "Separator and lithium ion secondary battery arranged by use thereof",
+      "patent_id": "patent/JP2016081711A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2016081711A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2025020497A1",
+      "primary_language": "en",
+      "publication_date": "2025-01-30",
+      "title": "Secondary battery and electrical apparatus",
+      "patent_id": "patent/WO2025020497A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025020497A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR102795655B1",
+      "primary_language": "en",
+      "publication_date": "2025-04-11",
+      "title": "Insulating paste and its manufacturing method, positive electrode, secondary battery, battery module, battery pack and electric device",
+      "patent_id": "patent/KR102795655B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102795655B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20130134910A",
+      "primary_language": "en",
+      "publication_date": "2013-12-10",
+      "title": "Electrode assembly and lithium secondary battery comprising the same",
+      "patent_id": "patent/KR20130134910A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20130134910A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2014049296A",
+      "primary_language": "en",
+      "publication_date": "2014-03-17",
+      "title": "Nonaqueous electrolyte for lithium ion secondary battery and lithium ion secondary battery",
+      "patent_id": "patent/JP2014049296A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2014049296A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2024239552A1",
+      "primary_language": "en",
+      "publication_date": "2024-11-28",
+      "title": "Separator and preparation method therefor, secondary battery and preparation method therefor, and electric device",
+      "patent_id": "patent/WO2024239552A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024239552A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2014-06-25",
+      "code": "C06",
+      "title": "Publication"
+    },
+    {
+      "date": "2014-06-25",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2014-07-16",
+      "code": "C10",
+      "title": "Entry into substantive examination"
+    },
+    {
+      "date": "2014-07-16",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2016-08-03",
+      "code": "C02",
+      "title": "Deemed withdrawal of patent application after publication (patent law 2001)"
+    },
+    {
+      "date": "2016-08-03",
+      "code": "WD01",
+      "title": "Invention patent application deemed withdrawn after publication",
+      "attributes": [
+        {
+          "label": "Application publication date",
+          "value": "20140625"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "HNPSIPDUKPIQMN-UHFFFAOYSA-N",
+        "name": "dioxosilane;oxo(oxoalumanyloxy)alumane",
+        "domain": "Chemical compound",
+        "smiles": "O=[Si]=O.O=[Al]O[Al]=O",
+        "inchi_key": "HNPSIPDUKPIQMN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 86
+      },
+      {
+        "id": "229910021536",
+        "name": "Zeolite",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 85
+      },
+      {
+        "id": "239000010457",
+        "name": "zeolite",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 85
+      },
+      {
+        "id": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "name": "Lithium ion",
+        "domain": "Chemical compound",
+        "smiles": "[Li+]",
+        "inchi_key": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "229910001416",
+        "name": "lithium ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "239000011248",
+        "name": "coating agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 36
+      },
+      {
+        "id": "238000000576",
+        "name": "coating method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 36
+      },
+      {
+        "id": "239000002002",
+        "name": "slurry",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "239000011230",
+        "name": "binding agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "239000002033",
+        "name": "PVDF binder",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "229920002981",
+        "name": "polyvinylidene fluoride",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "239000002904",
+        "name": "solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+        "name": "Acetone",
+        "domain": "Chemical compound",
+        "smiles": "CC(C)=O",
+        "inchi_key": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000012528",
+        "name": "membrane",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000003792",
+        "name": "electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "230000004888",
+        "name": "barrier function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "239000006258",
+        "name": "conductive agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "VAYTZRYEBVHVLE-UHFFFAOYSA-N",
+        "name": "1,3-dioxol-2-one",
+        "domain": "Chemical compound",
+        "smiles": "O=C1OC=CO1",
+        "inchi_key": "VAYTZRYEBVHVLE-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "SJHAYVFVKRXMKG-UHFFFAOYSA-N",
+        "name": "4-methyl-1,3,2-dioxathiolane 2-oxide",
+        "domain": "Chemical compound",
+        "smiles": "CC1COS(=O)O1",
+        "inchi_key": "SJHAYVFVKRXMKG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "OIFBSDVPJOWBCH-UHFFFAOYSA-N",
+        "name": "Diethyl carbonate",
+        "domain": "Chemical compound",
+        "smiles": "CCOC(=O)OCC",
+        "inchi_key": "OIFBSDVPJOWBCH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "KMTRUDSVKNLOMY-UHFFFAOYSA-N",
+        "name": "Ethylene carbonate",
+        "domain": "Chemical group",
+        "smiles": "O=C1OCCO1",
+        "inchi_key": "KMTRUDSVKNLOMY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "229910003002",
+        "name": "lithium salt",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "159000000002",
+        "name": "lithium salts",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "DHKHKXVYLBGOIT-UHFFFAOYSA-N",
+        "name": "1,1-Diethoxyethane",
+        "domain": "Chemical compound",
+        "smiles": "CCOC(C)OCC",
+        "inchi_key": "DHKHKXVYLBGOIT-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "name": "Lithium",
+        "domain": "Chemical compound",
+        "smiles": "[Li]",
+        "inchi_key": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000000654",
+        "name": "additive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000000996",
+        "name": "additive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "229910052744",
+        "name": "lithium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000007774",
+        "name": "positive electrode material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "name": "Carbon",
+        "domain": "Chemical compound",
+        "smiles": "[C]",
+        "inchi_key": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000010439",
+        "name": "graphite",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "229910002804",
+        "name": "graphite",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000011148",
+        "name": "porous material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000002253",
+        "name": "acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229910017052",
+        "name": "cobalt",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000010941",
+        "name": "cobalt",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "GUTLYIVDDKVIGB-UHFFFAOYSA-N",
+        "name": "cobalt atom",
+        "domain": "Chemical compound",
+        "smiles": "[Co]",
+        "inchi_key": "GUTLYIVDDKVIGB-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "FPYJFEHAWHCUMM-UHFFFAOYSA-N",
+        "name": "maleic anhydride",
+        "domain": "Chemical compound",
+        "smiles": "O=C1OC(=O)C=C1",
+        "inchi_key": "FPYJFEHAWHCUMM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "XKTYXVDYIKIYJP-UHFFFAOYSA-N",
+        "name": "3h-dioxole",
+        "domain": "Chemical compound",
+        "smiles": "C1OOC=C1",
+        "inchi_key": "XKTYXVDYIKIYJP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910013063",
+        "name": "LiBF 4",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910013188",
+        "name": "LiBOB",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910013684",
+        "name": "LiClO 4",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052493",
+        "name": "LiFePO4",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910013131",
+        "name": "LiN",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910013870",
+        "name": "LiPF 6",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910002097",
+        "name": "Lithium manganese(III,IV) oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000006229",
+        "name": "carbon black",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "SIXOAUAWLZKQKX-UHFFFAOYSA-N",
+        "name": "carbonic acid;prop-1-ene",
+        "domain": "Chemical compound",
+        "smiles": "CC=C.OC(O)=O",
+        "inchi_key": "SIXOAUAWLZKQKX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000919",
+        "name": "ceramic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "IEJIGPNLZYLLBP-UHFFFAOYSA-N",
+        "name": "dimethyl carbonate",
+        "domain": "Chemical compound",
+        "smiles": "COC(=O)OC",
+        "inchi_key": "IEJIGPNLZYLLBP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "JBTWLSYIZRCDFO-UHFFFAOYSA-N",
+        "name": "ethyl methyl carbonate",
+        "domain": "Chemical compound",
+        "smiles": "CCOC(=O)OC",
+        "inchi_key": "JBTWLSYIZRCDFO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000835",
+        "name": "fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "OVAQODDUFGFVPR-UHFFFAOYSA-N",
+        "name": "lithium cobalt(2+) dioxido(dioxo)manganese",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[Mn](=O)(=O)([O-])[O-].[Co+2]",
+        "inchi_key": "OVAQODDUFGFVPR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052751",
+        "name": "metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000004745",
+        "name": "nonwoven fabric",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920000098",
+        "name": "polyolefin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "125000000383",
+        "name": "tetramethylene group",
+        "domain": "Chemical group",
+        "smiles": "[H]C([H])([*:1])C([H])([H])C([H])([H])C([H])([H])[*:2]",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000010422",
+        "name": "painting",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "SECXISVLQFMRJM-UHFFFAOYSA-N",
+        "name": "N-Methylpyrrolidone",
+        "domain": "Chemical group",
+        "smiles": "CN1CCCC1=O",
+        "inchi_key": "SECXISVLQFMRJM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000010521",
+        "name": "absorption reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005012",
+        "name": "migration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013508",
+        "name": "migration",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002035",
+        "name": "prolonged effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+        "name": "Alumina",
+        "domain": "Chemical compound",
+        "smiles": "[O-2].[O-2].[O-2].[Al+3].[Al+3]",
+        "inchi_key": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "230000000052",
+        "name": "comparative effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000002360",
+        "name": "preparation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229910052782",
+        "name": "aluminium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "name": "aluminium",
+        "domain": "Chemical compound",
+        "smiles": "[Al]",
+        "inchi_key": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000011247",
+        "name": "coating layer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000009413",
+        "name": "insulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "DGAQECJNVWCQMB-PUAWFVPOSA-M",
+        "name": "Ilexoside XXIX",
+        "domain": "Chemical compound",
+        "smiles": "C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)OS(=O)(=O)[O-])C)C)[C@@H]2[C@]1(C)O)C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O.[Na+]",
+        "inchi_key": "DGAQECJNVWCQMB-PUAWFVPOSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "PXHVJJICTQNCMI-UHFFFAOYSA-N",
+        "name": "Nickel",
+        "domain": "Chemical compound",
+        "smiles": "[Ni]",
+        "inchi_key": "PXHVJJICTQNCMI-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "ZLMJMSJWJFRBEC-UHFFFAOYSA-N",
+        "name": "Potassium",
+        "domain": "Chemical compound",
+        "smiles": "[K]",
+        "inchi_key": "ZLMJMSJWJFRBEC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000001467",
+        "name": "acupuncture",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000003292",
+        "name": "glue",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000014759",
+        "name": "maintenance of location",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "TWNQGVIAIRXVLR-UHFFFAOYSA-N",
+        "name": "oxo(oxoalumanyloxy)alumane",
+        "domain": "Chemical compound",
+        "smiles": "O=[Al]O[Al]=O",
+        "inchi_key": "TWNQGVIAIRXVLR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002985",
+        "name": "plastic film",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920006255",
+        "name": "plastic film",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052700",
+        "name": "potassium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011591",
+        "name": "potassium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052708",
+        "name": "sodium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011734",
+        "name": "sodium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000003756",
+        "name": "stirring",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000126",
+        "name": "substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "OYPRJOBELJOOCE-UHFFFAOYSA-N",
+        "name": "Calcium",
+        "domain": "Chemical compound",
+        "smiles": "[Ca]",
+        "inchi_key": "OYPRJOBELJOOCE-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BHPQYMZQTOCNFJ-UHFFFAOYSA-N",
+        "name": "Calcium cation",
+        "domain": "Chemical compound",
+        "smiles": "[Ca+2]",
+        "inchi_key": "BHPQYMZQTOCNFJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "RYGMFSIKBFXOCR-UHFFFAOYSA-N",
+        "name": "Copper",
+        "domain": "Chemical compound",
+        "smiles": "[Cu]",
+        "inchi_key": "RYGMFSIKBFXOCR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910013872",
+        "name": "LiPF",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "101150058243",
+        "name": "Lipf gene",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "NPYPAHLBTDXSSS-UHFFFAOYSA-N",
+        "name": "Potassium ion",
+        "domain": "Chemical compound",
+        "smiles": "[K+]",
+        "inchi_key": "NPYPAHLBTDXSSS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000831",
+        "name": "Steel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005030",
+        "name": "aluminium foil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000323",
+        "name": "aluminium silicate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011575",
+        "name": "calcium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052791",
+        "name": "calcium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001424",
+        "name": "calcium ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000002091",
+        "name": "cationic group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000001768",
+        "name": "cations",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005524",
+        "name": "ceramic coating",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910010293",
+        "name": "ceramic material",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003795",
+        "name": "chemical substances by application",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011889",
+        "name": "copper foil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007872",
+        "name": "degassing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008367",
+        "name": "deionised water",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910021641",
+        "name": "deionized water",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006185",
+        "name": "dispersion",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001035",
+        "name": "drying",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009472",
+        "name": "formulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007756",
+        "name": "gravure coating",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006872",
+        "name": "improvement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005764",
+        "name": "inhibitory process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002500",
+        "name": "ions",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005649",
+        "name": "metathesis reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010295",
+        "name": "mobile communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052759",
+        "name": "nickel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003647",
+        "name": "oxidation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007254",
+        "name": "oxidation reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000010287",
+        "name": "polarization",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001414",
+        "name": "potassium ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002441",
+        "name": "reversible effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007789",
+        "name": "sealing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004513",
+        "name": "sizing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010959",
+        "name": "steel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000013076",
+        "name": "target substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010998",
+        "name": "test method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003466",
+        "name": "welding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,1835 @@
+{
+  "search_metadata": {
+    "id": "685255ce40802751b502781b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/e8c95cb5d39831d1/685255ce40802751b502781b.json",
+    "created_at": "2025-06-18 05:59:42 UTC",
+    "processed_at": "2025-06-18 05:59:42 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US4246067A/en",
+    "raw_html_file": "https://serpapi.com/searches/e8c95cb5d39831d1/685255ce40802751b502781b.html",
+    "total_time_taken": 1.18
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US4246067A/en"
+  },
+  "title": "Thermonuclear fusion system",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/a2/77/f6/4b3c8dd8a78fd4/US4246067.pdf",
+  "publication_number": "US4246067A",
+  "country": "United States",
+  "prior_art_keywords": [
+    "sub",
+    "deuterons",
+    "ions",
+    "tritons",
+    "producing"
+  ],
+  "prior_art_date": "1978-08-30",
+  "application_number": "US05/938,321",
+  "inventors": [
+    {
+      "name": "William I. Linlor",
+      "link": "https://patents.google.com/?inventor=William+I.+Linlor",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=William+I.+Linlor"
+    }
+  ],
+  "assignees": [
+    "Individual"
+  ],
+  "priority_date": "1978-08-30",
+  "filing_date": "1978-08-30",
+  "publication_date": "1981-01-20",
+  "worldwide_applications": {
+    "1978": [
+      {
+        "filing_date": "1978-08-30",
+        "country_code": "US",
+        "application_number": "US05/938,321",
+        "document_id": "patent/US4246067A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1978-08-30",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "1978-08-30",
+      "title": "Priority to US05/938,321",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US4246067A/en"
+    },
+    {
+      "date": "1981-01-20",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "1981-01-20",
+      "title": "Publication of US4246067A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US4246067A/en"
+    },
+    {
+      "date": "1998-08-30",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=4246067.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/05938321"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=4246067"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=4246067A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/05938321/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US4246067"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/e1/3d/88/94b3a13aaabfab/US4246067-drawings-page-2.png",
+    "https://patentimages.storage.googleapis.com/39/a0/38/a56d4d50604ceb/US4246067-drawings-page-3.png",
+    "https://patentimages.storage.googleapis.com/53/4c/60/3b8e81e743fabc/US4246067-drawings-page-4.png",
+    "https://patentimages.storage.googleapis.com/53/54/be/ad12c11c4e646e/US4246067-drawings-page-5.png",
+    "https://patentimages.storage.googleapis.com/4c/49/2a/098d4b3acc5d23/US4246067-drawings-page-6.png",
+    "https://patentimages.storage.googleapis.com/52/ff/72/67a5721bf24dc2/US4246067-drawings-page-7.png",
+    "https://patentimages.storage.googleapis.com/16/23/46/83891888842d83/US4246067-drawings-page-8.png",
+    "https://patentimages.storage.googleapis.com/f1/cf/85/aeaedb767971b8/US4246067-drawings-page-9.png"
+  ],
+  "classifications": [
+    {
+      "code": "G21B3/006",
+      "description": "Fusion by impact, e.g. cluster/beam interaction, ion beam collisions, impact on a target",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E30/10",
+      "description": "Nuclear fusion reactors",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "This invention discloses apparatus and methods to produce nuclear fusion utilizing fusible material in the form of high energy ion beams confined in magnetic fields. For example, beams of deuterons and tritons are injected in the same direction relative to the machine axis, but the deuteron velocity is sufficiently greater than the triton velocity so that the deuterons overtake the tritons at a relative velocity which produces a high fusion reaction cross section. The momentum of the deuterons is approximately equal to the momentum of the tritons so that both types of ions follow essentially the same path. Thus, the deuteron and triton beams, together with electrons for space charge neutralization, constitute a \"moving-plasma\", in which fusion reactions occur. Various alternative magnetic field configurations are described for confinement of the high energy ion beams. Methods are given for the starting and steady-state operation of the invention, based on change-of-charge-state trapping of injected material.",
+  "description_link": "https://serpapi.com/searches/685255ce40802751b502781b/google_patents_details/description.html",
+  "claims": [
+    "1. In an apparatus for nuclear fusion of the type having:a. elongated vacuum chamber means with connecting end portions so as to provide an evacuatable containment volume; said chamber having an axis of symmetry; b. vacuum pump means communicating with said vacuum chamber so as to maintain a gas pressure less than 10-3 torr within the vacuum chamber; c. means for producing magnetic fields so that said magnetic fields are present substantially throughout said vacuum chamber and are re-entrant on themselves; an improved particle-injection apparatus comprising: d. means for injecting fusible energetic particles having a kinetic energy greater than 104 electron volts so as to enter said magnetic fields in the direction approximately parallel to the axis of said vacuum chamber so that said particles will follow a closed path; e. means for changing the charge state of said fusible particles while within said magnetic fields so that the resulting ions are produced within said magnetic fields to form ion beams; f. said injection and change-in-charge-state being accomplished for a period of time so that said ion beams attain a density greater than 1012 particles per cubic centimeter; g. said ion beams consisting of fusible species such as deuterons and tritons whose velocities are approximately in the same direction and whose speeds differ so as to cause fusion reactions in overtaking collisions between said ion beams, this being stated mathematically: V.sub.D =V.sub.T +V.sub.rel    where VD represents the velocity of one species of fusible ions, such as deuterons, VT represents the velocity of another species of fusible ions, such as tritons, and Vrel represents the difference in velocity of said fusible species, such as deuterons and tritons; h. said ion beams such as deuterons and tritons having approximately equal momentum per unit charge this being stated mathematically:QD : electric charge of species D QT : electric charge of species T Q.sub.T M.sub.D V.sub.D =M.sub.T V.sub.T Q.sub.D     where MD and VD represent, respectively, the mass and the velocity of one species of fusible ions, such as deuterons, and MT and VT represent, respectively, the mass and the velocity of another species of fusible ions, such as tritons; i. means for producing electrons within and in the vicinity of said ion beams so as to substantially neutralize the charge of said ion beams, thereby producing an essentially neutral plasma.",
+    "2. The invention of claim 1 for producing nuclear fusion reactions modified in that means for producing magnetic fields are further defined to be of the \"strong-focusing\" type having alternating-gradients in successive magnets.",
+    "3. The invention of claim 1 for producing nuclear fusion reactions modified in that means for producing magnetic fields are further defined to be of the \"strong-focusing\" type in the essentially straight portion of said elongated vacuum chamber, and are of the \"cyclotron\" type, having north and south magnetic poles, positioned at the connecting end portions of the vacuum chamber.",
+    "4. The invention of claim 1 for producing nuclear fusion reactions modified in that means for producing magnetic fields are further defined to be produced by solenoids, for which the magnetic field vector is parallel to the axis of said vacuum chamber.",
+    "5. The invention of claim 1 for producing nuclear fusion reactions modified in that means for producing magnetic fields are further defined in that the magnetic fields are produced by solenoids, said field-producing windings being distributed on the surface of a \"figure-eight\" configuration.",
+    "6. The invention of claim 1 for producing nuclear fusion reactions modified in that means for producing electric fields are further defined in that the electric fields are of the \"strong-focusing\" type having alternating-gradient electric fields in successive units.",
+    "7. The invention of claim 4 for producing nuclear fusion reactions modified in that means for producing magnetic fields are further defined in that \"cyclotron\" type magnet means, having north and south poles, are superimposed on the solenoidal windings, at the connecting end portions of the vacuum chamber.",
+    "8. The invention of claim 5 for producing nuclear fusion reactions modified in that means for producing magnetic fields are further defined in that \"cyclotron\" type magnet means, having north and south poles, are superimposed on the solenoidal windings of the figure-eight configuration, at the connecting end portions of the vacuum chamber.",
+    "9. The invention of claim 1 for producing nuclear fusion reactions further defined to include deuterons and tritons as the fusible species.",
+    "10. The invention of claim 1 for producing nuclear fusion reactions further defined to include deuterons of approximately 1,500,000 electron-volts energy and tritons of approximately 1,000,000 electron-volts energy, as nominal values of kinetic energy after being trapped in the magnetic field.",
+    "11. The invention of claim 1 for producing nuclear fusion reactions further defined to include deuterons of approximately 1,800,000 electrons-volts energy and He3, namely doubly-charged helium ions which have the isotopic mass number of three, of 4,800,000 electron-volts energy, as nominal values of kinetic energy after being trapped in the magnetic field, these kinetic energy values being applicable in the laboratory frame of reference and which satisfy the relation: Q.sub.He M.sub.D V.sub.D =Q.sub.D M.sub.He V.sub.He  where QD and QHe represent, respectively, the ionic charges of a deuteron and a helium nucleus, MD and VD represent, respectively the mass and the velocity of a deuteron, MHe and VHe represent, respectively, the mass and the velocity of the doubly-charged helium ions which have the isotopic mass number of three.",
+    "12. The invention of claim 1 for producing nuclear fusion reactions further defined to include deuterons of approximately 1,600,000 electron-volts energy, tritons of approximately 1,000,000 electron-volts energy, and He3 doubly-charged ions of approximately 4,800,000 electron-volts energy, all three types of ions having velocities in the same direction and essentially parallel to each other and to the axis of the vacuum chamber."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US05/938,321",
+      "representative_publication": "US4246067A",
+      "primary_language": "en",
+      "priority_date": "1978-08-30",
+      "filing_date": "1978-08-30",
+      "title": "Thermonuclear fusion system"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US05/938,321",
+      "representative_publication": "US4246067A",
+      "primary_language": "en",
+      "priority_date": "1978-08-30",
+      "filing_date": "1978-08-30",
+      "title": "Thermonuclear fusion system"
+    }
+  ],
+  "family_id": "25471265",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "GB844291A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1957-12-24",
+        "publication_date": "1960-08-10",
+        "assignee_original": "Atomic Energy Commission",
+        "title": "Thermonuclear reactor",
+        "patent_id": "patent/GB844291A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB844291A%2Fen"
+      },
+      {
+        "publication_number": "US3085173A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1961-08-17",
+        "publication_date": "1963-04-09",
+        "assignee_original": "Gibson Gordon",
+        "title": "Apparatus for trapping energetic charged particles and confining the resulting plasma",
+        "patent_id": "patent/US3085173A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3085173A%2Fen"
+      },
+      {
+        "publication_number": "US3093765A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1959-04-20",
+        "publication_date": "1963-06-11",
+        "assignee_original": "Commissariat Energie Atomique",
+        "title": "Ion injection device for thermonuclear plasma apparatus",
+        "patent_id": "patent/US3093765A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3093765A%2Fen"
+      },
+      {
+        "publication_number": "US4065351A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1976-03-25",
+        "publication_date": "1977-12-27",
+        "assignee_original": "The United States Of America As Represented By The United States Energy Research And Development Administration",
+        "title": "Particle beam injection system",
+        "patent_id": "patent/US4065351A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4065351A%2Fen"
+      },
+      {
+        "publication_number": "US4115191A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1977-06-14",
+        "publication_date": "1978-09-19",
+        "assignee_original": "The United States Of America As Represented By The Secretary Of The Navy",
+        "title": "Tokamak plasma heating with intense, pulsed, ion beams",
+        "patent_id": "patent/US4115191A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4115191A%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "IEEE Trans. on Nuc. Sc., vol. NS-22, No. 3 (6/75) pp. 1790-1793, Maglich et al."
+    },
+    {
+      "title": "IEEE Trans. Plas. Sci., vol. PS-6, No. 3 (9/78, pp. 270-295."
+    },
+    {
+      "title": "Phys. Rev. Lett., vol. 27, No. 14 (10/4/71) pp. 909-912, Maglich et al."
+    },
+    {
+      "title": "Physics Today (5/79) pp. 25-32, Murakami et al."
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US4421713A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1981-03-25",
+        "publication_date": "1983-12-20",
+        "assignee_original": "The United States Of America As Represented By The Secretary Of The Navy",
+        "title": "Tokamak plasma heating with intense, pulsed ion beams",
+        "patent_id": "patent/US4421713A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4421713A%2Fen"
+      },
+      {
+        "publication_number": "US4650630A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1982-02-11",
+        "publication_date": "1987-03-17",
+        "assignee_original": "Boyer John L",
+        "title": "Process and apparatus for producing nuclear fusion energy",
+        "patent_id": "patent/US4650630A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4650630A%2Fen"
+      },
+      {
+        "publication_number": "FR2600811A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-06-27",
+        "publication_date": "1987-12-31",
+        "assignee_original": "Ansaldo Spa",
+        "title": "Process of thermonuclear fusion using a particle beam",
+        "patent_id": "patent/FR2600811A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2600811A1%2Fen"
+      },
+      {
+        "publication_number": "USH446H",
+        "primary_language": "en",
+        "priority_date": "1986-04-18",
+        "publication_date": "1988-03-01",
+        "assignee_original": "The United States Of America As Represented By The United States Department Of Energy",
+        "title": "Method of controlling fusion reaction rates",
+        "patent_id": "patent/USH446H/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSH446H%2Fen"
+      },
+      {
+        "publication_number": "EP0232330A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-07-25",
+        "publication_date": "1988-06-23",
+        "assignee_original": "Apricot Sa",
+        "title": "PRODUCTION OF A COHERENT BEAM OF BOSONS.",
+        "patent_id": "patent/EP0232330A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0232330A4%2Fen"
+      },
+      {
+        "publication_number": "US4782303A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-04-06",
+        "publication_date": "1988-11-01",
+        "assignee_original": "Linlor William I",
+        "title": "Current guiding system",
+        "patent_id": "patent/US4782303A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4782303A%2Fen"
+      },
+      {
+        "publication_number": "EP0346092A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-06-07",
+        "publication_date": "1989-12-13",
+        "assignee_original": "Apricot S.A.",
+        "title": "Method and apparatus for producing nuclear energy",
+        "patent_id": "patent/EP0346092A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0346092A1%2Fen"
+      },
+      {
+        "publication_number": "WO1994001869A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-07-02",
+        "publication_date": "1994-01-20",
+        "assignee_original": "Russell Joseph A",
+        "title": "Storage ring fusion energy generator",
+        "patent_id": "patent/WO1994001869A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1994001869A1%2Fen"
+      },
+      {
+        "publication_number": "US5339336A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-02-17",
+        "publication_date": "1994-08-16",
+        "assignee_original": "Cornell Research Foundation, Inc.",
+        "title": "High current ion ring accelerator",
+        "patent_id": "patent/US5339336A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5339336A%2Fen"
+      },
+      {
+        "publication_number": "US5930313A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-12-03",
+        "publication_date": "1999-07-27",
+        "assignee_original": "The United States Of America As Represented By The Secretary Of The Navy",
+        "title": "Method and apparatus for transporting an intense ion beam",
+        "patent_id": "patent/US5930313A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5930313A%2Fen"
+      },
+      {
+        "publication_number": "EP0873561A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-09-11",
+        "publication_date": "2001-05-16",
+        "assignee_original": "Univ California",
+        "title": "FUSION REACTOR WHICH PRODUCES NET POWER FROM THE P-B11 REACTION",
+        "patent_id": "patent/EP0873561A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0873561A4%2Fen"
+      },
+      {
+        "publication_number": "US6628740B2",
+        "primary_language": "en",
+        "priority_date": "1997-10-17",
+        "publication_date": "2003-09-30",
+        "assignee_original": "The Regents Of The University Of California",
+        "title": "Controlled fusion in a field reversed configuration and direct energy conversion",
+        "patent_id": "patent/US6628740B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6628740B2%2Fen"
+      },
+      {
+        "publication_number": "US20030214263A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-19",
+        "publication_date": "2003-11-20",
+        "assignee_original": "Monkhorst Hendrik J.",
+        "title": "Controlled fusion in a field reversed configuration and direct energy conversion",
+        "patent_id": "patent/US20030214263A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030214263A1%2Fen"
+      },
+      {
+        "publication_number": "US20030221622A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-02-01",
+        "publication_date": "2003-12-04",
+        "assignee_original": "The Regents Of The University Of California",
+        "title": "Formation of a field reversed configuration for magnetic and electrostatic confinement of plasma",
+        "patent_id": "patent/US20030221622A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030221622A1%2Fen"
+      },
+      {
+        "publication_number": "US20040130277A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-10-17",
+        "publication_date": "2004-07-08",
+        "assignee_original": "Monkhorst Hendrik J.",
+        "title": "Controlled fusion in a field reversed configuration and direct energy conversion",
+        "patent_id": "patent/US20040130277A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040130277A1%2Fen"
+      },
+      {
+        "publication_number": "DE10334452A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-07-26",
+        "publication_date": "2005-11-03",
+        "assignee_original": "Forschungszentrum J\u00fclich GmbH",
+        "title": "Catalyst arrangement, for use in storage ring for executing experiments of high-level particle physics, has cavity providing closed path,where path and field component are measured, so that integral in component runs over path circumference",
+        "patent_id": "patent/DE10334452A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10334452A1%2Fen"
+      },
+      {
+        "publication_number": "DE10125760B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-05-17",
+        "publication_date": "2006-03-16",
+        "assignee_original": "Bakal, Semen, Dr.",
+        "title": "Apparatus for generating collisions of opposing ion bundles",
+        "patent_id": "patent/DE10125760B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10125760B4%2Fen"
+      },
+      {
+        "publication_number": "DE10033969B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-07-06",
+        "publication_date": "2006-07-13",
+        "assignee_original": "Bakal, Semen, Dr.",
+        "title": "Apparatus for generating collisions of opposing ion bundles",
+        "patent_id": "patent/DE10033969B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10033969B4%2Fen"
+      },
+      {
+        "publication_number": "US20060254520A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-07",
+        "publication_date": "2006-11-16",
+        "assignee_original": "The Regents Of The University Of California",
+        "title": "RF current drive for plasma electric generation system",
+        "patent_id": "patent/US20060254520A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060254520A1%2Fen"
+      },
+      {
+        "publication_number": "US20060267503A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-07",
+        "publication_date": "2006-11-30",
+        "assignee_original": "Vitaly Bystriskii",
+        "title": "Inductive plasma source for plasma electric generation system",
+        "patent_id": "patent/US20060267503A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060267503A1%2Fen"
+      },
+      {
+        "publication_number": "US20060267504A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-07",
+        "publication_date": "2006-11-30",
+        "assignee_original": "Vandrie Alan",
+        "title": "Vacuum chamber for plasma electric generation system",
+        "patent_id": "patent/US20060267504A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060267504A1%2Fen"
+      },
+      {
+        "publication_number": "US20070073802A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-27",
+        "publication_date": "2007-03-29",
+        "assignee_original": "Match.Com, L.P.",
+        "title": "System and method for providing on-line dating features in a network environment",
+        "patent_id": "patent/US20070073802A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070073802A1%2Fen"
+      },
+      {
+        "publication_number": "DE102007022302A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-05-12",
+        "publication_date": "2008-11-13",
+        "assignee_original": "Jochen Prasser",
+        "title": "Controlled nuclear fusion causing device for use in military, has accelerated fusion material including solid body, where acceleration of fusion material takes place in accelerator of device via introduction of radiation energy",
+        "patent_id": "patent/DE102007022302A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102007022302A1%2Fen"
+      },
+      {
+        "publication_number": "FR2936899A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-07",
+        "publication_date": "2010-04-09",
+        "assignee_original": "Pierre Marcel Bourgogne",
+        "title": "Thermonuclear fusion realizing device i.e. pressure confining multi-reactor, for producing electricity in district heating application, has chambers filled with reaction gas mixed with gas to be confined e.g. nitrogen, argon or neon",
+        "patent_id": "patent/FR2936899A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2936899A1%2Fen"
+      },
+      {
+        "publication_number": "WO2010040912A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-07",
+        "publication_date": "2010-04-15",
+        "assignee_original": "Pierre Bourgogne",
+        "title": "Thermonuclear fusion multi-reactor",
+        "patent_id": "patent/WO2010040912A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2010040912A1%2Fen"
+      },
+      {
+        "publication_number": "US20130058446A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-06-10",
+        "publication_date": "2013-03-07",
+        "assignee_original": "Xian-Jun Zheng",
+        "title": "Continuous fusion due to energy concentration through focusing of converging fuel particle beams",
+        "patent_id": "patent/US20130058446A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130058446A1%2Fen"
+      },
+      {
+        "publication_number": "US20130114773A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-08",
+        "publication_date": "2013-05-09",
+        "assignee_original": "Alexander R. Vaucher",
+        "title": "Superconducting neutron source",
+        "patent_id": "patent/US20130114773A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130114773A1%2Fen"
+      },
+      {
+        "publication_number": "US8575867B2",
+        "primary_language": "en",
+        "priority_date": "2008-12-05",
+        "publication_date": "2013-11-05",
+        "assignee_original": "Cornell University",
+        "title": "Electric field-guided particle accelerator, method, and applications",
+        "patent_id": "patent/US8575867B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8575867B2%2Fen"
+      },
+      {
+        "publication_number": "US9997261B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-14",
+        "publication_date": "2018-06-12",
+        "assignee_original": "The Regents Of The University Of California",
+        "title": "Systems and methods for forming and maintaining a high performance FRC",
+        "patent_id": "patent/US9997261B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9997261B2%2Fen"
+      },
+      {
+        "publication_number": "US10049774B2",
+        "primary_language": "en",
+        "priority_date": "2013-09-24",
+        "publication_date": "2018-08-14",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for forming and maintaining a high performance FRC",
+        "patent_id": "patent/US10049774B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10049774B2%2Fen"
+      },
+      {
+        "publication_number": "US10217532B2",
+        "primary_language": "en",
+        "priority_date": "2014-10-13",
+        "publication_date": "2019-02-26",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for merging and compressing compact tori",
+        "patent_id": "patent/US10217532B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10217532B2%2Fen"
+      },
+      {
+        "publication_number": "CN109862686A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-02-02",
+        "publication_date": "2019-06-07",
+        "assignee_original": "\u60e0\u5dde\u79bb\u5b50\u79d1\u5b66\u7814\u7a76\u4e2d\u5fc3",
+        "title": "Ion-ion co-beam device",
+        "patent_id": "patent/CN109862686A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109862686A%2Fen"
+      },
+      {
+        "publication_number": "US10418170B2",
+        "primary_language": "en",
+        "priority_date": "2015-05-12",
+        "publication_date": "2019-09-17",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for reducing undesired eddy currents",
+        "patent_id": "patent/US10418170B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10418170B2%2Fen"
+      },
+      {
+        "publication_number": "US10440806B2",
+        "primary_language": "en",
+        "priority_date": "2014-10-30",
+        "publication_date": "2019-10-08",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for forming and maintaining a high performance FRC",
+        "patent_id": "patent/US10440806B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10440806B2%2Fen"
+      },
+      {
+        "publication_number": "US11195627B2",
+        "primary_language": "en",
+        "priority_date": "2016-10-28",
+        "publication_date": "2021-12-07",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for improved sustainment of a high performance FRC plasma at elevated energies utilizing neutral beam injectors with tunable beam energies",
+        "patent_id": "patent/US11195627B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11195627B2%2Fen"
+      },
+      {
+        "publication_number": "US11211172B2",
+        "primary_language": "en",
+        "priority_date": "2016-11-04",
+        "publication_date": "2021-12-28",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for improved sustainment of a high performance FRC with multi-scaled capture type vacuum pumping",
+        "patent_id": "patent/US11211172B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11211172B2%2Fen"
+      },
+      {
+        "publication_number": "US11217351B2",
+        "primary_language": "en",
+        "priority_date": "2015-11-13",
+        "publication_date": "2022-01-04",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for FRC plasma position stability",
+        "patent_id": "patent/US11217351B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11217351B2%2Fen"
+      },
+      {
+        "publication_number": "US11335467B2",
+        "primary_language": "en",
+        "priority_date": "2016-11-15",
+        "publication_date": "2022-05-17",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for improved sustainment of a high performance FRC and high harmonic fast wave electron heating in a high performance FRC",
+        "patent_id": "patent/US11335467B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11335467B2%2Fen"
+      },
+      {
+        "publication_number": "WO2023014707A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-08-02",
+        "publication_date": "2023-02-09",
+        "assignee_original": "The Trustees Of Princeton University",
+        "title": "Magnetic orbital angular momentum beam acceleration",
+        "patent_id": "patent/WO2023014707A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023014707A1%2Fen"
+      },
+      {
+        "publication_number": "US20230080823A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-14",
+        "publication_date": "2023-03-16",
+        "assignee_original": "Suzhen CHEN",
+        "title": "Device and method for third low-temperature controllable nuclear fusion",
+        "patent_id": "patent/US20230080823A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230080823A1%2Fen"
+      },
+      {
+        "publication_number": "US20250014767A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-07-05",
+        "publication_date": "2025-01-09",
+        "assignee_original": "Cornell University",
+        "title": "Fusion-power generation method",
+        "patent_id": "patent/US20250014767A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250014767A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US4246067A",
+      "primary_language": "en",
+      "publication_date": "1981-01-20",
+      "title": "Thermonuclear fusion system",
+      "patent_id": "patent/US4246067A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4246067A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2187713B9",
+      "primary_language": "en",
+      "publication_date": "2015-11-04",
+      "title": "Magnetic and electrostatic confinement of plasma in a field reversed configuration",
+      "patent_id": "patent/EP2187713B9/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2187713B9%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4347621A",
+      "primary_language": "en",
+      "publication_date": "1982-08-31",
+      "title": "Trochoidal nuclear fusion reactor",
+      "patent_id": "patent/US4347621A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4347621A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4166760A",
+      "primary_language": "en",
+      "publication_date": "1979-09-04",
+      "title": "Plasma confinement apparatus using solenoidal and mirror coils",
+      "patent_id": "patent/US4166760A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4166760A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EA007870B1",
+      "primary_language": "en",
+      "publication_date": "2007-02-27",
+      "title": "A system of converting fusion product energies",
+      "patent_id": "patent/EA007870B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEA007870B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2018185321A",
+      "primary_language": "en",
+      "publication_date": "2018-11-22",
+      "title": "Method, device, and system for reducing neutron inside small scale non-contaminant emission nuclear reactor",
+      "patent_id": "patent/JP2018185321A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2018185321A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20110158369A1",
+      "primary_language": "en",
+      "publication_date": "2011-06-30",
+      "title": "Cellular, electron cooled storage ring system and method for fusion power generation",
+      "patent_id": "patent/US20110158369A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110158369A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7549295390844965387",
+      "scholar_authors": "Craddock et al.",
+      "publication_date": "2008",
+      "title": "Cyclotrons and fixed-field alternating-gradient accelerators",
+      "patent_id": "scholar/7549295390844965387",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7549295390844965387"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080205573A1",
+      "primary_language": "en",
+      "publication_date": "2008-08-28",
+      "title": "Cellular, Electron Cooled Storage Ring System and Method for Fusion Power Generation",
+      "patent_id": "patent/US20080205573A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080205573A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5162094A",
+      "primary_language": "en",
+      "publication_date": "1992-11-10",
+      "title": "Fusion power generating system",
+      "patent_id": "patent/US5162094A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5162094A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10466785665314286680",
+      "scholar_authors": "D\u00fcchs",
+      "publication_date": "1972",
+      "title": "Controlled Fusion and Plasma Physics: Report on the Fifth European Conference held in Grenoble, France, 21\u201325 August 1972",
+      "patent_id": "scholar/10466785665314286680",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10466785665314286680"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4240873A",
+      "primary_language": "en",
+      "publication_date": "1980-12-23",
+      "title": "Solenoidal fusion system",
+      "patent_id": "patent/US4240873A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4240873A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230140886A1",
+      "primary_language": "en",
+      "publication_date": "2023-05-11",
+      "title": "Orbital confinement fusion device",
+      "patent_id": "patent/US20230140886A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230140886A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "537219392006905160",
+      "scholar_authors": "Rodin",
+      "publication_date": "2023",
+      "title": "Low-Energy Beam Preparation for the Next Generation Antimatter Experiments",
+      "patent_id": "scholar/537219392006905160",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F537219392006905160"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17839076847755567924",
+      "scholar_authors": "Kurchatov",
+      "publication_date": "1958",
+      "title": "Research on controlled thermonuclear reactions at the atomic energy institute of the USSR academy of sciences",
+      "patent_id": "scholar/17839076847755567924",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17839076847755567924"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2539139813494894880",
+      "scholar_authors": "Glasstone",
+      "publication_date": "1968",
+      "title": "Controlled nuclear fusion",
+      "patent_id": "scholar/2539139813494894880",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2539139813494894880"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13102445099760848434",
+      "scholar_authors": "De Hoon",
+      "publication_date": "2001",
+      "title": "Drift compression and final focus systems for heavy ion inertial fusion",
+      "patent_id": "scholar/13102445099760848434",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13102445099760848434"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5013548294225180607",
+      "scholar_authors": "Humphries Jr et al.",
+      "publication_date": "1981",
+      "title": "Pulselac program: Space charge neutralized ion beams for inertial fusion applications",
+      "patent_id": "scholar/5013548294225180607",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5013548294225180607"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3977550203856663087",
+      "scholar_authors": "Luce",
+      "publication_date": "1962",
+      "title": "Controlled fusion propulsion",
+      "patent_id": "scholar/3977550203856663087",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3977550203856663087"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3899437081420333733",
+      "scholar_authors": "POST",
+      "publication_date": "2012",
+      "title": "FUSION, VOLUME 1, PART A",
+      "patent_id": "scholar/3899437081420333733",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3899437081420333733"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14046905977155006233",
+      "scholar_authors": "Clark",
+      "publication_date": "1969",
+      "title": "Survey of external injection systems for cyclotrons",
+      "patent_id": "scholar/14046905977155006233",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14046905977155006233"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17244605988876180533",
+      "scholar_authors": "Barnett et al.",
+      "publication_date": "2000",
+      "title": "Creating Extremely High-Energy Collisions",
+      "patent_id": "scholar/17244605988876180533",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17244605988876180533"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5377367613826278696",
+      "scholar_authors": "Adonin et al.",
+      "publication_date": "2006",
+      "title": "16. International Symposium on Heavy Ion Inertial Fusion (HIF'06)",
+      "patent_id": "scholar/5377367613826278696",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5377367613826278696"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6209858339824390233",
+      "scholar_authors": "Rostoker et al.",
+      "publication_date": "1979",
+      "title": "Collective Methods of Acceleration: Papers Presented at the Third International Conference on Collective Methods of Acceleration, Dedicated to the Late Gersh Itskovich (Andr\u00e9) Budker, University of California, Irvine, May 22-25, 1978",
+      "patent_id": "scholar/6209858339824390233",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6209858339824390233"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "4610638896714925972",
+      "scholar_authors": "Joshi et al.",
+      "publication_date": "0",
+      "title": "PANEL DISCUSSION ON THE CHALLENGE OF ULTRA-HIGH ENERGIES\u00b7",
+      "patent_id": "scholar/4610638896714925972",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F4610638896714925972"
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "230000004927",
+        "name": "fusion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 83
+      },
+      {
+        "id": "150000002500",
+        "name": "ions",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 109
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 47
+      },
+      {
+        "id": "238000010884",
+        "name": "ion-beam technique",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 44
+      },
+      {
+        "id": "230000007935",
+        "name": "neutral effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 43
+      },
+      {
+        "id": "239000002245",
+        "name": "particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "238000002347",
+        "name": "injection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "239000007924",
+        "name": "injection",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "238000004804",
+        "name": "winding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "239000007789",
+        "name": "gas",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "230000005684",
+        "name": "electric field",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "-1",
+        "name": "deuterons",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000001307",
+        "name": "helium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052734",
+        "name": "helium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000155",
+        "name": "isotopic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000002371",
+        "name": "helium",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "GPRLSGONYQIRFK-MNYXATJNSA-N",
+        "name": "triton",
+        "domain": "Chemical compound",
+        "smiles": "[3H+]",
+        "inchi_key": "GPRLSGONYQIRFK-MNYXATJNSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 49
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "230000005591",
+        "name": "charge neutralization",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "125000004429",
+        "name": "atom",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 24
+      },
+      {
+        "id": "150000001793",
+        "name": "charged compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "210000002381",
+        "name": "plasma",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "YZCKVEUIGOORGS-NJFSPNSNSA-N",
+        "name": "Tritium",
+        "domain": "Chemical compound",
+        "smiles": "[3H]",
+        "inchi_key": "YZCKVEUIGOORGS-NJFSPNSNSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "125000004431",
+        "name": "deuterium atom",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "229910052805",
+        "name": "deuterium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "238000004364",
+        "name": "calculation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "230000006698",
+        "name": "induction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000006386",
+        "name": "neutralization reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "YZCKVEUIGOORGS-OUBTZVSYSA-N",
+        "name": "Deuterium",
+        "domain": "Chemical compound",
+        "smiles": "[2H]",
+        "inchi_key": "YZCKVEUIGOORGS-OUBTZVSYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "229910052722",
+        "name": "tritium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "XEEYBQQBJWHFJM-UHFFFAOYSA-N",
+        "name": "Iron",
+        "domain": "Chemical compound",
+        "smiles": "[Fe]",
+        "inchi_key": "XEEYBQQBJWHFJM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000010494",
+        "name": "dissociation reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000005593",
+        "name": "dissociations",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000002474",
+        "name": "experimental method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000000654",
+        "name": "additive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000000996",
+        "name": "additive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000011160",
+        "name": "research",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "150000001975",
+        "name": "deuterium",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000003993",
+        "name": "interaction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000003472",
+        "name": "neutralizing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000004458",
+        "name": "analytical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052796",
+        "name": "boron",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000009826",
+        "name": "distribution",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052739",
+        "name": "hydrogen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000001257",
+        "name": "hydrogen",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000000752",
+        "name": "ionisation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052742",
+        "name": "iron",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000047",
+        "name": "product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "ZOXJGFHDIHLPTG-UHFFFAOYSA-N",
+        "name": "Boron",
+        "domain": "Chemical compound",
+        "smiles": "[B]",
+        "inchi_key": "ZOXJGFHDIHLPTG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+        "name": "Hydrogen",
+        "domain": "Chemical compound",
+        "smiles": "[H][H]",
+        "inchi_key": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "name": "Lithium",
+        "domain": "Chemical compound",
+        "smiles": "[Li]",
+        "inchi_key": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "name": "aluminium",
+        "domain": "Chemical compound",
+        "smiles": "[Al]",
+        "inchi_key": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052782",
+        "name": "aluminium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003491",
+        "name": "array",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007795",
+        "name": "chemical reaction product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000470",
+        "name": "constituent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000004122",
+        "name": "cyclic group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005611",
+        "name": "electricity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005686",
+        "name": "electrostatic field",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002708",
+        "name": "enhancing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011888",
+        "name": "foil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000446",
+        "name": "fuel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007499",
+        "name": "fusion processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+        "name": "helium atom",
+        "domain": "Chemical compound",
+        "smiles": "[He]",
+        "inchi_key": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002431",
+        "name": "hydrogen",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004615",
+        "name": "ingredient",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052744",
+        "name": "lithium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000010412",
+        "name": "perfusion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000035699",
+        "name": "permeability",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011084",
+        "name": "recovery",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012552",
+        "name": "review",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000126",
+        "name": "substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,4025 @@
+{
+  "search_metadata": {
+    "id": "685256cac75443537e1aede3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a5581888cf50408d/685256cac75443537e1aede3.json",
+    "created_at": "2025-06-18 06:03:54 UTC",
+    "processed_at": "2025-06-18 06:03:54 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/WO2003021697A2/en",
+    "raw_html_file": "https://serpapi.com/searches/a5581888cf50408d/685256cac75443537e1aede3.html",
+    "total_time_taken": 1.08
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/WO2003021697A2/en"
+  },
+  "title": "Electric separator, method for producing the same and the use thereof",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/b4/a4/7a/eda6ecd79e37d0/WO2003021697A2.pdf",
+  "publication_number": "WO2003021697A2",
+  "country": "WIPO (PCT)",
+  "prior_art_keywords": [
+    "separator",
+    "substrate",
+    "coating",
+    "glass",
+    "woven"
+  ],
+  "prior_art_date": "2001-08-31",
+  "application_number": "PCT/EP2002/009266",
+  "inventors": [
+    {
+      "name": "Volker Hennige",
+      "link": "https://patents.google.com/?inventor=Volker+Hennige",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Volker+Hennige"
+    },
+    {
+      "name": "Christian Hying",
+      "link": "https://patents.google.com/?inventor=Christian+Hying",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Christian+Hying"
+    },
+    {
+      "name": "Gerhard H\u00d6RPEL",
+      "link": "https://patents.google.com/?inventor=Gerhard+H%C3%96RPEL",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Gerhard+H%C3%96RPEL"
+    }
+  ],
+  "priority_date": "2001-08-31",
+  "filing_date": "2002-08-20",
+  "publication_date": "2003-03-13",
+  "worldwide_applications": {
+    "2001": [
+      {
+        "filing_date": "2001-08-31",
+        "country_code": "DE",
+        "application_number": "DE10142622A",
+        "document_id": "patent/DE10142622A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      }
+    ],
+    "2002": [
+      {
+        "filing_date": "2002-08-20",
+        "country_code": "US",
+        "application_number": "US10/487,245",
+        "document_id": "patent/US7351494B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      },
+      {
+        "filing_date": "2002-08-20",
+        "country_code": "AT",
+        "application_number": "AT02797544T",
+        "document_id": "patent/ATE286627T1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "IP Right Cessation"
+      },
+      {
+        "filing_date": "2002-08-20",
+        "country_code": "AU",
+        "application_number": "AU2002333473A",
+        "document_id": "patent/AU2002333473A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      },
+      {
+        "filing_date": "2002-08-20",
+        "country_code": "DE",
+        "application_number": "DE50201967T",
+        "document_id": "patent/DE50201967D1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      },
+      {
+        "filing_date": "2002-08-20",
+        "country_code": "JP",
+        "application_number": "JP2003525926A",
+        "document_id": "patent/JP4320251B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      },
+      {
+        "filing_date": "2002-08-20",
+        "country_code": "WO",
+        "application_number": "PCT/EP2002/009266",
+        "document_id": "patent/WO2003021697A2/en",
+        "legal_status_cat": "active",
+        "legal_status": "IP Right Grant",
+        "this_app": true
+      },
+      {
+        "filing_date": "2002-08-20",
+        "country_code": "EP",
+        "application_number": "EP02797544A",
+        "document_id": "patent/EP1419544B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      },
+      {
+        "filing_date": "2002-08-28",
+        "country_code": "TW",
+        "application_number": "TW091119495A",
+        "document_id": "patent/TW561643B/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "IP Right Cessation"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2002-08-20",
+      "title": "Application filed by Creavis Gesellschaft F\u00fcr Technologie Und Innovation Mbh",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Creavis Gesellschaft F\u00fcr Technologie Und Innovation Mbh"
+    },
+    {
+      "date": "2002-08-20",
+      "title": "Priority to EP02797544A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/EP1419544B1/en"
+    },
+    {
+      "date": "2002-08-20",
+      "title": "Priority to US10/487,245",
+      "type": "priority",
+      "document_id": "patent/US7351494B2/en"
+    },
+    {
+      "date": "2002-08-20",
+      "title": "Priority to DE50201967T",
+      "type": "priority",
+      "document_id": "patent/DE50201967D1/en"
+    },
+    {
+      "date": "2002-08-20",
+      "title": "Priority to JP2003525926A",
+      "type": "priority",
+      "document_id": "patent/JP4320251B2/en"
+    },
+    {
+      "date": "2002-08-20",
+      "title": "Priority to AT02797544T",
+      "type": "priority",
+      "document_id": "patent/ATE286627T1/en"
+    },
+    {
+      "date": "2002-08-20",
+      "title": "Priority to AU2002333473A",
+      "type": "priority",
+      "document_id": "patent/AU2002333473A1/en"
+    },
+    {
+      "date": "2003-03-13",
+      "title": "Publication of WO2003021697A2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/WO2003021697A2/en"
+    },
+    {
+      "date": "2003-12-18",
+      "title": "Publication of WO2003021697A3",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/WO2003021697A3/en"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&NR=03021697A2&KC=A2&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/WIPO/PCTEP2002009266/1"
+    },
+    {
+      "text": "PatentScope",
+      "link": "https://patentscope.wipo.int/search/en/WO2003021697"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/WO2003021697A2"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "H01M50/44",
+      "description": "Fibrous material",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/434",
+      "description": "Ceramics",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/437",
+      "description": "Glass",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/454",
+      "description": "Separators, membranes or diaphragms characterised by the material having a layered structure comprising a non-fibrous layer and a fibrous layer superimposed on one another",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The invention relates to electric separators and to a method for producing the same. An electric separator is a separator that is used in batteries and other assemblies, in which electrodes must be separated from one another, e.g. whilst maintaining ion conductivity. The separator is preferably a thin, porous, insulating material with a high ion permeability, excellent mechanical strength and long-term stability against the chemicals and solvents used in the system, e.g. in the electrolyte of the battery. In batteries, the aim of the separator is to completely insulate the cathode from the anode. In addition, the separator must be permanently elastic and follow the displacements in the system, e.g. in the electrode package during charging and discharging. This is achieved by an inventive electric separator comprising a flat, flexible substrate provided with a plurality of orifices and a coating both on and in said substrate. The substrate material is selected from woven or nonwoven, electrically non-conductive glass or ceramic fibres, or a combination of materials of this type and the coating is a porous, electrically insulating ceramic coating. The separator is characterised in that it has a thickness of less than 100 \u03bdm.",
+  "description_link": "https://serpapi.com/searches/685256cac75443537e1aede3/google_patents_details/description.html",
+  "claims": [
+    "1. Separator, umfassend ein fl\u00e4chiges, mit einer Vielzahl von \u00d6ffnungen versehenes, flexibles Substrat mit einer auf und in diesem Substrat befindlichen Beschichtung, wobei das Material des Substrates ausgew\u00e4hlt ist aus gewebten oder ungewebten, nicht elektrisch leitf\u00e4higen Fasern von Glas oder Keramik oder einer Kombination solcher Materialien und die Beschichtung eine por\u00f6se, elektrisch isolierende, keramische Beschichtung ist, dadurch gekennzeichnet, dass der Separator eine Dicke von kleiner 100 \u03bcm aufweist.1. Separator, comprising a flat, provided with a plurality of openings, flexible substrate with a coating on and in this substrate, wherein the material of the substrate is selected from woven or non-woven, non-electrically conductive fibers of glass or ceramic or a combination such materials and the coating is a porous, electrically insulating, ceramic coating, characterized in that the separator has a thickness of less than 100 microns.",
+    "2. Separator gem\u00e4\u00df Anspruch 1, dadurch gekennzeichnet, dass der Separator eine Dicke von kleiner 50 \u03bcm aufweist.2. Separator according to claim 1, characterized in that the separator has a thickness of less than 50 microns.",
+    "3. Separator gem\u00e4\u00df einem der Anspr\u00fcche 1 oder 2, dadurch gekennzeichnet, dass die Fasern ausgew\u00e4hlt sind aus Glas, Aluminiumoxid, SiO , SiC, Si3N4, BN, B4N, A1N, Sialone oder ZrO2.3. Separator according to one of claims 1 or 2, characterized in that the fibers are selected from glass, aluminum oxide, SiO, SiC, Si 3 N 4 , BN, B 4 N, A1N, sialone or ZrO 2 .",
+    "4. Separator gem\u00e4\u00df zumindest einem der Anspr\u00fcche 1 bis 3, dadurch gekennzeichnet, dass das Material des Substrates ein Glasfasergewebe aus gewebten Fasern oder Filamenten aus Glas ist.4. Separator according to at least one of claims 1 to 3, characterized in that the material of the substrate is a glass fiber fabric made of woven fibers or filaments made of glass.",
+    "5. Separator gem\u00e4\u00df Anspruch 4, dadurch gekennzeichnet, dass die Fasern oder Filamente ausgew\u00e4hlt sind aus E-, R- oder S-Glas.5. Separator according to claim 4, characterized in that the fibers or filaments are selected from E, R or S glass.",
+    "6. Separator gem\u00e4\u00df Anspruch 5, dadurch gekennzeichnet,  dass die Filamente mit SiO2, ZrO2, TiO2 oder Al2O3 oder mit Gemischen dieser Oxide beschichtet sind.6. Separator according to claim 5, characterized in that  that the filaments are coated with SiO 2 , ZrO 2 , TiO2 or Al 2 O 3 or with mixtures of these oxides.",
+    "7. Separator gem\u00e4\u00df Anspruch 5 oder 6, dadurch gekennzeichnet, dass das Glasfasergewebe aus 2 bis 20 tex Garnen hergestellt wurde.7. Separator according to claim 5 or 6, characterized in that the glass fiber fabric was made from 2 to 20 tex yarns.",
+    "8. Separator gem\u00e4\u00df Anspruch 7, dadurch gekennzeichnet, dass das Glasfasergewebe aus 5,5 oder 11 tex Garnen hergestellt wurde.8. Separator according to claim 7, characterized in that the glass fiber fabric was made from 5.5 or 11 tex yarns.",
+    "9. Separator gem\u00e4\u00df zumindest einem der Anspr\u00fcche 1 bis 8, dadurch gekennzeichnet, dass die auf und in dem Substrat befindliche Beschichtung ein Oxid, Nitrid, Carbid der Metalle AI, Zr, Si, Sn, Ce, Mg, Hf, B, Ti und/oder Y, aufweist.9. Separator according to at least one of claims 1 to 8, characterized in that the coating on and in the substrate is an oxide, nitride, carbide of the metals AI, Zr, Si, Sn, Ce, Mg, Hf, B, Ti and / or Y has.",
+    "10. Separator gem\u00e4\u00df zumindest einem der Anspr\u00fcche 1 bis 9, dadurch gekennzeichnet, dass der Separator eine Rei\u00dffestigkeit von 5 N/cm bis 500 N/cm aufweist.10. Separator according to at least one of claims 1 to 9, characterized in that the separator has a tensile strength of 5 N / cm to 500 N / cm.",
+    "11. Separator gem\u00e4\u00df zumindest einem der Anspr\u00fcche 1 bis 10, dadurch gekennzeichnet, dass der Separator ohne Besch\u00e4digung bis auf einen Radius bis herab zu 100 mm biegbar ist.11. Separator according to at least one of claims 1 to 10, characterized in that the separator can be bent down to a radius of up to 100 mm without damage.",
+    "12. Verfahren zur Herstellung eines Separators gem\u00e4\u00df zumindest einem der Anspr\u00fcche 1 bis12. A method for producing a separator according to at least one of claims 1 to\n      \n      \n         11, dadurch gekennzeichnet, dass ein fl\u00e4chiges, mit einer Vielzahl von \u00d6ffnungen versehenes, flexibles Substrat in und auf diesem Substrat mit einer Beschichtung versehen wird, wobei das Material des11, characterized in that a flat, provided with a plurality of openings, flexible substrate is provided in and on this substrate with a coating, the material of the\n      \n      \n         Substrates ausgew\u00e4hlt ist aus gewebten oder ungewebten, nicht elektrisch leitf\u00e4higen  Fasern von Glas oder Keramik oder einer Kombination solcher Materialien und die Beschichtung eine por\u00f6se, elektrisch isolierende, keramische Beschichtung ist.Substrate is selected from woven or non-woven, not electrically conductive  Fibers of glass or ceramic or a combination of such materials and the coating is a porous, electrically insulating, ceramic coating.",
+    "13. Verfahren gem\u00e4\u00df Anspruch 12, dadurch gekennzeichnet, dass auf das Substrat durch Aufbringen einer Suspension, die zumindest, eine Verbindung zumindest eines Metalls, eines Halbmetalls oder eines Mischmetalls mit zumindest einem Element der 3. bis 7. Hauptgruppe aufweisende, anorganische Komponente und ein Sol aufweist, auf das Substrat und durch zumindest einmaliges Erw\u00e4rmen, bei welchem die zumindest eine anorganische Komponente aufweisende Suspension auf oder im oder aber auf und im Tr\u00e4ger verfestigt wird, eine Beschichtung aufgebracht wird.13. The method according to claim 12, characterized in that on the substrate by applying a suspension, the at least, a compound of at least one metal, a semimetal or a mixed metal with at least one element of the 3rd to 7th main group, and having an inorganic component Sol has, a coating is applied to the substrate and by at least one heating, in which the suspension having at least one inorganic component is solidified on or in or else on and in the carrier.",
+    "14. Verfahren nach Anspruch 13, dadurch gekennzeichnet, dass die Suspension durch Aufdrucken, Aufpressen, Einpressen Aufrollen, Aufrakeln,14. The method according to claim 13, characterized in that the suspension by printing, pressing, pressing, rolling, doctoring,\n      \n      \n         Aufstreichen, Tauchen, Spritzen oder Aufgie\u00dfen auf und in das Substrat gebracht wird.Spreading, dipping, spraying or pouring onto and into the substrate.",
+    "15. Verfahren nach zumindest einem der Anspr\u00fcche 12 bis 14, dadurch gekennzeichnet, dass die Fasern ausgew\u00e4hlt sind aus Glas, Aluminiumoxid, SiO2, SiC, Si3N4, BN, B4N,15. The method according to at least one of claims 12 to 14, characterized in that the fibers are selected from glass, aluminum oxide, SiO 2 , SiC, Si 3 N 4 , BN, B 4 N,\n      \n      \n         A1N; Sialone oder ZrO2.A1N; Sialone or ZrO 2 .",
+    "16. Verfahren nach zumindest einem der Anspr\u00fcche 12 bis 15, dadurch gekennzeichnet, dass das Material des Substrates ein Gewebe aus gewebten Glasfasern ist.16. The method according to at least one of claims 12 to 15, characterized in that the material of the substrate is a woven fabric made of woven glass fibers.",
+    "17. Verfahren nach zumindest einem der Anspr\u00fcche 13 bis 16, dadurch gekennzeichnet, dass die Suspension, die zumindest eine anorganische Komponente und zumindest ein Sol, zumindest ein Halbmetalloxidsol oder zumindest ein Mischmetalloxidsol oder eine17. The method according to at least one of claims 13 to 16, characterized in that the suspension, the at least one inorganic component and at least one sol, at least one semi-metal oxide sol or at least one mixed metal oxide sol or\n      \n      \n         Mischung dieser Sole aufweist, durch Suspendieren zumindest einer anorganischen  Komponente in zumindest einem dieser Sole hergestellt wird.Mixture of this brine has, by suspending at least one inorganic  Component is made in at least one of these brine.",
+    "18. Verfahren nach Anspruch 17, dadurch gekennzeichnet, dass die Sole durch Hydrolisieren zumindest einer Metallverbindung, zumindest einer18. The method according to claim 17, characterized in that the brine by hydrolyzing at least one metal compound, at least one\n      \n      \n         Halbmetallverbindung oder zumindest einer Mischmetallverbindung mit Wasser, Wasserdampf, Eis, Alkohol oder einer S\u00e4ure oder eine Kombination dieser Verbindungen erhalten werden.Semi-metal compound or at least one mixed metal compound with water, steam, ice, alcohol or an acid or a combination of these compounds can be obtained.",
+    "19. Verfahren nach Anspruch 18, dadurch gekennzeichnet, dass zumindest eine Metallalkoholatverbindung oder zumindest eine Halbmetallalkoholatverbindung ausgew\u00e4hlt aus den Alkoholatverbindungen der Elemente Zr, AI, Si, Sn, Ce und Y oder zumindest ein Metallnitrat, Metallcarbonat oder Metallhalogenid ausgew\u00e4hlt aus den Metallsalzen der Elemente Zr, AI, Si, Sn, Ce und Y als19. The method according to claim 18, characterized in that at least one metal alcoholate compound or at least one semimetal alcoholate compound selected from the alcoholate compounds of the elements Zr, Al, Si, Sn, Ce and Y or at least one metal nitrate, metal carbonate or metal halide selected from the metal salts of the elements Zr , AI, Si, Sn, Ce and Y as\n      \n      \n         Metallverbindung hydrolisiert wird.Metal compound is hydrolyzed.",
+    "20. Verfahren nach zumindest einem der Anspr\u00fcche 13 bis 19, dadurch gekennzeichnet, dass als anorganische Komponente, zumindest ein Oxid, ausgew\u00e4hlt aus den Oxiden der20. The method according to at least one of claims 13 to 19, characterized in that as the inorganic component, at least one oxide selected from the oxides of\n      \n      \n         Elemente Sc, Y, Zr, V, Cr, Nb, Mo, W, Mn, Fe, Ce, Co, B, AI, In, Tl, Si, Ge, Sn, Pb und Bi, suspendiert wird.Elements Sc, Y, Zr, V, Cr, Nb, Mo, W, Mn, Fe, Ce, Co, B, AI, In, Tl, Si, Ge, Sn, Pb and Bi, is suspended.",
+    "21. Verfahren nach zumindest einem der Anspr\u00fcche 17 bis 20, dadurch gekennzeichnet, dass der Massenanteil der suspendierten Komponente dem 0,1 bis 500-fachen des eingesetzten Sols entspricht.21. The method according to at least one of claims 17 to 20, characterized in that the mass fraction of the suspended component corresponds to 0.1 to 500 times the sol used.",
+    "22. Verfahren nach zumindest einem der Anspr\u00fcche 13 bis 21, dadurch gekennzeichnet, dass die auf und im Substrat vorhandene Suspension durch Erw\u00e4rmen auf 50 bis 1000 \u00b0C  verfestigt wird.22. The method according to at least one of claims 13 to 21, characterized in that the suspension present on and in the substrate by heating to 50 to 1000 \u00b0 C.  is solidified.",
+    "23. Verfahren nach Anspruch 22, dadurch gekennzeichnet, dass das Erw\u00e4rmen f\u00fcr 10 min. bis 5 Stunden bei einer Temperatur von 50 bis 100 \u00b0C erfolgt.23. The method according to claim 22, characterized in that the heating for 10 min. up to 5 hours at a temperature of 50 to 100 \u00b0 C.",
+    "24. Verfahren nach Anspruch 22, dadurch gekennzeichnet, dass das Erw\u00e4rmen f\u00fcr 1 Sekunde bis 10 Minuten bei einer Temperatur von 100 bis24. The method according to claim 22, characterized in that the heating for 1 second to 10 minutes at a temperature of 100 to\n      \n      \n         800 \u00b0C erfolgt.800 \u00b0 C takes place.",
+    "25. Verwendung eines Separators gem\u00e4\u00df zumindest einem der Anspr\u00fcche 1 bis 11 als25. Use of a separator according to at least one of claims 1 to 11 as\n      \n      \n         Separator in Batterien. Separator in batteries."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "EP02797544A",
+      "representative_publication": "EP1419544B1",
+      "primary_language": "en",
+      "priority_date": "2001-08-31",
+      "filing_date": "2002-08-20",
+      "title": "Electric separator, method for producing the same and the use thereof"
+    },
+    {
+      "application_number": "US10/487,245",
+      "representative_publication": "US7351494B2",
+      "primary_language": "en",
+      "priority_date": "2001-08-31",
+      "filing_date": "2002-08-20",
+      "title": "Electric separator, method for producing the same and the use thereof"
+    },
+    {
+      "application_number": "DE50201967T",
+      "representative_publication": "DE50201967D1",
+      "primary_language": "en",
+      "priority_date": "2001-08-31",
+      "filing_date": "2002-08-20",
+      "title": "ELECTRICAL SEPARATOR, METHOD FOR ITS MANUFACTURE AND USE"
+    },
+    {
+      "application_number": "JP2003525926A",
+      "representative_publication": "JP4320251B2",
+      "primary_language": "en",
+      "priority_date": "2001-08-31",
+      "filing_date": "2002-08-20",
+      "title": "Electric separator, its production and use"
+    },
+    {
+      "application_number": "AT02797544T",
+      "representative_publication": "ATE286627T1",
+      "primary_language": "en",
+      "priority_date": "2001-08-31",
+      "filing_date": "2002-08-20",
+      "title": "ELECTRICAL SEPARATOR, METHOD OF MANUFACTURING AND USE THEREOF"
+    },
+    {
+      "application_number": "AU2002333473A",
+      "representative_publication": "AU2002333473A1",
+      "primary_language": "en",
+      "priority_date": "2001-08-31",
+      "filing_date": "2002-08-20",
+      "title": "Electric separator, method for producing the same and the use thereof"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "DE10142622A",
+      "representative_publication": "DE10142622A1",
+      "primary_language": "en",
+      "priority_date": "2001-08-31",
+      "filing_date": "2001-08-31",
+      "title": "Electrical separator, process for its production and use"
+    },
+    {
+      "application_number": "DE10142622.4",
+      "filing_date": "2001-08-31"
+    }
+  ],
+  "family_id": "7697202",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "US3816242A",
+        "primary_language": "en",
+        "priority_date": "1972-04-17",
+        "publication_date": "1974-06-11",
+        "assignee_original": "Standard Oil Co",
+        "title": "Process for producing boron nitride felt",
+        "patent_id": "patent/US3816242A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3816242A%2Fen"
+      },
+      {
+        "publication_number": "DE8307549U1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1983-03-16",
+        "publication_date": "1984-08-23",
+        "assignee_original": "Grace Gmbh, 2000 Norderstedt",
+        "title": "SEPARATOR FOR LEAD ACCUMULATORS",
+        "patent_id": "patent/DE8307549U1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE8307549U1%2Fen"
+      },
+      {
+        "publication_number": "US5512359A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-01-12",
+        "publication_date": "1996-04-30",
+        "assignee_original": "Alliedsignal Inc.",
+        "title": "High flexural strength ceramic fiber reinforced silicon carboxide composite",
+        "patent_id": "patent/US5512359A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5512359A%2Fen"
+      },
+      {
+        "publication_number": "US5455206A",
+        "primary_language": "en",
+        "priority_date": "1990-09-14",
+        "publication_date": "1995-10-03",
+        "assignee_original": "Kaun; Thomas D.",
+        "title": "Corrosion resistant ceramic materials",
+        "patent_id": "patent/US5455206A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5455206A%2Fen"
+      },
+      {
+        "publication_number": "US5885657A",
+        "primary_language": "en",
+        "priority_date": "1994-06-23",
+        "publication_date": "1999-03-23",
+        "assignee_original": "Creavis Gesellschaft Fur Technologie Und Innovation Mbh",
+        "title": "Production of ceramic layers and their use",
+        "patent_id": "patent/US5885657A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5885657A%2Fen"
+      },
+      {
+        "publication_number": "DE19741498B4",
+        "primary_language": "en",
+        "priority_date": "1997-09-20",
+        "publication_date": "2008-07-03",
+        "assignee_original": "Evonik Degussa Gmbh",
+        "title": "Production of a ceramic stainless steel mesh composite",
+        "patent_id": "patent/DE19741498B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE19741498B4%2Fen"
+      },
+      {
+        "publication_number": "WO1999057769A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-05-06",
+        "publication_date": "1999-11-11",
+        "assignee_original": "Fraunhofer-Gesellschaft zur F\u00f6rderung der angewandten Forschung e.V.",
+        "title": "Electrical separator on the basis of a substrate with ceramic coating",
+        "patent_id": "patent/WO1999057769A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1999057769A1%2Fen"
+      },
+      {
+        "publication_number": "DE59913112D1",
+        "primary_language": "en",
+        "priority_date": "1998-06-03",
+        "publication_date": "2006-04-20",
+        "assignee_original": "Degussa",
+        "title": "HYDROPHOBY, SUBSTITUTED COMPOSITE, METHOD FOR THE PRODUCTION THEREOF AND ITS USE",
+        "patent_id": "patent/DE59913112D1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE59913112D1%2Fen"
+      },
+      {
+        "publication_number": "DE10031281A1",
+        "primary_language": "en",
+        "priority_date": "2000-06-27",
+        "publication_date": "2002-01-10",
+        "assignee_original": "Creavis Tech & Innovation Gmbh",
+        "title": "Polyelectrolyte-coated, permeable composite material, process for its production and the use of the composite material",
+        "patent_id": "patent/DE10031281A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10031281A1%2Fen"
+      },
+      {
+        "publication_number": "DE10034386A1",
+        "primary_language": "en",
+        "priority_date": "2000-07-14",
+        "publication_date": "2002-01-24",
+        "assignee_original": "Creavis Tech & Innovation Gmbh",
+        "title": "Method and device for electrofiltration",
+        "patent_id": "patent/DE10034386A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10034386A1%2Fen"
+      },
+      {
+        "publication_number": "DE10061959A1",
+        "primary_language": "en",
+        "priority_date": "2000-12-13",
+        "publication_date": "2002-06-20",
+        "assignee_original": "Creavis Tech & Innovation Gmbh",
+        "title": "Cation- / proton-conducting ceramic membrane infiltrated with an ionic liquid, process for its production and the use of the membrane",
+        "patent_id": "patent/DE10061959A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10061959A1%2Fen"
+      },
+      {
+        "publication_number": "DE10061920A1",
+        "primary_language": "en",
+        "priority_date": "2000-12-13",
+        "publication_date": "2002-06-20",
+        "assignee_original": "Creavis Tech & Innovation Gmbh",
+        "title": "Cation- / proton-conducting ceramic membrane based on a hydroxysilyl acid, process for its production and the use of the membrane",
+        "patent_id": "patent/DE10061920A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10061920A1%2Fen"
+      },
+      {
+        "publication_number": "DE10142622A1",
+        "primary_language": "en",
+        "priority_date": "2001-08-31",
+        "publication_date": "2003-03-20",
+        "assignee_original": "Creavis Tech & Innovation Gmbh",
+        "title": "Electrical separator, process for its production and use",
+        "patent_id": "patent/DE10142622A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10142622A1%2Fen"
+      },
+      {
+        "publication_number": "DE10208278A1",
+        "primary_language": "en",
+        "priority_date": "2002-02-26",
+        "publication_date": "2003-09-04",
+        "assignee_original": "Creavis Tech & Innovation Gmbh",
+        "title": "Hybrid membrane, process for its manufacture and the use of the membrane",
+        "patent_id": "patent/DE10208278A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10208278A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "WO2004021475A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-24",
+        "publication_date": "2004-03-11",
+        "assignee_original": "Creavis Gesellschaft F\u00fcr Technologie Und Innovation Mbh",
+        "title": "Separator-electrode unit for lithium-ion batteries, method for the production and use thereof in lithium batteries",
+        "patent_id": "patent/WO2004021475A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2004021475A1%2Fen"
+      },
+      {
+        "publication_number": "WO2006045339A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-10-21",
+        "publication_date": "2007-08-02",
+        "assignee_original": "Degussa",
+        "title": "Inorganic separator-electrode-unit for lithium-ion batteries, method for the production thereof and use thereof in lithium batteries",
+        "patent_id": "patent/WO2006045339A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006045339A3%2Fen"
+      },
+      {
+        "publication_number": "US7525788B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-10-14",
+        "publication_date": "2009-04-28",
+        "assignee_original": "Degussa Ag",
+        "title": "Capacitor comprising a ceramic separating layer",
+        "patent_id": "patent/US7525788B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7525788B2%2Fen"
+      },
+      {
+        "publication_number": "WO2011003513A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-07-07",
+        "publication_date": "2011-01-13",
+        "assignee_original": "Li-Tech Battery Gmbh",
+        "title": "Secondary battery with a rapid charging capability",
+        "patent_id": "patent/WO2011003513A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011003513A1%2Fen"
+      },
+      {
+        "publication_number": "US7960061B2",
+        "primary_language": "en",
+        "priority_date": "2004-04-20",
+        "publication_date": "2011-06-14",
+        "assignee_original": "Degussa Ag",
+        "title": "Electrolyte composition in addition to the use thereof as an electrolyte material for electrochemical energy storage systems",
+        "patent_id": "patent/US7960061B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7960061B2%2Fen"
+      },
+      {
+        "publication_number": "US8187752B2",
+        "primary_language": "en",
+        "priority_date": "2008-04-16",
+        "publication_date": "2012-05-29",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "High energy lithium ion secondary batteries",
+        "patent_id": "patent/US8187752B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8187752B2%2Fen"
+      },
+      {
+        "publication_number": "KR101202048B1",
+        "primary_language": "en",
+        "priority_date": "2004-04-20",
+        "publication_date": "2012-11-15",
+        "assignee_original": "\uc5d0\ubcf4\ub2c8\ud06c \ub370\uad6c\uc0ac \uac8c\uc5e0\ubca0\ud558",
+        "title": "Use of a ceramic separator in lithium ion batteries comprising an electrolyte containing ionic fluids",
+        "patent_id": "patent/KR101202048B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101202048B1%2Fen"
+      },
+      {
+        "publication_number": "US8765306B2",
+        "primary_language": "en",
+        "priority_date": "2010-03-26",
+        "publication_date": "2014-07-01",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "High voltage battery formation protocols and control of charging and discharging for desirable long term cycling performance",
+        "patent_id": "patent/US8765306B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8765306B2%2Fen"
+      },
+      {
+        "publication_number": "US8906448B2",
+        "primary_language": "en",
+        "priority_date": "2005-12-28",
+        "publication_date": "2014-12-09",
+        "assignee_original": "Ballard Power Systems Inc.",
+        "title": "Method of treating a material to achieve sufficient hydrophilicity for making hydrophilic articles",
+        "patent_id": "patent/US8906448B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8906448B2%2Fen"
+      },
+      {
+        "publication_number": "US8993177B2",
+        "primary_language": "en",
+        "priority_date": "2009-12-04",
+        "publication_date": "2015-03-31",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Lithium ion battery with high voltage electrolytes and additives",
+        "patent_id": "patent/US8993177B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8993177B2%2Fen"
+      },
+      {
+        "publication_number": "US9083062B2",
+        "primary_language": "en",
+        "priority_date": "2010-08-02",
+        "publication_date": "2015-07-14",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Battery packs for vehicles and high capacity pouch secondary batteries for incorporation into compact battery packs",
+        "patent_id": "patent/US9083062B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9083062B2%2Fen"
+      },
+      {
+        "publication_number": "US9159990B2",
+        "primary_language": "en",
+        "priority_date": "2011-08-19",
+        "publication_date": "2015-10-13",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "High capacity lithium ion battery formation protocol and corresponding batteries",
+        "patent_id": "patent/US9159990B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9159990B2%2Fen"
+      },
+      {
+        "publication_number": "US9166222B2",
+        "primary_language": "en",
+        "priority_date": "2010-11-02",
+        "publication_date": "2015-10-20",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Lithium ion batteries with supplemental lithium",
+        "patent_id": "patent/US9166222B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9166222B2%2Fen"
+      },
+      {
+        "publication_number": "WO2015188914A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-06-12",
+        "publication_date": "2015-12-17",
+        "assignee_original": "Daimler Ag",
+        "title": "Electrochemical energy storage device and battery",
+        "patent_id": "patent/WO2015188914A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015188914A1%2Fen"
+      },
+      {
+        "publication_number": "US9680141B2",
+        "primary_language": "en",
+        "priority_date": "2012-01-30",
+        "publication_date": "2017-06-13",
+        "assignee_original": "Litarion GmbH",
+        "title": "Separator comprising an organic-inorganic adhesion promoter",
+        "patent_id": "patent/US9680141B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9680141B2%2Fen"
+      },
+      {
+        "publication_number": "US9780358B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-04",
+        "publication_date": "2017-10-03",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Battery designs with high capacity anode materials and cathode materials",
+        "patent_id": "patent/US9780358B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9780358B2%2Fen"
+      },
+      {
+        "publication_number": "US10056644B2",
+        "primary_language": "en",
+        "priority_date": "2009-07-24",
+        "publication_date": "2018-08-21",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Lithium ion batteries with long cycling performance",
+        "patent_id": "patent/US10056644B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10056644B2%2Fen"
+      },
+      {
+        "publication_number": "US10290871B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-04",
+        "publication_date": "2019-05-14",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Battery cell engineering and design to reach high energy",
+        "patent_id": "patent/US10290871B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10290871B2%2Fen"
+      },
+      {
+        "publication_number": "US10522807B2",
+        "primary_language": "en",
+        "priority_date": "2011-08-12",
+        "publication_date": "2019-12-31",
+        "assignee_original": "Innolith Asste Ag",
+        "title": "Rechargeable electrochemical cell and method for production thereof",
+        "patent_id": "patent/US10522807B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10522807B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "DE10142622A1",
+        "primary_language": "en",
+        "priority_date": "2001-08-31",
+        "publication_date": "2003-03-20",
+        "assignee_original": "Creavis Tech & Innovation Gmbh",
+        "title": "Electrical separator, process for its production and use",
+        "patent_id": "patent/DE10142622A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10142622A1%2Fen"
+      },
+      {
+        "publication_number": "DE10208277A1",
+        "primary_language": "en",
+        "priority_date": "2002-02-26",
+        "publication_date": "2003-09-04",
+        "assignee_original": "Creavis Tech & Innovation Gmbh",
+        "title": "Electrical separator, process for its production and use",
+        "patent_id": "patent/DE10208277A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10208277A1%2Fen"
+      },
+      {
+        "publication_number": "DE10238945B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-24",
+        "publication_date": "2013-01-03",
+        "assignee_original": "Evonik Degussa Gmbh",
+        "title": "Electric separator with shut-off mechanism, process for its preparation, use of the separator in lithium batteries and battery with the separator",
+        "patent_id": "patent/DE10238945B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10238945B4%2Fen"
+      },
+      {
+        "publication_number": "DE10238944A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-24",
+        "publication_date": "2004-03-04",
+        "assignee_original": "Creavis Gesellschaft F\u00fcr Technologie Und Innovation Mbh",
+        "title": "Separator for use in high energy batteries and process for its manufacture",
+        "patent_id": "patent/DE10238944A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10238944A1%2Fen"
+      },
+      {
+        "publication_number": "DE10238941B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-24",
+        "publication_date": "2013-03-28",
+        "assignee_original": "Evonik Degussa Gmbh",
+        "title": "Electric separator, process for its manufacture and use in lithium high-performance batteries and a battery having the separator",
+        "patent_id": "patent/DE10238941B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10238941B4%2Fen"
+      },
+      {
+        "publication_number": "DE10240032A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-27",
+        "publication_date": "2004-03-11",
+        "assignee_original": "Creavis Gesellschaft F\u00fcr Technologie Und Innovation Mbh",
+        "title": "Ion-conducting battery separator for lithium batteries, process for their production and their use",
+        "patent_id": "patent/DE10240032A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10240032A1%2Fen"
+      },
+      {
+        "publication_number": "DE10255121B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-11-26",
+        "publication_date": "2017-09-14",
+        "assignee_original": "Evonik Degussa Gmbh",
+        "title": "Separator with asymmetric pore structure for an electrochemical cell",
+        "patent_id": "patent/DE10255121B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10255121B4%2Fen"
+      },
+      {
+        "publication_number": "DE10255122A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-11-26",
+        "publication_date": "2004-06-03",
+        "assignee_original": "Creavis Gesellschaft F\u00fcr Technologie Und Innovation Mbh",
+        "title": "Long-term stable separator for an electrochemical cell",
+        "patent_id": "patent/DE10255122A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10255122A1%2Fen"
+      },
+      {
+        "publication_number": "DE10347566A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-10-14",
+        "publication_date": "2005-05-12",
+        "assignee_original": "Degussa",
+        "title": "Ceramic separator for electrochemical cells with improved conductivity",
+        "patent_id": "patent/DE10347566A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10347566A1%2Fen"
+      },
+      {
+        "publication_number": "DE10347567A1",
+        "primary_language": "en",
+        "priority_date": "2003-10-14",
+        "publication_date": "2005-05-12",
+        "assignee_original": "Degussa",
+        "title": "Electric separator with shut-off mechanism, process for its manufacture and use in lithium batteries",
+        "patent_id": "patent/DE10347567A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10347567A1%2Fen"
+      },
+      {
+        "publication_number": "DE10347569A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-10-14",
+        "publication_date": "2005-06-02",
+        "assignee_original": "Degussa Ag",
+        "title": "Ceramic, flexible membrane with improved adhesion of the ceramic on the carrier fleece",
+        "patent_id": "patent/DE10347569A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10347569A1%2Fen"
+      },
+      {
+        "publication_number": "DE102004006612A1",
+        "primary_language": "en",
+        "priority_date": "2004-02-10",
+        "publication_date": "2005-08-25",
+        "assignee_original": "Degussa Ag",
+        "title": "Compound ceramic wall coating comprises a carrier layer and at least one ceramic layer containing ceramic particles which are chosen from a group of oxides, nitrides, borides or carbides of metal or semi-metals",
+        "patent_id": "patent/DE102004006612A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102004006612A1%2Fen"
+      },
+      {
+        "publication_number": "US9096041B2",
+        "primary_language": "en",
+        "priority_date": "2004-02-10",
+        "publication_date": "2015-08-04",
+        "assignee_original": "Evonik Degussa Gmbh",
+        "title": "Method for coating substrates and carrier substrates",
+        "patent_id": "patent/US9096041B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9096041B2%2Fen"
+      },
+      {
+        "publication_number": "FR2873497B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-23",
+        "publication_date": "2014-03-28",
+        "assignee_original": "Accumulateurs Fixes",
+        "title": "LITHIUM ELECTROCHEMICAL ACCUMULATOR OPERATING AT HIGH TEMPERATURE",
+        "patent_id": "patent/FR2873497B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2873497B1%2Fen"
+      },
+      {
+        "publication_number": "US11050095B2",
+        "primary_language": "en",
+        "priority_date": "2004-12-08",
+        "publication_date": "2021-06-29",
+        "assignee_original": "Maxell Holdings, Ltd.",
+        "title": "Separator for electrochemical device, and electrochemical device",
+        "patent_id": "patent/US11050095B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11050095B2%2Fen"
+      },
+      {
+        "publication_number": "DE102005029124A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-06-23",
+        "publication_date": "2006-12-28",
+        "assignee_original": "Degussa Ag",
+        "title": "Electrolyte/separator system, useful for producing electro-chemical energy-storage systems e.g. lithium metal batteries, comprises electrolytes comprising base component, ionic liquid, water, additive, lead salt and ceramic separator",
+        "patent_id": "patent/DE102005029124A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102005029124A1%2Fen"
+      },
+      {
+        "publication_number": "DE102005042215A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-05",
+        "publication_date": "2007-03-08",
+        "assignee_original": "Degussa Ag",
+        "title": "Separator with improved handling",
+        "patent_id": "patent/DE102005042215A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102005042215A1%2Fen"
+      },
+      {
+        "publication_number": "DE102005042916A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-08",
+        "publication_date": "2007-03-22",
+        "assignee_original": "Degussa Ag",
+        "title": "Stack of alternately stacked and fixed separators and electrodes for Li accumulators",
+        "patent_id": "patent/DE102005042916A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102005042916A1%2Fen"
+      },
+      {
+        "publication_number": "CN101218695B",
+        "primary_language": "en",
+        "priority_date": "2005-12-08",
+        "publication_date": "2011-07-20",
+        "assignee_original": "\u65e5\u7acb\u9ea6\u514b\u8d5b\u5c14\u682a\u5f0f\u4f1a\u793e",
+        "title": "Electrochemical element partition plate and its manufacture method and electrochemical element and its production method",
+        "patent_id": "patent/CN101218695B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101218695B%2Fen"
+      },
+      {
+        "publication_number": "JP2007211963A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-02-13",
+        "publication_date": "2007-08-23",
+        "assignee_original": "Ibiden Co Ltd",
+        "title": "Inorganic fiber block",
+        "patent_id": "patent/JP2007211963A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007211963A%2Fen"
+      },
+      {
+        "publication_number": "CN101512792B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-07",
+        "publication_date": "2013-03-27",
+        "assignee_original": "\u65e5\u7acb\u9ea6\u514b\u8d5b\u5c14\u682a\u5f0f\u4f1a\u793e",
+        "title": "Battery separator, method for manufacture thereof, and lithium secondary battery",
+        "patent_id": "patent/CN101512792B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101512792B%2Fen"
+      },
+      {
+        "publication_number": "DE102007005156A1",
+        "primary_language": "en",
+        "priority_date": "2007-01-29",
+        "publication_date": "2008-08-14",
+        "assignee_original": "Evonik Degussa Gmbh",
+        "title": "Ceramic membrane with improved adhesion to plasma-treated polymeric support material, as well as their preparation and use",
+        "patent_id": "patent/DE102007005156A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102007005156A1%2Fen"
+      },
+      {
+        "publication_number": "KR101488850B1",
+        "primary_language": "en",
+        "priority_date": "2007-08-21",
+        "publication_date": "2015-02-02",
+        "assignee_original": "\uc5d0\uc774\uc77c\uc774\uc0bc \uc2dc\uc2a4\ud15c\uc988 \uc778\ucf54\ud3ec\ub808\uc774\ud2f0\ub4dc",
+        "title": "Separator for electrochemical cell and method for its manufacture",
+        "patent_id": "patent/KR101488850B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101488850B1%2Fen"
+      },
+      {
+        "publication_number": "DE102007045146A1",
+        "primary_language": "en",
+        "priority_date": "2007-09-20",
+        "publication_date": "2009-05-28",
+        "assignee_original": "Evonik Degussa Gmbh",
+        "title": "Single-axle vehicle with a platform and / or a seat for a driver",
+        "patent_id": "patent/DE102007045146A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102007045146A1%2Fen"
+      },
+      {
+        "publication_number": "KR20100098498A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-09-28",
+        "publication_date": "2010-09-07",
+        "assignee_original": "\uc5d0\uc774\uc77c\uc774\uc0bc \uc2dc\uc2a4\ud15c\uc988 \uc778\ucf54\ud3ec\ub808\uc774\ud2f0\ub4dc",
+        "title": "Batteries having inorganic/organic porous films",
+        "patent_id": "patent/KR20100098498A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20100098498A%2Fen"
+      },
+      {
+        "publication_number": "US8277974B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-25",
+        "publication_date": "2012-10-02",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "High energy lithium ion batteries with particular negative electrode compositions",
+        "patent_id": "patent/US8277974B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8277974B2%2Fen"
+      },
+      {
+        "publication_number": "JP5334162B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-08",
+        "publication_date": "2013-11-06",
+        "assignee_original": "\uff2e\uff45\uff43\u30a8\u30ca\u30b8\u30fc\u30c7\u30d0\u30a4\u30b9\u682a\u5f0f\u4f1a\u793e",
+        "title": "Multilayer secondary battery",
+        "patent_id": "patent/JP5334162B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5334162B2%2Fen"
+      },
+      {
+        "publication_number": "KR20110076955A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-30",
+        "publication_date": "2011-07-06",
+        "assignee_original": "\uc5d4\ube44\uc544 \uc2dc\uc2a4\ud15c\uc988 \uc778\ucf54\ud3ec\ub808\uc774\ud2f0\ub4dc",
+        "title": "High cost fluorine doped lithium rich metal oxide positive electrode battery materials and equivalent batteries",
+        "patent_id": "patent/KR20110076955A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20110076955A%2Fen"
+      },
+      {
+        "publication_number": "US8389160B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-07",
+        "publication_date": "2013-03-05",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Positive electrode materials for lithium ion batteries having a high specific discharge capacity and processes for the synthesis of these materials",
+        "patent_id": "patent/US8389160B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8389160B2%2Fen"
+      },
+      {
+        "publication_number": "US9012073B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-11-11",
+        "publication_date": "2015-04-21",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Composite compositions, negative electrodes with composite compositions and corresponding batteries",
+        "patent_id": "patent/US9012073B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9012073B2%2Fen"
+      },
+      {
+        "publication_number": "US8465873B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-11",
+        "publication_date": "2013-06-18",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Positive electrode materials for high discharge capacity lithium ion batteries",
+        "patent_id": "patent/US8465873B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8465873B2%2Fen"
+      },
+      {
+        "publication_number": "TWI509865B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-01-12",
+        "publication_date": "2015-11-21",
+        "assignee_original": "A123 Systems Llc",
+        "title": "Stacked battery unit and method of manufacturing same",
+        "patent_id": "patent/TWI509865B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI509865B%2Fen"
+      },
+      {
+        "publication_number": "WO2010149265A1",
+        "primary_language": "en",
+        "priority_date": "2009-06-25",
+        "publication_date": "2010-12-29",
+        "assignee_original": "Schott Ag",
+        "title": "Battery separator",
+        "patent_id": "patent/WO2010149265A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2010149265A1%2Fen"
+      },
+      {
+        "publication_number": "DE102009028145A1",
+        "primary_language": "en",
+        "priority_date": "2009-07-31",
+        "publication_date": "2011-02-03",
+        "assignee_original": "Evonik Degussa Gmbh",
+        "title": "Ceramic membranes with polyaramid fiber-containing support materials and process for making these membranes",
+        "patent_id": "patent/DE102009028145A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102009028145A1%2Fen"
+      },
+      {
+        "publication_number": "CN102484249A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-08-27",
+        "publication_date": "2012-05-30",
+        "assignee_original": "\u5b89\u7ef4\u4e9a\u7cfb\u7edf\u516c\u53f8",
+        "title": "Layer-layer lithium rich complex metal oxides with high specific capacity and excellent cycling",
+        "patent_id": "patent/CN102484249A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102484249A%2Fen"
+      },
+      {
+        "publication_number": "US8535832B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-08-27",
+        "publication_date": "2013-09-17",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Metal oxide coated positive electrode materials for lithium-based batteries",
+        "patent_id": "patent/US8535832B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8535832B2%2Fen"
+      },
+      {
+        "publication_number": "DE102009029598B9",
+        "primary_language": "en",
+        "priority_date": "2009-09-18",
+        "publication_date": "2012-11-29",
+        "assignee_original": "Schott Ag",
+        "title": "Separator with textile fabric and its use in an electrochemical energy storage",
+        "patent_id": "patent/DE102009029598B9/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102009029598B9%2Fen"
+      },
+      {
+        "publication_number": "WO2011056847A2",
+        "primary_language": "en",
+        "priority_date": "2009-11-03",
+        "publication_date": "2011-05-12",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "High capacity anode materials for lithium ion batteries",
+        "patent_id": "patent/WO2011056847A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011056847A2%2Fen"
+      },
+      {
+        "publication_number": "US9843041B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-11-11",
+        "publication_date": "2017-12-12",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Coated positive electrode materials for lithium ion batteries",
+        "patent_id": "patent/US9843041B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9843041B2%2Fen"
+      },
+      {
+        "publication_number": "DE102010011414A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-15",
+        "publication_date": "2011-09-15",
+        "assignee_original": "Li-Tec Battery Gmbh",
+        "title": "Lithium ion cell with intrinsic protection against thermal runaway",
+        "patent_id": "patent/DE102010011414A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102010011414A1%2Fen"
+      },
+      {
+        "publication_number": "DE102010013295A1",
+        "primary_language": "en",
+        "priority_date": "2010-03-29",
+        "publication_date": "2011-09-29",
+        "assignee_original": "Schott Ag",
+        "title": "Lithium ion battery cell comprises components, which contain inorganic multifunctional component having a low thermal conductivity, where the inorganic multifunctional component has a reciprocal of the thermal diffusivity",
+        "patent_id": "patent/DE102010013295A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102010013295A1%2Fen"
+      },
+      {
+        "publication_number": "DE102010013294A1",
+        "primary_language": "en",
+        "priority_date": "2010-03-29",
+        "publication_date": "2011-09-29",
+        "assignee_original": "Schott Ag",
+        "title": "Lithium ion battery cell comprises components, which contain inorganic multifunctional component having a low thermal conductivity, where the inorganic multifunctional component has a reciprocal of the thermal diffusivity",
+        "patent_id": "patent/DE102010013294A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102010013294A1%2Fen"
+      },
+      {
+        "publication_number": "CN102844908B",
+        "primary_language": "en",
+        "priority_date": "2010-03-29",
+        "publication_date": "2016-06-01",
+        "assignee_original": "\u8096\u7279\u516c\u5f00\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "There are the parts used by battery cell of the inorganic ingredient of lower thermal conductivity",
+        "patent_id": "patent/CN102844908B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102844908B%2Fen"
+      },
+      {
+        "publication_number": "DE102010013293A1",
+        "primary_language": "en",
+        "priority_date": "2010-03-29",
+        "publication_date": "2011-09-29",
+        "assignee_original": "Schott Ag",
+        "title": "Lithium ion battery cell comprises components, which contain inorganic multifunctional component having a low thermal conductivity, where the inorganic multifunctional component has a reciprocal of the thermal diffusivity",
+        "patent_id": "patent/DE102010013293A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102010013293A1%2Fen"
+      },
+      {
+        "publication_number": "US8741484B2",
+        "primary_language": "en",
+        "priority_date": "2010-04-02",
+        "publication_date": "2014-06-03",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Doped positive electrode active materials and lithium ion secondary battery constructed therefrom",
+        "patent_id": "patent/US8741484B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8741484B2%2Fen"
+      },
+      {
+        "publication_number": "DE102010038308A1",
+        "primary_language": "en",
+        "priority_date": "2010-07-23",
+        "publication_date": "2012-01-26",
+        "assignee_original": "Evonik Degussa Gmbh",
+        "title": "Lithium cells and batteries with improved stability and safety, process for their preparation and use in mobile and stationary electrical energy storage",
+        "patent_id": "patent/DE102010038308A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102010038308A1%2Fen"
+      },
+      {
+        "publication_number": "US8928286B2",
+        "primary_language": "en",
+        "priority_date": "2010-09-03",
+        "publication_date": "2015-01-06",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Very long cycling of lithium ion batteries with lithium rich cathode materials",
+        "patent_id": "patent/US8928286B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8928286B2%2Fen"
+      },
+      {
+        "publication_number": "US8663849B2",
+        "primary_language": "en",
+        "priority_date": "2010-09-22",
+        "publication_date": "2014-03-04",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Metal halide coatings on lithium ion battery positive electrode materials and corresponding batteries",
+        "patent_id": "patent/US8663849B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8663849B2%2Fen"
+      },
+      {
+        "publication_number": "DE102011003186A1",
+        "primary_language": "en",
+        "priority_date": "2011-01-26",
+        "publication_date": "2012-07-26",
+        "assignee_original": "Evonik Degussa Gmbh",
+        "title": "Thin, macroporous polymer films",
+        "patent_id": "patent/DE102011003186A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102011003186A1%2Fen"
+      },
+      {
+        "publication_number": "US9601228B2",
+        "primary_language": "en",
+        "priority_date": "2011-05-16",
+        "publication_date": "2017-03-21",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Silicon oxide based high capacity anode materials for lithium ion batteries",
+        "patent_id": "patent/US9601228B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9601228B2%2Fen"
+      },
+      {
+        "publication_number": "DE102011105956A1",
+        "primary_language": "en",
+        "priority_date": "2011-06-29",
+        "publication_date": "2013-01-03",
+        "assignee_original": "Daimler Ag",
+        "title": "Method for manufacturing ceramic separator for lithium ion battery, involves providing the water-repelling substance on the surface of ceramic particles of separator",
+        "patent_id": "patent/DE102011105956A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102011105956A1%2Fen"
+      },
+      {
+        "publication_number": "JP5865672B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-10-28",
+        "publication_date": "2016-02-17",
+        "assignee_original": "\u4eac\u30bb\u30e9\u682a\u5f0f\u4f1a\u793e",
+        "title": "Secondary battery",
+        "patent_id": "patent/JP5865672B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5865672B2%2Fen"
+      },
+      {
+        "publication_number": "US10170762B2",
+        "primary_language": "en",
+        "priority_date": "2011-12-12",
+        "publication_date": "2019-01-01",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Lithium metal oxides with multiple phases and stable high energy electrochemical cycling",
+        "patent_id": "patent/US10170762B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10170762B2%2Fen"
+      },
+      {
+        "publication_number": "WO2013094004A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-12-19",
+        "publication_date": "2013-06-27",
+        "assignee_original": "\u30c8\u30e8\u30bf\u81ea\u52d5\u8eca\u682a\u5f0f\u4f1a\u793e",
+        "title": "Lithium secondary battery",
+        "patent_id": "patent/WO2013094004A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013094004A1%2Fen"
+      },
+      {
+        "publication_number": "US9139441B2",
+        "primary_language": "en",
+        "priority_date": "2012-01-19",
+        "publication_date": "2015-09-22",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Porous silicon based anode material formed using metal reduction",
+        "patent_id": "patent/US9139441B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9139441B2%2Fen"
+      },
+      {
+        "publication_number": "US9070489B2",
+        "primary_language": "en",
+        "priority_date": "2012-02-07",
+        "publication_date": "2015-06-30",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Mixed phase lithium metal oxide compositions with desirable battery performance",
+        "patent_id": "patent/US9070489B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9070489B2%2Fen"
+      },
+      {
+        "publication_number": "KR20150013648A",
+        "primary_language": "en",
+        "priority_date": "2012-05-09",
+        "publication_date": "2015-02-05",
+        "assignee_original": "\ud788\ud0c0\uce58\uac00\uc138\uc774\uac00\ubd80\uc2dc\ub07c\uac00\uc774\uc0e4",
+        "title": "Separator for electrochemical element and fabrication method for same",
+        "patent_id": "patent/KR20150013648A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20150013648A%2Fen"
+      },
+      {
+        "publication_number": "KR20140013885A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-07-24",
+        "publication_date": "2014-02-05",
+        "assignee_original": "\uac00\ubd80\uc2dc\ud0a4\uac00\uc774\uc0e4 \ud788\ud0c0\uce58\uc138\uc774\uc0ac\ucfe0\uc1fc",
+        "title": "Lithium ion secondary battery",
+        "patent_id": "patent/KR20140013885A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20140013885A%2Fen"
+      },
+      {
+        "publication_number": "US9552901B2",
+        "primary_language": "en",
+        "priority_date": "2012-08-17",
+        "publication_date": "2017-01-24",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "Lithium ion batteries with high energy density, excellent cycling capability and low internal impedance",
+        "patent_id": "patent/US9552901B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9552901B2%2Fen"
+      },
+      {
+        "publication_number": "DE102012107848A1",
+        "primary_language": "en",
+        "priority_date": "2012-08-27",
+        "publication_date": "2014-05-28",
+        "assignee_original": "Karlsruher Institut f\u00fcr Technologie",
+        "title": "Multi-layer separator for an electrochemical cell",
+        "patent_id": "patent/DE102012107848A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102012107848A1%2Fen"
+      },
+      {
+        "publication_number": "US9306202B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-20",
+        "publication_date": "2016-04-05",
+        "assignee_original": "Samsung Sdi Co., Ltd.",
+        "title": "Separator for a secondary battery and secondary battery including the same",
+        "patent_id": "patent/US9306202B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9306202B2%2Fen"
+      },
+      {
+        "publication_number": "JP6337777B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-12-12",
+        "publication_date": "2018-06-06",
+        "assignee_original": "\u65e5\u672c\u96fb\u6c17\u682a\u5f0f\u4f1a\u793e",
+        "title": "Separator, electrode element, power storage device, and method for manufacturing the separator",
+        "patent_id": "patent/JP6337777B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6337777B2%2Fen"
+      },
+      {
+        "publication_number": "US10115962B2",
+        "primary_language": "en",
+        "priority_date": "2012-12-20",
+        "publication_date": "2018-10-30",
+        "assignee_original": "Envia Systems, Inc.",
+        "title": "High capacity cathode material with stabilizing nanocoatings",
+        "patent_id": "patent/US10115962B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10115962B2%2Fen"
+      },
+      {
+        "publication_number": "US10020491B2",
+        "primary_language": "en",
+        "priority_date": "2013-04-16",
+        "publication_date": "2018-07-10",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Silicon-based active materials for lithium ion batteries and synthesis with solution processing",
+        "patent_id": "patent/US10020491B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10020491B2%2Fen"
+      },
+      {
+        "publication_number": "US10886526B2",
+        "primary_language": "en",
+        "priority_date": "2013-06-13",
+        "publication_date": "2021-01-05",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Silicon-silicon oxide-carbon composites for lithium battery electrodes and methods for forming the composites",
+        "patent_id": "patent/US10886526B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10886526B2%2Fen"
+      },
+      {
+        "publication_number": "US11476494B2",
+        "primary_language": "en",
+        "priority_date": "2013-08-16",
+        "publication_date": "2022-10-18",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Lithium ion batteries with high capacity anode active material and good cycling for consumer electronics",
+        "patent_id": "patent/US11476494B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11476494B2%2Fen"
+      },
+      {
+        "publication_number": "US9252411B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-11-22",
+        "publication_date": "2016-02-02",
+        "assignee_original": "GM Global Technology Operations LLC",
+        "title": "Multifunction battery separator",
+        "patent_id": "patent/US9252411B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9252411B2%2Fen"
+      },
+      {
+        "publication_number": "EP2916370A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-07",
+        "publication_date": "2015-09-09",
+        "assignee_original": "Siemens Aktiengesellschaft",
+        "title": "Fibre-reinforced separator component for a battery",
+        "patent_id": "patent/EP2916370A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2916370A1%2Fen"
+      },
+      {
+        "publication_number": "US10360964B2",
+        "primary_language": "en",
+        "priority_date": "2016-09-27",
+        "publication_date": "2019-07-23",
+        "assignee_original": "Spin Memory, Inc.",
+        "title": "Method of writing contents in memory during a power up sequence using a dynamic redundancy register in a memory device",
+        "patent_id": "patent/US10360964B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10360964B2%2Fen"
+      },
+      {
+        "publication_number": "US10437723B2",
+        "primary_language": "en",
+        "priority_date": "2016-09-27",
+        "publication_date": "2019-10-08",
+        "assignee_original": "Spin Memory, Inc.",
+        "title": "Method of flushing the contents of a dynamic redundancy register to a secure storage area during a power down in a memory device",
+        "patent_id": "patent/US10437723B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10437723B2%2Fen"
+      },
+      {
+        "publication_number": "US10366774B2",
+        "primary_language": "en",
+        "priority_date": "2016-09-27",
+        "publication_date": "2019-07-30",
+        "assignee_original": "Spin Memory, Inc.",
+        "title": "Device with dynamic redundancy registers",
+        "patent_id": "patent/US10366774B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10366774B2%2Fen"
+      },
+      {
+        "publication_number": "US10437491B2",
+        "primary_language": "en",
+        "priority_date": "2016-09-27",
+        "publication_date": "2019-10-08",
+        "assignee_original": "Spin Memory, Inc.",
+        "title": "Method of processing incomplete memory operations in a memory device during a power up sequence and a power down sequence using a dynamic redundancy register",
+        "patent_id": "patent/US10437491B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10437491B2%2Fen"
+      },
+      {
+        "publication_number": "DE102016125168A1",
+        "primary_language": "en",
+        "priority_date": "2016-12-21",
+        "publication_date": "2018-06-21",
+        "assignee_original": "Fortu New Battery Technology Gmbh",
+        "title": "Rechargeable electrochemical cell with ceramic separator layer and indicator electrode",
+        "patent_id": "patent/DE102016125168A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102016125168A1%2Fen"
+      },
+      {
+        "publication_number": "DE102016125177A1",
+        "primary_language": "en",
+        "priority_date": "2016-12-21",
+        "publication_date": "2018-06-21",
+        "assignee_original": "Fortu New Battery Technology Gmbh",
+        "title": "Electrode separator element with a ceramic separator layer",
+        "patent_id": "patent/DE102016125177A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102016125177A1%2Fen"
+      },
+      {
+        "publication_number": "EP3367483A1",
+        "primary_language": "en",
+        "priority_date": "2017-02-23",
+        "publication_date": "2018-08-29",
+        "assignee_original": "Alevo International, S.A.",
+        "title": "Rechargeable battery cell comprising a separator",
+        "patent_id": "patent/EP3367483A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3367483A1%2Fen"
+      },
+      {
+        "publication_number": "US11094925B2",
+        "primary_language": "en",
+        "priority_date": "2017-12-22",
+        "publication_date": "2021-08-17",
+        "assignee_original": "Zenlabs Energy, Inc.",
+        "title": "Electrodes with silicon oxide active materials for lithium ion cells achieving high capacity, high energy density and long cycle life performance",
+        "patent_id": "patent/US11094925B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11094925B2%2Fen"
+      },
+      {
+        "publication_number": "EP3669973A1",
+        "primary_language": "en",
+        "priority_date": "2018-12-20",
+        "publication_date": "2020-06-24",
+        "assignee_original": "Evonik Operations GmbH",
+        "title": "Laminated body",
+        "patent_id": "patent/EP3669973A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3669973A1%2Fen"
+      },
+      {
+        "publication_number": "US11289745B2",
+        "primary_language": "en",
+        "priority_date": "2019-01-09",
+        "publication_date": "2022-03-29",
+        "assignee_original": "GM Global Technology Operations LLC",
+        "title": "Elimination of gaseous reactants in lithium ion batteries",
+        "patent_id": "patent/US11289745B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11289745B2%2Fen"
+      },
+      {
+        "publication_number": "US20220302554A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-03-19",
+        "publication_date": "2022-09-22",
+        "assignee_original": "Sumitomo Chemical Company, Limited",
+        "title": "Separator, nonaqueous electrolyte secondary battery member, and nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/US20220302554A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220302554A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "EP1419544B1",
+      "primary_language": "en",
+      "publication_date": "2005-01-05",
+      "title": "Electric separator, method for producing the same and the use thereof",
+      "patent_id": "patent/EP1419544B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1419544B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1509960B1",
+      "primary_language": "en",
+      "publication_date": "2015-04-29",
+      "title": "Electric separator, method for the production and use thereof",
+      "patent_id": "patent/EP1509960B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1509960B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE10255121B4",
+      "primary_language": "en",
+      "publication_date": "2017-09-14",
+      "title": "Separator with asymmetric pore structure for an electrochemical cell",
+      "patent_id": "patent/DE10255121B4/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10255121B4%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1535357B1",
+      "primary_language": "en",
+      "publication_date": "2006-05-24",
+      "title": "Separator for use in high-energy batteries and method for the production thereof",
+      "patent_id": "patent/EP1535357B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1535357B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1535358B1",
+      "primary_language": "en",
+      "publication_date": "2013-09-04",
+      "title": "Electric separator, method for making same and use thereof in high-power lithium cells",
+      "patent_id": "patent/EP1535358B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1535358B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1565951B1",
+      "primary_language": "en",
+      "publication_date": "2020-02-12",
+      "title": "Separator with long-term stability for an electrochemical cell",
+      "patent_id": "patent/EP1565951B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1565951B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1530809B1",
+      "primary_language": "en",
+      "publication_date": "2014-09-03",
+      "title": "Electric separator comprising a shut-down mechanism, method for the production thereof and its use in lithium batteries",
+      "patent_id": "patent/EP1530809B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1530809B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1925047B1",
+      "primary_language": "en",
+      "publication_date": "2015-07-29",
+      "title": "Separator with improved ease of handling",
+      "patent_id": "patent/EP1925047B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1925047B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1532701B1",
+      "primary_language": "en",
+      "publication_date": "2006-01-04",
+      "title": "Ion conducting battery separator for lithium batteries, method for the production and use thereof",
+      "patent_id": "patent/EP1532701B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1532701B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1673822A2",
+      "primary_language": "en",
+      "publication_date": "2006-06-28",
+      "title": "Ceramic separator for electrochemical cells with improved conductivity",
+      "patent_id": "patent/EP1673822A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1673822A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE10347570B4",
+      "primary_language": "en",
+      "publication_date": "2015-07-23",
+      "title": "Inorganic separator-electrode unit for lithium-ion batteries, method for their production, use in lithium batteries and lithium batteries with the inorganic separator-electrode unit",
+      "patent_id": "patent/DE10347570B4/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10347570B4%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE10238943A1",
+      "primary_language": "en",
+      "publication_date": "2004-03-04",
+      "title": "Separator-electrode unit for lithium-ion batteries, process for their production and use in lithium batteries",
+      "patent_id": "patent/DE10238943A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10238943A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2010049478A1",
+      "primary_language": "en",
+      "publication_date": "2010-05-06",
+      "title": "Separation layer for separating anode and cathode in lithium ion accumulators or batteries",
+      "patent_id": "patent/WO2010049478A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2010049478A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2004049480A2",
+      "primary_language": "en",
+      "publication_date": "2004-06-10",
+      "title": "Separator having a low water content for an electrochemical cell",
+      "patent_id": "patent/WO2004049480A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2004049480A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE10238940A1",
+      "primary_language": "en",
+      "publication_date": "2004-03-04",
+      "title": "Process for producing a separator, in particular for lithium-ion batteries",
+      "patent_id": "patent/DE10238940A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10238940A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2003-03-13",
+      "code": "AK",
+      "title": "Designated states",
+      "attributes": [
+        {
+          "label": "Kind code of ref document",
+          "value": "A2"
+        },
+        {
+          "label": "Designated state(s)",
+          "value": "AE AG AL AM AT AU AZ BA BB BG BY BZ CA CH CN CO CR CU CZ DE DM DZ EC EE ES FI GB GD GE GH HR HU ID IL IN IS JP KE KG KP KR LC LK LR LS LT LU LV MA MD MG MN MW MX MZ NO NZ OM PH PL PT RU SD SE SG SI SK SL TJ TM TN TR TZ UA UG US UZ VN YU ZA ZM"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A2"
+        },
+        {
+          "label": "Designated state(s)",
+          "value": "AE AG AL AM AT AU AZ BA BB BG BR BY BZ CA CH CN CO CR CU CZ DE DK DM DZ EC EE ES FI GB GD GE GH GM HR HU ID IL IN IS JP KE KG KP KR KZ LC LK LR LS LT LU LV MA MD MG MK MN MW MX MZ NO NZ OM PH PL PT RO RU SD SE SG SI SK SL TJ TM TN TR TT TZ UA UG US UZ VN YU ZA ZM ZW"
+        }
+      ]
+    },
+    {
+      "date": "2003-03-13",
+      "code": "AL",
+      "title": "Designated countries for regional patents",
+      "attributes": [
+        {
+          "label": "Kind code of ref document",
+          "value": "A2"
+        },
+        {
+          "label": "Designated state(s)",
+          "value": "GH GM KE LS MW MZ SD SL SZ TZ UG ZM ZW AM AZ BY KG KZ MD RU TJ TM AT BE BG CH CY CZ DE DK EE ES FI FR GB GR IE IT LU MC NL PT SE SK TR BF BJ CF CG CI CM GA GN GQ GW ML MR NE SN TD TG"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A2"
+        },
+        {
+          "label": "Designated state(s)",
+          "value": "GH GM KE LS MW MZ SD SL SZ UG ZM ZW AM AZ BY KG KZ RU TJ TM AT BE BG CH CY CZ DK EE ES FI FR GB GR IE IT LU MC PT SE SK TR BF BJ CF CG CI GA GN GQ GW ML MR NE SN TD TG"
+        }
+      ]
+    },
+    {
+      "date": "2003-04-10",
+      "code": "DFPE",
+      "title": "Request for preliminary examination filed prior to expiration of 19th month from priority date (pct application filed before 20040101)"
+    },
+    {
+      "date": "2003-05-07",
+      "code": "121",
+      "title": "Ep: the epo has been informed by wipo that ep was designated in this application"
+    },
+    {
+      "date": "2004-02-19",
+      "code": "WWE",
+      "title": "Wipo information: entry into national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "2002797544"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        }
+      ]
+    },
+    {
+      "date": "2004-02-27",
+      "code": "WWE",
+      "title": "Wipo information: entry into national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "2003525926"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "JP"
+        }
+      ]
+    },
+    {
+      "date": "2004-05-19",
+      "code": "WWP",
+      "title": "Wipo information: published in national office",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "2002797544"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        }
+      ]
+    },
+    {
+      "date": "2004-06-09",
+      "code": "REG",
+      "title": "Reference to national code",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "DE"
+        },
+        {
+          "label": "Ref legal event code",
+          "value": "8642"
+        }
+      ]
+    },
+    {
+      "date": "2004-09-20",
+      "code": "WWE",
+      "title": "Wipo information: entry into national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "10487245"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "US"
+        }
+      ]
+    },
+    {
+      "date": "2005-01-05",
+      "code": "WWG",
+      "title": "Wipo information: grant in national office",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "2002797544"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "239000000758",
+        "name": "substrate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 59
+      },
+      {
+        "id": "239000011521",
+        "name": "glass",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 40
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 40
+      },
+      {
+        "id": "238000000576",
+        "name": "coating method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 35
+      },
+      {
+        "id": "239000011248",
+        "name": "coating agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 34
+      },
+      {
+        "id": "239000000919",
+        "name": "ceramic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "238000005524",
+        "name": "ceramic coating",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000003365",
+        "name": "glass fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 39
+      },
+      {
+        "id": "239000000835",
+        "name": "fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 32
+      },
+      {
+        "id": "239000004744",
+        "name": "fabric",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 31
+      },
+      {
+        "id": "239000000725",
+        "name": "suspension",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "150000001875",
+        "name": "compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 21
+      },
+      {
+        "id": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+        "name": "Ethanol",
+        "domain": "Chemical compound",
+        "smiles": "CCO",
+        "inchi_key": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "229910052751",
+        "name": "metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "229910052710",
+        "name": "silicon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "229910052726",
+        "name": "zirconium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "150000002736",
+        "name": "metal compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "229910018072",
+        "name": "Al 2 O 3",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000006378",
+        "name": "damage",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "229910052718",
+        "name": "tin",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "229910004298",
+        "name": "SiO 2",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000002253",
+        "name": "acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000012267",
+        "name": "brine",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "TWNQGVIAIRXVLR-UHFFFAOYSA-N",
+        "name": "oxo(oxoalumanyloxy)alumane",
+        "domain": "Chemical compound",
+        "smiles": "O=[Al]O[Al]=O",
+        "inchi_key": "TWNQGVIAIRXVLR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "HPALAKNZSZLMCH-UHFFFAOYSA-M",
+        "name": "sodium;chloride;hydrate",
+        "domain": "Chemical class",
+        "smiles": "O.[Na+].[Cl-]",
+        "inchi_key": "HPALAKNZSZLMCH-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "229910052727",
+        "name": "yttrium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "229910052684",
+        "name": "Cerium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229910001960",
+        "name": "metal nitrate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "150000002739",
+        "name": "metals",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000003825",
+        "name": "pressing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "BVKZGUZCCUSVTD-UHFFFAOYSA-L",
+        "name": "Carbonate",
+        "domain": "Chemical compound",
+        "smiles": "[O-]C([O-])=O",
+        "inchi_key": "BVKZGUZCCUSVTD-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052782",
+        "name": "aluminium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052796",
+        "name": "boron",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052797",
+        "name": "bismuth",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052804",
+        "name": "chromium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000007598",
+        "name": "dipping method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052732",
+        "name": "germanium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052738",
+        "name": "indium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052745",
+        "name": "lead",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052748",
+        "name": "manganese",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910044991",
+        "name": "metal oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910003455",
+        "name": "mixed metal oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052750",
+        "name": "molybdenum",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052758",
+        "name": "niobium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000007639",
+        "name": "printing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005096",
+        "name": "rolling process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000003839",
+        "name": "salts",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052706",
+        "name": "scandium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005507",
+        "name": "spraying",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000003892",
+        "name": "spreading",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000007480",
+        "name": "spreading",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052716",
+        "name": "thallium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052721",
+        "name": "tungsten",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "GWEVSGVZZGPLCZ-UHFFFAOYSA-N",
+        "name": "Titan oxide",
+        "domain": "Chemical compound",
+        "smiles": "O=[Ti]=O",
+        "inchi_key": "GWEVSGVZZGPLCZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052735",
+        "name": "hafnium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003301",
+        "name": "hydrolyzing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001507",
+        "name": "metal halide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000005309",
+        "name": "metal halides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000004767",
+        "name": "nitrides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052719",
+        "name": "titanium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052720",
+        "name": "vanadium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002759",
+        "name": "woven fabric",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003792",
+        "name": "electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 21
+      },
+      {
+        "id": "239000000126",
+        "name": "substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000007774",
+        "name": "longterm",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000002904",
+        "name": "solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000007599",
+        "name": "discharging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011810",
+        "name": "insulating material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000010220",
+        "name": "ion permeability",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000712",
+        "name": "assembly",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000429",
+        "name": "assembly",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006073",
+        "name": "displacement reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008279",
+        "name": "sol",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "239000011148",
+        "name": "porous material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "239000004753",
+        "name": "textile",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "name": "Lithium",
+        "domain": "Chemical compound",
+        "smiles": "[Li]",
+        "inchi_key": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "229910052744",
+        "name": "lithium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "BOTDANWDWHJENH-UHFFFAOYSA-N",
+        "name": "Tetraethyl orthosilicate",
+        "domain": "Chemical compound",
+        "smiles": "CCO[Si](OCC)(OCC)OCC",
+        "inchi_key": "BOTDANWDWHJENH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "229910001416",
+        "name": "lithium ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "229920000642",
+        "name": "polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+        "name": "Silicium dioxide",
+        "domain": "Chemical compound",
+        "smiles": "O=[Si]=O",
+        "inchi_key": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "229910052760",
+        "name": "oxygen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "YOBOXHGSEJBUPB-MTOQALJVSA-N",
+        "name": "(z)-4-hydroxypent-3-en-2-one;zirconium",
+        "domain": "Chemical compound",
+        "smiles": "[Zr].C\\C(O)=C\\C(C)=O.C\\C(O)=C\\C(C)=O.C\\C(O)=C\\C(C)=O.C\\C(O)=C\\C(C)=O",
+        "inchi_key": "YOBOXHGSEJBUPB-MTOQALJVSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000007664",
+        "name": "blowing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000007789",
+        "name": "gas",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "name": "Lithium ion",
+        "domain": "Chemical compound",
+        "smiles": "[Li+]",
+        "inchi_key": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "QCWXUUIWCKQGHC-UHFFFAOYSA-N",
+        "name": "Zirconium",
+        "domain": "Chemical compound",
+        "smiles": "[Zr]",
+        "inchi_key": "QCWXUUIWCKQGHC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "QVGXLLKOCUKJST-UHFFFAOYSA-N",
+        "name": "atomic oxygen",
+        "domain": "Chemical compound",
+        "smiles": "[O]",
+        "inchi_key": "QVGXLLKOCUKJST-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000001301",
+        "name": "oxygen",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000007858",
+        "name": "starting material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "OERNJTNJEZOPIA-UHFFFAOYSA-N",
+        "name": "zirconium nitrate",
+        "domain": "Chemical compound",
+        "smiles": "[Zr+4].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O",
+        "inchi_key": "OERNJTNJEZOPIA-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000007547",
+        "name": "defect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000002687",
+        "name": "intercalation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000009830",
+        "name": "intercalation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "150000002500",
+        "name": "ions",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000012528",
+        "name": "membrane",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "-1",
+        "name": "polyethylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920000098",
+        "name": "polyolefin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000243",
+        "name": "solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000003756",
+        "name": "stirring",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "VEXZGXHMUGYJMC-UHFFFAOYSA-N",
+        "name": "Hydrochloric acid",
+        "domain": "Chemical compound",
+        "smiles": "Cl",
+        "inchi_key": "VEXZGXHMUGYJMC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "GRYLNZFGIOXLOG-UHFFFAOYSA-N",
+        "name": "Nitric acid",
+        "domain": "Chemical compound",
+        "smiles": "O[N+]([O-])=O",
+        "inchi_key": "GRYLNZFGIOXLOG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "NBIIXXVUZAFLBC-UHFFFAOYSA-N",
+        "name": "Phosphoric acid",
+        "domain": "Chemical compound",
+        "smiles": "OP(O)(O)=O",
+        "inchi_key": "NBIIXXVUZAFLBC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004698",
+        "name": "Polyethylene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004743",
+        "name": "Polypropylene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "QAOWNCQODCNURD-UHFFFAOYSA-N",
+        "name": "Sulfuric acid",
+        "domain": "Chemical compound",
+        "smiles": "OS(O)(=O)=O",
+        "inchi_key": "QAOWNCQODCNURD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "RAHZWNYVWXNFOC-UHFFFAOYSA-N",
+        "name": "Sulphur dioxide",
+        "domain": "Chemical compound",
+        "smiles": "O=S=O",
+        "inchi_key": "RAHZWNYVWXNFOC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910010413",
+        "name": "TiO 2",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "JPUHCPXFQIXLMW-UHFFFAOYSA-N",
+        "name": "aluminium triethoxide",
+        "domain": "Chemical compound",
+        "smiles": "CCO[Al](OCC)OCC",
+        "inchi_key": "JPUHCPXFQIXLMW-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052799",
+        "name": "carbon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004880",
+        "name": "explosion",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000007062",
+        "name": "hydrolysis",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000006460",
+        "name": "hydrolysis reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910001510",
+        "name": "metal chloride",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000007522",
+        "name": "mineralic acids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910017604",
+        "name": "nitric acid",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004745",
+        "name": "nonwoven fabric",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000007524",
+        "name": "organic acids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002245",
+        "name": "particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "VLTRZXGMWDSKGL-UHFFFAOYSA-N",
+        "name": "perchloric acid",
+        "domain": "Chemical compound",
+        "smiles": "OCl(=O)(=O)=O",
+        "inchi_key": "VLTRZXGMWDSKGL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000035699",
+        "name": "permeability",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004033",
+        "name": "plastic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920003023",
+        "name": "plastic",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920000573",
+        "name": "polyethylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000005518",
+        "name": "polymer electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920001155",
+        "name": "polypropylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005855",
+        "name": "radiation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "RMAQACBXLXPBSY-UHFFFAOYSA-N",
+        "name": "silicic acid",
+        "domain": "Chemical compound",
+        "smiles": "O[Si](O)(O)O",
+        "inchi_key": "RMAQACBXLXPBSY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000377",
+        "name": "silicon dioxide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000012239",
+        "name": "silicon dioxide",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000007711",
+        "name": "solidification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008023",
+        "name": "solidification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005496",
+        "name": "tempering",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910002013",
+        "name": "Aerosil\u00ae 90",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "name": "Carbon",
+        "domain": "Chemical compound",
+        "smiles": "[C]",
+        "inchi_key": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000049",
+        "name": "Carbon (fiber)",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910012851",
+        "name": "LiCoO 2",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910013870",
+        "name": "LiPF 6",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XUIMIQQOPSSXEZ-UHFFFAOYSA-N",
+        "name": "Silicon",
+        "domain": "Chemical compound",
+        "smiles": "[Si]",
+        "inchi_key": "XUIMIQQOPSSXEZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000007513",
+        "name": "acids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052768",
+        "name": "actinide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000001255",
+        "name": "actinides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000956",
+        "name": "alloy",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910045601",
+        "name": "alloy",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000147",
+        "name": "aluminium phosphate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910021486",
+        "name": "amorphous silicon dioxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "OJIJEKBXJYRIBZ-UHFFFAOYSA-N",
+        "name": "cadmium nickel",
+        "domain": "Chemical compound",
+        "smiles": "[Ni].[Cd]",
+        "inchi_key": "OJIJEKBXJYRIBZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004917",
+        "name": "carbon fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003575",
+        "name": "carbonaceous material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000015556",
+        "name": "catabolic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910010293",
+        "name": "ceramic material",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000003636",
+        "name": "chemical group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003795",
+        "name": "chemical substances by application",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004140",
+        "name": "cleaning",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002131",
+        "name": "composite material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004020",
+        "name": "conductor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010924",
+        "name": "continuous production",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009826",
+        "name": "distribution",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005553",
+        "name": "drilling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001035",
+        "name": "drying",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002474",
+        "name": "experimental method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000446",
+        "name": "fuel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002209",
+        "name": "hydrophobic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910003471",
+        "name": "inorganic composite material",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052500",
+        "name": "inorganic mineral",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052742",
+        "name": "iron",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001788",
+        "name": "irregular",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052747",
+        "name": "lanthanoid",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002602",
+        "name": "lanthanoids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000625",
+        "name": "lithium cobalt oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910002102",
+        "name": "lithium manganese oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BFZPBUKRYWOWDV-UHFFFAOYSA-N",
+        "name": "lithium;oxido(oxo)cobalt",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[O-][Co]=O",
+        "inchi_key": "BFZPBUKRYWOWDV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "VLXXBCXTUVRROQ-UHFFFAOYSA-N",
+        "name": "lithium;oxido-oxo-(oxomanganiooxy)manganese",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[O-][Mn](=O)O[Mn]=O",
+        "inchi_key": "VLXXBCXTUVRROQ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "URIIGZKXFBNRAU-UHFFFAOYSA-N",
+        "name": "lithium;oxonickel",
+        "domain": "Chemical compound",
+        "smiles": "[Li].[Ni]=O",
+        "inchi_key": "URIIGZKXFBNRAU-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011068",
+        "name": "loading method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011572",
+        "name": "manganese",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000155",
+        "name": "melt",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052987",
+        "name": "metal hydride",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000004706",
+        "name": "metal oxides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+        "name": "methane",
+        "domain": "Chemical compound",
+        "smiles": "C",
+        "inchi_key": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011707",
+        "name": "mineral",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052759",
+        "name": "nickel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "PXHVJJICTQNCMI-UHFFFAOYSA-N",
+        "name": "nickel",
+        "domain": "Substances",
+        "smiles": "[Ni]",
+        "inchi_key": "PXHVJJICTQNCMI-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000620",
+        "name": "organic polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003647",
+        "name": "oxidation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007254",
+        "name": "oxidation reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000035515",
+        "name": "penetration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002360",
+        "name": "preparation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "LMHHRCOWPQNFTF-UHFFFAOYSA-N",
+        "name": "s-propan-2-yl azepane-1-carbothioate",
+        "domain": "Chemical compound",
+        "smiles": "CC(C)SC(=O)N1CCCCCC1",
+        "inchi_key": "LMHHRCOWPQNFTF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010703",
+        "name": "silicon",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003860",
+        "name": "storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010345",
+        "name": "tape casting",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007669",
+        "name": "thermal treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "VXUYXOFXAQZZMF-UHFFFAOYSA-N",
+        "name": "titanium(IV) isopropoxide",
+        "domain": "Chemical compound",
+        "smiles": "CC(C)O[Ti](OC(C)C)(OC(C)C)OC(C)C",
+        "inchi_key": "VXUYXOFXAQZZMF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004804",
+        "name": "winding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

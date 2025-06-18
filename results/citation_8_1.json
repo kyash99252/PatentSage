@@ -1,0 +1,1871 @@
+{
+  "search_metadata": {
+    "id": "685255c8421b0891b18d8a73",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0bc622f6c6dd1dfd/685255c8421b0891b18d8a73.json",
+    "created_at": "2025-06-18 05:59:36 UTC",
+    "processed_at": "2025-06-18 05:59:36 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US4233537A/en",
+    "raw_html_file": "https://serpapi.com/searches/0bc622f6c6dd1dfd/685255c8421b0891b18d8a73.html",
+    "total_time_taken": 0.78
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US4233537A/en"
+  },
+  "title": "Multicusp plasma containment apparatus",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/58/21/dc/053aa190fa7d4d/US4233537.pdf",
+  "publication_number": "US4233537A",
+  "country": "United States",
+  "prior_art_keywords": [
+    "plasma",
+    "chamber",
+    "plasma apparatus",
+    "magnets",
+    "magnetic"
+  ],
+  "prior_art_date": "1972-09-18",
+  "application_number": "US05/290,076",
+  "inventors": [
+    {
+      "name": "Rudolf Limpaecher",
+      "link": "https://patents.google.com/?inventor=Rudolf+Limpaecher",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Rudolf+Limpaecher"
+    }
+  ],
+  "assignees": [
+    "Micron Technology Inc"
+  ],
+  "priority_date": "1972-09-18",
+  "filing_date": "1972-09-18",
+  "publication_date": "1980-11-11",
+  "worldwide_applications": {
+    "1972": [
+      {
+        "filing_date": "1972-09-18",
+        "country_code": "US",
+        "application_number": "US05/290,076",
+        "document_id": "patent/US4233537A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1972-09-18",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "1972-09-18",
+      "title": "Priority to US05/290,076",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US4233537A/en"
+    },
+    {
+      "date": "1980-11-11",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "1980-11-11",
+      "title": "Publication of US4233537A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US4233537A/en"
+    },
+    {
+      "date": "1992-09-04",
+      "title": "Assigned to MICRON TECHNOLOGY, INC.",
+      "type": "reassignment",
+      "assignee_search": "MICRON TECHNOLOGY, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST.",
+        "Assignors: LIMPAECHER, RUDOLF"
+      ]
+    },
+    {
+      "date": "1992-11-05",
+      "title": "Assigned to MICRON SEMICONDUCTOR, INC.",
+      "type": "reassignment",
+      "assignee_search": "MICRON SEMICONDUCTOR, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST.",
+        "Assignors: MICRON TECHNOLOGY, INC."
+      ]
+    },
+    {
+      "date": "1997-11-11",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=4233537.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/05290076"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=4233537"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=4233537A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/05290076/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US4233537"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/7f/8f/bd/2eab5eacc7c1ad/US4233537-drawings-page-2.png",
+    "https://patentimages.storage.googleapis.com/52/12/22/e821ae6eecf8e4/US4233537-drawings-page-3.png",
+    "https://patentimages.storage.googleapis.com/eb/5e/77/1e63a883ceed04/US4233537-drawings-page-4.png",
+    "https://patentimages.storage.googleapis.com/1b/4c/3c/f5d79c21381797/US4233537-drawings-page-5.png",
+    "https://patentimages.storage.googleapis.com/1c/a1/f7/baf6ced420d5d0/US4233537-drawings-page-6.png"
+  ],
+  "classifications": [
+    {
+      "code": "H05H1/14",
+      "description": "Arrangements for confining plasma by electric or magnetic fields; Arrangements for heating plasma using externally-applied magnetic fields only, e.g. Q-machines, Yin-Yang, base-ball wherein the containment vessel is straight and has magnetic mirrors",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E30/10",
+      "description": "Nuclear fusion reactors",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10S505/879",
+      "description": "Magnet or electromagnet",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "It has been discovered that plasma containment by a chamber having multi-pole magnetic cusp reflecting walls in combination with electronic injection for electrostatic containment provides the means for generating magnetic field free quiescent plasmas for practical application in ion-pumps, electronic switches, and the like. 1250 \"Alnico V\" magnets 1/2\"\u00d71/2\"\u00d711/2\" provide containment in one embodiment. Electromagnets embodying toroidal funneling extend the principle to fusion apparatus.",
+  "description_link": "https://serpapi.com/searches/685255c8421b0891b18d8a73/google_patents_details/description.html",
+  "claims": [
+    "1. Plasma containing apparatus comprising,(a) a container vacuum tight to maintain the plasma pressure, (b) a plasma chamber within said container, (c) said chamber having magnetic multipole ion reflecting walls made up of an array of at least thirty magnetic poles of alternating sign, and (d) means for injecting electrons into said chamber in sufficient quantity to maintain the resulting plasma at a substantial negative potential.",
+    "2. Plasma apparatus as defined by claim 1(e) wherein said walls are made up of parallel ferromagnetic rectangular bars to which adhere permanent magnetic poles.",
+    "3. Plasma apparatus as defined by claim 1(e) wherein said means comprises a heated tungsten filament.",
+    "4. Plasma apparatus as defined by claim 3(f) wherein said walls comprise a plurality of small permanent magnets.",
+    "5. Plasma apparatus as defined by claim 1,(e) wherein said walls comprise a plurality of small permanent magnets.",
+    "6. Plasma apparatus as defined by claim 5(f) wherein said magnets are arranged in a broken line-cusp array, each broken line-cusp being made up of a plurality of like-sense poles spaced apart by a predetermined distance, and said array comprising a plurality of parallel broken line cusps of alternately opposite sense, spaced apart by a second predetermined distance of the order of said first distance.",
+    "7. Plasma apparatus as defined by claim 5(f) wherein said magnets are arranged in a broken line-cusp array, in further combination with: (g) an exit port in said chamber, and (h) electrostatic lens means to direct ions from said chamber into an outlet pipe.",
+    "8. Plasma apparatus as defined by claim 1(e) wherein said chamber is in the form of a toroid, in further combination with (f) a closed core of magnetic material linking said toroid.",
+    "9. Plasma apparatus as defined by claim 1(e) wherein said poles are provided by horse-shoe electromagnets.",
+    "10. Plasma apparatus as defined by claim 9(f) wherein said magnets are arranged in a broken line-cusp array.",
+    "11. Plasma apparatus as defined by claim 9(f) wherein said magnets have hollow cores proportioned for torroidal funneling.",
+    "12. Plasma apparatus as defined by claim 11(g) wherein at least one of said magnets is linked by a closed magnetic core of magnetic material which links also wire windings by which said plasma may be heated by induction.",
+    "13. Plasma apparatus as defined by claim 9(f) wherein said means comprises an electron gun external to said chamber.",
+    "14. Plasma apparatus as defined by claim 13(g) wherein said electrons are carried from said gun to said chamber through the hollow core of an electromagnet.",
+    "15. Plasma apparatus as defined by claim 9 in further combination with(f) means for injecting ions into said chamber.",
+    "16. Plasma apparatus as defined by claim 15(g) wherein said last-named means comprises (h) an ion generator, and (i) a hollow electromagnet to guide said ions from said generator into said chamber."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US05/290,076",
+      "representative_publication": "US4233537A",
+      "primary_language": "en",
+      "priority_date": "1972-09-18",
+      "filing_date": "1972-09-18",
+      "title": "Multicusp plasma containment apparatus"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US05/290,076",
+      "representative_publication": "US4233537A",
+      "primary_language": "en",
+      "priority_date": "1972-09-18",
+      "filing_date": "1972-09-18",
+      "title": "Multicusp plasma containment apparatus"
+    }
+  ],
+  "family_id": "23114448",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US3036963A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1960-01-25",
+        "publication_date": "1962-05-29",
+        "assignee_original": "Nicholas C Christofilos",
+        "title": "Method and apparatus for injecting and trapping electrons in a magnetic field",
+        "patent_id": "patent/US3036963A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3036963A%2Fen"
+      },
+      {
+        "publication_number": "US3071525A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1958-08-19",
+        "publication_date": "1963-01-01",
+        "assignee_original": "Nicholas C Christofilos",
+        "title": "Method and apparatus for producing thermonuclear reactions",
+        "patent_id": "patent/US3071525A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3071525A%2Fen"
+      },
+      {
+        "publication_number": "US3664921A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1969-10-16",
+        "publication_date": "1972-05-23",
+        "assignee_original": "Atomic Energy Commission",
+        "title": "Proton e-layer astron for producing controlled fusion reactions",
+        "patent_id": "patent/US3664921A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3664921A%2Fen"
+      },
+      {
+        "publication_number": "US3668067A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1969-10-16",
+        "publication_date": "1972-06-06",
+        "assignee_original": "Atomic Energy Commission",
+        "title": "Polygonal astron reactor for producing controlled fusion reactions",
+        "patent_id": "patent/US3668067A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3668067A%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US4486665A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1982-08-06",
+        "publication_date": "1984-12-04",
+        "assignee_original": "The United States Of America As Represented By The United States Department Of Energy",
+        "title": "Negative ion source",
+        "patent_id": "patent/US4486665A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4486665A%2Fen"
+      },
+      {
+        "publication_number": "WO1987002820A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-10-29",
+        "publication_date": "1987-05-07",
+        "assignee_original": "Energy/Matter Conversion Corporation, Inc.",
+        "title": "Method and apparatus for controlling charged particles",
+        "patent_id": "patent/WO1987002820A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1987002820A1%2Fen"
+      },
+      {
+        "publication_number": "US4739169A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-10-04",
+        "publication_date": "1988-04-19",
+        "assignee_original": "Hitachi, Ltd.",
+        "title": "Ion source",
+        "patent_id": "patent/US4739169A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4739169A%2Fen"
+      },
+      {
+        "publication_number": "US4765948A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-08-29",
+        "publication_date": "1988-08-23",
+        "assignee_original": "Stone & Webster Engineering Corporation",
+        "title": "Coolant circulation system for a liquid metal nuclear reactor",
+        "patent_id": "patent/US4765948A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4765948A%2Fen"
+      },
+      {
+        "publication_number": "US5160695A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-02-08",
+        "publication_date": "1992-11-03",
+        "assignee_original": "Qed, Inc.",
+        "title": "Method and apparatus for creating and controlling nuclear fusion reactions",
+        "patent_id": "patent/US5160695A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5160695A%2Fen"
+      },
+      {
+        "publication_number": "US5196706A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-07-30",
+        "publication_date": "1993-03-23",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Extractor and deceleration lens for ion beam deposition apparatus",
+        "patent_id": "patent/US5196706A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5196706A%2Fen"
+      },
+      {
+        "publication_number": "US5198677A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-10-11",
+        "publication_date": "1993-03-30",
+        "assignee_original": "The United States Of America As Represented By The United States Department Of Energy",
+        "title": "Production of N+ ions from a multicusp ion beam apparatus",
+        "patent_id": "patent/US5198677A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5198677A%2Fen"
+      },
+      {
+        "publication_number": "US5206516A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-04-29",
+        "publication_date": "1993-04-27",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Low energy, steered ion beam deposition system having high current at low pressure",
+        "patent_id": "patent/US5206516A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5206516A%2Fen"
+      },
+      {
+        "publication_number": "US20030057846A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-22",
+        "publication_date": "2003-03-27",
+        "assignee_original": "Gunter Kornfeld",
+        "title": "Plasma accelarator arrangement",
+        "patent_id": "patent/US20030057846A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030057846A1%2Fen"
+      },
+      {
+        "publication_number": "US6628740B2",
+        "primary_language": "en",
+        "priority_date": "1997-10-17",
+        "publication_date": "2003-09-30",
+        "assignee_original": "The Regents Of The University Of California",
+        "title": "Controlled fusion in a field reversed configuration and direct energy conversion",
+        "patent_id": "patent/US6628740B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6628740B2%2Fen"
+      },
+      {
+        "publication_number": "US20030214262A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-19",
+        "publication_date": "2003-11-20",
+        "assignee_original": "Monkhorst Hendrik J.",
+        "title": "Controlled fusion in a field reversed configuration and direct energy conversion",
+        "patent_id": "patent/US20030214262A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030214262A1%2Fen"
+      },
+      {
+        "publication_number": "US20030221622A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-02-01",
+        "publication_date": "2003-12-04",
+        "assignee_original": "The Regents Of The University Of California",
+        "title": "Formation of a field reversed configuration for magnetic and electrostatic confinement of plasma",
+        "patent_id": "patent/US20030221622A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030221622A1%2Fen"
+      },
+      {
+        "publication_number": "US20030223528A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-06-16",
+        "publication_date": "2003-12-04",
+        "assignee_original": "George Miley",
+        "title": "Electrostatic accelerated-recirculating-ion fusion neutron/proton source",
+        "patent_id": "patent/US20030223528A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030223528A1%2Fen"
+      },
+      {
+        "publication_number": "US20040130277A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-10-17",
+        "publication_date": "2004-07-08",
+        "assignee_original": "Monkhorst Hendrik J.",
+        "title": "Controlled fusion in a field reversed configuration and direct energy conversion",
+        "patent_id": "patent/US20040130277A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040130277A1%2Fen"
+      },
+      {
+        "publication_number": "US20050220243A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-05-18",
+        "publication_date": "2005-10-06",
+        "assignee_original": "Wilson Greatbatch",
+        "title": "3He reactor with direct electrical conversion",
+        "patent_id": "patent/US20050220243A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050220243A1%2Fen"
+      },
+      {
+        "publication_number": "US20060254520A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-07",
+        "publication_date": "2006-11-16",
+        "assignee_original": "The Regents Of The University Of California",
+        "title": "RF current drive for plasma electric generation system",
+        "patent_id": "patent/US20060254520A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060254520A1%2Fen"
+      },
+      {
+        "publication_number": "US20060267503A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-07",
+        "publication_date": "2006-11-30",
+        "assignee_original": "Vitaly Bystriskii",
+        "title": "Inductive plasma source for plasma electric generation system",
+        "patent_id": "patent/US20060267503A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060267503A1%2Fen"
+      },
+      {
+        "publication_number": "KR100843283B1",
+        "primary_language": "en",
+        "priority_date": "2001-03-19",
+        "publication_date": "2008-07-03",
+        "assignee_original": "\ub354 \ub9ac\uc804\uce20 \uc624\ube0c \ub354 \uc720\ub2c8\ubc84\uc2dc\ud2f0 \uc624\ube0c \uce98\ub9ac\ud3ec\ub2c8\uc544",
+        "title": "Plasma-electric power generation system",
+        "patent_id": "patent/KR100843283B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100843283B1%2Fen"
+      },
+      {
+        "publication_number": "US20110085632A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-10-09",
+        "publication_date": "2011-04-14",
+        "assignee_original": "FP Generation",
+        "title": "Systems and methods for magnetically assisted inertial electrostatic confinement fusion",
+        "patent_id": "patent/US20110085632A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110085632A1%2Fen"
+      },
+      {
+        "publication_number": "US7926258B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-06-14",
+        "publication_date": "2011-04-19",
+        "assignee_original": "Cu Aerospace, Llc",
+        "title": "Advanced pulsed plasma thruster with high electromagnetic thrust",
+        "patent_id": "patent/US7926258B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7926258B1%2Fen"
+      },
+      {
+        "publication_number": "AU2004222932B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-03-21",
+        "publication_date": "2011-04-28",
+        "assignee_original": "Utah State University",
+        "title": "Systems and methods for plasma containment",
+        "patent_id": "patent/AU2004222932B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2004222932B2%2Fen"
+      },
+      {
+        "publication_number": "US20110200153A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-16",
+        "publication_date": "2011-08-18",
+        "assignee_original": "Ferreira Jr Moacir L",
+        "title": "Magnetic and electrostatic nuclear fusion reactor",
+        "patent_id": "patent/US20110200153A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110200153A1%2Fen"
+      },
+      {
+        "publication_number": "EP2389048A2",
+        "primary_language": "en",
+        "priority_date": "2005-03-07",
+        "publication_date": "2011-11-23",
+        "assignee_original": "The Regents of The University of California",
+        "title": "Plasma electric generation system",
+        "patent_id": "patent/EP2389048A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2389048A2%2Fen"
+      },
+      {
+        "publication_number": "CN103269555A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-04-28",
+        "publication_date": "2013-08-28",
+        "assignee_original": "\u54c8\u5c14\u6ee8\u5de5\u4e1a\u5927\u5b66",
+        "title": "Systems and methods for confining a high temperature plasma with a magnetic field configuration having a zero magnetic field region",
+        "patent_id": "patent/CN103269555A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103269555A%2Fen"
+      },
+      {
+        "publication_number": "US20140301518A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-04-03",
+        "publication_date": "2014-10-09",
+        "assignee_original": "Thomas John McGuire",
+        "title": "Magnetic Field Plasma Confinement for Compact Fusion Power",
+        "patent_id": "patent/US20140301518A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140301518A1%2Fen"
+      },
+      {
+        "publication_number": "US9018108B2",
+        "primary_language": "en",
+        "priority_date": "2013-01-25",
+        "publication_date": "2015-04-28",
+        "assignee_original": "Applied Materials, Inc.",
+        "title": "Low shrinkage dielectric films",
+        "patent_id": "patent/US9018108B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9018108B2%2Fen"
+      },
+      {
+        "publication_number": "US9607719B2",
+        "primary_language": "en",
+        "priority_date": "2005-03-07",
+        "publication_date": "2017-03-28",
+        "assignee_original": "The Regents Of The University Of California",
+        "title": "Vacuum chamber for plasma electric generation system",
+        "patent_id": "patent/US9607719B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9607719B2%2Fen"
+      },
+      {
+        "publication_number": "US20180047463A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-04-03",
+        "publication_date": "2018-02-15",
+        "assignee_original": "Lockheed Martin Corporation",
+        "title": "Heating plasma for fusion power using electromagnetic waves",
+        "patent_id": "patent/US20180047463A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180047463A1%2Fen"
+      },
+      {
+        "publication_number": "US20180090232A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-04-03",
+        "publication_date": "2018-03-29",
+        "assignee_original": "Lockheed Martin Corporation",
+        "title": "Heating Plasma for Fusion Power Using Neutral Beam Injection",
+        "patent_id": "patent/US20180090232A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180090232A1%2Fen"
+      },
+      {
+        "publication_number": "US9934876B2",
+        "primary_language": "en",
+        "priority_date": "2013-04-03",
+        "publication_date": "2018-04-03",
+        "assignee_original": "Lockheed Martin Corporation",
+        "title": "Magnetic field plasma confinement for compact fusion power",
+        "patent_id": "patent/US9934876B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9934876B2%2Fen"
+      },
+      {
+        "publication_number": "US9959942B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-04-03",
+        "publication_date": "2018-05-01",
+        "assignee_original": "Lockheed Martin Corporation",
+        "title": "Encapsulating magnetic fields for plasma confinement",
+        "patent_id": "patent/US9959942B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9959942B2%2Fen"
+      },
+      {
+        "publication_number": "US9959941B2",
+        "primary_language": "en",
+        "priority_date": "2013-04-03",
+        "publication_date": "2018-05-01",
+        "assignee_original": "Lockheed Martin Corporation",
+        "title": "System for supporting structures immersed in plasma",
+        "patent_id": "patent/US9959941B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9959941B2%2Fen"
+      },
+      {
+        "publication_number": "US9997261B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-14",
+        "publication_date": "2018-06-12",
+        "assignee_original": "The Regents Of The University Of California",
+        "title": "Systems and methods for forming and maintaining a high performance FRC",
+        "patent_id": "patent/US9997261B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9997261B2%2Fen"
+      },
+      {
+        "publication_number": "US10049774B2",
+        "primary_language": "en",
+        "priority_date": "2013-09-24",
+        "publication_date": "2018-08-14",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for forming and maintaining a high performance FRC",
+        "patent_id": "patent/US10049774B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10049774B2%2Fen"
+      },
+      {
+        "publication_number": "US10217532B2",
+        "primary_language": "en",
+        "priority_date": "2014-10-13",
+        "publication_date": "2019-02-26",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for merging and compressing compact tori",
+        "patent_id": "patent/US10217532B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10217532B2%2Fen"
+      },
+      {
+        "publication_number": "US10418170B2",
+        "primary_language": "en",
+        "priority_date": "2015-05-12",
+        "publication_date": "2019-09-17",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for reducing undesired eddy currents",
+        "patent_id": "patent/US10418170B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10418170B2%2Fen"
+      },
+      {
+        "publication_number": "US10440806B2",
+        "primary_language": "en",
+        "priority_date": "2014-10-30",
+        "publication_date": "2019-10-08",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for forming and maintaining a high performance FRC",
+        "patent_id": "patent/US10440806B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10440806B2%2Fen"
+      },
+      {
+        "publication_number": "US10570892B2",
+        "primary_language": "en",
+        "priority_date": "2018-06-13",
+        "publication_date": "2020-02-25",
+        "assignee_original": "Cu Aerospace, Llc",
+        "title": "Fiber-fed advanced pulsed plasma thruster (FPPT)",
+        "patent_id": "patent/US10570892B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10570892B2%2Fen"
+      },
+      {
+        "publication_number": "US11195627B2",
+        "primary_language": "en",
+        "priority_date": "2016-10-28",
+        "publication_date": "2021-12-07",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for improved sustainment of a high performance FRC plasma at elevated energies utilizing neutral beam injectors with tunable beam energies",
+        "patent_id": "patent/US11195627B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11195627B2%2Fen"
+      },
+      {
+        "publication_number": "US11211172B2",
+        "primary_language": "en",
+        "priority_date": "2016-11-04",
+        "publication_date": "2021-12-28",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for improved sustainment of a high performance FRC with multi-scaled capture type vacuum pumping",
+        "patent_id": "patent/US11211172B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11211172B2%2Fen"
+      },
+      {
+        "publication_number": "US11217351B2",
+        "primary_language": "en",
+        "priority_date": "2015-11-13",
+        "publication_date": "2022-01-04",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for FRC plasma position stability",
+        "patent_id": "patent/US11217351B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11217351B2%2Fen"
+      },
+      {
+        "publication_number": "US11242844B2",
+        "primary_language": "en",
+        "priority_date": "2018-06-13",
+        "publication_date": "2022-02-08",
+        "assignee_original": "Cu Aerospace, Llc",
+        "title": "Fiber-fed advanced pulsed plasma thruster (FPPT)",
+        "patent_id": "patent/US11242844B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11242844B2%2Fen"
+      },
+      {
+        "publication_number": "US11335467B2",
+        "primary_language": "en",
+        "priority_date": "2016-11-15",
+        "publication_date": "2022-05-17",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for improved sustainment of a high performance FRC and high harmonic fast wave electron heating in a high performance FRC",
+        "patent_id": "patent/US11335467B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11335467B2%2Fen"
+      },
+      {
+        "publication_number": "US11482342B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-10-07",
+        "publication_date": "2022-10-25",
+        "assignee_original": "Tanner L. Horne",
+        "title": "Nuclear fusion reactor with toroidal superconducting magnetic coils implementing inertial electrostatic heating",
+        "patent_id": "patent/US11482342B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11482342B2%2Fen"
+      },
+      {
+        "publication_number": "US12209577B2",
+        "primary_language": "en",
+        "priority_date": "2018-06-13",
+        "publication_date": "2025-01-28",
+        "assignee_original": "Cu Aerospace, Llc",
+        "title": "Fiber-fed advanced pulsed plasma thruster (FPPT)",
+        "patent_id": "patent/US12209577B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12209577B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US4233537A",
+      "primary_language": "en",
+      "publication_date": "1980-11-11",
+      "title": "Multicusp plasma containment apparatus",
+      "patent_id": "patent/US4233537A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4233537A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3527977A",
+      "primary_language": "en",
+      "publication_date": "1970-09-08",
+      "title": "Moving electrons as an aid to initiating reactions in thermonuclear devices",
+      "patent_id": "patent/US3527977A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3527977A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2344577C2",
+      "primary_language": "en",
+      "publication_date": "2009-01-20",
+      "title": "Plasma accelerator with closed electron drift",
+      "patent_id": "patent/RU2344577C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2344577C2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4560528A",
+      "primary_language": "en",
+      "publication_date": "1985-12-24",
+      "title": "Method and apparatus for producing average magnetic well in a reversed field pinch",
+      "patent_id": "patent/US4560528A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4560528A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15632146707012683144",
+      "scholar_authors": "Donets",
+      "publication_date": "1976",
+      "title": "Review of the JINR electron beam ion sources",
+      "patent_id": "scholar/15632146707012683144",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15632146707012683144"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4486665A",
+      "primary_language": "en",
+      "publication_date": "1984-12-04",
+      "title": "Negative ion source",
+      "patent_id": "patent/US4486665A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4486665A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3014857A",
+      "primary_language": "en",
+      "publication_date": "1961-12-26",
+      "title": "Plasma device",
+      "patent_id": "patent/US3014857A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3014857A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9523556193924073695",
+      "scholar_authors": "Morgan et al.",
+      "publication_date": "1967",
+      "title": "Technology of Intense dc Ion Beams",
+      "patent_id": "scholar/9523556193924073695",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9523556193924073695"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH046060B2",
+      "primary_language": "en",
+      "publication_date": "1992-02-04",
+      "patent_id": "patent/JPH046060B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH046060B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4140943A",
+      "primary_language": "en",
+      "publication_date": "1979-02-20",
+      "title": "Plasma generating device with hairpin-shaped cathode filaments",
+      "patent_id": "patent/US4140943A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4140943A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2258086894874371445",
+      "scholar_authors": "Arianer et al.",
+      "publication_date": "1982",
+      "title": "Cryebis, an advanced multicharge ion source: Part I: The basic choices; justifications; description of the device",
+      "patent_id": "scholar/2258086894874371445",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2258086894874371445"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3634704A",
+      "primary_language": "en",
+      "publication_date": "1972-01-11",
+      "title": "Apparatus for the production of highly stripped ions",
+      "patent_id": "patent/US3634704A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3634704A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3740554A",
+      "primary_language": "en",
+      "publication_date": "1973-06-19",
+      "title": "Multi-ampere duopigatron ion source",
+      "patent_id": "patent/US3740554A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3740554A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3445722A",
+      "primary_language": "en",
+      "publication_date": "1969-05-20",
+      "title": "Plasma manipulation method and apparatus",
+      "patent_id": "patent/US3445722A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3445722A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3692626A",
+      "primary_language": "en",
+      "publication_date": "1972-09-19",
+      "title": "Apparatus for forming and containing plasma",
+      "patent_id": "patent/US3692626A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3692626A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240387061A1",
+      "primary_language": "en",
+      "publication_date": "2024-11-21",
+      "title": "Nuclear Fusion Apparatus",
+      "patent_id": "patent/US20240387061A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240387061A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU187270U1",
+      "primary_language": "en",
+      "publication_date": "2019-02-28",
+      "title": "PULSE NEUTRON GENERATOR",
+      "patent_id": "patent/RU187270U1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU187270U1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3219534A",
+      "primary_language": "en",
+      "publication_date": "1965-11-23",
+      "title": "Plasma confinement apparatus employing a helical magnetic field configuration",
+      "patent_id": "patent/US3219534A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3219534A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3452249A",
+      "primary_language": "en",
+      "publication_date": "1969-06-24",
+      "title": "Method and apparatus for containing a plasma produced by opposed electrodes",
+      "patent_id": "patent/US3452249A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3452249A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3437871A",
+      "primary_language": "en",
+      "publication_date": "1969-04-08",
+      "title": "Plasma containment apparatus with ion cyclotron resonance heating",
+      "patent_id": "patent/US3437871A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3437871A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11099636696799412331",
+      "scholar_authors": "Seikel",
+      "publication_date": "1962",
+      "title": "48 (b). Generation of Thrust\u2014Electromagnetic Thrustors",
+      "patent_id": "scholar/11099636696799412331",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11099636696799412331"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1780613083740131373",
+      "scholar_authors": "Hamilton et al.",
+      "publication_date": "1968",
+      "title": "Multimomentum 650 mA ion source",
+      "patent_id": "scholar/1780613083740131373",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1780613083740131373"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2071137C1",
+      "primary_language": "en",
+      "publication_date": "1996-12-27",
+      "title": "Ion source",
+      "patent_id": "patent/RU2071137C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2071137C1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8943888104660763675",
+      "scholar_authors": "Reiser",
+      "publication_date": "1989",
+      "title": "Comparison of Gabor lens, gas focusing, and electrostatic quadrupole focusing for low-energy ion beams",
+      "patent_id": "scholar/8943888104660763675",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8943888104660763675"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2076384C1",
+      "primary_language": "en",
+      "publication_date": "1997-03-27",
+      "title": "Plasma source of negative atomic ions",
+      "patent_id": "patent/RU2076384C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2076384C1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "1992-09-04",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MICRON TECHNOLOGY, INC., IDAHO"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST.;ASSIGNOR:LIMPAECHER, RUDOLF;REEL/FRAME:006280/0922"
+        },
+        {
+          "label": "Effective date",
+          "value": "19920618"
+        }
+      ]
+    },
+    {
+      "date": "1992-11-05",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MICRON SEMICONDUCTOR, INC., IDAHO"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST.;ASSIGNOR:MICRON TECHNOLOGY, INC.;REEL/FRAME:006318/0162"
+        },
+        {
+          "label": "Effective date",
+          "value": "19920901"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "230000005291",
+        "name": "magnetic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 30
+      },
+      {
+        "id": "230000005405",
+        "name": "multipole",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "150000002500",
+        "name": "ions",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 38
+      },
+      {
+        "id": "238000004804",
+        "name": "winding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000006698",
+        "name": "induction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000000696",
+        "name": "magnetic material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "WFKWXMTUELFFGS-UHFFFAOYSA-N",
+        "name": "tungsten",
+        "domain": "Chemical compound",
+        "smiles": "[W]",
+        "inchi_key": "WFKWXMTUELFFGS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052721",
+        "name": "tungsten",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000010937",
+        "name": "tungsten",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000005294",
+        "name": "ferromagnetic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000002381",
+        "name": "plasma",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 78
+      },
+      {
+        "id": "230000004927",
+        "name": "fusion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "108010083687",
+        "name": "Ion Pumps",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000002347",
+        "name": "injection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000007924",
+        "name": "injection",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "102000006391",
+        "name": "Ion Pumps",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910000828",
+        "name": "alnico",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "239000007789",
+        "name": "gas",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000005086",
+        "name": "pumping",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000010936",
+        "name": "titanium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+        "name": "Argon",
+        "domain": "Chemical compound",
+        "smiles": "[Ar]",
+        "inchi_key": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "XEEYBQQBJWHFJM-UHFFFAOYSA-N",
+        "name": "Iron",
+        "domain": "Chemical compound",
+        "smiles": "[Fe]",
+        "inchi_key": "XEEYBQQBJWHFJM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "name": "Lithium",
+        "domain": "Chemical compound",
+        "smiles": "[Li]",
+        "inchi_key": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "RTAQQCXQSZGOHL-UHFFFAOYSA-N",
+        "name": "Titanium",
+        "domain": "Chemical compound",
+        "smiles": "[Ti]",
+        "inchi_key": "RTAQQCXQSZGOHL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004020",
+        "name": "conductor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005284",
+        "name": "excitation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004907",
+        "name": "flux",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000010884",
+        "name": "ion-beam technique",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000007935",
+        "name": "neutral effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002245",
+        "name": "particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052719",
+        "name": "titanium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004215",
+        "name": "Carbon black (E152)",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+        "name": "Hydrogen",
+        "domain": "Chemical compound",
+        "smiles": "[H][H]",
+        "inchi_key": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "DGAQECJNVWCQMB-PUAWFVPOSA-M",
+        "name": "Ilexoside XXIX",
+        "domain": "Chemical compound",
+        "smiles": "C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)OS(=O)(=O)[O-])C)C)[C@@H]2[C@]1(C)O)C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O.[Na+]",
+        "inchi_key": "DGAQECJNVWCQMB-PUAWFVPOSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052786",
+        "name": "argon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003491",
+        "name": "array",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012993",
+        "name": "chemical processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001427",
+        "name": "coherent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000001875",
+        "name": "compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007423",
+        "name": "decrease",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002950",
+        "name": "deficient",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000012489",
+        "name": "doughnuts",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005670",
+        "name": "electromagnetic radiation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012530",
+        "name": "fluid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001307",
+        "name": "helium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052734",
+        "name": "helium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+        "name": "helium atom",
+        "domain": "Chemical compound",
+        "smiles": "[He]",
+        "inchi_key": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229930195733",
+        "name": "hydrocarbon",
+        "domain": "Natural products",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002430",
+        "name": "hydrocarbons",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001257",
+        "name": "hydrogen",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052739",
+        "name": "hydrogen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000977",
+        "name": "initiatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009413",
+        "name": "insulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012212",
+        "name": "insulator",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011835",
+        "name": "investigation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052742",
+        "name": "iron",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052744",
+        "name": "lithium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000103",
+        "name": "lithium hydride",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "QSHDDOUJBYECFT-UHFFFAOYSA-N",
+        "name": "mercury",
+        "domain": "Chemical compound",
+        "smiles": "[Hg]",
+        "inchi_key": "QSHDDOUJBYECFT-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052753",
+        "name": "mercury",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052751",
+        "name": "metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000035515",
+        "name": "penetration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011160",
+        "name": "research",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052708",
+        "name": "sodium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011734",
+        "name": "sodium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000243",
+        "name": "solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000894007",
+        "name": "species",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010561",
+        "name": "standard procedure",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002459",
+        "name": "sustained effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

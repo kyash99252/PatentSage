@@ -1,0 +1,1249 @@
+{
+  "search_metadata": {
+    "id": "6852559255ba65b4fe4eed26",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/39c4f541fc038cbb/6852559255ba65b4fe4eed26.json",
+    "created_at": "2025-06-18 05:58:42 UTC",
+    "processed_at": "2025-06-18 05:58:42 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US6676402B1/en",
+    "raw_html_file": "https://serpapi.com/searches/39c4f541fc038cbb/6852559255ba65b4fe4eed26.html",
+    "total_time_taken": 1.27
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US6676402B1/en"
+  },
+  "title": "Laser ignition",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/7b/51/4a/c2d2e7cb40a01e/US6676402.pdf",
+  "publication_number": "US6676402B1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "laser",
+    "ignitor",
+    "light",
+    "output",
+    "excitation"
+  ],
+  "prior_art_date": "1997-04-21",
+  "application_number": "US09/927,862",
+  "inventors": [
+    {
+      "name": "James W. Early",
+      "link": "https://patents.google.com/?inventor=James+W.+Early",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=James+W.+Early"
+    },
+    {
+      "name": "Charles S. Lester",
+      "link": "https://patents.google.com/?inventor=Charles+S.+Lester",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Charles+S.+Lester"
+    }
+  ],
+  "assignees": [
+    "Los Alamos National Security LLC"
+  ],
+  "priority_date": "1997-04-21",
+  "filing_date": "2001-08-10",
+  "publication_date": "2004-01-13",
+  "worldwide_applications": {
+    "2001": [
+      {
+        "filing_date": "2001-08-10",
+        "country_code": "US",
+        "application_number": "US09/927,862",
+        "document_id": "patent/US6676402B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1999-03-09",
+      "title": "Priority claimed from US09/267,122",
+      "type": "external-priority",
+      "document_id": "patent/US6394788B1/en"
+    },
+    {
+      "date": "2001-08-10",
+      "title": "Application filed by University of California San Diego UCSD",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "University of California San Diego UCSD"
+    },
+    {
+      "date": "2001-08-10",
+      "title": "Priority to US09/927,862",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US6676402B1/en"
+    },
+    {
+      "date": "2002-02-04",
+      "title": "Assigned to THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+      "type": "reassignment",
+      "assignee_search": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: EARLY, JAMES W., LESTER, CHARLES S."
+      ]
+    },
+    {
+      "date": "2003-02-25",
+      "title": "Assigned to U.S. DEPARTMENT OF ENERGY",
+      "type": "reassignment",
+      "assignee_search": "U.S. DEPARTMENT OF ENERGY",
+      "description": [
+        "CONFIRMATORY LICENSE (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: UNIVERSITY OF CALIFORNIA"
+      ]
+    },
+    {
+      "date": "2004-01-13",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2004-01-13",
+      "title": "Publication of US6676402B1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US6676402B1/en"
+    },
+    {
+      "date": "2006-05-18",
+      "title": "Assigned to LOS ALAMOS NATIONAL SECURITY, LLC",
+      "type": "reassignment",
+      "assignee_search": "LOS ALAMOS NATIONAL SECURITY, LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE"
+      ]
+    },
+    {
+      "date": "2017-12-09",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=6676402.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/09927862"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=6676402"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=6676402B1&KC=B1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/09927862/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US6676402"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/b9/8d/be/36c2dbb8502201/US06676402-20040113-D00000.png",
+    "https://patentimages.storage.googleapis.com/f2/88/29/e572eb157126c5/US06676402-20040113-D00001.png",
+    "https://patentimages.storage.googleapis.com/5d/c1/7f/5d3b5bd7bf4bd7/US06676402-20040113-D00002.png",
+    "https://patentimages.storage.googleapis.com/25/cb/b0/60b7f382ce55fc/US06676402-20040113-D00003.png",
+    "https://patentimages.storage.googleapis.com/6f/cc/47/43155ff200b0e4/US06676402-20040113-D00004.png",
+    "https://patentimages.storage.googleapis.com/16/b8/50/0ce4114a3962a7/US06676402-20040113-D00005.png",
+    "https://patentimages.storage.googleapis.com/37/8d/b3/0d61de5e1cdb28/US06676402-20040113-D00006.png",
+    "https://patentimages.storage.googleapis.com/87/7b/41/28dfaf9e320063/US06676402-20040113-D00007.png",
+    "https://patentimages.storage.googleapis.com/ca/fa/ac/ef5081b34dccca/US06676402-20040113-D00008.png",
+    "https://patentimages.storage.googleapis.com/9b/35/3c/2fc0e6b478a131/US06676402-20040113-D00009.png"
+  ],
+  "classifications": [
+    {
+      "code": "F02P23/04",
+      "description": "Other physical ignition means, e.g. using laser rays",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01S3/0602",
+      "description": "Crystal lasers or glass lasers",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01S3/094038",
+      "description": "End pumping",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01S3/094053",
+      "description": "Fibre coupled pump, e.g. delivering pump light using a fibre or a fibre bundle",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01S3/094061",
+      "description": "Shared pump, i.e. pump light of a single pump source is used to pump plural gain media in parallel",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01S3/2383",
+      "description": "Parallel arrangements",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10S123/09",
+      "description": "Flame ignition",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Sequenced pulses of light from an excitation laser with at least two resonator cavities with separate output couplers are directed through a light modulator and a first polarzing analyzer. A portion of the light not rejected by the first polarizing analyzer is transported through a first optical fiber into a first ignitor laser rod in an ignitor laser. Another portion of the light is rejected by the first polarizing analyzer and directed through a halfwave plate into a second polarization analyzer. A first portion of the output of the second polarization analyzer passes through the second polarization analyzer to a second, oscillator, laser rod in the ignitor laser. A second portion of the output of the second polarization analyzer is redirected by the second polarization analyzer to a second optical fiber which delays the beam before the beam is combined with output of the first ignitor laser rod. Output of the second laser rod in the ignitor laser is directed into the first ignitor laser rod which was energized by light passing through the first polarizing analyzer. Combined output of the first ignitor laser rod and output of the second optical fiber is focused into a combustible fuel where the first short duration, high peak power pulse from the ignitor laser ignites the fuel and the second long duration, low peak power pulse directly from the excitation laser sustains the combustion.",
+  "description_link": "https://serpapi.com/searches/6852559255ba65b4fe4eed26/google_patents_details/description.html",
+  "claims": [
+    "1. An ignition apparatus comprising:\n      (a) an excitation light source; \n      (b) a light modulator positioned to receive output from said excitation light source; \n      (c) a first polarization analyzer positioned to receive light from said light modulator; \n      (d) a first output coupler positioned to receive a portion of light not redirected by said first polarization analyzer; \n      (e) a focusing lens positioned to inject said portion of light not redirected by said first polarization analyzer from said first output coupler into a first end of a first optical fiber; \n      (f) a second end of said first optical fiber connected to an ignitor laser so as to permit transport of said portion of light not redirected by said first polarization analyzer into a first lasing rod in said ignitor laser; \n      (g) a second output coupler positioned to receive a portion of light redirected by said first polarization analyzer; \n      (h) a halfwave plate positioned to receive from said second output coupler said portion of light redirected by said first polarization analyzer; \n      (i) a second polarization analyzer positioned to receive output from said halfwave plate; \n      (j) a second focusing lens positioned to inject light redirected by said second polarization analyzer into a first end of a second optical fiber; \n      (k) a second end of said second optical fiber connected to said ignitor laser so as to permit transport of said portion of light redirected by said first polarization analyzer into a beam combiner in said ignitor laser; \n      (l) a third focusing lens positioned to inject a portion of light not redirected by said second polarization analyzer into a first end of a third optical fiber; \n      (m) a second end of said third optical fiber connected to said ignitor laser so as to permit transport of said portion of light not redirected by said second polarization analyzer into a second lasing rod in said ignitor laser; \n      (n) an output coupler positioned to receive output from said second lasing rod in said ignitor laser; \n      (o) at least one turning prism to direct said output from said second lasing rod in said ignitor laser into said first lasing rod in said ignitor laser; \n      (p) said beam combiner also positioned to receive output from said first lasing rod in said ignitor laser; and \n      (q) an ignitor output focusing lens positioned to direct output from said beam combiner into a combustible fuel.",
+    "2. The apparatus recited in claim 1 wherein said excitation light source is remote from said ignitor laser.",
+    "3. The apparatus recited in claim 1 wherein said second optical fiber is longer than said first optical fiber and longer than said third optical fiber.",
+    "4. The apparatus recited in claim 1 wherein said excitation light source is a laser with at least two resonator cavities.",
+    "5. The apparatus recited in claim 4 wherein said laser is a Q-switched laser tunable over a wavelength range from abut 800 to about 1000 nanometers.",
+    "6. The apparatus recited in claim 1 wherein said excitation light source is a Q-switched Cr:LiSAF laser and said ignitor laser is a Nd:YAG laser.",
+    "7. The apparatus recited in claim 4 further comprising a high reflecting end mirror positioned proximate to an end of said laser opposite an output end of said laser.",
+    "8. The apparatus recited in claim 1 wherein said light modulator is a Pockels cell.",
+    "9. The apparatus recited in claim 7 further comprising a birefringment filter between said high reflecting end mirror and said end of said laser opposite said output end of said laser.",
+    "10. The apparatus recited in claim 1 wherein said beam combiner is an optical fiber coupler.",
+    "11. The apparatus recited in claim 1 wherein said ignitor laser is proximate to fuel in an engine combustion chamber.",
+    "12. The apparatus recited in claim 1 wherein said ignitor laser is proximate to fuel in the cylinder of an aircraft engine.",
+    "13. The apparatus recited in claim 1 wherein said ignitor laser is proximate to fuel in a turbine engine.",
+    "14. An ignition method comprising:\n      (a) directing a beam from an excitation light source into a laser light modulator; \n      (b) applying a voltage to said laser light modulator intermittently in accordance with signals from a timing module, thereby controlling polarization of said laser light; \n      (c) directing said laser light from said laser light modulator into a first polarization analyzer which either rejects or transports said laser light according to whether or not said laser light has been polarized by said laser light modulator; \n      (d) directing any said laser light which is transported by said first polarization analyzer through a first focusing lens into a first optical fiber, and thence into a first laser rod in an ignitor laser; \n      (e) splitting beam of any said laser light rejected by said first polarization analyzer into a first portion and a second portion; \n      (f) directing said first portion of said laser light rejected by said first polarization analyzer through a second focusing lens into a second optical fiber and thence into a beam combiner; \n      (g) directing said second portion of said laser light rejected by said first polarization analyzer through a third focusing lens into a third optical fiber, and thence into a second laser rod in said ignitor laser; \n      (h) directing output of said second laser rod in said ignitor laser into said first leaser rod in said ignitor laser; \n      (i) combining output of said first laser rod in said ignitor laser in said beam combiner with any light rejected by said second polarization analyzer to form a combined beam; \n      (j) directing said combined beam through a focusing lens into a combustible fuel.",
+    "15. The method recited in claim 14 wherein said laser light rejected by said first polarization analyzer is split into said first portion and said second portion by directing laser light rejected by said first polarization analyzer through an output coupler into a halfwave plate to deliver selected portions of differently polarized light to a second polarization analyzer which rejects said first portion and does not reject said second portion, thereby splitting said laser light rejected by said first polarization analyzer.",
+    "16. The method recited in claim 14 wherein said second optical fiber delays said first portion of said second portion of said excitation light beam so that said first portion of said second portion of said excitation light beam arrives at said beam combiner at a later time than said laser light which is transported by said first polarization analyzer and a later time than said any light not rejected by said second polarization analyzer.",
+    "17. The method recited in claim 16 wherein said second optical fiber delays said first portion of said second portion of said excitation light beam so that said first portion of said second portion of said excitation light beam arrives at said beam combiner about 30 to 60 nanoseconds later than excitation light is output from said first optical fiber and said second optical fiber.",
+    "18. The method recited in claim 14 wherein pulses of light reaching said beam combiner are spatially overlapped and co-axially propagated.",
+    "19. The method recited in claim 14 wherein said beam from said excitation light source is a pulsed beam, having long duration low peak power pulses.",
+    "20. The method recited in claim 14 wherein said combined beam has both long duration low peak power pulses from said excitation light source and short duration high peak power pulses from said ignitor laser.",
+    "21. The method recited in claim 14 wherein voltage applied to said modulator is equal to halfwave voltage.",
+    "22. The method recited in claim 14 wherein said first ignitor laser rod functions as an amplifier.",
+    "23. The method recited in claim 14 wherein said second ignitor laser rod functions as an oscillator.",
+    "24. The method recited in claim 14 wherein said excitation light source outputs light with a wavelength in the range from about 200 nanometers to about 12 microns.",
+    "25. The method recited in claim 24 wherein said excitation light source outputs light with a wavelength of 820 nanometers.",
+    "26. The method recited in claim 14 wherein said excitation light source outputs light with a peak power in the range from about 100 kW to about 40 MW.",
+    "27. The method recited in claim 14 wherein said excitation light source outputs light with a pulse energy in the range from about 20 mJ to about 400 mJ.",
+    "28. The method recited in claim 14 wherein said excitation light source outputs light with a pulse width in the range from about 20 nanoseconds to about 300 nanoseconds.",
+    "29. The method recited in claim 14 wherein said excitation light source outputs long pulses of light alternated with shorter duration pulses of light.",
+    "30. The method recited in claim 14 wherein said ignitor laser beam has a wavelength in the range from about 200 nanometers to about 12 microns.",
+    "31. The method recited in claim 14 wherein said ignitor laser beam has a peak power from about 200 kW to about 250 MW.",
+    "32. The method recited in claim 14 wherein said ignitor laser outputs light with a pulse energy in the range from about 10 mJ to about 250 mJ.",
+    "33. The method recited in claim 14 wherein said ignitor laser outputs light with a pulse width in the range from about 1 nanosecond to about 60 nanoseconds."
+  ],
+  "parent_applications": [
+    {
+      "application_number": "US09/267,122",
+      "relation_type": "Continuation-In-Part",
+      "representative_publication": "US6394788B1",
+      "primary_language": "en",
+      "priority_date": "1997-04-21",
+      "filing_date": "1999-03-09",
+      "title": "Laser ignition"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US09/927,862",
+      "representative_publication": "US6676402B1",
+      "primary_language": "en",
+      "priority_date": "1997-04-21",
+      "filing_date": "2001-08-10",
+      "title": "Laser ignition"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US4448397P",
+      "priority_date": "1997-04-21",
+      "filing_date": "1997-04-21"
+    },
+    {
+      "application_number": "US86121497A",
+      "priority_date": "1997-05-21",
+      "filing_date": "1997-05-21"
+    },
+    {
+      "application_number": "US09/267,122",
+      "representative_publication": "US6394788B1",
+      "primary_language": "en",
+      "priority_date": "1997-04-21",
+      "filing_date": "1999-03-09",
+      "title": "Laser ignition"
+    },
+    {
+      "application_number": "US09/927,862",
+      "representative_publication": "US6676402B1",
+      "primary_language": "en",
+      "priority_date": "1997-04-21",
+      "filing_date": "2001-08-10",
+      "title": "Laser ignition"
+    }
+  ],
+  "family_id": "27366492",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US3427118A",
+        "primary_language": "en",
+        "priority_date": "1965-07-02",
+        "publication_date": "1969-02-11",
+        "assignee_original": "Siemens Ag",
+        "title": "Ignition device for oil-fired boilers",
+        "patent_id": "patent/US3427118A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3427118A%2Fen"
+      },
+      {
+        "publication_number": "US3902036A",
+        "primary_language": "en",
+        "priority_date": "1974-05-02",
+        "publication_date": "1975-08-26",
+        "assignee_original": "Western Electric Co",
+        "title": "Control system using multiplexed laser beams",
+        "patent_id": "patent/US3902036A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3902036A%2Fen"
+      },
+      {
+        "publication_number": "US4302933A",
+        "primary_language": "en",
+        "priority_date": "1979-03-01",
+        "publication_date": "1981-12-01",
+        "assignee_original": "Smith Marvin M",
+        "title": "Jet engine augmentor operation at high altitudes",
+        "patent_id": "patent/US4302933A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4302933A%2Fen"
+      },
+      {
+        "publication_number": "US4416226A",
+        "primary_language": "en",
+        "priority_date": "1981-06-02",
+        "publication_date": "1983-11-22",
+        "assignee_original": "Nippon Soken, Inc.",
+        "title": "Laser ignition apparatus for an internal combustion engine",
+        "patent_id": "patent/US4416226A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4416226A%2Fen"
+      },
+      {
+        "publication_number": "US4434753A",
+        "primary_language": "en",
+        "priority_date": "1981-05-18",
+        "publication_date": "1984-03-06",
+        "assignee_original": "Nippon Soken, Inc.",
+        "title": "Ignition apparatus for internal combustion engine",
+        "patent_id": "patent/US4434753A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4434753A%2Fen"
+      },
+      {
+        "publication_number": "US4702808A",
+        "primary_language": "en",
+        "priority_date": "1957-06-27",
+        "publication_date": "1987-10-27",
+        "assignee_original": "Lemelson Jerome H",
+        "title": "Chemical reaction apparatus and method",
+        "patent_id": "patent/US4702808A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4702808A%2Fen"
+      },
+      {
+        "publication_number": "US4870244A",
+        "primary_language": "en",
+        "priority_date": "1988-10-07",
+        "publication_date": "1989-09-26",
+        "assignee_original": "Copley John A",
+        "title": "Method and device for stand-off laser drilling and cutting",
+        "patent_id": "patent/US4870244A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4870244A%2Fen"
+      },
+      {
+        "publication_number": "US4947640A",
+        "primary_language": "en",
+        "priority_date": "1989-02-28",
+        "publication_date": "1990-08-14",
+        "assignee_original": "University Of Tennessee Research Corporation",
+        "title": "Gas turbine engine photon ignition system",
+        "patent_id": "patent/US4947640A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4947640A%2Fen"
+      },
+      {
+        "publication_number": "US5157676A",
+        "primary_language": "en",
+        "priority_date": "1990-06-19",
+        "publication_date": "1992-10-20",
+        "assignee_original": "The United States Of America As Represented By The United States Department Of Energy",
+        "title": "Apparatus and process for active pulse intensity control of laser beam",
+        "patent_id": "patent/US5157676A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5157676A%2Fen"
+      },
+      {
+        "publication_number": "US5206455A",
+        "primary_language": "en",
+        "priority_date": "1991-03-28",
+        "publication_date": "1993-04-27",
+        "assignee_original": "Quantic Industries, Inc.",
+        "title": "Laser initiated ordnance systems",
+        "patent_id": "patent/US5206455A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5206455A%2Fen"
+      },
+      {
+        "publication_number": "US5328665A",
+        "primary_language": "en",
+        "priority_date": "1992-08-25",
+        "publication_date": "1994-07-12",
+        "assignee_original": "Lasen, Inc",
+        "title": "Method and apparatus for controlling a combustion process",
+        "patent_id": "patent/US5328665A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5328665A%2Fen"
+      },
+      {
+        "publication_number": "US5367869A",
+        "primary_language": "en",
+        "priority_date": "1993-06-23",
+        "publication_date": "1994-11-29",
+        "assignee_original": "Simmonds Precision Engine Systems",
+        "title": "Laser ignition methods and apparatus for combustors",
+        "patent_id": "patent/US5367869A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5367869A%2Fen"
+      },
+      {
+        "publication_number": "US5404712A",
+        "primary_language": "en",
+        "priority_date": "1992-10-06",
+        "publication_date": "1995-04-11",
+        "assignee_original": "University Of Tennessee Research Corporation",
+        "title": "Laser initiated non-linear fuel droplet ignition",
+        "patent_id": "patent/US5404712A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5404712A%2Fen"
+      },
+      {
+        "publication_number": "US5756924A",
+        "primary_language": "en",
+        "priority_date": "1995-09-28",
+        "publication_date": "1998-05-26",
+        "assignee_original": "The Regents Of The University Of California",
+        "title": "Multiple laser pulse ignition method and apparatus",
+        "patent_id": "patent/US5756924A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5756924A%2Fen"
+      },
+      {
+        "publication_number": "US6305929B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-05-24",
+        "publication_date": "2001-10-23",
+        "assignee_original": "Suk Ho Chung",
+        "title": "Laser-induced ignition system using a cavity",
+        "patent_id": "patent/US6305929B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6305929B1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20040100998A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-09-13",
+        "publication_date": "2004-05-27",
+        "assignee_original": "Jason Palmer",
+        "title": "Lasers",
+        "patent_id": "patent/US20040100998A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040100998A1%2Fen"
+      },
+      {
+        "publication_number": "US20040168662A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-31",
+        "publication_date": "2004-09-02",
+        "assignee_original": "Ernst Wintner",
+        "title": "Internal combustion engine",
+        "patent_id": "patent/US20040168662A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040168662A1%2Fen"
+      },
+      {
+        "publication_number": "US6802290B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-04-05",
+        "publication_date": "2004-10-12",
+        "assignee_original": "Ge Jenbacher Gmbh & Co Ohg",
+        "title": "Apparatus for igniting a fuel/air mixture",
+        "patent_id": "patent/US6802290B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6802290B1%2Fen"
+      },
+      {
+        "publication_number": "FR2871855A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-06-22",
+        "publication_date": "2005-12-23",
+        "assignee_original": "Peugeot Citroen Automobiles Sa",
+        "title": "Optical spark plug for ignition system, has focusing device focusing simultaneously two light pulses and including lens strips for collimating input optical beams and focusing beams toward output on focal points in combustion chamber",
+        "patent_id": "patent/FR2871855A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2871855A1%2Fen"
+      },
+      {
+        "publication_number": "US20060032471A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-08-04",
+        "publication_date": "2006-02-16",
+        "assignee_original": "Azer Yalin",
+        "title": "Fiber laser coupled optical spark delivery system",
+        "patent_id": "patent/US20060032471A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060032471A1%2Fen"
+      },
+      {
+        "publication_number": "US20060037572A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-08-04",
+        "publication_date": "2006-02-23",
+        "assignee_original": "Azer Yalin",
+        "title": "Optical diagnostics integrated with laser spark delivery system",
+        "patent_id": "patent/US20060037572A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060037572A1%2Fen"
+      },
+      {
+        "publication_number": "US7082149B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-06-24",
+        "publication_date": "2006-07-25",
+        "assignee_original": "Photonics Industries Int'l",
+        "title": "High power diode side pumped solid state laser",
+        "patent_id": "patent/US7082149B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7082149B1%2Fen"
+      },
+      {
+        "publication_number": "AT501531A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-02-22",
+        "publication_date": "2006-09-15",
+        "assignee_original": "Ge Jenbacher Gmbh & Co Ohg",
+        "title": "METHOD FOR IGNITING A FUEL AIR MIXTURE",
+        "patent_id": "patent/AT501531A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAT501531A1%2Fen"
+      },
+      {
+        "publication_number": "US20060243238A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-28",
+        "publication_date": "2006-11-02",
+        "assignee_original": "Denso Corporation",
+        "title": "Laser type engine ignition device",
+        "patent_id": "patent/US20060243238A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060243238A1%2Fen"
+      },
+      {
+        "publication_number": "US20060260581A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-05-18",
+        "publication_date": "2006-11-23",
+        "assignee_original": "Hitoshi Yoshimoto",
+        "title": "Devices and methods for conditioning or vaporizing liquid fuel in an intermittent combustion engine",
+        "patent_id": "patent/US20060260581A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060260581A1%2Fen"
+      },
+      {
+        "publication_number": "WO2006125685A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-05-27",
+        "publication_date": "2006-11-30",
+        "assignee_original": "Robert Bosch Gmbh",
+        "title": "Ignition device for an internal combustion engine",
+        "patent_id": "patent/WO2006125685A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006125685A1%2Fen"
+      },
+      {
+        "publication_number": "GB2426789A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-08",
+        "publication_date": "2006-12-06",
+        "assignee_original": "Ford Global Tech Llc",
+        "title": "Laser ignition system for an internal combustion engine",
+        "patent_id": "patent/GB2426789A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2426789A%2Fen"
+      },
+      {
+        "publication_number": "US20080037089A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-08-09",
+        "publication_date": "2008-02-14",
+        "assignee_original": "Johann Klausner",
+        "title": "Apparatus for the distribution of laser light",
+        "patent_id": "patent/US20080037089A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080037089A1%2Fen"
+      },
+      {
+        "publication_number": "US20080082089A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-29",
+        "publication_date": "2008-04-03",
+        "assignee_original": "Candela Corporation",
+        "title": "Treatment of Skin by a Solid-State Laser",
+        "patent_id": "patent/US20080082089A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080082089A1%2Fen"
+      },
+      {
+        "publication_number": "US7421166B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-08-04",
+        "publication_date": "2008-09-02",
+        "assignee_original": "The United States Of America As Represented By The United States Department Of Energy",
+        "title": "Laser spark distribution and ignition system",
+        "patent_id": "patent/US7421166B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7421166B1%2Fen"
+      },
+      {
+        "publication_number": "US20090044776A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-02-09",
+        "publication_date": "2009-02-19",
+        "assignee_original": "Johann Klausner",
+        "title": "Ignition device for an internal combustion engine",
+        "patent_id": "patent/US20090044776A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090044776A1%2Fen"
+      },
+      {
+        "publication_number": "US20090133655A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-27",
+        "publication_date": "2009-05-28",
+        "assignee_original": "Denso Corporation",
+        "title": "Laser ignition system",
+        "patent_id": "patent/US20090133655A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090133655A1%2Fen"
+      },
+      {
+        "publication_number": "WO2009058185A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-10-04",
+        "publication_date": "2009-06-18",
+        "assignee_original": "L Livermore Nat Security Llc",
+        "title": "Control of a laser inertial confinement fusion-fission power plant",
+        "patent_id": "patent/WO2009058185A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009058185A3%2Fen"
+      },
+      {
+        "publication_number": "US7549404B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-08-07",
+        "publication_date": "2009-06-23",
+        "assignee_original": "Phillip J. Martin, legal representative",
+        "title": "Method and apparatus for provisioning and ignition of fuel in an internal combustion engine",
+        "patent_id": "patent/US7549404B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7549404B1%2Fen"
+      },
+      {
+        "publication_number": "US20090159033A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-05",
+        "publication_date": "2009-06-25",
+        "assignee_original": "Steigleman Jr Robert Lee",
+        "title": "Sparkless ignition plug for the internal combustion engine",
+        "patent_id": "patent/US20090159033A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090159033A1%2Fen"
+      },
+      {
+        "publication_number": "US20090178643A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-01-10",
+        "publication_date": "2009-07-16",
+        "assignee_original": "Rogler Philipp",
+        "title": "Method for combusting fuel",
+        "patent_id": "patent/US20090178643A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090178643A1%2Fen"
+      },
+      {
+        "publication_number": "US20090194052A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-02-01",
+        "publication_date": "2009-08-06",
+        "assignee_original": "Leonard Bloom (33% Interest)",
+        "title": "Method and apparatus for operating standard gasoline-driven engines with a readily-available non-volatile fuel, thereby obviating the use of gasoline",
+        "patent_id": "patent/US20090194052A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090194052A1%2Fen"
+      },
+      {
+        "publication_number": "US20090227995A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-29",
+        "publication_date": "2009-09-10",
+        "assignee_original": "Bhawalkar Jayant D",
+        "title": "Precision Tube Assembly",
+        "patent_id": "patent/US20090227995A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090227995A1%2Fen"
+      },
+      {
+        "publication_number": "DE102008047236B3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-08",
+        "publication_date": "2010-06-02",
+        "assignee_original": "Deutsches Zentrum f\u00fcr Luft- und Raumfahrt e.V.",
+        "title": "Fuel-oxidant-mixture igniting device for combustion chamber device in e.g. engine of motor vehicle, has window element with coating with material for decomposition of window contamination, and control device controlling influencing device",
+        "patent_id": "patent/DE102008047236B3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102008047236B3%2Fen"
+      },
+      {
+        "publication_number": "US20100218739A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-07-04",
+        "publication_date": "2010-09-02",
+        "assignee_original": "Werner Herden",
+        "title": "Method for operating an ignition device for an internal combustion engine",
+        "patent_id": "patent/US20100218739A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100218739A1%2Fen"
+      },
+      {
+        "publication_number": "US20100296530A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-06-29",
+        "publication_date": "2010-11-25",
+        "assignee_original": "Werner Herden",
+        "title": "Method for operating an ignition device, and an ignition device",
+        "patent_id": "patent/US20100296530A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100296530A1%2Fen"
+      },
+      {
+        "publication_number": "US20110259291A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-17",
+        "publication_date": "2011-10-27",
+        "assignee_original": "Heiko Ridderbusch",
+        "title": "Laser device and operating method for it",
+        "patent_id": "patent/US20110259291A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110259291A1%2Fen"
+      },
+      {
+        "publication_number": "US8146553B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-06-29",
+        "publication_date": "2012-04-03",
+        "assignee_original": "Robert Bosch Gmbh",
+        "title": "Spark plug for an internal combustion engine and method for the operation thereof",
+        "patent_id": "patent/US8146553B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8146553B2%2Fen"
+      },
+      {
+        "publication_number": "US8146554B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-20",
+        "publication_date": "2012-04-03",
+        "assignee_original": "Ge Jenbacher Gmbh & Co Ohg",
+        "title": "Laser ignition apparatus",
+        "patent_id": "patent/US8146554B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8146554B2%2Fen"
+      },
+      {
+        "publication_number": "US20120107750A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-02",
+        "publication_date": "2012-05-03",
+        "assignee_original": "General Electric Company",
+        "title": "System and method for igniting a combustor",
+        "patent_id": "patent/US20120107750A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120107750A1%2Fen"
+      },
+      {
+        "publication_number": "WO2013054939A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-10-14",
+        "publication_date": "2013-04-18",
+        "assignee_original": "Canon Kabushiki Kaisha",
+        "title": "Laser with controlled wavelength switching",
+        "patent_id": "patent/WO2013054939A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013054939A1%2Fen"
+      },
+      {
+        "publication_number": "US8483255B2",
+        "primary_language": "en",
+        "priority_date": "2010-11-05",
+        "publication_date": "2013-07-09",
+        "assignee_original": "Lawrence Livermore National Security, Llc",
+        "title": "Transverse pumped laser amplifier architecture",
+        "patent_id": "patent/US8483255B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8483255B2%2Fen"
+      },
+      {
+        "publication_number": "US20130276738A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-10-28",
+        "publication_date": "2013-10-24",
+        "assignee_original": "Rene Hartke",
+        "title": "laser spark plug and method for operating same",
+        "patent_id": "patent/US20130276738A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130276738A1%2Fen"
+      },
+      {
+        "publication_number": "US8608375B2",
+        "primary_language": "en",
+        "priority_date": "2010-10-15",
+        "publication_date": "2013-12-17",
+        "assignee_original": "Lawrence Livermore National Security, Llc",
+        "title": "Method and system to measure temperature of gases using coherent anti-stokes doppler spectroscopy",
+        "patent_id": "patent/US8608375B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8608375B2%2Fen"
+      },
+      {
+        "publication_number": "US20140290613A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-09-06",
+        "publication_date": "2014-10-02",
+        "assignee_original": "Ge Jenbacher Gmbh & Co Og",
+        "title": "Laser spark plug",
+        "patent_id": "patent/US20140290613A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140290613A1%2Fen"
+      },
+      {
+        "publication_number": "US9441546B2",
+        "primary_language": "en",
+        "priority_date": "2013-02-26",
+        "publication_date": "2016-09-13",
+        "assignee_original": "Pratt & Whitney Canada Corp.",
+        "title": "Laser-ignition combustor for gas turbine engine",
+        "patent_id": "patent/US9441546B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9441546B2%2Fen"
+      },
+      {
+        "publication_number": "US20170094765A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-28",
+        "publication_date": "2017-03-30",
+        "assignee_original": "Kla-Tencor Corporation",
+        "title": "System and Method for Laser-Sustained Plasma Illumination",
+        "patent_id": "patent/US20170094765A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170094765A1%2Fen"
+      },
+      {
+        "publication_number": "FR3051511A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-05-18",
+        "publication_date": "2017-11-24",
+        "assignee_original": "Renault Sas",
+        "patent_id": "patent/FR3051511A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3051511A1%2Fen"
+      },
+      {
+        "publication_number": "US11005227B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-09-05",
+        "publication_date": "2021-05-11",
+        "assignee_original": "Nufern",
+        "title": "Multi-wavelength adjustable-radial-mode fiber laser",
+        "patent_id": "patent/US11005227B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11005227B2%2Fen"
+      },
+      {
+        "publication_number": "US11129677B2",
+        "primary_language": "en",
+        "priority_date": "2016-12-12",
+        "publication_date": "2021-09-28",
+        "assignee_original": "Koninklijke Philips N.V.",
+        "title": "Light based tissue treatment device",
+        "patent_id": "patent/US11129677B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11129677B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US6676402B1",
+      "primary_language": "en",
+      "publication_date": "2004-01-13",
+      "title": "Laser ignition",
+      "patent_id": "patent/US6676402B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6676402B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6428307B1",
+      "primary_language": "en",
+      "publication_date": "2002-08-06",
+      "title": "Laser ignition",
+      "patent_id": "patent/US6428307B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6428307B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6016324A",
+      "primary_language": "en",
+      "publication_date": "2000-01-18",
+      "title": "Short pulse laser system",
+      "patent_id": "patent/US6016324A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6016324A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2001069136A1",
+      "primary_language": "en",
+      "publication_date": "2001-09-20",
+      "title": "Laser ignition",
+      "patent_id": "patent/WO2001069136A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2001069136A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7376160B2",
+      "primary_language": "en",
+      "publication_date": "2008-05-20",
+      "title": "Slab laser and method with improved and directionally homogenized beam quality",
+      "patent_id": "patent/US7376160B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7376160B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5742634A",
+      "primary_language": "en",
+      "publication_date": "1998-04-21",
+      "title": "Picosecond laser",
+      "patent_id": "patent/US5742634A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5742634A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6580732B1",
+      "primary_language": "en",
+      "publication_date": "2003-06-17",
+      "title": "Multiple mode laser",
+      "patent_id": "patent/US6580732B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6580732B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5756924A",
+      "primary_language": "en",
+      "publication_date": "1998-05-26",
+      "title": "Multiple laser pulse ignition method and apparatus",
+      "patent_id": "patent/US5756924A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5756924A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "USRE42499E1",
+      "primary_language": "en",
+      "publication_date": "2011-06-28",
+      "title": "System and method for amplifying an optical pulse and pumping laser therefor",
+      "patent_id": "patent/USRE42499E1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSRE42499E1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7421166B1",
+      "primary_language": "en",
+      "publication_date": "2008-09-02",
+      "title": "Laser spark distribution and ignition system",
+      "patent_id": "patent/US7421166B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7421166B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5876195A",
+      "primary_language": "en",
+      "publication_date": "1999-03-02",
+      "title": "Laser preheat enhanced ignition",
+      "patent_id": "patent/US5876195A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5876195A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0259439A1",
+      "primary_language": "en",
+      "publication_date": "1988-03-16",
+      "title": "Efficient phase conjugate laser.",
+      "patent_id": "patent/EP0259439A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0259439A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20150070753A1",
+      "primary_language": "en",
+      "publication_date": "2015-03-12",
+      "title": "Multi-stage mopa with first-pulse suppression",
+      "patent_id": "patent/US20150070753A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150070753A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5162940A",
+      "primary_language": "en",
+      "publication_date": "1992-11-10",
+      "title": "Multiple energy level, multiple pulse rate laser source",
+      "patent_id": "patent/US5162940A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5162940A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20150138050A",
+      "primary_language": "en",
+      "publication_date": "2015-12-09",
+      "title": "External Diffusion Amplifier",
+      "patent_id": "patent/KR20150138050A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20150138050A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5608744A",
+      "primary_language": "en",
+      "publication_date": "1997-03-04",
+      "title": "Compact laser apparatus and method",
+      "patent_id": "patent/US5608744A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5608744A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20200194960A1",
+      "primary_language": "en",
+      "publication_date": "2020-06-18",
+      "title": "Q-switched solid-state laser",
+      "patent_id": "patent/US20200194960A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200194960A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4875219A",
+      "primary_language": "en",
+      "publication_date": "1989-10-17",
+      "title": "Phase-conjugate resonator",
+      "patent_id": "patent/US4875219A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4875219A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4326175A",
+      "primary_language": "en",
+      "publication_date": "1982-04-20",
+      "title": "Multi-color, multi-pulse laser system",
+      "patent_id": "patent/US4326175A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4326175A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15045028037207586715",
+      "scholar_authors": "Clarkson et al.",
+      "publication_date": "1989",
+      "title": "Single frequency Q-switched operation of a laser dipole-pumped, Nd: YAG ring laser",
+      "patent_id": "scholar/15045028037207586715",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15045028037207586715"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4598405A",
+      "primary_language": "en",
+      "publication_date": "1986-07-01",
+      "title": "Laser apparatus with electro-optic Q-switch assembly",
+      "patent_id": "patent/US4598405A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4598405A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5394428A",
+      "primary_language": "en",
+      "publication_date": "1995-02-28",
+      "title": "Controlled, high-power laser oscillator",
+      "patent_id": "patent/US5394428A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5394428A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1996026144361349618",
+      "scholar_authors": "Tilleman et al.",
+      "publication_date": "1998",
+      "title": "High-power free-running eye-safe laser based on a high-strength Cr: Yb: Er: glass rod",
+      "patent_id": "scholar/1996026144361349618",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1996026144361349618"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "NO180800B",
+      "primary_language": "en",
+      "publication_date": "1997-03-17",
+      "title": "Optical wavelength offset and pulse compressor",
+      "patent_id": "patent/NO180800B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNO180800B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "GB2401719A",
+      "primary_language": "en",
+      "publication_date": "2004-11-17",
+      "title": "Single frequency ring laser",
+      "patent_id": "patent/GB2401719A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2401719A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2002-02-04",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA, NEW M"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:EARLY, JAMES W.;LESTER, CHARLES S.;REEL/FRAME:012596/0264"
+        },
+        {
+          "label": "Effective date",
+          "value": "20010913"
+        }
+      ]
+    },
+    {
+      "date": "2003-02-25",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "U.S. DEPARTMENT OF ENERGY, DISTRICT OF COLUMBIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "CONFIRMATORY LICENSE;ASSIGNOR:UNIVERSITY OF CALIFORNIA;REEL/FRAME:013786/0571"
+        },
+        {
+          "label": "Effective date",
+          "value": "20020103"
+        }
+      ]
+    },
+    {
+      "date": "2006-05-18",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "LOS ALAMOS NATIONAL SECURITY, LLC, NEW MEXICO"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE;REEL/FRAME:017919/0233"
+        },
+        {
+          "label": "Effective date",
+          "value": "20060417"
+        }
+      ]
+    },
+    {
+      "date": "2006-12-07",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAT HOLDER NO LONGER CLAIMS SMALL ENTITY STATUS, ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: STOL); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2007-06-26",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2011-08-22",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2012-01-13",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees"
+    },
+    {
+      "date": "2012-02-13",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    },
+    {
+      "date": "2012-03-06",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20120113"
+        }
+      ]
+    }
+  ]
+}

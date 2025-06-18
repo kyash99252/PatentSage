@@ -1,0 +1,861 @@
+{
+  "search_metadata": {
+    "id": "685255ab2b15b9df856f9193",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3573ae310823d08e/685255ab2b15b9df856f9193.json",
+    "created_at": "2025-06-18 05:59:07 UTC",
+    "processed_at": "2025-06-18 05:59:07 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20150294742A1/en",
+    "raw_html_file": "https://serpapi.com/searches/3573ae310823d08e/685255ab2b15b9df856f9193.html",
+    "total_time_taken": 6.44
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20150294742A1/en"
+  },
+  "title": "Method, apparatus, and system to reduce neutron production in small clean fusion reactors",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/5f/4b/a1/b362fb11f37457/US20150294742A1.pdf",
+  "publication_number": "US20150294742A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "plasma",
+    "fusion",
+    "energy",
+    "power",
+    "reactor"
+  ],
+  "prior_art_date": "2012-03-23",
+  "application_number": "US14/387,475",
+  "inventors": [
+    {
+      "name": "Samuel A. Cohen",
+      "link": "https://patents.google.com/?inventor=Samuel+A.+Cohen",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Samuel+A.+Cohen"
+    }
+  ],
+  "assignees": [
+    "Princeton University"
+  ],
+  "priority_date": "2012-03-23",
+  "filing_date": "2013-03-25",
+  "publication_date": "2015-10-15",
+  "worldwide_applications": {
+    "2013": [
+      {
+        "filing_date": "2013-03-25",
+        "country_code": "JP",
+        "application_number": "JP2015501953A",
+        "document_id": "patent/JP2015515623A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2013-03-25",
+        "country_code": "US",
+        "application_number": "US14/387,475",
+        "document_id": "patent/US9767925B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2013-03-25",
+        "country_code": "WO",
+        "application_number": "PCT/US2013/033767",
+        "document_id": "patent/WO2013191779A2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Application Filing"
+      }
+    ],
+    "2017": [
+      {
+        "filing_date": "2017-08-10",
+        "country_code": "JP",
+        "application_number": "JP2017155560A",
+        "document_id": "patent/JP2017223698A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      }
+    ],
+    "2018": [
+      {
+        "filing_date": "2018-06-27",
+        "country_code": "JP",
+        "application_number": "JP2018122288A",
+        "document_id": "patent/JP2018185321A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      }
+    ],
+    "2019": [
+      {
+        "filing_date": "2019-09-10",
+        "country_code": "JP",
+        "application_number": "JP2019164608A",
+        "document_id": "patent/JP2019219421A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2013-03-25",
+      "title": "Application filed by Princeton University",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Princeton University"
+    },
+    {
+      "date": "2013-03-25",
+      "title": "Priority to US14/387,475",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US9767925B2/en"
+    },
+    {
+      "date": "2014-12-31",
+      "title": "Assigned to THE TRUSTEES OF PRINCETON UNIVERSITY",
+      "type": "reassignment",
+      "assignee_search": "THE TRUSTEES OF PRINCETON UNIVERSITY",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: COHEN, SAMEUL A."
+      ]
+    },
+    {
+      "date": "2015-07-17",
+      "title": "Assigned to ENERGY, UNITED STATES DEPARTMENT OF",
+      "type": "reassignment",
+      "assignee_search": "ENERGY, UNITED STATES DEPARTMENT OF",
+      "description": [
+        "CONFIRMATORY LICENSE (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: PRINCETON UNIVERSITY"
+      ]
+    },
+    {
+      "date": "2015-10-15",
+      "title": "Publication of US20150294742A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20150294742A1/en"
+    },
+    {
+      "date": "2017-09-19",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2017-09-19",
+      "title": "Publication of US9767925B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US9767925B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2034-01-08",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20150294742.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/14387475"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20150294742"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2015294742A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/14387475/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20150294742"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/8f/a4/1e/946ae64021827b/US20150294742A1-20151015-D00001.png",
+    "https://patentimages.storage.googleapis.com/4d/de/41/aede2ec8be7bc3/US20150294742A1-20151015-D00002.png",
+    "https://patentimages.storage.googleapis.com/e5/44/c7/b4ae20010d9591/US20150294742A1-20151015-D00003.png"
+  ],
+  "classifications": [
+    {
+      "code": "G21B1/052",
+      "description": "Thermonuclear fusion reactors with magnetic or electric plasma confinement reversed field configuration",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E30/10",
+      "description": "Nuclear fusion reactors",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The invention is for a system and method to reduce neutron production from a deuterum-helium-3 (D-3He) fueled, steady-state, small nuclear fusion reactor. The reactor employs a field-reversed configuration (FRC) magnetic confinement scheme and an odd-parity rotating magnetic field (RMFo) that produces periodic, co-streaming, energetic ion beams which heat the plasma. This is accomplished through radio-frequency (RF) heating, which can effectively heat and maintain the plasma. Use of this method will lessen damage to and activation of reactor components and, in doing so, can advance the development of fusion reactors for electrical, power and propulsion applications by alleviating the need for both nuclear-materials and tritium-breeding-technology testing programs.",
+  "description_link": "https://serpapi.com/searches/685255ab2b15b9df856f9193/google_patents_details/description.html",
+  "claims": [
+    "1. An improved field reversed magnetic field configuration fusion reactor system comprising:\na reactor chamber; a gas injection system for injecting fuel into the reactor chamber for fusion reactions; a plurality of radio frequency (RF) antennae configured to generate an odd-parity rotating magnetic field capable of causing a plasma to heat to a temperature sufficient to cause fuel ions to fuse; a plurality of superconducting flux coils around the reactor chamber in which a current is induced by an applied axial magnetic field, wherein the induced current generates a confinement field that confines the plasma; and a direct energy conversion system that extracts energy from a plurality of products from fusion reactions in the plasma.",
+    "2. The system of claim 1 wherein power is extracted through the RF antennae.",
+    "3. The system of claim 1 wherein the fuel comprises deuterium and helium-3.",
+    "4. The system of claim 1 that extracts power from Bremsstrahlung radiation and synchrotron radiation generated by the fusion reactions using a heat engine and high temperature heat exchangers.",
+    "5. A method for generating power from a field reversed magnetic field configuration fusion reactor system, the method comprising:\ninjecting ionized fuel plasma into a plasma chamber; generating an odd-parity rotating magnetic field that heats the plasma by producing, in the plasma, an azimuthal electric field which accelerates the fuel ions and forms them into periodic co-streaming ion beams, wherein the plasma is heated sufficiently to cause the ionized fuel to under go fusion reactions; and directly converting the energy of a plurality of products of the fusion reactions into electricity."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US14/387,475",
+      "representative_publication": "US9767925B2",
+      "primary_language": "en",
+      "priority_date": "2012-03-23",
+      "filing_date": "2013-03-25",
+      "title": "Method, apparatus, and system to reduce neutron production in small clean fusion reactors"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US201261615048P",
+      "priority_date": "2012-03-23",
+      "filing_date": "2012-03-23"
+    },
+    {
+      "application_number": "US14/387,475",
+      "representative_publication": "US9767925B2",
+      "primary_language": "en",
+      "priority_date": "2012-03-23",
+      "filing_date": "2013-03-25",
+      "title": "Method, apparatus, and system to reduce neutron production in small clean fusion reactors"
+    },
+    {
+      "application_number": "PCT/US2013/033767",
+      "representative_publication": "WO2013191779A2",
+      "primary_language": "en",
+      "priority_date": "2012-03-23",
+      "filing_date": "2013-03-25",
+      "title": "Method, apparatus, and system to reduce neutron production in small clean fusion reactors"
+    }
+  ],
+  "family_id": "49769650",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US4749540A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1983-11-10",
+        "publication_date": "1988-06-07",
+        "assignee_original": "Bogart S Locke",
+        "title": "Demountable tokamak fusion core",
+        "patent_id": "patent/US4749540A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4749540A%2Fen"
+      },
+      {
+        "publication_number": "US20060267504A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-07",
+        "publication_date": "2006-11-30",
+        "assignee_original": "Vandrie Alan",
+        "title": "Vacuum chamber for plasma electric generation system",
+        "patent_id": "patent/US20060267504A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060267504A1%2Fen"
+      },
+      {
+        "publication_number": "US9025717B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-18",
+        "publication_date": "2015-05-05",
+        "assignee_original": "Brent Freeze",
+        "title": "Method and apparatus for compressing plasma to a high energy state",
+        "patent_id": "patent/US9025717B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9025717B2%2Fen"
+      },
+      {
+        "publication_number": "US9082516B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-07",
+        "publication_date": "2015-07-14",
+        "assignee_original": "Msnw Llc",
+        "title": "Apparatus, systems and methods for fusion based power generation and engine thrust generation",
+        "patent_id": "patent/US9082516B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9082516B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US4065351A",
+        "primary_language": "en",
+        "priority_date": "1976-03-25",
+        "publication_date": "1977-12-27",
+        "assignee_original": "The United States Of America As Represented By The United States Energy Research And Development Administration",
+        "title": "Particle beam injection system",
+        "patent_id": "patent/US4065351A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4065351A%2Fen"
+      },
+      {
+        "publication_number": "US6664740B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-02-01",
+        "publication_date": "2003-12-16",
+        "assignee_original": "The Regents Of The University Of California",
+        "title": "Formation of a field reversed configuration for magnetic and electrostatic confinement of plasma",
+        "patent_id": "patent/US6664740B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6664740B2%2Fen"
+      },
+      {
+        "publication_number": "US6611106B2",
+        "primary_language": "en",
+        "priority_date": "2001-03-19",
+        "publication_date": "2003-08-26",
+        "assignee_original": "The Regents Of The University Of California",
+        "title": "Controlled fusion in a field reversed configuration and direct energy conversion",
+        "patent_id": "patent/US6611106B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6611106B2%2Fen"
+      },
+      {
+        "publication_number": "SG157369A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-07",
+        "publication_date": "2009-12-29",
+        "assignee_original": "Univ California 22",
+        "title": "Plasma electric generation system",
+        "patent_id": "patent/SG157369A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSG157369A1%2Fen"
+      },
+      {
+        "publication_number": "US20060198485A1",
+        "primary_language": "en",
+        "priority_date": "2005-03-07",
+        "publication_date": "2006-09-07",
+        "assignee_original": "Michl Binderbauer",
+        "title": "Plasma electric generation and propulsion system",
+        "patent_id": "patent/US20060198485A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060198485A1%2Fen"
+      },
+      {
+        "publication_number": "US20080095293A1",
+        "primary_language": "en",
+        "priority_date": "2006-10-17",
+        "publication_date": "2008-04-24",
+        "assignee_original": "James Scott Hacsi",
+        "title": "C-pinch, plasma-ring thermonuclear fusion reactors and method",
+        "patent_id": "patent/US20080095293A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080095293A1%2Fen"
+      },
+      {
+        "publication_number": "US20110142185A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-16",
+        "publication_date": "2011-06-16",
+        "assignee_original": "Woodruff Scientific, Inc.",
+        "title": "Device for compressing a compact toroidal plasma for use as a neutron source and fusion reactor",
+        "patent_id": "patent/US20110142185A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110142185A1%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "Glasser, \u00e2\u0080\u009cIon and electron acceleration in the field-reversed configuration with an odd-parity rotating magnetic field\u00e2\u0080\u009d, Phys. Plasmas, Vol. 9, No. 5, May 2002, pages 2093-2102.",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN106981317A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-05-22",
+        "publication_date": "2017-07-25",
+        "assignee_original": "\u4e2d\u56fd\u5de5\u7a0b\u7269\u7406\u7814\u7a76\u9662\u6d41\u4f53\u7269\u7406\u7814\u7a76\u6240",
+        "title": "Magnetized plasma fusion igniter and its local quick acceleration heating ignition method",
+        "patent_id": "patent/CN106981317A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106981317A%2Fen"
+      },
+      {
+        "publication_number": "WO2018081724A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-10-28",
+        "publication_date": "2018-05-03",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for improved sustainment of a high performance frc elevated energies utilizing neutral beam injectors with tunable beam energies",
+        "patent_id": "patent/WO2018081724A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018081724A1%2Fen"
+      },
+      {
+        "publication_number": "CN112309588A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-10-12",
+        "publication_date": "2021-02-02",
+        "assignee_original": "\u4e2d\u56fd\u79d1\u5b66\u9662\u5408\u80a5\u7269\u8d28\u79d1\u5b66\u7814\u7a76\u9662",
+        "title": "Resonance magnetic disturbance coil suitable for magnetic confinement fusion device and implementation method",
+        "patent_id": "patent/CN112309588A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112309588A%2Fen"
+      },
+      {
+        "publication_number": "US11211172B2",
+        "primary_language": "en",
+        "priority_date": "2016-11-04",
+        "publication_date": "2021-12-28",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for improved sustainment of a high performance FRC with multi-scaled capture type vacuum pumping",
+        "patent_id": "patent/US11211172B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11211172B2%2Fen"
+      },
+      {
+        "publication_number": "US11335467B2",
+        "primary_language": "en",
+        "priority_date": "2016-11-15",
+        "publication_date": "2022-05-17",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for improved sustainment of a high performance FRC and high harmonic fast wave electron heating in a high performance FRC",
+        "patent_id": "patent/US11335467B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11335467B2%2Fen"
+      },
+      {
+        "publication_number": "US11856683B2",
+        "primary_language": "en",
+        "priority_date": "2021-03-22",
+        "publication_date": "2023-12-26",
+        "assignee_original": "N.T. Tao Ltd.",
+        "title": "High efficiency plasma creation system and method",
+        "patent_id": "patent/US11856683B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11856683B2%2Fen"
+      },
+      {
+        "publication_number": "US11901087B2",
+        "primary_language": "en",
+        "priority_date": "2014-10-13",
+        "publication_date": "2024-02-13",
+        "assignee_original": "Tae Technologies, Inc.",
+        "title": "Systems and methods for merging and compressing compact tori",
+        "patent_id": "patent/US11901087B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11901087B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US10229756B2",
+        "primary_language": "en",
+        "priority_date": "2013-08-22",
+        "publication_date": "2019-03-12",
+        "assignee_original": "Princeton Satellite Systems, Inc.",
+        "title": "In space startup method for nuclear fusion rocket engines",
+        "patent_id": "patent/US10229756B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10229756B2%2Fen"
+      },
+      {
+        "publication_number": "US10811159B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-10",
+        "publication_date": "2020-10-20",
+        "assignee_original": "The Trustees Of Princeton University",
+        "title": "Fueling method for small, steady-state, aneutronic FRC fusion reactors",
+        "patent_id": "patent/US10811159B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10811159B2%2Fen"
+      },
+      {
+        "publication_number": "WO2016138068A1",
+        "primary_language": "en",
+        "priority_date": "2015-02-24",
+        "publication_date": "2016-09-01",
+        "assignee_original": "The Trustees Of Princeton University",
+        "title": "System and method for small, clean, steady-state fusion reactors",
+        "patent_id": "patent/WO2016138068A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016138068A1%2Fen"
+      },
+      {
+        "publication_number": "CN104913798B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-05-13",
+        "publication_date": "2017-11-07",
+        "assignee_original": "\u5317\u4eac\u822a\u5929\u63a7\u5236\u4eea\u5668\u7814\u7a76\u6240",
+        "title": "It is a kind of to prepare the atom dispenser of atomic air chamber and the preparation method of atomic air chamber",
+        "patent_id": "patent/CN104913798B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104913798B%2Fen"
+      },
+      {
+        "publication_number": "US11164681B2",
+        "primary_language": "en",
+        "priority_date": "2019-03-05",
+        "publication_date": "2021-11-02",
+        "assignee_original": "The Trustees Of Princeton University",
+        "title": "System and method for reducing heat loss from FRC bulk plasma",
+        "patent_id": "patent/US11164681B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11164681B2%2Fen"
+      },
+      {
+        "publication_number": "KR102055286B1",
+        "primary_language": "en",
+        "priority_date": "2019-07-08",
+        "publication_date": "2019-12-12",
+        "assignee_original": "\ud55c\uad6d\uae30\ucd08\uacfc\ud559\uc9c0\uc6d0\uc5f0\uad6c\uc6d0",
+        "title": "Rf antenna field reversed configuration using e\u00d7b force and inverted field reversed configuration generating apparatus using the same",
+        "patent_id": "patent/KR102055286B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102055286B1%2Fen"
+      },
+      {
+        "publication_number": "RU2757666C1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-03-01",
+        "publication_date": "2021-10-20",
+        "assignee_original": "\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0441 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0439 \u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u044c\u044e \u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \"\u041d\u043e\u0432\u0430\u044f \u044d\u043d\u0435\u0440\u0433\u0438\u044f\"",
+        "title": "Electronically controlled plasma electric generator",
+        "patent_id": "patent/RU2757666C1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2757666C1%2Fen"
+      },
+      {
+        "publication_number": "WO2023178004A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-03-14",
+        "publication_date": "2023-09-21",
+        "assignee_original": "The Trustees Of Princeton University",
+        "title": "Planar coil stellarator",
+        "patent_id": "patent/WO2023178004A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023178004A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US9767925B2",
+      "primary_language": "en",
+      "publication_date": "2017-09-19",
+      "title": "Method, apparatus, and system to reduce neutron production in small clean fusion reactors",
+      "patent_id": "patent/US9767925B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9767925B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11322265B2",
+      "primary_language": "en",
+      "publication_date": "2022-05-03",
+      "title": "System and method for small, clean, steady-state fusion reactors",
+      "patent_id": "patent/US11322265B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11322265B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9822769B2",
+      "primary_language": "en",
+      "publication_date": "2017-11-21",
+      "title": "Method and apparatus to produce high specific impulse and moderate thrust from a fusion-powered rocket engine",
+      "patent_id": "patent/US9822769B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9822769B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EA007870B1",
+      "primary_language": "en",
+      "publication_date": "2007-02-27",
+      "title": "A system of converting fusion product energies",
+      "patent_id": "patent/EA007870B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEA007870B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EA006325B1",
+      "primary_language": "en",
+      "publication_date": "2005-12-29",
+      "title": "System and method of magnetic and electrostatic confinement of plasma in a field reversed configuration",
+      "patent_id": "patent/EA006325B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEA006325B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2832753C",
+      "primary_language": "en",
+      "publication_date": "2020-07-14",
+      "title": "Continuous fusion due to energy concentration through focusing of converging fuel particle beams",
+      "patent_id": "patent/CA2832753C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2832753C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240015876A1",
+      "primary_language": "en",
+      "publication_date": "2024-01-11",
+      "title": "System Of Converging Plasma Pistons",
+      "patent_id": "patent/US20240015876A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240015876A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2347420A2",
+      "primary_language": "en",
+      "publication_date": "2011-07-27",
+      "title": "Fusion neutron source for breeding applications",
+      "patent_id": "patent/EP2347420A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2347420A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10811159B2",
+      "primary_language": "en",
+      "publication_date": "2020-10-20",
+      "title": "Fueling method for small, steady-state, aneutronic FRC fusion reactors",
+      "patent_id": "patent/US10811159B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10811159B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12927548613185093407",
+      "scholar_authors": "Ongena",
+      "publication_date": "2018",
+      "title": "Fusion: A true challenge for an enormous reward",
+      "patent_id": "scholar/12927548613185093407",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12927548613185093407"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12457978686660461610",
+      "scholar_authors": "Ongena",
+      "publication_date": "2015",
+      "title": "Fusion: A true challenge for an enormous reward",
+      "patent_id": "scholar/12457978686660461610",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12457978686660461610"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11745192887262495668",
+      "scholar_authors": "Cai et al.",
+      "publication_date": "2024",
+      "title": "Towards a high-intensity muon source",
+      "patent_id": "scholar/11745192887262495668",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11745192887262495668"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1235123916066437193",
+      "scholar_authors": "Eliezer et al.",
+      "publication_date": "1987",
+      "title": "Muon catalysed fusion-fission reactor driven by a recirculating beam",
+      "patent_id": "scholar/1235123916066437193",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1235123916066437193"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5337149177013930185",
+      "scholar_authors": "Coppi et al.",
+      "publication_date": "1972",
+      "title": "The Tokamak approach in fusion research",
+      "patent_id": "scholar/5337149177013930185",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5337149177013930185"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5379356865756193208",
+      "scholar_authors": "Ongena",
+      "publication_date": "2022",
+      "title": "Fusion: a true challenge for an enormous reward",
+      "patent_id": "scholar/5379356865756193208",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5379356865756193208"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2021038961A",
+      "primary_language": "en",
+      "publication_date": "2021-03-11",
+      "title": "Charged particle beam nuclear fusion",
+      "patent_id": "patent/JP2021038961A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2021038961A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20250037885A1",
+      "primary_language": "en",
+      "publication_date": "2025-01-30",
+      "title": "Fusion reactor",
+      "patent_id": "patent/US20250037885A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250037885A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2018044851A",
+      "primary_language": "en",
+      "publication_date": "2018-03-22",
+      "title": "Processing system and processing method for shortening lifetime of long-life fission product by nuclear transmutation",
+      "patent_id": "patent/JP2018044851A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2018044851A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2510678C1",
+      "primary_language": "en",
+      "publication_date": "2014-04-10",
+      "title": "Method of generating non-induction toroidal seeding current during steady-state operation of thermonuclear reactor",
+      "patent_id": "patent/RU2510678C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2510678C1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2380189677486587799",
+      "scholar_authors": "Winter",
+      "publication_date": "1975",
+      "title": "The present state of controlled nuclear fusion research",
+      "patent_id": "scholar/2380189677486587799",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2380189677486587799"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6473130619390951559",
+      "scholar_authors": "Tala",
+      "publication_date": "2002",
+      "title": "Transport barrier and current profile studies on the JET Tokamak",
+      "patent_id": "scholar/6473130619390951559",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6473130619390951559"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6950690795872597404",
+      "scholar_authors": "Waisberg",
+      "publication_date": "2013",
+      "title": "Plasma Focus Fusion",
+      "patent_id": "scholar/6950690795872597404",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6950690795872597404"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "259621364402471766",
+      "scholar_authors": "Ragheb",
+      "publication_date": "2008",
+      "title": "Magnetic confinement fusion",
+      "patent_id": "scholar/259621364402471766",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F259621364402471766"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16001446953156834108",
+      "scholar_authors": "Tolstikhina",
+      "publication_date": "2017",
+      "title": "Charge exchange in slow collisions of ions with Hydrogen isotopes. Adiabatic approach.",
+      "patent_id": "scholar/16001446953156834108",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16001446953156834108"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16238327034107199267",
+      "scholar_authors": "Savenko",
+      "publication_date": "2006",
+      "title": "MHD stability and confinement of plasmas in a single mirror cell",
+      "patent_id": "scholar/16238327034107199267",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16238327034107199267"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2014-12-31",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "THE TRUSTEES OF PRINCETON UNIVERSITY, NEW JERSEY"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:COHEN, SAMEUL A.;REEL/FRAME:034605/0126"
+        },
+        {
+          "label": "Effective date",
+          "value": "20141117"
+        }
+      ]
+    },
+    {
+      "date": "2015-07-17",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ENERGY, UNITED STATES DEPARTMENT OF, DISTRICT OF C"
+        },
+        {
+          "label": "Free format text",
+          "value": "CONFIRMATORY LICENSE;ASSIGNOR:PRINCETON UNIVERSITY;REEL/FRAME:036131/0458"
+        },
+        {
+          "label": "Effective date",
+          "value": "20150613"
+        }
+      ]
+    },
+    {
+      "date": "2017-08-30",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2020-02-18",
+      "code": "CC",
+      "title": "Certificate of correction"
+    },
+    {
+      "date": "2021-02-04",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 4TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2551); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-12",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    }
+  ]
+}
